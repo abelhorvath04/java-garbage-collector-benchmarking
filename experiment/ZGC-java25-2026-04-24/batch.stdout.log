@@ -1,0 +1,179 @@
+Benchmarks to run (25): scrabble page-rank future-genetic akka-uct movie-lens scala-doku chi-square fj-kmeans rx-scrabble db-shootout neo4j-analytics finagle-http reactors dec-tree scala-stm-bench7 naive-bayes als par-mnemonics scala-kmeans philosophers log-regression gauss-mix mnemonics dotty finagle-chirper
+Results root: ZGC-java25-2026-04-24
+Per-benchmark duration: 600s
+Per-benchmark timeout: 900s (+120s kill-after)
+
+==================================================================
+[1/25] START scrabble | run=ZGC | at 2026-04-24T20:56:56+00:00
+EXPECTING DONE MARKER: ZGC-java25-2026-04-24/scrabble/DONE
+RUNNER LOG: ZGC-java25-2026-04-24/scrabble.runner.log
+==================================================================
+[1/25] DONE scrabble at 2026-04-24T21:07:05+00:00
+
+==================================================================
+[2/25] START page-rank | run=ZGC | at 2026-04-24T21:07:05+00:00
+EXPECTING DONE MARKER: ZGC-java25-2026-04-24/page-rank/DONE
+RUNNER LOG: ZGC-java25-2026-04-24/page-rank.runner.log
+==================================================================
+[2/25] DONE page-rank at 2026-04-24T21:17:30+00:00
+
+==================================================================
+[3/25] START future-genetic | run=ZGC | at 2026-04-24T21:17:30+00:00
+EXPECTING DONE MARKER: ZGC-java25-2026-04-24/future-genetic/DONE
+RUNNER LOG: ZGC-java25-2026-04-24/future-genetic.runner.log
+==================================================================
+[3/25] DONE future-genetic at 2026-04-24T21:27:41+00:00
+
+==================================================================
+[4/25] START akka-uct | run=ZGC | at 2026-04-24T21:27:41+00:00
+EXPECTING DONE MARKER: ZGC-java25-2026-04-24/akka-uct/DONE
+RUNNER LOG: ZGC-java25-2026-04-24/akka-uct.runner.log
+==================================================================
+[4/25] DONE akka-uct at 2026-04-24T21:38:07+00:00
+
+==================================================================
+[5/25] START movie-lens | run=ZGC | at 2026-04-24T21:38:07+00:00
+EXPECTING DONE MARKER: ZGC-java25-2026-04-24/movie-lens/DONE
+RUNNER LOG: ZGC-java25-2026-04-24/movie-lens.runner.log
+==================================================================
+[5/25] DONE movie-lens at 2026-04-24T21:48:49+00:00
+
+==================================================================
+[6/25] START scala-doku | run=ZGC | at 2026-04-24T21:48:49+00:00
+EXPECTING DONE MARKER: ZGC-java25-2026-04-24/scala-doku/DONE
+RUNNER LOG: ZGC-java25-2026-04-24/scala-doku.runner.log
+==================================================================
+[6/25] DONE scala-doku at 2026-04-24T21:58:59+00:00
+
+==================================================================
+[7/25] START chi-square | run=ZGC | at 2026-04-24T21:58:59+00:00
+EXPECTING DONE MARKER: ZGC-java25-2026-04-24/chi-square/DONE
+RUNNER LOG: ZGC-java25-2026-04-24/chi-square.runner.log
+==================================================================
+[7/25] DONE chi-square at 2026-04-24T22:09:15+00:00
+
+==================================================================
+[8/25] START fj-kmeans | run=ZGC | at 2026-04-24T22:09:15+00:00
+EXPECTING DONE MARKER: ZGC-java25-2026-04-24/fj-kmeans/DONE
+RUNNER LOG: ZGC-java25-2026-04-24/fj-kmeans.runner.log
+==================================================================
+[8/25] DONE fj-kmeans at 2026-04-24T22:19:28+00:00
+
+==================================================================
+[9/25] START rx-scrabble | run=ZGC | at 2026-04-24T22:19:28+00:00
+EXPECTING DONE MARKER: ZGC-java25-2026-04-24/rx-scrabble/DONE
+RUNNER LOG: ZGC-java25-2026-04-24/rx-scrabble.runner.log
+==================================================================
+[9/25] DONE rx-scrabble at 2026-04-24T22:29:36+00:00
+
+==================================================================
+[10/25] START db-shootout | run=ZGC | at 2026-04-24T22:29:36+00:00
+EXPECTING DONE MARKER: ZGC-java25-2026-04-24/db-shootout/DONE
+RUNNER LOG: ZGC-java25-2026-04-24/db-shootout.runner.log
+==================================================================
+[10/25] DONE db-shootout at 2026-04-24T22:40:03+00:00
+
+==================================================================
+[11/25] START neo4j-analytics | run=ZGC | at 2026-04-24T22:40:03+00:00
+EXPECTING DONE MARKER: ZGC-java25-2026-04-24/neo4j-analytics/DONE
+RUNNER LOG: ZGC-java25-2026-04-24/neo4j-analytics.runner.log
+==================================================================
+[11/25] DONE neo4j-analytics at 2026-04-24T22:50:44+00:00
+
+==================================================================
+[12/25] START finagle-http | run=ZGC | at 2026-04-24T22:50:44+00:00
+EXPECTING DONE MARKER: ZGC-java25-2026-04-24/finagle-http/DONE
+RUNNER LOG: ZGC-java25-2026-04-24/finagle-http.runner.log
+==================================================================
+[12/25] DONE finagle-http at 2026-04-24T23:00:58+00:00
+
+==================================================================
+[13/25] START reactors | run=ZGC | at 2026-04-24T23:00:58+00:00
+EXPECTING DONE MARKER: ZGC-java25-2026-04-24/reactors/DONE
+RUNNER LOG: ZGC-java25-2026-04-24/reactors.runner.log
+==================================================================
+[13/25] DONE reactors at 2026-04-24T23:11:17+00:00
+
+==================================================================
+[14/25] START dec-tree | run=ZGC | at 2026-04-24T23:11:17+00:00
+EXPECTING DONE MARKER: ZGC-java25-2026-04-24/dec-tree/DONE
+RUNNER LOG: ZGC-java25-2026-04-24/dec-tree.runner.log
+==================================================================
+[14/25] DONE dec-tree at 2026-04-24T23:21:34+00:00
+
+==================================================================
+[15/25] START scala-stm-bench7 | run=ZGC | at 2026-04-24T23:21:34+00:00
+EXPECTING DONE MARKER: ZGC-java25-2026-04-24/scala-stm-bench7/DONE
+RUNNER LOG: ZGC-java25-2026-04-24/scala-stm-bench7.runner.log
+==================================================================
+[15/25] DONE scala-stm-bench7 at 2026-04-24T23:31:43+00:00
+
+==================================================================
+[16/25] START naive-bayes | run=ZGC | at 2026-04-24T23:31:43+00:00
+EXPECTING DONE MARKER: ZGC-java25-2026-04-24/naive-bayes/DONE
+RUNNER LOG: ZGC-java25-2026-04-24/naive-bayes.runner.log
+==================================================================
+[16/25] DONE naive-bayes at 2026-04-24T23:42:01+00:00
+
+==================================================================
+[17/25] START als | run=ZGC | at 2026-04-24T23:42:01+00:00
+EXPECTING DONE MARKER: ZGC-java25-2026-04-24/als/DONE
+RUNNER LOG: ZGC-java25-2026-04-24/als.runner.log
+==================================================================
+[17/25] DONE als at 2026-04-24T23:52:26+00:00
+
+==================================================================
+[18/25] START par-mnemonics | run=ZGC | at 2026-04-24T23:52:26+00:00
+EXPECTING DONE MARKER: ZGC-java25-2026-04-24/par-mnemonics/DONE
+RUNNER LOG: ZGC-java25-2026-04-24/par-mnemonics.runner.log
+==================================================================
+[18/25] DONE par-mnemonics at 2026-04-25T00:02:38+00:00
+
+==================================================================
+[19/25] START scala-kmeans | run=ZGC | at 2026-04-25T00:02:38+00:00
+EXPECTING DONE MARKER: ZGC-java25-2026-04-24/scala-kmeans/DONE
+RUNNER LOG: ZGC-java25-2026-04-24/scala-kmeans.runner.log
+==================================================================
+[19/25] DONE scala-kmeans at 2026-04-25T00:12:45+00:00
+
+==================================================================
+[20/25] START philosophers | run=ZGC | at 2026-04-25T00:12:45+00:00
+EXPECTING DONE MARKER: ZGC-java25-2026-04-24/philosophers/DONE
+RUNNER LOG: ZGC-java25-2026-04-24/philosophers.runner.log
+==================================================================
+[20/25] DONE philosophers at 2026-04-25T00:22:55+00:00
+
+==================================================================
+[21/25] START log-regression | run=ZGC | at 2026-04-25T00:22:55+00:00
+EXPECTING DONE MARKER: ZGC-java25-2026-04-24/log-regression/DONE
+RUNNER LOG: ZGC-java25-2026-04-24/log-regression.runner.log
+==================================================================
+[21/25] DONE log-regression at 2026-04-25T00:33:23+00:00
+
+==================================================================
+[22/25] START gauss-mix | run=ZGC | at 2026-04-25T00:33:23+00:00
+EXPECTING DONE MARKER: ZGC-java25-2026-04-24/gauss-mix/DONE
+RUNNER LOG: ZGC-java25-2026-04-24/gauss-mix.runner.log
+==================================================================
+[22/25] DONE gauss-mix at 2026-04-25T00:43:51+00:00
+
+==================================================================
+[23/25] START mnemonics | run=ZGC | at 2026-04-25T00:43:51+00:00
+EXPECTING DONE MARKER: ZGC-java25-2026-04-24/mnemonics/DONE
+RUNNER LOG: ZGC-java25-2026-04-24/mnemonics.runner.log
+==================================================================
+[23/25] DONE mnemonics at 2026-04-25T00:54:05+00:00
+
+==================================================================
+[24/25] START dotty | run=ZGC | at 2026-04-25T00:54:06+00:00
+EXPECTING DONE MARKER: ZGC-java25-2026-04-24/dotty/DONE
+RUNNER LOG: ZGC-java25-2026-04-24/dotty.runner.log
+==================================================================
+[24/25] DONE dotty at 2026-04-25T01:04:16+00:00
+
+==================================================================
+[25/25] START finagle-chirper | run=ZGC | at 2026-04-25T01:04:16+00:00
+EXPECTING DONE MARKER: ZGC-java25-2026-04-24/finagle-chirper/DONE
+RUNNER LOG: ZGC-java25-2026-04-24/finagle-chirper.runner.log
+==================================================================
+[25/25] DONE finagle-chirper at 2026-04-25T01:14:31+00:00

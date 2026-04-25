@@ -1,0 +1,1081 @@
+>>> Starting benchmark: philosophers
+>>> GC: G1GC
+>>> Duration: 600s
+>>> Base dir: G1GC-java21-2026-04-25
+>>> Output dir: G1GC-java21-2026-04-25/philosophers
+[jmx-memory plugin] WARNING: Unknown garbage collector G1 Concurrent GC.
+====== philosophers (scala) [default], iteration 0 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 0 completed (3034.620 ms) ======
+====== philosophers (scala) [default], iteration 1 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 1 completed (1919.287 ms) ======
+====== philosophers (scala) [default], iteration 2 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 2 completed (1771.932 ms) ======
+====== philosophers (scala) [default], iteration 3 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 3 completed (1909.331 ms) ======
+====== philosophers (scala) [default], iteration 4 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 4 completed (1904.385 ms) ======
+====== philosophers (scala) [default], iteration 5 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 5 completed (1852.923 ms) ======
+====== philosophers (scala) [default], iteration 6 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 6 completed (1515.553 ms) ======
+====== philosophers (scala) [default], iteration 7 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 7 completed (1636.120 ms) ======
+====== philosophers (scala) [default], iteration 8 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 8 completed (1520.079 ms) ======
+====== philosophers (scala) [default], iteration 9 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 9 completed (1663.820 ms) ======
+====== philosophers (scala) [default], iteration 10 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 10 completed (1462.720 ms) ======
+====== philosophers (scala) [default], iteration 11 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 11 completed (1885.160 ms) ======
+====== philosophers (scala) [default], iteration 12 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 12 completed (2062.503 ms) ======
+====== philosophers (scala) [default], iteration 13 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 13 completed (1542.785 ms) ======
+====== philosophers (scala) [default], iteration 14 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 14 completed (1640.554 ms) ======
+====== philosophers (scala) [default], iteration 15 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 15 completed (1610.602 ms) ======
+====== philosophers (scala) [default], iteration 16 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 16 completed (1846.718 ms) ======
+====== philosophers (scala) [default], iteration 17 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 17 completed (1711.138 ms) ======
+====== philosophers (scala) [default], iteration 18 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 18 completed (1804.190 ms) ======
+====== philosophers (scala) [default], iteration 19 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 19 completed (1605.103 ms) ======
+====== philosophers (scala) [default], iteration 20 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 20 completed (1635.193 ms) ======
+====== philosophers (scala) [default], iteration 21 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 21 completed (1523.902 ms) ======
+====== philosophers (scala) [default], iteration 22 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 22 completed (1555.297 ms) ======
+====== philosophers (scala) [default], iteration 23 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 23 completed (1645.652 ms) ======
+====== philosophers (scala) [default], iteration 24 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 24 completed (1460.974 ms) ======
+====== philosophers (scala) [default], iteration 25 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 25 completed (1673.857 ms) ======
+====== philosophers (scala) [default], iteration 26 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 26 completed (1591.507 ms) ======
+====== philosophers (scala) [default], iteration 27 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 27 completed (1552.935 ms) ======
+====== philosophers (scala) [default], iteration 28 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 28 completed (2110.813 ms) ======
+====== philosophers (scala) [default], iteration 29 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 29 completed (1376.211 ms) ======
+====== philosophers (scala) [default], iteration 30 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 30 completed (1630.613 ms) ======
+====== philosophers (scala) [default], iteration 31 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 31 completed (1377.368 ms) ======
+====== philosophers (scala) [default], iteration 32 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 32 completed (1482.359 ms) ======
+====== philosophers (scala) [default], iteration 33 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 33 completed (1587.344 ms) ======
+====== philosophers (scala) [default], iteration 34 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 34 completed (1711.050 ms) ======
+====== philosophers (scala) [default], iteration 35 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 35 completed (2088.909 ms) ======
+====== philosophers (scala) [default], iteration 36 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 36 completed (1535.656 ms) ======
+====== philosophers (scala) [default], iteration 37 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 37 completed (1626.004 ms) ======
+====== philosophers (scala) [default], iteration 38 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 38 completed (2012.016 ms) ======
+====== philosophers (scala) [default], iteration 39 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 39 completed (1435.461 ms) ======
+====== philosophers (scala) [default], iteration 40 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 40 completed (1465.321 ms) ======
+====== philosophers (scala) [default], iteration 41 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 41 completed (1471.261 ms) ======
+====== philosophers (scala) [default], iteration 42 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 42 completed (1694.848 ms) ======
+====== philosophers (scala) [default], iteration 43 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 43 completed (1531.599 ms) ======
+====== philosophers (scala) [default], iteration 44 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 44 completed (1725.994 ms) ======
+====== philosophers (scala) [default], iteration 45 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 45 completed (1531.138 ms) ======
+====== philosophers (scala) [default], iteration 46 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 46 completed (1651.800 ms) ======
+====== philosophers (scala) [default], iteration 47 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 47 completed (1474.058 ms) ======
+====== philosophers (scala) [default], iteration 48 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 48 completed (1381.895 ms) ======
+====== philosophers (scala) [default], iteration 49 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 49 completed (1793.916 ms) ======
+====== philosophers (scala) [default], iteration 50 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 50 completed (1512.516 ms) ======
+====== philosophers (scala) [default], iteration 51 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 51 completed (1563.805 ms) ======
+====== philosophers (scala) [default], iteration 52 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 52 completed (1891.127 ms) ======
+====== philosophers (scala) [default], iteration 53 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 53 completed (1632.682 ms) ======
+====== philosophers (scala) [default], iteration 54 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 54 completed (1683.627 ms) ======
+====== philosophers (scala) [default], iteration 55 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 55 completed (1712.133 ms) ======
+====== philosophers (scala) [default], iteration 56 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 56 completed (1538.171 ms) ======
+====== philosophers (scala) [default], iteration 57 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 57 completed (1587.097 ms) ======
+====== philosophers (scala) [default], iteration 58 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 58 completed (1659.401 ms) ======
+====== philosophers (scala) [default], iteration 59 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 59 completed (1751.613 ms) ======
+====== philosophers (scala) [default], iteration 60 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 60 completed (1838.907 ms) ======
+====== philosophers (scala) [default], iteration 61 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 61 completed (1411.759 ms) ======
+====== philosophers (scala) [default], iteration 62 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 62 completed (1764.149 ms) ======
+====== philosophers (scala) [default], iteration 63 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 63 completed (1622.705 ms) ======
+====== philosophers (scala) [default], iteration 64 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 64 completed (1467.581 ms) ======
+====== philosophers (scala) [default], iteration 65 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 65 completed (1361.592 ms) ======
+====== philosophers (scala) [default], iteration 66 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 66 completed (1650.473 ms) ======
+====== philosophers (scala) [default], iteration 67 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 67 completed (1697.519 ms) ======
+====== philosophers (scala) [default], iteration 68 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 68 completed (1604.808 ms) ======
+====== philosophers (scala) [default], iteration 69 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 69 completed (1651.973 ms) ======
+====== philosophers (scala) [default], iteration 70 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 70 completed (1664.581 ms) ======
+====== philosophers (scala) [default], iteration 71 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 71 completed (1779.437 ms) ======
+====== philosophers (scala) [default], iteration 72 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 72 completed (1623.712 ms) ======
+====== philosophers (scala) [default], iteration 73 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 73 completed (1513.434 ms) ======
+====== philosophers (scala) [default], iteration 74 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 74 completed (1530.402 ms) ======
+====== philosophers (scala) [default], iteration 75 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 75 completed (1477.431 ms) ======
+====== philosophers (scala) [default], iteration 76 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 76 completed (1704.428 ms) ======
+====== philosophers (scala) [default], iteration 77 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 77 completed (1631.073 ms) ======
+====== philosophers (scala) [default], iteration 78 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 78 completed (1566.677 ms) ======
+====== philosophers (scala) [default], iteration 79 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 79 completed (1706.334 ms) ======
+====== philosophers (scala) [default], iteration 80 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 80 completed (1596.497 ms) ======
+====== philosophers (scala) [default], iteration 81 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 81 completed (1858.858 ms) ======
+====== philosophers (scala) [default], iteration 82 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 82 completed (1775.420 ms) ======
+====== philosophers (scala) [default], iteration 83 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 83 completed (1454.930 ms) ======
+====== philosophers (scala) [default], iteration 84 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 84 completed (1824.325 ms) ======
+====== philosophers (scala) [default], iteration 85 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 85 completed (1654.805 ms) ======
+====== philosophers (scala) [default], iteration 86 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 86 completed (1879.871 ms) ======
+====== philosophers (scala) [default], iteration 87 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 87 completed (1393.502 ms) ======
+====== philosophers (scala) [default], iteration 88 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 88 completed (1568.069 ms) ======
+====== philosophers (scala) [default], iteration 89 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 89 completed (1577.955 ms) ======
+====== philosophers (scala) [default], iteration 90 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 90 completed (1827.391 ms) ======
+====== philosophers (scala) [default], iteration 91 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 91 completed (1695.325 ms) ======
+====== philosophers (scala) [default], iteration 92 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 92 completed (1740.276 ms) ======
+====== philosophers (scala) [default], iteration 93 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 93 completed (1665.116 ms) ======
+====== philosophers (scala) [default], iteration 94 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 94 completed (1887.828 ms) ======
+====== philosophers (scala) [default], iteration 95 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 95 completed (1837.798 ms) ======
+====== philosophers (scala) [default], iteration 96 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 96 completed (1852.865 ms) ======
+====== philosophers (scala) [default], iteration 97 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 97 completed (1821.343 ms) ======
+====== philosophers (scala) [default], iteration 98 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 98 completed (1822.052 ms) ======
+====== philosophers (scala) [default], iteration 99 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 99 completed (1629.650 ms) ======
+====== philosophers (scala) [default], iteration 100 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 100 completed (1787.863 ms) ======
+====== philosophers (scala) [default], iteration 101 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 101 completed (1364.408 ms) ======
+====== philosophers (scala) [default], iteration 102 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 102 completed (1770.471 ms) ======
+====== philosophers (scala) [default], iteration 103 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 103 completed (1796.940 ms) ======
+====== philosophers (scala) [default], iteration 104 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 104 completed (1664.360 ms) ======
+====== philosophers (scala) [default], iteration 105 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 105 completed (1970.892 ms) ======
+====== philosophers (scala) [default], iteration 106 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 106 completed (1737.258 ms) ======
+====== philosophers (scala) [default], iteration 107 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 107 completed (1788.619 ms) ======
+====== philosophers (scala) [default], iteration 108 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 108 completed (1599.849 ms) ======
+====== philosophers (scala) [default], iteration 109 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 109 completed (1822.315 ms) ======
+====== philosophers (scala) [default], iteration 110 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 110 completed (1935.472 ms) ======
+====== philosophers (scala) [default], iteration 111 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 111 completed (1741.696 ms) ======
+====== philosophers (scala) [default], iteration 112 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 112 completed (1722.424 ms) ======
+====== philosophers (scala) [default], iteration 113 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 113 completed (1521.046 ms) ======
+====== philosophers (scala) [default], iteration 114 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 114 completed (1447.964 ms) ======
+====== philosophers (scala) [default], iteration 115 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 115 completed (1490.717 ms) ======
+====== philosophers (scala) [default], iteration 116 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 116 completed (1805.575 ms) ======
+====== philosophers (scala) [default], iteration 117 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 117 completed (1652.159 ms) ======
+====== philosophers (scala) [default], iteration 118 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 118 completed (1770.179 ms) ======
+====== philosophers (scala) [default], iteration 119 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 119 completed (1590.738 ms) ======
+====== philosophers (scala) [default], iteration 120 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 120 completed (1762.804 ms) ======
+====== philosophers (scala) [default], iteration 121 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 121 completed (1733.197 ms) ======
+====== philosophers (scala) [default], iteration 122 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 122 completed (1738.621 ms) ======
+====== philosophers (scala) [default], iteration 123 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 123 completed (1898.223 ms) ======
+====== philosophers (scala) [default], iteration 124 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 124 completed (1514.073 ms) ======
+====== philosophers (scala) [default], iteration 125 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 125 completed (1616.827 ms) ======
+====== philosophers (scala) [default], iteration 126 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 126 completed (1654.228 ms) ======
+====== philosophers (scala) [default], iteration 127 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 127 completed (1713.965 ms) ======
+====== philosophers (scala) [default], iteration 128 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 128 completed (1616.731 ms) ======
+====== philosophers (scala) [default], iteration 129 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 129 completed (1563.709 ms) ======
+====== philosophers (scala) [default], iteration 130 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 130 completed (1547.714 ms) ======
+====== philosophers (scala) [default], iteration 131 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 131 completed (1442.591 ms) ======
+====== philosophers (scala) [default], iteration 132 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 132 completed (1791.446 ms) ======
+====== philosophers (scala) [default], iteration 133 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 133 completed (1582.089 ms) ======
+====== philosophers (scala) [default], iteration 134 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 134 completed (1601.647 ms) ======
+====== philosophers (scala) [default], iteration 135 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 135 completed (1566.399 ms) ======
+====== philosophers (scala) [default], iteration 136 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 136 completed (1806.262 ms) ======
+====== philosophers (scala) [default], iteration 137 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 137 completed (1529.375 ms) ======
+====== philosophers (scala) [default], iteration 138 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 138 completed (1685.866 ms) ======
+====== philosophers (scala) [default], iteration 139 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 139 completed (1960.092 ms) ======
+====== philosophers (scala) [default], iteration 140 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 140 completed (1461.181 ms) ======
+====== philosophers (scala) [default], iteration 141 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 141 completed (1603.076 ms) ======
+====== philosophers (scala) [default], iteration 142 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 142 completed (1779.263 ms) ======
+====== philosophers (scala) [default], iteration 143 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 143 completed (1607.114 ms) ======
+====== philosophers (scala) [default], iteration 144 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 144 completed (1598.075 ms) ======
+====== philosophers (scala) [default], iteration 145 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 145 completed (1866.268 ms) ======
+====== philosophers (scala) [default], iteration 146 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 146 completed (1398.030 ms) ======
+====== philosophers (scala) [default], iteration 147 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 147 completed (1624.924 ms) ======
+====== philosophers (scala) [default], iteration 148 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 148 completed (1632.694 ms) ======
+====== philosophers (scala) [default], iteration 149 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 149 completed (1812.042 ms) ======
+====== philosophers (scala) [default], iteration 150 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 150 completed (1604.177 ms) ======
+====== philosophers (scala) [default], iteration 151 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 151 completed (1558.683 ms) ======
+====== philosophers (scala) [default], iteration 152 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 152 completed (1908.335 ms) ======
+====== philosophers (scala) [default], iteration 153 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 153 completed (1503.903 ms) ======
+====== philosophers (scala) [default], iteration 154 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 154 completed (1636.486 ms) ======
+====== philosophers (scala) [default], iteration 155 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 155 completed (1842.402 ms) ======
+====== philosophers (scala) [default], iteration 156 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 156 completed (1557.021 ms) ======
+====== philosophers (scala) [default], iteration 157 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 157 completed (1634.017 ms) ======
+====== philosophers (scala) [default], iteration 158 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 158 completed (1553.558 ms) ======
+====== philosophers (scala) [default], iteration 159 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 159 completed (1946.871 ms) ======
+====== philosophers (scala) [default], iteration 160 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 160 completed (1526.911 ms) ======
+====== philosophers (scala) [default], iteration 161 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 161 completed (1464.359 ms) ======
+====== philosophers (scala) [default], iteration 162 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 162 completed (1977.536 ms) ======
+====== philosophers (scala) [default], iteration 163 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 163 completed (1486.135 ms) ======
+====== philosophers (scala) [default], iteration 164 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 164 completed (1580.023 ms) ======
+====== philosophers (scala) [default], iteration 165 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 165 completed (1749.464 ms) ======
+====== philosophers (scala) [default], iteration 166 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 166 completed (1447.841 ms) ======
+====== philosophers (scala) [default], iteration 167 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 167 completed (1579.264 ms) ======
+====== philosophers (scala) [default], iteration 168 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 168 completed (1917.417 ms) ======
+====== philosophers (scala) [default], iteration 169 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 169 completed (1934.020 ms) ======
+====== philosophers (scala) [default], iteration 170 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 170 completed (1633.628 ms) ======
+====== philosophers (scala) [default], iteration 171 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 171 completed (1652.210 ms) ======
+====== philosophers (scala) [default], iteration 172 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 172 completed (1903.138 ms) ======
+====== philosophers (scala) [default], iteration 173 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 173 completed (1433.675 ms) ======
+====== philosophers (scala) [default], iteration 174 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 174 completed (1610.295 ms) ======
+====== philosophers (scala) [default], iteration 175 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 175 completed (1991.949 ms) ======
+====== philosophers (scala) [default], iteration 176 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 176 completed (1589.613 ms) ======
+====== philosophers (scala) [default], iteration 177 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 177 completed (1616.930 ms) ======
+====== philosophers (scala) [default], iteration 178 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 178 completed (1978.920 ms) ======
+====== philosophers (scala) [default], iteration 179 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 179 completed (1605.262 ms) ======
+====== philosophers (scala) [default], iteration 180 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 180 completed (1422.844 ms) ======
+====== philosophers (scala) [default], iteration 181 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 181 completed (2015.035 ms) ======
+====== philosophers (scala) [default], iteration 182 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 182 completed (1844.361 ms) ======
+====== philosophers (scala) [default], iteration 183 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 183 completed (1328.837 ms) ======
+====== philosophers (scala) [default], iteration 184 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 184 completed (1726.259 ms) ======
+====== philosophers (scala) [default], iteration 185 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 185 completed (1854.769 ms) ======
+====== philosophers (scala) [default], iteration 186 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 186 completed (1540.811 ms) ======
+====== philosophers (scala) [default], iteration 187 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 187 completed (2012.272 ms) ======
+====== philosophers (scala) [default], iteration 188 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 188 completed (1936.113 ms) ======
+====== philosophers (scala) [default], iteration 189 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 189 completed (1462.954 ms) ======
+====== philosophers (scala) [default], iteration 190 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 190 completed (1622.074 ms) ======
+====== philosophers (scala) [default], iteration 191 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 191 completed (1823.575 ms) ======
+====== philosophers (scala) [default], iteration 192 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 192 completed (1405.745 ms) ======
+====== philosophers (scala) [default], iteration 193 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 193 completed (1724.310 ms) ======
+====== philosophers (scala) [default], iteration 194 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 194 completed (2131.813 ms) ======
+====== philosophers (scala) [default], iteration 195 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 195 completed (1956.026 ms) ======
+====== philosophers (scala) [default], iteration 196 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 196 completed (1451.230 ms) ======
+====== philosophers (scala) [default], iteration 197 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 197 completed (1588.994 ms) ======
+====== philosophers (scala) [default], iteration 198 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 198 completed (1971.516 ms) ======
+====== philosophers (scala) [default], iteration 199 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 199 completed (1569.879 ms) ======
+====== philosophers (scala) [default], iteration 200 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 200 completed (1974.238 ms) ======
+====== philosophers (scala) [default], iteration 201 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 201 completed (1945.371 ms) ======
+====== philosophers (scala) [default], iteration 202 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 202 completed (1633.543 ms) ======
+====== philosophers (scala) [default], iteration 203 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 203 completed (1855.807 ms) ======
+====== philosophers (scala) [default], iteration 204 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 204 completed (1890.676 ms) ======
+====== philosophers (scala) [default], iteration 205 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 205 completed (1626.973 ms) ======
+====== philosophers (scala) [default], iteration 206 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 206 completed (1780.038 ms) ======
+====== philosophers (scala) [default], iteration 207 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 207 completed (1972.940 ms) ======
+====== philosophers (scala) [default], iteration 208 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 208 completed (1385.399 ms) ======
+====== philosophers (scala) [default], iteration 209 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 209 completed (1549.009 ms) ======
+====== philosophers (scala) [default], iteration 210 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 210 completed (1976.766 ms) ======
+====== philosophers (scala) [default], iteration 211 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 211 completed (1449.718 ms) ======
+====== philosophers (scala) [default], iteration 212 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 212 completed (1542.609 ms) ======
+====== philosophers (scala) [default], iteration 213 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 213 completed (1902.146 ms) ======
+====== philosophers (scala) [default], iteration 214 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 214 completed (1833.002 ms) ======
+====== philosophers (scala) [default], iteration 215 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 215 completed (1552.125 ms) ======
+====== philosophers (scala) [default], iteration 216 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 216 completed (1538.518 ms) ======
+====== philosophers (scala) [default], iteration 217 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 217 completed (2018.690 ms) ======
+====== philosophers (scala) [default], iteration 218 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 218 completed (1491.161 ms) ======
+====== philosophers (scala) [default], iteration 219 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 219 completed (1629.940 ms) ======
+====== philosophers (scala) [default], iteration 220 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 220 completed (1825.739 ms) ======
+====== philosophers (scala) [default], iteration 221 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 221 completed (1490.624 ms) ======
+====== philosophers (scala) [default], iteration 222 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 222 completed (1521.436 ms) ======
+====== philosophers (scala) [default], iteration 223 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 223 completed (1625.175 ms) ======
+====== philosophers (scala) [default], iteration 224 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 224 completed (1463.236 ms) ======
+====== philosophers (scala) [default], iteration 225 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 225 completed (1825.642 ms) ======
+====== philosophers (scala) [default], iteration 226 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 226 completed (2094.666 ms) ======
+====== philosophers (scala) [default], iteration 227 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 227 completed (2043.982 ms) ======
+====== philosophers (scala) [default], iteration 228 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 228 completed (1540.343 ms) ======
+====== philosophers (scala) [default], iteration 229 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 229 completed (1911.847 ms) ======
+====== philosophers (scala) [default], iteration 230 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 230 completed (1612.797 ms) ======
+====== philosophers (scala) [default], iteration 231 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 231 completed (1764.045 ms) ======
+====== philosophers (scala) [default], iteration 232 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 232 completed (1737.614 ms) ======
+====== philosophers (scala) [default], iteration 233 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 233 completed (1948.280 ms) ======
+====== philosophers (scala) [default], iteration 234 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 234 completed (1506.054 ms) ======
+====== philosophers (scala) [default], iteration 235 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 235 completed (1498.708 ms) ======
+====== philosophers (scala) [default], iteration 236 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 236 completed (1786.333 ms) ======
+====== philosophers (scala) [default], iteration 237 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 237 completed (1424.698 ms) ======
+====== philosophers (scala) [default], iteration 238 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 238 completed (1538.358 ms) ======
+====== philosophers (scala) [default], iteration 239 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 239 completed (1673.796 ms) ======
+====== philosophers (scala) [default], iteration 240 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 240 completed (1937.604 ms) ======
+====== philosophers (scala) [default], iteration 241 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 241 completed (1636.991 ms) ======
+====== philosophers (scala) [default], iteration 242 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 242 completed (1800.324 ms) ======
+====== philosophers (scala) [default], iteration 243 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 243 completed (1971.409 ms) ======
+====== philosophers (scala) [default], iteration 244 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 244 completed (1546.019 ms) ======
+====== philosophers (scala) [default], iteration 245 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 245 completed (1481.264 ms) ======
+====== philosophers (scala) [default], iteration 246 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 246 completed (1942.702 ms) ======
+====== philosophers (scala) [default], iteration 247 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 247 completed (1449.838 ms) ======
+====== philosophers (scala) [default], iteration 248 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 248 completed (1496.881 ms) ======
+====== philosophers (scala) [default], iteration 249 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 249 completed (1846.277 ms) ======
+====== philosophers (scala) [default], iteration 250 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 250 completed (1357.957 ms) ======
+====== philosophers (scala) [default], iteration 251 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 251 completed (1473.821 ms) ======
+====== philosophers (scala) [default], iteration 252 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 252 completed (1960.312 ms) ======
+====== philosophers (scala) [default], iteration 253 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 253 completed (1827.319 ms) ======
+====== philosophers (scala) [default], iteration 254 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 254 completed (1615.799 ms) ======
+====== philosophers (scala) [default], iteration 255 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 255 completed (2034.496 ms) ======
+====== philosophers (scala) [default], iteration 256 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 256 completed (1847.359 ms) ======
+====== philosophers (scala) [default], iteration 257 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 257 completed (1786.611 ms) ======
+====== philosophers (scala) [default], iteration 258 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 258 completed (1645.530 ms) ======
+====== philosophers (scala) [default], iteration 259 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 259 completed (1775.259 ms) ======
+====== philosophers (scala) [default], iteration 260 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 260 completed (1490.958 ms) ======
+====== philosophers (scala) [default], iteration 261 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 261 completed (1455.423 ms) ======
+====== philosophers (scala) [default], iteration 262 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 262 completed (1555.112 ms) ======
+====== philosophers (scala) [default], iteration 263 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 263 completed (1920.482 ms) ======
+====== philosophers (scala) [default], iteration 264 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 264 completed (1620.437 ms) ======
+====== philosophers (scala) [default], iteration 265 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 265 completed (1895.372 ms) ======
+====== philosophers (scala) [default], iteration 266 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 266 completed (1850.415 ms) ======
+====== philosophers (scala) [default], iteration 267 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 267 completed (1550.622 ms) ======
+====== philosophers (scala) [default], iteration 268 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 268 completed (1585.696 ms) ======
+====== philosophers (scala) [default], iteration 269 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 269 completed (1863.657 ms) ======
+====== philosophers (scala) [default], iteration 270 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 270 completed (1513.972 ms) ======
+====== philosophers (scala) [default], iteration 271 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 271 completed (1841.503 ms) ======
+====== philosophers (scala) [default], iteration 272 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 272 completed (1589.879 ms) ======
+====== philosophers (scala) [default], iteration 273 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 273 completed (1890.180 ms) ======
+====== philosophers (scala) [default], iteration 274 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 274 completed (1418.554 ms) ======
+====== philosophers (scala) [default], iteration 275 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 275 completed (1577.656 ms) ======
+====== philosophers (scala) [default], iteration 276 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 276 completed (1947.415 ms) ======
+====== philosophers (scala) [default], iteration 277 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 277 completed (1531.460 ms) ======
+====== philosophers (scala) [default], iteration 278 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 278 completed (1687.676 ms) ======
+====== philosophers (scala) [default], iteration 279 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 279 completed (1995.127 ms) ======
+====== philosophers (scala) [default], iteration 280 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 280 completed (1562.794 ms) ======
+====== philosophers (scala) [default], iteration 281 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 281 completed (1665.188 ms) ======
+====== philosophers (scala) [default], iteration 282 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 282 completed (1964.093 ms) ======
+====== philosophers (scala) [default], iteration 283 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 283 completed (1511.714 ms) ======
+====== philosophers (scala) [default], iteration 284 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 284 completed (1523.572 ms) ======
+====== philosophers (scala) [default], iteration 285 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 285 completed (1959.515 ms) ======
+====== philosophers (scala) [default], iteration 286 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 286 completed (1504.230 ms) ======
+====== philosophers (scala) [default], iteration 287 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 287 completed (1539.425 ms) ======
+====== philosophers (scala) [default], iteration 288 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 288 completed (1625.170 ms) ======
+====== philosophers (scala) [default], iteration 289 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 289 completed (1975.232 ms) ======
+====== philosophers (scala) [default], iteration 290 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 290 completed (1597.474 ms) ======
+====== philosophers (scala) [default], iteration 291 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 291 completed (1762.173 ms) ======
+====== philosophers (scala) [default], iteration 292 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 292 completed (1951.689 ms) ======
+====== philosophers (scala) [default], iteration 293 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 293 completed (1543.236 ms) ======
+====== philosophers (scala) [default], iteration 294 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 294 completed (1445.331 ms) ======
+====== philosophers (scala) [default], iteration 295 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 295 completed (1977.238 ms) ======
+====== philosophers (scala) [default], iteration 296 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 296 completed (1441.355 ms) ======
+====== philosophers (scala) [default], iteration 297 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 297 completed (1727.929 ms) ======
+====== philosophers (scala) [default], iteration 298 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 298 completed (1821.032 ms) ======
+====== philosophers (scala) [default], iteration 299 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 299 completed (1521.113 ms) ======
+====== philosophers (scala) [default], iteration 300 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 300 completed (1632.385 ms) ======
+====== philosophers (scala) [default], iteration 301 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 301 completed (1712.408 ms) ======
+====== philosophers (scala) [default], iteration 302 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 302 completed (1989.746 ms) ======
+====== philosophers (scala) [default], iteration 303 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 303 completed (1699.664 ms) ======
+====== philosophers (scala) [default], iteration 304 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 304 completed (1645.472 ms) ======
+====== philosophers (scala) [default], iteration 305 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 305 completed (2001.978 ms) ======
+====== philosophers (scala) [default], iteration 306 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 306 completed (1521.803 ms) ======
+====== philosophers (scala) [default], iteration 307 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 307 completed (1947.949 ms) ======
+====== philosophers (scala) [default], iteration 308 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 308 completed (1924.902 ms) ======
+====== philosophers (scala) [default], iteration 309 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 309 completed (1615.517 ms) ======
+====== philosophers (scala) [default], iteration 310 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 310 completed (1640.438 ms) ======
+====== philosophers (scala) [default], iteration 311 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 311 completed (1900.240 ms) ======
+====== philosophers (scala) [default], iteration 312 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 312 completed (1459.664 ms) ======
+====== philosophers (scala) [default], iteration 313 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 313 completed (1443.950 ms) ======
+====== philosophers (scala) [default], iteration 314 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 314 completed (1577.364 ms) ======
+====== philosophers (scala) [default], iteration 315 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 315 completed (1911.131 ms) ======
+====== philosophers (scala) [default], iteration 316 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 316 completed (1418.826 ms) ======
+====== philosophers (scala) [default], iteration 317 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 317 completed (1641.293 ms) ======
+====== philosophers (scala) [default], iteration 318 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 318 completed (1899.078 ms) ======
+====== philosophers (scala) [default], iteration 319 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 319 completed (1675.681 ms) ======
+====== philosophers (scala) [default], iteration 320 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 320 completed (1520.879 ms) ======
+====== philosophers (scala) [default], iteration 321 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 321 completed (1967.966 ms) ======
+====== philosophers (scala) [default], iteration 322 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 322 completed (1394.871 ms) ======
+====== philosophers (scala) [default], iteration 323 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 323 completed (1555.680 ms) ======
+====== philosophers (scala) [default], iteration 324 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 324 completed (1691.688 ms) ======
+====== philosophers (scala) [default], iteration 325 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 325 completed (1885.126 ms) ======
+====== philosophers (scala) [default], iteration 326 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 326 completed (1363.424 ms) ======
+====== philosophers (scala) [default], iteration 327 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 327 completed (1578.499 ms) ======
+====== philosophers (scala) [default], iteration 328 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 328 completed (1983.275 ms) ======
+====== philosophers (scala) [default], iteration 329 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 329 completed (1571.916 ms) ======
+====== philosophers (scala) [default], iteration 330 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 330 completed (1572.483 ms) ======
+====== philosophers (scala) [default], iteration 331 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 331 completed (1810.440 ms) ======
+====== philosophers (scala) [default], iteration 332 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 332 completed (1551.307 ms) ======
+====== philosophers (scala) [default], iteration 333 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 333 completed (1352.840 ms) ======
+====== philosophers (scala) [default], iteration 334 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 334 completed (1424.668 ms) ======
+====== philosophers (scala) [default], iteration 335 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 335 completed (1785.975 ms) ======
+====== philosophers (scala) [default], iteration 336 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 336 completed (1391.500 ms) ======
+====== philosophers (scala) [default], iteration 337 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 337 completed (1583.455 ms) ======
+====== philosophers (scala) [default], iteration 338 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 338 completed (1936.789 ms) ======
+====== philosophers (scala) [default], iteration 339 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 339 completed (1516.743 ms) ======
+====== philosophers (scala) [default], iteration 340 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 340 completed (1852.096 ms) ======
+====== philosophers (scala) [default], iteration 341 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 341 completed (2150.355 ms) ======
+====== philosophers (scala) [default], iteration 342 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 342 completed (1949.991 ms) ======
+====== philosophers (scala) [default], iteration 343 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 343 completed (1471.473 ms) ======
+====== philosophers (scala) [default], iteration 344 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 344 completed (1554.843 ms) ======
+====== philosophers (scala) [default], iteration 345 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 345 completed (1921.282 ms) ======
+====== philosophers (scala) [default], iteration 346 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 346 completed (1735.069 ms) ======
+====== philosophers (scala) [default], iteration 347 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 347 completed (1968.364 ms) ======
+====== philosophers (scala) [default], iteration 348 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 348 completed (1938.533 ms) ======
+====== philosophers (scala) [default], iteration 349 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 349 completed (1667.851 ms) ======
+====== philosophers (scala) [default], iteration 350 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 350 completed (1621.123 ms) ======
+====== philosophers (scala) [default], iteration 351 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 351 completed (1945.636 ms) ======
+====== philosophers (scala) [default], iteration 352 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 352 completed (1541.003 ms) ======
+====== philosophers (scala) [default], iteration 353 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 353 completed (1563.814 ms) ======
+====== philosophers (scala) [default], iteration 354 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 354 completed (1976.177 ms) ======
+====== philosophers (scala) [default], iteration 355 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 355 completed (1534.431 ms) ======
+====== philosophers (scala) [default], iteration 356 started ======
+Camera thread performed 122 scans.
+====== philosophers (scala) [default], iteration 356 completed (1588.858 ms) ======
+OK: benchmark finished successfully
+CSV : G1GC-java21-2026-04-25/philosophers/philosophers.csv
+JSON: G1GC-java21-2026-04-25/philosophers/philosophers.json
+GC  : G1GC-java21-2026-04-25/philosophers/philosophers.gc.log

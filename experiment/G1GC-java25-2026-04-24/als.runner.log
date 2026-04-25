@@ -1,0 +1,309 @@
+>>> Starting benchmark: als
+>>> GC: G1GC
+>>> Duration: 600s
+>>> Base dir: G1GC-java25-2026-04-24
+>>> Output dir: G1GC-java25-2026-04-24/als
+WARNING: A terminally deprecated method in sun.misc.Unsafe has been called
+WARNING: sun.misc.Unsafe::objectFieldOffset has been called by scala.runtime.LazyVals$ (resource:/shared/scala3-library_3-3.3.4.jar)
+WARNING: Please consider reporting this to the maintainers of class scala.runtime.LazyVals$
+WARNING: sun.misc.Unsafe::objectFieldOffset will be removed in a future release
+[jmx-memory plugin] WARNING: Unknown garbage collector G1 Concurrent GC.
+NOTE: 'als' benchmark uses Spark local executor with 8 (out of 8) threads.
+====== als (apache-spark) [default], iteration 0 started ======
+====== als (apache-spark) [default], iteration 0 completed (11924.665 ms) ======
+====== als (apache-spark) [default], iteration 1 started ======
+====== als (apache-spark) [default], iteration 1 completed (4986.192 ms) ======
+====== als (apache-spark) [default], iteration 2 started ======
+====== als (apache-spark) [default], iteration 2 completed (5270.677 ms) ======
+====== als (apache-spark) [default], iteration 3 started ======
+====== als (apache-spark) [default], iteration 3 completed (4097.521 ms) ======
+====== als (apache-spark) [default], iteration 4 started ======
+====== als (apache-spark) [default], iteration 4 completed (4129.390 ms) ======
+====== als (apache-spark) [default], iteration 5 started ======
+====== als (apache-spark) [default], iteration 5 completed (4717.717 ms) ======
+====== als (apache-spark) [default], iteration 6 started ======
+====== als (apache-spark) [default], iteration 6 completed (4094.069 ms) ======
+====== als (apache-spark) [default], iteration 7 started ======
+====== als (apache-spark) [default], iteration 7 completed (3966.863 ms) ======
+====== als (apache-spark) [default], iteration 8 started ======
+====== als (apache-spark) [default], iteration 8 completed (4678.349 ms) ======
+====== als (apache-spark) [default], iteration 9 started ======
+====== als (apache-spark) [default], iteration 9 completed (4042.873 ms) ======
+====== als (apache-spark) [default], iteration 10 started ======
+====== als (apache-spark) [default], iteration 10 completed (4625.780 ms) ======
+====== als (apache-spark) [default], iteration 11 started ======
+====== als (apache-spark) [default], iteration 11 completed (3995.773 ms) ======
+====== als (apache-spark) [default], iteration 12 started ======
+====== als (apache-spark) [default], iteration 12 completed (4028.248 ms) ======
+====== als (apache-spark) [default], iteration 13 started ======
+====== als (apache-spark) [default], iteration 13 completed (4951.949 ms) ======
+====== als (apache-spark) [default], iteration 14 started ======
+====== als (apache-spark) [default], iteration 14 completed (4330.524 ms) ======
+====== als (apache-spark) [default], iteration 15 started ======
+====== als (apache-spark) [default], iteration 15 completed (4151.422 ms) ======
+====== als (apache-spark) [default], iteration 16 started ======
+====== als (apache-spark) [default], iteration 16 completed (4520.513 ms) ======
+====== als (apache-spark) [default], iteration 17 started ======
+====== als (apache-spark) [default], iteration 17 completed (3915.071 ms) ======
+====== als (apache-spark) [default], iteration 18 started ======
+====== als (apache-spark) [default], iteration 18 completed (3830.563 ms) ======
+====== als (apache-spark) [default], iteration 19 started ======
+====== als (apache-spark) [default], iteration 19 completed (4592.218 ms) ======
+====== als (apache-spark) [default], iteration 20 started ======
+====== als (apache-spark) [default], iteration 20 completed (3906.492 ms) ======
+====== als (apache-spark) [default], iteration 21 started ======
+====== als (apache-spark) [default], iteration 21 completed (3881.034 ms) ======
+====== als (apache-spark) [default], iteration 22 started ======
+====== als (apache-spark) [default], iteration 22 completed (4678.596 ms) ======
+====== als (apache-spark) [default], iteration 23 started ======
+====== als (apache-spark) [default], iteration 23 completed (4051.471 ms) ======
+====== als (apache-spark) [default], iteration 24 started ======
+====== als (apache-spark) [default], iteration 24 completed (3941.485 ms) ======
+====== als (apache-spark) [default], iteration 25 started ======
+====== als (apache-spark) [default], iteration 25 completed (4633.507 ms) ======
+====== als (apache-spark) [default], iteration 26 started ======
+====== als (apache-spark) [default], iteration 26 completed (3859.565 ms) ======
+====== als (apache-spark) [default], iteration 27 started ======
+====== als (apache-spark) [default], iteration 27 completed (3915.992 ms) ======
+====== als (apache-spark) [default], iteration 28 started ======
+====== als (apache-spark) [default], iteration 28 completed (4605.272 ms) ======
+====== als (apache-spark) [default], iteration 29 started ======
+====== als (apache-spark) [default], iteration 29 completed (3883.655 ms) ======
+====== als (apache-spark) [default], iteration 30 started ======
+====== als (apache-spark) [default], iteration 30 completed (3867.129 ms) ======
+====== als (apache-spark) [default], iteration 31 started ======
+====== als (apache-spark) [default], iteration 31 completed (4054.614 ms) ======
+====== als (apache-spark) [default], iteration 32 started ======
+====== als (apache-spark) [default], iteration 32 completed (3915.349 ms) ======
+====== als (apache-spark) [default], iteration 33 started ======
+====== als (apache-spark) [default], iteration 33 completed (3803.886 ms) ======
+====== als (apache-spark) [default], iteration 34 started ======
+====== als (apache-spark) [default], iteration 34 completed (4079.320 ms) ======
+====== als (apache-spark) [default], iteration 35 started ======
+====== als (apache-spark) [default], iteration 35 completed (3826.326 ms) ======
+====== als (apache-spark) [default], iteration 36 started ======
+====== als (apache-spark) [default], iteration 36 completed (3854.651 ms) ======
+====== als (apache-spark) [default], iteration 37 started ======
+====== als (apache-spark) [default], iteration 37 completed (4097.672 ms) ======
+====== als (apache-spark) [default], iteration 38 started ======
+====== als (apache-spark) [default], iteration 38 completed (3830.419 ms) ======
+====== als (apache-spark) [default], iteration 39 started ======
+====== als (apache-spark) [default], iteration 39 completed (3881.789 ms) ======
+====== als (apache-spark) [default], iteration 40 started ======
+====== als (apache-spark) [default], iteration 40 completed (4122.019 ms) ======
+====== als (apache-spark) [default], iteration 41 started ======
+====== als (apache-spark) [default], iteration 41 completed (3885.876 ms) ======
+====== als (apache-spark) [default], iteration 42 started ======
+====== als (apache-spark) [default], iteration 42 completed (3823.331 ms) ======
+====== als (apache-spark) [default], iteration 43 started ======
+====== als (apache-spark) [default], iteration 43 completed (4130.117 ms) ======
+====== als (apache-spark) [default], iteration 44 started ======
+====== als (apache-spark) [default], iteration 44 completed (3845.125 ms) ======
+====== als (apache-spark) [default], iteration 45 started ======
+====== als (apache-spark) [default], iteration 45 completed (3860.258 ms) ======
+====== als (apache-spark) [default], iteration 46 started ======
+====== als (apache-spark) [default], iteration 46 completed (4042.342 ms) ======
+====== als (apache-spark) [default], iteration 47 started ======
+====== als (apache-spark) [default], iteration 47 completed (3826.063 ms) ======
+====== als (apache-spark) [default], iteration 48 started ======
+====== als (apache-spark) [default], iteration 48 completed (3812.175 ms) ======
+====== als (apache-spark) [default], iteration 49 started ======
+====== als (apache-spark) [default], iteration 49 completed (4004.593 ms) ======
+====== als (apache-spark) [default], iteration 50 started ======
+====== als (apache-spark) [default], iteration 50 completed (3806.445 ms) ======
+====== als (apache-spark) [default], iteration 51 started ======
+====== als (apache-spark) [default], iteration 51 completed (3860.067 ms) ======
+====== als (apache-spark) [default], iteration 52 started ======
+====== als (apache-spark) [default], iteration 52 completed (3926.515 ms) ======
+====== als (apache-spark) [default], iteration 53 started ======
+====== als (apache-spark) [default], iteration 53 completed (3831.334 ms) ======
+====== als (apache-spark) [default], iteration 54 started ======
+====== als (apache-spark) [default], iteration 54 completed (3829.749 ms) ======
+====== als (apache-spark) [default], iteration 55 started ======
+====== als (apache-spark) [default], iteration 55 completed (3948.938 ms) ======
+====== als (apache-spark) [default], iteration 56 started ======
+====== als (apache-spark) [default], iteration 56 completed (3864.673 ms) ======
+====== als (apache-spark) [default], iteration 57 started ======
+====== als (apache-spark) [default], iteration 57 completed (3816.304 ms) ======
+====== als (apache-spark) [default], iteration 58 started ======
+====== als (apache-spark) [default], iteration 58 completed (3954.478 ms) ======
+====== als (apache-spark) [default], iteration 59 started ======
+====== als (apache-spark) [default], iteration 59 completed (3850.132 ms) ======
+====== als (apache-spark) [default], iteration 60 started ======
+====== als (apache-spark) [default], iteration 60 completed (3866.357 ms) ======
+====== als (apache-spark) [default], iteration 61 started ======
+====== als (apache-spark) [default], iteration 61 completed (3942.265 ms) ======
+====== als (apache-spark) [default], iteration 62 started ======
+====== als (apache-spark) [default], iteration 62 completed (3840.501 ms) ======
+====== als (apache-spark) [default], iteration 63 started ======
+====== als (apache-spark) [default], iteration 63 completed (3856.950 ms) ======
+====== als (apache-spark) [default], iteration 64 started ======
+====== als (apache-spark) [default], iteration 64 completed (3912.143 ms) ======
+====== als (apache-spark) [default], iteration 65 started ======
+====== als (apache-spark) [default], iteration 65 completed (3844.919 ms) ======
+====== als (apache-spark) [default], iteration 66 started ======
+====== als (apache-spark) [default], iteration 66 completed (3850.398 ms) ======
+====== als (apache-spark) [default], iteration 67 started ======
+====== als (apache-spark) [default], iteration 67 completed (4318.691 ms) ======
+====== als (apache-spark) [default], iteration 68 started ======
+====== als (apache-spark) [default], iteration 68 completed (4231.510 ms) ======
+====== als (apache-spark) [default], iteration 69 started ======
+====== als (apache-spark) [default], iteration 69 completed (4254.298 ms) ======
+====== als (apache-spark) [default], iteration 70 started ======
+====== als (apache-spark) [default], iteration 70 completed (4169.968 ms) ======
+====== als (apache-spark) [default], iteration 71 started ======
+====== als (apache-spark) [default], iteration 71 completed (3786.114 ms) ======
+====== als (apache-spark) [default], iteration 72 started ======
+====== als (apache-spark) [default], iteration 72 completed (3809.229 ms) ======
+====== als (apache-spark) [default], iteration 73 started ======
+====== als (apache-spark) [default], iteration 73 completed (4002.009 ms) ======
+====== als (apache-spark) [default], iteration 74 started ======
+====== als (apache-spark) [default], iteration 74 completed (3792.232 ms) ======
+====== als (apache-spark) [default], iteration 75 started ======
+====== als (apache-spark) [default], iteration 75 completed (3800.047 ms) ======
+====== als (apache-spark) [default], iteration 76 started ======
+====== als (apache-spark) [default], iteration 76 completed (3934.011 ms) ======
+====== als (apache-spark) [default], iteration 77 started ======
+====== als (apache-spark) [default], iteration 77 completed (3786.855 ms) ======
+====== als (apache-spark) [default], iteration 78 started ======
+====== als (apache-spark) [default], iteration 78 completed (3813.313 ms) ======
+====== als (apache-spark) [default], iteration 79 started ======
+====== als (apache-spark) [default], iteration 79 completed (3906.449 ms) ======
+====== als (apache-spark) [default], iteration 80 started ======
+====== als (apache-spark) [default], iteration 80 completed (3816.860 ms) ======
+====== als (apache-spark) [default], iteration 81 started ======
+====== als (apache-spark) [default], iteration 81 completed (3787.664 ms) ======
+====== als (apache-spark) [default], iteration 82 started ======
+====== als (apache-spark) [default], iteration 82 completed (3978.046 ms) ======
+====== als (apache-spark) [default], iteration 83 started ======
+====== als (apache-spark) [default], iteration 83 completed (3846.747 ms) ======
+====== als (apache-spark) [default], iteration 84 started ======
+====== als (apache-spark) [default], iteration 84 completed (3778.793 ms) ======
+====== als (apache-spark) [default], iteration 85 started ======
+====== als (apache-spark) [default], iteration 85 completed (3909.619 ms) ======
+====== als (apache-spark) [default], iteration 86 started ======
+====== als (apache-spark) [default], iteration 86 completed (3802.574 ms) ======
+====== als (apache-spark) [default], iteration 87 started ======
+====== als (apache-spark) [default], iteration 87 completed (3897.311 ms) ======
+====== als (apache-spark) [default], iteration 88 started ======
+====== als (apache-spark) [default], iteration 88 completed (3962.144 ms) ======
+====== als (apache-spark) [default], iteration 89 started ======
+====== als (apache-spark) [default], iteration 89 completed (3836.738 ms) ======
+====== als (apache-spark) [default], iteration 90 started ======
+====== als (apache-spark) [default], iteration 90 completed (3887.344 ms) ======
+====== als (apache-spark) [default], iteration 91 started ======
+====== als (apache-spark) [default], iteration 91 completed (4326.409 ms) ======
+====== als (apache-spark) [default], iteration 92 started ======
+====== als (apache-spark) [default], iteration 92 completed (4197.951 ms) ======
+====== als (apache-spark) [default], iteration 93 started ======
+====== als (apache-spark) [default], iteration 93 completed (4203.788 ms) ======
+====== als (apache-spark) [default], iteration 94 started ======
+====== als (apache-spark) [default], iteration 94 completed (4035.749 ms) ======
+====== als (apache-spark) [default], iteration 95 started ======
+====== als (apache-spark) [default], iteration 95 completed (3823.341 ms) ======
+====== als (apache-spark) [default], iteration 96 started ======
+====== als (apache-spark) [default], iteration 96 completed (3782.611 ms) ======
+====== als (apache-spark) [default], iteration 97 started ======
+====== als (apache-spark) [default], iteration 97 completed (3898.510 ms) ======
+====== als (apache-spark) [default], iteration 98 started ======
+====== als (apache-spark) [default], iteration 98 completed (3812.093 ms) ======
+====== als (apache-spark) [default], iteration 99 started ======
+====== als (apache-spark) [default], iteration 99 completed (3800.672 ms) ======
+====== als (apache-spark) [default], iteration 100 started ======
+====== als (apache-spark) [default], iteration 100 completed (3914.476 ms) ======
+====== als (apache-spark) [default], iteration 101 started ======
+====== als (apache-spark) [default], iteration 101 completed (3839.096 ms) ======
+====== als (apache-spark) [default], iteration 102 started ======
+====== als (apache-spark) [default], iteration 102 completed (3794.025 ms) ======
+====== als (apache-spark) [default], iteration 103 started ======
+====== als (apache-spark) [default], iteration 103 completed (3954.340 ms) ======
+====== als (apache-spark) [default], iteration 104 started ======
+====== als (apache-spark) [default], iteration 104 completed (3822.792 ms) ======
+====== als (apache-spark) [default], iteration 105 started ======
+====== als (apache-spark) [default], iteration 105 completed (3847.081 ms) ======
+====== als (apache-spark) [default], iteration 106 started ======
+====== als (apache-spark) [default], iteration 106 completed (3896.560 ms) ======
+====== als (apache-spark) [default], iteration 107 started ======
+====== als (apache-spark) [default], iteration 107 completed (3794.583 ms) ======
+====== als (apache-spark) [default], iteration 108 started ======
+====== als (apache-spark) [default], iteration 108 completed (3805.165 ms) ======
+====== als (apache-spark) [default], iteration 109 started ======
+====== als (apache-spark) [default], iteration 109 completed (3921.539 ms) ======
+====== als (apache-spark) [default], iteration 110 started ======
+====== als (apache-spark) [default], iteration 110 completed (3830.348 ms) ======
+====== als (apache-spark) [default], iteration 111 started ======
+====== als (apache-spark) [default], iteration 111 completed (4215.052 ms) ======
+====== als (apache-spark) [default], iteration 112 started ======
+====== als (apache-spark) [default], iteration 112 completed (4350.822 ms) ======
+====== als (apache-spark) [default], iteration 113 started ======
+====== als (apache-spark) [default], iteration 113 completed (4185.157 ms) ======
+====== als (apache-spark) [default], iteration 114 started ======
+====== als (apache-spark) [default], iteration 114 completed (3790.521 ms) ======
+====== als (apache-spark) [default], iteration 115 started ======
+====== als (apache-spark) [default], iteration 115 completed (3905.489 ms) ======
+====== als (apache-spark) [default], iteration 116 started ======
+====== als (apache-spark) [default], iteration 116 completed (3809.432 ms) ======
+====== als (apache-spark) [default], iteration 117 started ======
+====== als (apache-spark) [default], iteration 117 completed (3839.096 ms) ======
+====== als (apache-spark) [default], iteration 118 started ======
+====== als (apache-spark) [default], iteration 118 completed (3878.975 ms) ======
+====== als (apache-spark) [default], iteration 119 started ======
+====== als (apache-spark) [default], iteration 119 completed (3806.705 ms) ======
+====== als (apache-spark) [default], iteration 120 started ======
+====== als (apache-spark) [default], iteration 120 completed (3791.008 ms) ======
+====== als (apache-spark) [default], iteration 121 started ======
+====== als (apache-spark) [default], iteration 121 completed (3914.457 ms) ======
+====== als (apache-spark) [default], iteration 122 started ======
+====== als (apache-spark) [default], iteration 122 completed (3863.971 ms) ======
+====== als (apache-spark) [default], iteration 123 started ======
+====== als (apache-spark) [default], iteration 123 completed (3782.611 ms) ======
+====== als (apache-spark) [default], iteration 124 started ======
+====== als (apache-spark) [default], iteration 124 completed (3913.933 ms) ======
+====== als (apache-spark) [default], iteration 125 started ======
+====== als (apache-spark) [default], iteration 125 completed (3846.982 ms) ======
+====== als (apache-spark) [default], iteration 126 started ======
+====== als (apache-spark) [default], iteration 126 completed (3805.735 ms) ======
+====== als (apache-spark) [default], iteration 127 started ======
+====== als (apache-spark) [default], iteration 127 completed (3959.032 ms) ======
+====== als (apache-spark) [default], iteration 128 started ======
+====== als (apache-spark) [default], iteration 128 completed (3790.213 ms) ======
+====== als (apache-spark) [default], iteration 129 started ======
+====== als (apache-spark) [default], iteration 129 completed (3831.932 ms) ======
+====== als (apache-spark) [default], iteration 130 started ======
+====== als (apache-spark) [default], iteration 130 completed (3961.403 ms) ======
+====== als (apache-spark) [default], iteration 131 started ======
+====== als (apache-spark) [default], iteration 131 completed (3810.770 ms) ======
+====== als (apache-spark) [default], iteration 132 started ======
+====== als (apache-spark) [default], iteration 132 completed (3846.787 ms) ======
+====== als (apache-spark) [default], iteration 133 started ======
+====== als (apache-spark) [default], iteration 133 completed (3991.722 ms) ======
+====== als (apache-spark) [default], iteration 134 started ======
+====== als (apache-spark) [default], iteration 134 completed (3830.835 ms) ======
+====== als (apache-spark) [default], iteration 135 started ======
+====== als (apache-spark) [default], iteration 135 completed (3846.065 ms) ======
+====== als (apache-spark) [default], iteration 136 started ======
+====== als (apache-spark) [default], iteration 136 completed (3949.401 ms) ======
+====== als (apache-spark) [default], iteration 137 started ======
+====== als (apache-spark) [default], iteration 137 completed (3835.557 ms) ======
+====== als (apache-spark) [default], iteration 138 started ======
+====== als (apache-spark) [default], iteration 138 completed (3860.464 ms) ======
+====== als (apache-spark) [default], iteration 139 started ======
+====== als (apache-spark) [default], iteration 139 completed (3957.436 ms) ======
+====== als (apache-spark) [default], iteration 140 started ======
+====== als (apache-spark) [default], iteration 140 completed (3828.398 ms) ======
+====== als (apache-spark) [default], iteration 141 started ======
+====== als (apache-spark) [default], iteration 141 completed (3798.813 ms) ======
+====== als (apache-spark) [default], iteration 142 started ======
+====== als (apache-spark) [default], iteration 142 completed (3931.524 ms) ======
+====== als (apache-spark) [default], iteration 143 started ======
+====== als (apache-spark) [default], iteration 143 completed (3816.049 ms) ======
+====== als (apache-spark) [default], iteration 144 started ======
+====== als (apache-spark) [default], iteration 144 completed (3844.807 ms) ======
+====== als (apache-spark) [default], iteration 145 started ======
+====== als (apache-spark) [default], iteration 145 completed (3908.223 ms) ======
+====== als (apache-spark) [default], iteration 146 started ======
+====== als (apache-spark) [default], iteration 146 completed (3819.097 ms) ======
+OK: benchmark finished successfully
+CSV : G1GC-java25-2026-04-24/als/als.csv
+JSON: G1GC-java25-2026-04-24/als/als.json
+GC  : G1GC-java25-2026-04-24/als/als.gc.log

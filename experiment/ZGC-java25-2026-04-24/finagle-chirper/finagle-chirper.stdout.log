@@ -1,0 +1,907 @@
+WARNING: A terminally deprecated method in sun.misc.Unsafe has been called
+WARNING: sun.misc.Unsafe::objectFieldOffset has been called by scala.runtime.LazyVals$ (resource:/shared/scala3-library_3-3.3.4.jar)
+WARNING: Please consider reporting this to the maintainers of class scala.runtime.LazyVals$
+WARNING: sun.misc.Unsafe::objectFieldOffset will be removed in a future release
+[jmx-memory plugin] WARNING: Unknown garbage collector ZGC Minor Cycles.
+[jmx-memory plugin] WARNING: Unknown garbage collector ZGC Minor Pauses.
+[jmx-memory plugin] WARNING: Unknown garbage collector ZGC Major Cycles.
+[jmx-memory plugin] WARNING: Unknown garbage collector ZGC Major Pauses.
+[jmx-memory plugin] WARNING: MXBean for young generation not found, using mock.
+[jmx-memory plugin] WARNING: MXBean for old generation not found, using mock.
+Master port: 33605
+Cache ports: 40385, 44577, 41553, 45719, 35609, 43071, 37819, 34975
+====== finagle-chirper (web) [default], iteration 0 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 0 completed (13370.311 ms) ======
+====== finagle-chirper (web) [default], iteration 1 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 1 completed (5268.600 ms) ======
+====== finagle-chirper (web) [default], iteration 2 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 2 completed (4677.987 ms) ======
+====== finagle-chirper (web) [default], iteration 3 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 3 completed (5167.258 ms) ======
+====== finagle-chirper (web) [default], iteration 4 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 4 completed (4502.528 ms) ======
+====== finagle-chirper (web) [default], iteration 5 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 5 completed (4464.252 ms) ======
+====== finagle-chirper (web) [default], iteration 6 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 6 completed (4675.972 ms) ======
+====== finagle-chirper (web) [default], iteration 7 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 7 completed (4177.147 ms) ======
+====== finagle-chirper (web) [default], iteration 8 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 8 completed (4085.551 ms) ======
+====== finagle-chirper (web) [default], iteration 9 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 9 completed (4105.094 ms) ======
+====== finagle-chirper (web) [default], iteration 10 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 10 completed (4164.624 ms) ======
+====== finagle-chirper (web) [default], iteration 11 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 11 completed (4064.941 ms) ======
+====== finagle-chirper (web) [default], iteration 12 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 12 completed (4091.679 ms) ======
+====== finagle-chirper (web) [default], iteration 13 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 13 completed (4185.761 ms) ======
+====== finagle-chirper (web) [default], iteration 14 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 14 completed (3912.932 ms) ======
+====== finagle-chirper (web) [default], iteration 15 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 15 completed (3864.312 ms) ======
+====== finagle-chirper (web) [default], iteration 16 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 16 completed (3848.827 ms) ======
+====== finagle-chirper (web) [default], iteration 17 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 17 completed (3892.621 ms) ======
+====== finagle-chirper (web) [default], iteration 18 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 18 completed (3912.998 ms) ======
+====== finagle-chirper (web) [default], iteration 19 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 19 completed (3807.916 ms) ======
+====== finagle-chirper (web) [default], iteration 20 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 20 completed (3854.755 ms) ======
+====== finagle-chirper (web) [default], iteration 21 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 21 completed (3961.120 ms) ======
+====== finagle-chirper (web) [default], iteration 22 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 22 completed (3768.098 ms) ======
+====== finagle-chirper (web) [default], iteration 23 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 23 completed (3686.521 ms) ======
+====== finagle-chirper (web) [default], iteration 24 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 24 completed (3648.363 ms) ======
+====== finagle-chirper (web) [default], iteration 25 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 25 completed (3632.111 ms) ======
+====== finagle-chirper (web) [default], iteration 26 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 26 completed (3709.484 ms) ======
+====== finagle-chirper (web) [default], iteration 27 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 27 completed (3692.465 ms) ======
+====== finagle-chirper (web) [default], iteration 28 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 28 completed (3622.580 ms) ======
+====== finagle-chirper (web) [default], iteration 29 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 29 completed (3518.259 ms) ======
+====== finagle-chirper (web) [default], iteration 30 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 30 completed (3449.753 ms) ======
+====== finagle-chirper (web) [default], iteration 31 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 31 completed (3486.326 ms) ======
+====== finagle-chirper (web) [default], iteration 32 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 32 completed (3482.654 ms) ======
+====== finagle-chirper (web) [default], iteration 33 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 33 completed (3531.037 ms) ======
+====== finagle-chirper (web) [default], iteration 34 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 34 completed (3475.943 ms) ======
+====== finagle-chirper (web) [default], iteration 35 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 35 completed (3498.230 ms) ======
+====== finagle-chirper (web) [default], iteration 36 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 36 completed (3334.083 ms) ======
+====== finagle-chirper (web) [default], iteration 37 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 37 completed (3376.344 ms) ======
+====== finagle-chirper (web) [default], iteration 38 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 38 completed (3320.912 ms) ======
+====== finagle-chirper (web) [default], iteration 39 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 39 completed (3362.746 ms) ======
+====== finagle-chirper (web) [default], iteration 40 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 40 completed (3450.589 ms) ======
+====== finagle-chirper (web) [default], iteration 41 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 41 completed (3492.712 ms) ======
+====== finagle-chirper (web) [default], iteration 42 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 42 completed (3334.950 ms) ======
+====== finagle-chirper (web) [default], iteration 43 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 43 completed (3440.044 ms) ======
+====== finagle-chirper (web) [default], iteration 44 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 44 completed (3420.871 ms) ======
+====== finagle-chirper (web) [default], iteration 45 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 45 completed (3455.560 ms) ======
+====== finagle-chirper (web) [default], iteration 46 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 46 completed (3284.178 ms) ======
+====== finagle-chirper (web) [default], iteration 47 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 47 completed (3416.525 ms) ======
+====== finagle-chirper (web) [default], iteration 48 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 48 completed (3463.281 ms) ======
+====== finagle-chirper (web) [default], iteration 49 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 49 completed (3345.491 ms) ======
+====== finagle-chirper (web) [default], iteration 50 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 50 completed (3389.415 ms) ======
+====== finagle-chirper (web) [default], iteration 51 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 51 completed (3419.584 ms) ======
+====== finagle-chirper (web) [default], iteration 52 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 52 completed (3327.783 ms) ======
+====== finagle-chirper (web) [default], iteration 53 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 53 completed (3317.665 ms) ======
+====== finagle-chirper (web) [default], iteration 54 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 54 completed (3291.734 ms) ======
+====== finagle-chirper (web) [default], iteration 55 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 55 completed (3388.209 ms) ======
+====== finagle-chirper (web) [default], iteration 56 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 56 completed (3257.121 ms) ======
+====== finagle-chirper (web) [default], iteration 57 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 57 completed (3192.587 ms) ======
+====== finagle-chirper (web) [default], iteration 58 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 58 completed (3201.182 ms) ======
+====== finagle-chirper (web) [default], iteration 59 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 59 completed (3276.046 ms) ======
+====== finagle-chirper (web) [default], iteration 60 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 60 completed (3720.761 ms) ======
+====== finagle-chirper (web) [default], iteration 61 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 61 completed (3169.032 ms) ======
+====== finagle-chirper (web) [default], iteration 62 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 62 completed (3122.936 ms) ======
+====== finagle-chirper (web) [default], iteration 63 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 63 completed (3193.816 ms) ======
+====== finagle-chirper (web) [default], iteration 64 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 64 completed (3298.008 ms) ======
+====== finagle-chirper (web) [default], iteration 65 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 65 completed (3225.746 ms) ======
+====== finagle-chirper (web) [default], iteration 66 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 66 completed (3215.333 ms) ======
+====== finagle-chirper (web) [default], iteration 67 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 67 completed (3296.899 ms) ======
+====== finagle-chirper (web) [default], iteration 68 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 68 completed (3151.472 ms) ======
+====== finagle-chirper (web) [default], iteration 69 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 69 completed (3186.672 ms) ======
+====== finagle-chirper (web) [default], iteration 70 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 70 completed (3150.722 ms) ======
+====== finagle-chirper (web) [default], iteration 71 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 71 completed (3283.298 ms) ======
+====== finagle-chirper (web) [default], iteration 72 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 72 completed (3190.706 ms) ======
+====== finagle-chirper (web) [default], iteration 73 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 73 completed (3139.121 ms) ======
+====== finagle-chirper (web) [default], iteration 74 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 74 completed (3125.107 ms) ======
+====== finagle-chirper (web) [default], iteration 75 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 75 completed (3202.001 ms) ======
+====== finagle-chirper (web) [default], iteration 76 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 76 completed (3252.803 ms) ======
+====== finagle-chirper (web) [default], iteration 77 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 77 completed (3141.786 ms) ======
+====== finagle-chirper (web) [default], iteration 78 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 78 completed (3141.758 ms) ======
+====== finagle-chirper (web) [default], iteration 79 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 79 completed (3176.128 ms) ======
+====== finagle-chirper (web) [default], iteration 80 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 80 completed (3225.244 ms) ======
+====== finagle-chirper (web) [default], iteration 81 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 81 completed (3163.212 ms) ======
+====== finagle-chirper (web) [default], iteration 82 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 82 completed (3197.054 ms) ======
+====== finagle-chirper (web) [default], iteration 83 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 83 completed (3245.162 ms) ======
+====== finagle-chirper (web) [default], iteration 84 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 84 completed (3160.551 ms) ======
+====== finagle-chirper (web) [default], iteration 85 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 85 completed (3129.980 ms) ======
+====== finagle-chirper (web) [default], iteration 86 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 86 completed (3103.612 ms) ======
+====== finagle-chirper (web) [default], iteration 87 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 87 completed (3141.022 ms) ======
+====== finagle-chirper (web) [default], iteration 88 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 88 completed (3265.792 ms) ======
+====== finagle-chirper (web) [default], iteration 89 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 89 completed (3192.353 ms) ======
+====== finagle-chirper (web) [default], iteration 90 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 90 completed (3157.663 ms) ======
+====== finagle-chirper (web) [default], iteration 91 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 91 completed (3163.818 ms) ======
+====== finagle-chirper (web) [default], iteration 92 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 92 completed (3289.157 ms) ======
+====== finagle-chirper (web) [default], iteration 93 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 93 completed (3116.452 ms) ======
+====== finagle-chirper (web) [default], iteration 94 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 94 completed (3086.149 ms) ======
+====== finagle-chirper (web) [default], iteration 95 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 95 completed (3137.520 ms) ======
+====== finagle-chirper (web) [default], iteration 96 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 96 completed (3331.797 ms) ======
+====== finagle-chirper (web) [default], iteration 97 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 97 completed (3145.894 ms) ======
+====== finagle-chirper (web) [default], iteration 98 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 98 completed (3219.824 ms) ======
+====== finagle-chirper (web) [default], iteration 99 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 99 completed (3173.223 ms) ======
+====== finagle-chirper (web) [default], iteration 100 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 100 completed (3130.386 ms) ======
+====== finagle-chirper (web) [default], iteration 101 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 101 completed (3104.855 ms) ======
+====== finagle-chirper (web) [default], iteration 102 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 102 completed (3101.732 ms) ======
+====== finagle-chirper (web) [default], iteration 103 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 103 completed (3076.412 ms) ======
+====== finagle-chirper (web) [default], iteration 104 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 104 completed (3212.864 ms) ======
+====== finagle-chirper (web) [default], iteration 105 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 105 completed (3188.584 ms) ======
+====== finagle-chirper (web) [default], iteration 106 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 106 completed (3245.752 ms) ======
+====== finagle-chirper (web) [default], iteration 107 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 107 completed (3243.234 ms) ======
+====== finagle-chirper (web) [default], iteration 108 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 108 completed (3214.417 ms) ======
+====== finagle-chirper (web) [default], iteration 109 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 109 completed (3104.669 ms) ======
+====== finagle-chirper (web) [default], iteration 110 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 110 completed (3163.363 ms) ======
+====== finagle-chirper (web) [default], iteration 111 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 111 completed (3183.167 ms) ======
+====== finagle-chirper (web) [default], iteration 112 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 112 completed (3192.106 ms) ======
+====== finagle-chirper (web) [default], iteration 113 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 113 completed (3073.856 ms) ======
+====== finagle-chirper (web) [default], iteration 114 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 114 completed (2980.778 ms) ======
+====== finagle-chirper (web) [default], iteration 115 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 115 completed (3011.535 ms) ======
+====== finagle-chirper (web) [default], iteration 116 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 116 completed (3084.030 ms) ======
+====== finagle-chirper (web) [default], iteration 117 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 117 completed (3684.812 ms) ======
+====== finagle-chirper (web) [default], iteration 118 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 118 completed (3192.338 ms) ======
+====== finagle-chirper (web) [default], iteration 119 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 119 completed (2932.884 ms) ======
+====== finagle-chirper (web) [default], iteration 120 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 120 completed (2994.973 ms) ======
+====== finagle-chirper (web) [default], iteration 121 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 121 completed (3228.437 ms) ======
+====== finagle-chirper (web) [default], iteration 122 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 122 completed (3048.565 ms) ======
+====== finagle-chirper (web) [default], iteration 123 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 123 completed (3042.302 ms) ======
+====== finagle-chirper (web) [default], iteration 124 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 124 completed (3039.566 ms) ======
+====== finagle-chirper (web) [default], iteration 125 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 125 completed (3176.830 ms) ======
+====== finagle-chirper (web) [default], iteration 126 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 126 completed (3015.330 ms) ======
+====== finagle-chirper (web) [default], iteration 127 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 127 completed (2973.837 ms) ======
+====== finagle-chirper (web) [default], iteration 128 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 128 completed (3010.652 ms) ======
+====== finagle-chirper (web) [default], iteration 129 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 129 completed (3123.568 ms) ======
+====== finagle-chirper (web) [default], iteration 130 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 130 completed (3070.564 ms) ======
+====== finagle-chirper (web) [default], iteration 131 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 131 completed (3028.475 ms) ======
+====== finagle-chirper (web) [default], iteration 132 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 132 completed (3019.389 ms) ======
+====== finagle-chirper (web) [default], iteration 133 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 133 completed (3068.147 ms) ======
+====== finagle-chirper (web) [default], iteration 134 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 134 completed (3070.397 ms) ======
+====== finagle-chirper (web) [default], iteration 135 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 135 completed (3145.571 ms) ======
+====== finagle-chirper (web) [default], iteration 136 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 136 completed (2981.198 ms) ======
+====== finagle-chirper (web) [default], iteration 137 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 137 completed (2963.299 ms) ======
+====== finagle-chirper (web) [default], iteration 138 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 138 completed (3103.087 ms) ======
+====== finagle-chirper (web) [default], iteration 139 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 139 completed (3006.197 ms) ======
+====== finagle-chirper (web) [default], iteration 140 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 140 completed (3045.158 ms) ======
+====== finagle-chirper (web) [default], iteration 141 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 141 completed (3040.021 ms) ======
+====== finagle-chirper (web) [default], iteration 142 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 142 completed (3064.020 ms) ======
+====== finagle-chirper (web) [default], iteration 143 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 143 completed (3000.978 ms) ======
+====== finagle-chirper (web) [default], iteration 144 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 144 completed (2994.292 ms) ======
+====== finagle-chirper (web) [default], iteration 145 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 145 completed (3010.498 ms) ======
+====== finagle-chirper (web) [default], iteration 146 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 146 completed (3118.559 ms) ======
+====== finagle-chirper (web) [default], iteration 147 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 147 completed (3004.415 ms) ======
+====== finagle-chirper (web) [default], iteration 148 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 148 completed (3061.165 ms) ======
+====== finagle-chirper (web) [default], iteration 149 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 149 completed (3055.028 ms) ======
+====== finagle-chirper (web) [default], iteration 150 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 150 completed (3133.939 ms) ======
+====== finagle-chirper (web) [default], iteration 151 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 151 completed (2975.917 ms) ======
+====== finagle-chirper (web) [default], iteration 152 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 152 completed (2994.214 ms) ======
+====== finagle-chirper (web) [default], iteration 153 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 153 completed (3004.743 ms) ======
+====== finagle-chirper (web) [default], iteration 154 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 154 completed (3132.222 ms) ======
+====== finagle-chirper (web) [default], iteration 155 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 155 completed (3034.682 ms) ======
+====== finagle-chirper (web) [default], iteration 156 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 156 completed (3054.097 ms) ======
+====== finagle-chirper (web) [default], iteration 157 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 157 completed (3034.392 ms) ======
+====== finagle-chirper (web) [default], iteration 158 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 158 completed (3145.370 ms) ======
+====== finagle-chirper (web) [default], iteration 159 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 159 completed (3008.079 ms) ======
+====== finagle-chirper (web) [default], iteration 160 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 160 completed (3008.002 ms) ======
+====== finagle-chirper (web) [default], iteration 161 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 161 completed (2966.126 ms) ======
+====== finagle-chirper (web) [default], iteration 162 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 162 completed (3139.482 ms) ======
+====== finagle-chirper (web) [default], iteration 163 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 163 completed (3023.022 ms) ======
+====== finagle-chirper (web) [default], iteration 164 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 164 completed (3078.817 ms) ======
+====== finagle-chirper (web) [default], iteration 165 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 165 completed (3037.173 ms) ======
+====== finagle-chirper (web) [default], iteration 166 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 166 completed (3094.151 ms) ======
+====== finagle-chirper (web) [default], iteration 167 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 167 completed (3081.013 ms) ======
+====== finagle-chirper (web) [default], iteration 168 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 168 completed (2970.462 ms) ======
+====== finagle-chirper (web) [default], iteration 169 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 169 completed (2958.805 ms) ======
+====== finagle-chirper (web) [default], iteration 170 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 170 completed (2983.826 ms) ======
+====== finagle-chirper (web) [default], iteration 171 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 171 completed (3126.102 ms) ======
+====== finagle-chirper (web) [default], iteration 172 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 172 completed (3026.405 ms) ======
+====== finagle-chirper (web) [default], iteration 173 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 173 completed (3042.183 ms) ======
+====== finagle-chirper (web) [default], iteration 174 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 174 completed (3048.242 ms) ======
+====== finagle-chirper (web) [default], iteration 175 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 175 completed (3076.009 ms) ======
+====== finagle-chirper (web) [default], iteration 176 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 176 completed (2989.034 ms) ======
+====== finagle-chirper (web) [default], iteration 177 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 177 completed (2989.186 ms) ======
+====== finagle-chirper (web) [default], iteration 178 started ======
+Resetting master, feed map size: 5000
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== finagle-chirper (web) [default], iteration 178 completed (2990.885 ms) ======

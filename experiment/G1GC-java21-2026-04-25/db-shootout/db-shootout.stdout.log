@@ -1,0 +1,457 @@
+[jmx-memory plugin] WARNING: Unknown garbage collector G1 Concurrent GC.
+====== db-shootout (database) [default], iteration 0 started ======
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== db-shootout (database) [default], iteration 0 completed (6695.307 ms) ======
+====== db-shootout (database) [default], iteration 1 started ======
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== db-shootout (database) [default], iteration 1 completed (6666.241 ms) ======
+====== db-shootout (database) [default], iteration 2 started ======
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== db-shootout (database) [default], iteration 2 completed (5860.882 ms) ======
+====== db-shootout (database) [default], iteration 3 started ======
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== db-shootout (database) [default], iteration 3 completed (5336.835 ms) ======
+====== db-shootout (database) [default], iteration 4 started ======
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== db-shootout (database) [default], iteration 4 completed (5325.870 ms) ======
+====== db-shootout (database) [default], iteration 5 started ======
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== db-shootout (database) [default], iteration 5 completed (5728.191 ms) ======
+====== db-shootout (database) [default], iteration 6 started ======
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== db-shootout (database) [default], iteration 6 completed (5543.484 ms) ======
+====== db-shootout (database) [default], iteration 7 started ======
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== db-shootout (database) [default], iteration 7 completed (5712.899 ms) ======
+====== db-shootout (database) [default], iteration 8 started ======
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== db-shootout (database) [default], iteration 8 completed (5312.862 ms) ======
+====== db-shootout (database) [default], iteration 9 started ======
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== db-shootout (database) [default], iteration 9 completed (5342.511 ms) ======
+====== db-shootout (database) [default], iteration 10 started ======
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== db-shootout (database) [default], iteration 10 completed (5365.425 ms) ======
+====== db-shootout (database) [default], iteration 11 started ======
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== db-shootout (database) [default], iteration 11 completed (5552.951 ms) ======
+====== db-shootout (database) [default], iteration 12 started ======
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== db-shootout (database) [default], iteration 12 completed (5393.948 ms) ======
+====== db-shootout (database) [default], iteration 13 started ======
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== db-shootout (database) [default], iteration 13 completed (5258.203 ms) ======
+====== db-shootout (database) [default], iteration 14 started ======
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== db-shootout (database) [default], iteration 14 completed (5401.530 ms) ======
+====== db-shootout (database) [default], iteration 15 started ======
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== db-shootout (database) [default], iteration 15 completed (5058.304 ms) ======
+====== db-shootout (database) [default], iteration 16 started ======
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== db-shootout (database) [default], iteration 16 completed (5213.162 ms) ======
+====== db-shootout (database) [default], iteration 17 started ======
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== db-shootout (database) [default], iteration 17 completed (5182.425 ms) ======
+====== db-shootout (database) [default], iteration 18 started ======
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== db-shootout (database) [default], iteration 18 completed (5302.872 ms) ======
+====== db-shootout (database) [default], iteration 19 started ======
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== db-shootout (database) [default], iteration 19 completed (5164.111 ms) ======
+====== db-shootout (database) [default], iteration 20 started ======
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== db-shootout (database) [default], iteration 20 completed (5205.328 ms) ======
+====== db-shootout (database) [default], iteration 21 started ======
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== db-shootout (database) [default], iteration 21 completed (5286.192 ms) ======
+====== db-shootout (database) [default], iteration 22 started ======
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== db-shootout (database) [default], iteration 22 completed (5237.366 ms) ======
+====== db-shootout (database) [default], iteration 23 started ======
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== db-shootout (database) [default], iteration 23 completed (5193.278 ms) ======
+====== db-shootout (database) [default], iteration 24 started ======
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== db-shootout (database) [default], iteration 24 completed (5251.203 ms) ======
+====== db-shootout (database) [default], iteration 25 started ======
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== db-shootout (database) [default], iteration 25 completed (5324.158 ms) ======
+====== db-shootout (database) [default], iteration 26 started ======
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== db-shootout (database) [default], iteration 26 completed (5127.786 ms) ======
+====== db-shootout (database) [default], iteration 27 started ======
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== db-shootout (database) [default], iteration 27 completed (5012.641 ms) ======
+====== db-shootout (database) [default], iteration 28 started ======
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== db-shootout (database) [default], iteration 28 completed (5407.372 ms) ======
+====== db-shootout (database) [default], iteration 29 started ======
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== db-shootout (database) [default], iteration 29 completed (5556.234 ms) ======
+====== db-shootout (database) [default], iteration 30 started ======
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== db-shootout (database) [default], iteration 30 completed (4885.904 ms) ======
+====== db-shootout (database) [default], iteration 31 started ======
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== db-shootout (database) [default], iteration 31 completed (5252.570 ms) ======
+====== db-shootout (database) [default], iteration 32 started ======
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== db-shootout (database) [default], iteration 32 completed (5120.290 ms) ======
+====== db-shootout (database) [default], iteration 33 started ======
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== db-shootout (database) [default], iteration 33 completed (5447.924 ms) ======
+====== db-shootout (database) [default], iteration 34 started ======
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== db-shootout (database) [default], iteration 34 completed (5347.951 ms) ======
+====== db-shootout (database) [default], iteration 35 started ======
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== db-shootout (database) [default], iteration 35 completed (5381.880 ms) ======
+====== db-shootout (database) [default], iteration 36 started ======
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== db-shootout (database) [default], iteration 36 completed (5116.066 ms) ======
+====== db-shootout (database) [default], iteration 37 started ======
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== db-shootout (database) [default], iteration 37 completed (5215.610 ms) ======
+====== db-shootout (database) [default], iteration 38 started ======
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== db-shootout (database) [default], iteration 38 completed (5239.360 ms) ======
+====== db-shootout (database) [default], iteration 39 started ======
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== db-shootout (database) [default], iteration 39 completed (5310.004 ms) ======
+====== db-shootout (database) [default], iteration 40 started ======
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== db-shootout (database) [default], iteration 40 completed (5672.593 ms) ======
+====== db-shootout (database) [default], iteration 41 started ======
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== db-shootout (database) [default], iteration 41 completed (5384.766 ms) ======
+====== db-shootout (database) [default], iteration 42 started ======
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== db-shootout (database) [default], iteration 42 completed (5263.796 ms) ======
+====== db-shootout (database) [default], iteration 43 started ======
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== db-shootout (database) [default], iteration 43 completed (5264.742 ms) ======
+====== db-shootout (database) [default], iteration 44 started ======
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== db-shootout (database) [default], iteration 44 completed (5214.195 ms) ======
+====== db-shootout (database) [default], iteration 45 started ======
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== db-shootout (database) [default], iteration 45 completed (5025.227 ms) ======
+====== db-shootout (database) [default], iteration 46 started ======
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== db-shootout (database) [default], iteration 46 completed (5349.022 ms) ======
+====== db-shootout (database) [default], iteration 47 started ======
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== db-shootout (database) [default], iteration 47 completed (5189.685 ms) ======
+====== db-shootout (database) [default], iteration 48 started ======
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== db-shootout (database) [default], iteration 48 completed (5064.548 ms) ======
+====== db-shootout (database) [default], iteration 49 started ======
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== db-shootout (database) [default], iteration 49 completed (5153.488 ms) ======
+====== db-shootout (database) [default], iteration 50 started ======
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== db-shootout (database) [default], iteration 50 completed (5021.645 ms) ======
+====== db-shootout (database) [default], iteration 51 started ======
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== db-shootout (database) [default], iteration 51 completed (5335.086 ms) ======
+====== db-shootout (database) [default], iteration 52 started ======
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== db-shootout (database) [default], iteration 52 completed (5014.227 ms) ======
+====== db-shootout (database) [default], iteration 53 started ======
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== db-shootout (database) [default], iteration 53 completed (5043.335 ms) ======
+====== db-shootout (database) [default], iteration 54 started ======
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== db-shootout (database) [default], iteration 54 completed (5128.816 ms) ======
+====== db-shootout (database) [default], iteration 55 started ======
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== db-shootout (database) [default], iteration 55 completed (5264.151 ms) ======
+====== db-shootout (database) [default], iteration 56 started ======
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== db-shootout (database) [default], iteration 56 completed (5025.204 ms) ======
+====== db-shootout (database) [default], iteration 57 started ======
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== db-shootout (database) [default], iteration 57 completed (6478.095 ms) ======
+====== db-shootout (database) [default], iteration 58 started ======
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== db-shootout (database) [default], iteration 58 completed (5513.724 ms) ======
+====== db-shootout (database) [default], iteration 59 started ======
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== db-shootout (database) [default], iteration 59 completed (5401.805 ms) ======
+====== db-shootout (database) [default], iteration 60 started ======
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== db-shootout (database) [default], iteration 60 completed (5243.107 ms) ======
+====== db-shootout (database) [default], iteration 61 started ======
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== db-shootout (database) [default], iteration 61 completed (5258.306 ms) ======
+====== db-shootout (database) [default], iteration 62 started ======
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== db-shootout (database) [default], iteration 62 completed (5449.369 ms) ======
+====== db-shootout (database) [default], iteration 63 started ======
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== db-shootout (database) [default], iteration 63 completed (5279.528 ms) ======
+====== db-shootout (database) [default], iteration 64 started ======
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== db-shootout (database) [default], iteration 64 completed (5619.826 ms) ======
+====== db-shootout (database) [default], iteration 65 started ======
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== db-shootout (database) [default], iteration 65 completed (5558.959 ms) ======
+====== db-shootout (database) [default], iteration 66 started ======
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== db-shootout (database) [default], iteration 66 completed (5448.027 ms) ======
+====== db-shootout (database) [default], iteration 67 started ======
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== db-shootout (database) [default], iteration 67 completed (5330.814 ms) ======
+====== db-shootout (database) [default], iteration 68 started ======
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== db-shootout (database) [default], iteration 68 completed (5038.125 ms) ======
+====== db-shootout (database) [default], iteration 69 started ======
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== db-shootout (database) [default], iteration 69 completed (5274.010 ms) ======
+====== db-shootout (database) [default], iteration 70 started ======
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== db-shootout (database) [default], iteration 70 completed (5419.867 ms) ======
+====== db-shootout (database) [default], iteration 71 started ======
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== db-shootout (database) [default], iteration 71 completed (5145.774 ms) ======
+====== db-shootout (database) [default], iteration 72 started ======
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== db-shootout (database) [default], iteration 72 completed (5352.552 ms) ======
+====== db-shootout (database) [default], iteration 73 started ======
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== db-shootout (database) [default], iteration 73 completed (5321.595 ms) ======
+====== db-shootout (database) [default], iteration 74 started ======
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== db-shootout (database) [default], iteration 74 completed (5338.813 ms) ======
+====== db-shootout (database) [default], iteration 75 started ======
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== db-shootout (database) [default], iteration 75 completed (5048.774 ms) ======
+====== db-shootout (database) [default], iteration 76 started ======
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== db-shootout (database) [default], iteration 76 completed (5561.184 ms) ======
+====== db-shootout (database) [default], iteration 77 started ======
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== db-shootout (database) [default], iteration 77 completed (5395.002 ms) ======
+====== db-shootout (database) [default], iteration 78 started ======
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== db-shootout (database) [default], iteration 78 completed (5545.462 ms) ======
+====== db-shootout (database) [default], iteration 79 started ======
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== db-shootout (database) [default], iteration 79 completed (5273.879 ms) ======
+====== db-shootout (database) [default], iteration 80 started ======
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== db-shootout (database) [default], iteration 80 completed (5420.153 ms) ======
+====== db-shootout (database) [default], iteration 81 started ======
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== db-shootout (database) [default], iteration 81 completed (5307.465 ms) ======
+====== db-shootout (database) [default], iteration 82 started ======
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== db-shootout (database) [default], iteration 82 completed (5335.869 ms) ======
+====== db-shootout (database) [default], iteration 83 started ======
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== db-shootout (database) [default], iteration 83 completed (5476.850 ms) ======
+====== db-shootout (database) [default], iteration 84 started ======
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== db-shootout (database) [default], iteration 84 completed (5518.545 ms) ======
+====== db-shootout (database) [default], iteration 85 started ======
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== db-shootout (database) [default], iteration 85 completed (5231.308 ms) ======
+====== db-shootout (database) [default], iteration 86 started ======
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== db-shootout (database) [default], iteration 86 completed (5213.812 ms) ======
+====== db-shootout (database) [default], iteration 87 started ======
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== db-shootout (database) [default], iteration 87 completed (5065.851 ms) ======
+====== db-shootout (database) [default], iteration 88 started ======
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== db-shootout (database) [default], iteration 88 completed (5043.849 ms) ======
+====== db-shootout (database) [default], iteration 89 started ======
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== db-shootout (database) [default], iteration 89 completed (5500.010 ms) ======
+====== db-shootout (database) [default], iteration 90 started ======
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== db-shootout (database) [default], iteration 90 completed (5290.701 ms) ======
+====== db-shootout (database) [default], iteration 91 started ======
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== db-shootout (database) [default], iteration 91 completed (5346.275 ms) ======
+====== db-shootout (database) [default], iteration 92 started ======
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== db-shootout (database) [default], iteration 92 completed (5146.153 ms) ======
+====== db-shootout (database) [default], iteration 93 started ======
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== db-shootout (database) [default], iteration 93 completed (5162.964 ms) ======
+====== db-shootout (database) [default], iteration 94 started ======
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== db-shootout (database) [default], iteration 94 completed (5434.089 ms) ======
+====== db-shootout (database) [default], iteration 95 started ======
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== db-shootout (database) [default], iteration 95 completed (5120.870 ms) ======
+====== db-shootout (database) [default], iteration 96 started ======
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== db-shootout (database) [default], iteration 96 completed (5918.934 ms) ======
+====== db-shootout (database) [default], iteration 97 started ======
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== db-shootout (database) [default], iteration 97 completed (5365.181 ms) ======
+====== db-shootout (database) [default], iteration 98 started ======
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== db-shootout (database) [default], iteration 98 completed (5354.200 ms) ======
+====== db-shootout (database) [default], iteration 99 started ======
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== db-shootout (database) [default], iteration 99 completed (5209.073 ms) ======
+====== db-shootout (database) [default], iteration 100 started ======
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== db-shootout (database) [default], iteration 100 completed (5097.010 ms) ======
+====== db-shootout (database) [default], iteration 101 started ======
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== db-shootout (database) [default], iteration 101 completed (5704.434 ms) ======
+====== db-shootout (database) [default], iteration 102 started ======
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== db-shootout (database) [default], iteration 102 completed (5640.723 ms) ======
+====== db-shootout (database) [default], iteration 103 started ======
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== db-shootout (database) [default], iteration 103 completed (4783.827 ms) ======
+====== db-shootout (database) [default], iteration 104 started ======
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== db-shootout (database) [default], iteration 104 completed (6079.423 ms) ======
+====== db-shootout (database) [default], iteration 105 started ======
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== db-shootout (database) [default], iteration 105 completed (5473.392 ms) ======
+====== db-shootout (database) [default], iteration 106 started ======
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== db-shootout (database) [default], iteration 106 completed (5355.870 ms) ======
+====== db-shootout (database) [default], iteration 107 started ======
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== db-shootout (database) [default], iteration 107 completed (5188.217 ms) ======
+====== db-shootout (database) [default], iteration 108 started ======
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== db-shootout (database) [default], iteration 108 completed (5311.198 ms) ======
+====== db-shootout (database) [default], iteration 109 started ======
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== db-shootout (database) [default], iteration 109 completed (5357.431 ms) ======
+====== db-shootout (database) [default], iteration 110 started ======
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== db-shootout (database) [default], iteration 110 completed (5178.354 ms) ======
+====== db-shootout (database) [default], iteration 111 started ======
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== db-shootout (database) [default], iteration 111 completed (5325.384 ms) ======
+====== db-shootout (database) [default], iteration 112 started ======
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== db-shootout (database) [default], iteration 112 completed (5382.958 ms) ======
+====== db-shootout (database) [default], iteration 113 started ======
+WARNING: This benchmark provides no result that can be validated.
+There is no way to check that no silent failure occurred.
+====== db-shootout (database) [default], iteration 113 completed (5189.020 ms) ======

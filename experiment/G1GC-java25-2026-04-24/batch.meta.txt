@@ -1,0 +1,12 @@
+started_at=2026-04-24T16:41:54+00:00
+host=thegigach4d
+auto_discover=1
+test_mode=0
+benchmark_count=25
+gc=G1GC
+run_seconds=600
+timeout_seconds=900
+base_dir=G1GC-java25-2026-04-24
+benchmarks=scrabble page-rank future-genetic akka-uct movie-lens scala-doku chi-square fj-kmeans rx-scrabble db-shootout neo4j-analytics finagle-http reactors dec-tree scala-stm-bench7 naive-bayes als par-mnemonics scala-kmeans philosophers log-regression gauss-mix mnemonics dotty finagle-chirper
+finished_at=2026-04-24T20:56:56+00:00
+status=success

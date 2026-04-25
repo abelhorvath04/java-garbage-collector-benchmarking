@@ -1,0 +1,739 @@
+WARNING: A terminally deprecated method in sun.misc.Unsafe has been called
+WARNING: sun.misc.Unsafe::objectFieldOffset has been called by scala.runtime.LazyVals$ (resource:/shared/scala3-library_3-3.3.4.jar)
+WARNING: Please consider reporting this to the maintainers of class scala.runtime.LazyVals$
+WARNING: sun.misc.Unsafe::objectFieldOffset will be removed in a future release
+[jmx-memory plugin] WARNING: Unknown garbage collector G1 Concurrent GC.
+====== dotty (scala) [default], iteration 0 started ======
+====== dotty (scala) [default], iteration 0 completed (11518.153 ms) ======
+====== dotty (scala) [default], iteration 1 started ======
+====== dotty (scala) [default], iteration 1 completed (4020.901 ms) ======
+====== dotty (scala) [default], iteration 2 started ======
+====== dotty (scala) [default], iteration 2 completed (3020.763 ms) ======
+====== dotty (scala) [default], iteration 3 started ======
+====== dotty (scala) [default], iteration 3 completed (2532.751 ms) ======
+====== dotty (scala) [default], iteration 4 started ======
+====== dotty (scala) [default], iteration 4 completed (2186.539 ms) ======
+====== dotty (scala) [default], iteration 5 started ======
+====== dotty (scala) [default], iteration 5 completed (2516.735 ms) ======
+====== dotty (scala) [default], iteration 6 started ======
+====== dotty (scala) [default], iteration 6 completed (1566.134 ms) ======
+====== dotty (scala) [default], iteration 7 started ======
+====== dotty (scala) [default], iteration 7 completed (1454.527 ms) ======
+====== dotty (scala) [default], iteration 8 started ======
+====== dotty (scala) [default], iteration 8 completed (1351.317 ms) ======
+====== dotty (scala) [default], iteration 9 started ======
+====== dotty (scala) [default], iteration 9 completed (1277.365 ms) ======
+====== dotty (scala) [default], iteration 10 started ======
+====== dotty (scala) [default], iteration 10 completed (1319.691 ms) ======
+====== dotty (scala) [default], iteration 11 started ======
+====== dotty (scala) [default], iteration 11 completed (1318.459 ms) ======
+====== dotty (scala) [default], iteration 12 started ======
+====== dotty (scala) [default], iteration 12 completed (1281.321 ms) ======
+====== dotty (scala) [default], iteration 13 started ======
+====== dotty (scala) [default], iteration 13 completed (1280.586 ms) ======
+====== dotty (scala) [default], iteration 14 started ======
+====== dotty (scala) [default], iteration 14 completed (1276.476 ms) ======
+====== dotty (scala) [default], iteration 15 started ======
+====== dotty (scala) [default], iteration 15 completed (1274.721 ms) ======
+====== dotty (scala) [default], iteration 16 started ======
+====== dotty (scala) [default], iteration 16 completed (1262.656 ms) ======
+====== dotty (scala) [default], iteration 17 started ======
+====== dotty (scala) [default], iteration 17 completed (1225.738 ms) ======
+====== dotty (scala) [default], iteration 18 started ======
+====== dotty (scala) [default], iteration 18 completed (1204.401 ms) ======
+====== dotty (scala) [default], iteration 19 started ======
+====== dotty (scala) [default], iteration 19 completed (1205.227 ms) ======
+====== dotty (scala) [default], iteration 20 started ======
+====== dotty (scala) [default], iteration 20 completed (1194.719 ms) ======
+====== dotty (scala) [default], iteration 21 started ======
+====== dotty (scala) [default], iteration 21 completed (1184.026 ms) ======
+====== dotty (scala) [default], iteration 22 started ======
+====== dotty (scala) [default], iteration 22 completed (1176.137 ms) ======
+====== dotty (scala) [default], iteration 23 started ======
+====== dotty (scala) [default], iteration 23 completed (1172.067 ms) ======
+====== dotty (scala) [default], iteration 24 started ======
+====== dotty (scala) [default], iteration 24 completed (1177.323 ms) ======
+====== dotty (scala) [default], iteration 25 started ======
+====== dotty (scala) [default], iteration 25 completed (1149.893 ms) ======
+====== dotty (scala) [default], iteration 26 started ======
+====== dotty (scala) [default], iteration 26 completed (1138.592 ms) ======
+====== dotty (scala) [default], iteration 27 started ======
+====== dotty (scala) [default], iteration 27 completed (1143.084 ms) ======
+====== dotty (scala) [default], iteration 28 started ======
+====== dotty (scala) [default], iteration 28 completed (1338.817 ms) ======
+====== dotty (scala) [default], iteration 29 started ======
+====== dotty (scala) [default], iteration 29 completed (1127.073 ms) ======
+====== dotty (scala) [default], iteration 30 started ======
+====== dotty (scala) [default], iteration 30 completed (1116.181 ms) ======
+====== dotty (scala) [default], iteration 31 started ======
+====== dotty (scala) [default], iteration 31 completed (1136.496 ms) ======
+====== dotty (scala) [default], iteration 32 started ======
+====== dotty (scala) [default], iteration 32 completed (1106.490 ms) ======
+====== dotty (scala) [default], iteration 33 started ======
+====== dotty (scala) [default], iteration 33 completed (1104.037 ms) ======
+====== dotty (scala) [default], iteration 34 started ======
+====== dotty (scala) [default], iteration 34 completed (1121.075 ms) ======
+====== dotty (scala) [default], iteration 35 started ======
+====== dotty (scala) [default], iteration 35 completed (1113.771 ms) ======
+====== dotty (scala) [default], iteration 36 started ======
+====== dotty (scala) [default], iteration 36 completed (1073.716 ms) ======
+====== dotty (scala) [default], iteration 37 started ======
+====== dotty (scala) [default], iteration 37 completed (1066.937 ms) ======
+====== dotty (scala) [default], iteration 38 started ======
+====== dotty (scala) [default], iteration 38 completed (1093.913 ms) ======
+====== dotty (scala) [default], iteration 39 started ======
+====== dotty (scala) [default], iteration 39 completed (1070.402 ms) ======
+====== dotty (scala) [default], iteration 40 started ======
+====== dotty (scala) [default], iteration 40 completed (1838.950 ms) ======
+====== dotty (scala) [default], iteration 41 started ======
+====== dotty (scala) [default], iteration 41 completed (930.900 ms) ======
+====== dotty (scala) [default], iteration 42 started ======
+====== dotty (scala) [default], iteration 42 completed (920.393 ms) ======
+====== dotty (scala) [default], iteration 43 started ======
+====== dotty (scala) [default], iteration 43 completed (919.890 ms) ======
+====== dotty (scala) [default], iteration 44 started ======
+====== dotty (scala) [default], iteration 44 completed (925.347 ms) ======
+====== dotty (scala) [default], iteration 45 started ======
+====== dotty (scala) [default], iteration 45 completed (902.555 ms) ======
+====== dotty (scala) [default], iteration 46 started ======
+====== dotty (scala) [default], iteration 46 completed (906.933 ms) ======
+====== dotty (scala) [default], iteration 47 started ======
+====== dotty (scala) [default], iteration 47 completed (911.546 ms) ======
+====== dotty (scala) [default], iteration 48 started ======
+====== dotty (scala) [default], iteration 48 completed (900.434 ms) ======
+====== dotty (scala) [default], iteration 49 started ======
+====== dotty (scala) [default], iteration 49 completed (885.302 ms) ======
+====== dotty (scala) [default], iteration 50 started ======
+====== dotty (scala) [default], iteration 50 completed (886.141 ms) ======
+====== dotty (scala) [default], iteration 51 started ======
+====== dotty (scala) [default], iteration 51 completed (898.910 ms) ======
+====== dotty (scala) [default], iteration 52 started ======
+====== dotty (scala) [default], iteration 52 completed (884.333 ms) ======
+====== dotty (scala) [default], iteration 53 started ======
+====== dotty (scala) [default], iteration 53 completed (877.100 ms) ======
+====== dotty (scala) [default], iteration 54 started ======
+====== dotty (scala) [default], iteration 54 completed (887.040 ms) ======
+====== dotty (scala) [default], iteration 55 started ======
+====== dotty (scala) [default], iteration 55 completed (902.662 ms) ======
+====== dotty (scala) [default], iteration 56 started ======
+====== dotty (scala) [default], iteration 56 completed (871.503 ms) ======
+====== dotty (scala) [default], iteration 57 started ======
+====== dotty (scala) [default], iteration 57 completed (888.421 ms) ======
+====== dotty (scala) [default], iteration 58 started ======
+====== dotty (scala) [default], iteration 58 completed (866.602 ms) ======
+====== dotty (scala) [default], iteration 59 started ======
+====== dotty (scala) [default], iteration 59 completed (885.889 ms) ======
+====== dotty (scala) [default], iteration 60 started ======
+====== dotty (scala) [default], iteration 60 completed (869.920 ms) ======
+====== dotty (scala) [default], iteration 61 started ======
+====== dotty (scala) [default], iteration 61 completed (878.837 ms) ======
+====== dotty (scala) [default], iteration 62 started ======
+====== dotty (scala) [default], iteration 62 completed (877.795 ms) ======
+====== dotty (scala) [default], iteration 63 started ======
+====== dotty (scala) [default], iteration 63 completed (867.404 ms) ======
+====== dotty (scala) [default], iteration 64 started ======
+====== dotty (scala) [default], iteration 64 completed (872.393 ms) ======
+====== dotty (scala) [default], iteration 65 started ======
+====== dotty (scala) [default], iteration 65 completed (854.315 ms) ======
+====== dotty (scala) [default], iteration 66 started ======
+====== dotty (scala) [default], iteration 66 completed (853.833 ms) ======
+====== dotty (scala) [default], iteration 67 started ======
+====== dotty (scala) [default], iteration 67 completed (860.140 ms) ======
+====== dotty (scala) [default], iteration 68 started ======
+====== dotty (scala) [default], iteration 68 completed (860.122 ms) ======
+====== dotty (scala) [default], iteration 69 started ======
+====== dotty (scala) [default], iteration 69 completed (844.945 ms) ======
+====== dotty (scala) [default], iteration 70 started ======
+====== dotty (scala) [default], iteration 70 completed (853.171 ms) ======
+====== dotty (scala) [default], iteration 71 started ======
+====== dotty (scala) [default], iteration 71 completed (854.920 ms) ======
+====== dotty (scala) [default], iteration 72 started ======
+====== dotty (scala) [default], iteration 72 completed (847.947 ms) ======
+====== dotty (scala) [default], iteration 73 started ======
+====== dotty (scala) [default], iteration 73 completed (854.736 ms) ======
+====== dotty (scala) [default], iteration 74 started ======
+====== dotty (scala) [default], iteration 74 completed (868.537 ms) ======
+====== dotty (scala) [default], iteration 75 started ======
+====== dotty (scala) [default], iteration 75 completed (845.638 ms) ======
+====== dotty (scala) [default], iteration 76 started ======
+====== dotty (scala) [default], iteration 76 completed (869.264 ms) ======
+====== dotty (scala) [default], iteration 77 started ======
+====== dotty (scala) [default], iteration 77 completed (987.104 ms) ======
+====== dotty (scala) [default], iteration 78 started ======
+====== dotty (scala) [default], iteration 78 completed (987.269 ms) ======
+====== dotty (scala) [default], iteration 79 started ======
+====== dotty (scala) [default], iteration 79 completed (997.334 ms) ======
+====== dotty (scala) [default], iteration 80 started ======
+====== dotty (scala) [default], iteration 80 completed (981.902 ms) ======
+====== dotty (scala) [default], iteration 81 started ======
+====== dotty (scala) [default], iteration 81 completed (980.001 ms) ======
+====== dotty (scala) [default], iteration 82 started ======
+====== dotty (scala) [default], iteration 82 completed (984.761 ms) ======
+====== dotty (scala) [default], iteration 83 started ======
+====== dotty (scala) [default], iteration 83 completed (1010.974 ms) ======
+====== dotty (scala) [default], iteration 84 started ======
+====== dotty (scala) [default], iteration 84 completed (991.758 ms) ======
+====== dotty (scala) [default], iteration 85 started ======
+====== dotty (scala) [default], iteration 85 completed (1013.338 ms) ======
+====== dotty (scala) [default], iteration 86 started ======
+====== dotty (scala) [default], iteration 86 completed (983.794 ms) ======
+====== dotty (scala) [default], iteration 87 started ======
+====== dotty (scala) [default], iteration 87 completed (974.614 ms) ======
+====== dotty (scala) [default], iteration 88 started ======
+====== dotty (scala) [default], iteration 88 completed (976.780 ms) ======
+====== dotty (scala) [default], iteration 89 started ======
+====== dotty (scala) [default], iteration 89 completed (1585.182 ms) ======
+====== dotty (scala) [default], iteration 90 started ======
+====== dotty (scala) [default], iteration 90 completed (842.143 ms) ======
+====== dotty (scala) [default], iteration 91 started ======
+====== dotty (scala) [default], iteration 91 completed (856.584 ms) ======
+====== dotty (scala) [default], iteration 92 started ======
+====== dotty (scala) [default], iteration 92 completed (853.654 ms) ======
+====== dotty (scala) [default], iteration 93 started ======
+====== dotty (scala) [default], iteration 93 completed (843.434 ms) ======
+====== dotty (scala) [default], iteration 94 started ======
+====== dotty (scala) [default], iteration 94 completed (852.936 ms) ======
+====== dotty (scala) [default], iteration 95 started ======
+====== dotty (scala) [default], iteration 95 completed (849.993 ms) ======
+====== dotty (scala) [default], iteration 96 started ======
+====== dotty (scala) [default], iteration 96 completed (834.956 ms) ======
+====== dotty (scala) [default], iteration 97 started ======
+====== dotty (scala) [default], iteration 97 completed (834.884 ms) ======
+====== dotty (scala) [default], iteration 98 started ======
+====== dotty (scala) [default], iteration 98 completed (835.834 ms) ======
+====== dotty (scala) [default], iteration 99 started ======
+====== dotty (scala) [default], iteration 99 completed (848.467 ms) ======
+====== dotty (scala) [default], iteration 100 started ======
+====== dotty (scala) [default], iteration 100 completed (847.830 ms) ======
+====== dotty (scala) [default], iteration 101 started ======
+====== dotty (scala) [default], iteration 101 completed (831.374 ms) ======
+====== dotty (scala) [default], iteration 102 started ======
+====== dotty (scala) [default], iteration 102 completed (833.465 ms) ======
+====== dotty (scala) [default], iteration 103 started ======
+====== dotty (scala) [default], iteration 103 completed (826.655 ms) ======
+====== dotty (scala) [default], iteration 104 started ======
+====== dotty (scala) [default], iteration 104 completed (832.358 ms) ======
+====== dotty (scala) [default], iteration 105 started ======
+====== dotty (scala) [default], iteration 105 completed (836.200 ms) ======
+====== dotty (scala) [default], iteration 106 started ======
+====== dotty (scala) [default], iteration 106 completed (828.392 ms) ======
+====== dotty (scala) [default], iteration 107 started ======
+====== dotty (scala) [default], iteration 107 completed (869.923 ms) ======
+====== dotty (scala) [default], iteration 108 started ======
+====== dotty (scala) [default], iteration 108 completed (824.139 ms) ======
+====== dotty (scala) [default], iteration 109 started ======
+====== dotty (scala) [default], iteration 109 completed (826.379 ms) ======
+====== dotty (scala) [default], iteration 110 started ======
+====== dotty (scala) [default], iteration 110 completed (823.606 ms) ======
+====== dotty (scala) [default], iteration 111 started ======
+====== dotty (scala) [default], iteration 111 completed (825.374 ms) ======
+====== dotty (scala) [default], iteration 112 started ======
+====== dotty (scala) [default], iteration 112 completed (832.145 ms) ======
+====== dotty (scala) [default], iteration 113 started ======
+====== dotty (scala) [default], iteration 113 completed (826.770 ms) ======
+====== dotty (scala) [default], iteration 114 started ======
+====== dotty (scala) [default], iteration 114 completed (840.821 ms) ======
+====== dotty (scala) [default], iteration 115 started ======
+====== dotty (scala) [default], iteration 115 completed (826.345 ms) ======
+====== dotty (scala) [default], iteration 116 started ======
+====== dotty (scala) [default], iteration 116 completed (842.055 ms) ======
+====== dotty (scala) [default], iteration 117 started ======
+====== dotty (scala) [default], iteration 117 completed (824.548 ms) ======
+====== dotty (scala) [default], iteration 118 started ======
+====== dotty (scala) [default], iteration 118 completed (823.213 ms) ======
+====== dotty (scala) [default], iteration 119 started ======
+====== dotty (scala) [default], iteration 119 completed (838.515 ms) ======
+====== dotty (scala) [default], iteration 120 started ======
+====== dotty (scala) [default], iteration 120 completed (825.041 ms) ======
+====== dotty (scala) [default], iteration 121 started ======
+====== dotty (scala) [default], iteration 121 completed (821.006 ms) ======
+====== dotty (scala) [default], iteration 122 started ======
+====== dotty (scala) [default], iteration 122 completed (836.947 ms) ======
+====== dotty (scala) [default], iteration 123 started ======
+====== dotty (scala) [default], iteration 123 completed (822.470 ms) ======
+====== dotty (scala) [default], iteration 124 started ======
+====== dotty (scala) [default], iteration 124 completed (819.508 ms) ======
+====== dotty (scala) [default], iteration 125 started ======
+====== dotty (scala) [default], iteration 125 completed (838.388 ms) ======
+====== dotty (scala) [default], iteration 126 started ======
+====== dotty (scala) [default], iteration 126 completed (847.817 ms) ======
+====== dotty (scala) [default], iteration 127 started ======
+====== dotty (scala) [default], iteration 127 completed (850.254 ms) ======
+====== dotty (scala) [default], iteration 128 started ======
+====== dotty (scala) [default], iteration 128 completed (858.085 ms) ======
+====== dotty (scala) [default], iteration 129 started ======
+====== dotty (scala) [default], iteration 129 completed (833.464 ms) ======
+====== dotty (scala) [default], iteration 130 started ======
+====== dotty (scala) [default], iteration 130 completed (839.337 ms) ======
+====== dotty (scala) [default], iteration 131 started ======
+====== dotty (scala) [default], iteration 131 completed (831.509 ms) ======
+====== dotty (scala) [default], iteration 132 started ======
+====== dotty (scala) [default], iteration 132 completed (824.848 ms) ======
+====== dotty (scala) [default], iteration 133 started ======
+====== dotty (scala) [default], iteration 133 completed (821.765 ms) ======
+====== dotty (scala) [default], iteration 134 started ======
+====== dotty (scala) [default], iteration 134 completed (827.188 ms) ======
+====== dotty (scala) [default], iteration 135 started ======
+====== dotty (scala) [default], iteration 135 completed (820.030 ms) ======
+====== dotty (scala) [default], iteration 136 started ======
+====== dotty (scala) [default], iteration 136 completed (813.442 ms) ======
+====== dotty (scala) [default], iteration 137 started ======
+====== dotty (scala) [default], iteration 137 completed (817.491 ms) ======
+====== dotty (scala) [default], iteration 138 started ======
+====== dotty (scala) [default], iteration 138 completed (1552.452 ms) ======
+====== dotty (scala) [default], iteration 139 started ======
+====== dotty (scala) [default], iteration 139 completed (836.898 ms) ======
+====== dotty (scala) [default], iteration 140 started ======
+====== dotty (scala) [default], iteration 140 completed (818.687 ms) ======
+====== dotty (scala) [default], iteration 141 started ======
+====== dotty (scala) [default], iteration 141 completed (820.819 ms) ======
+====== dotty (scala) [default], iteration 142 started ======
+====== dotty (scala) [default], iteration 142 completed (845.684 ms) ======
+====== dotty (scala) [default], iteration 143 started ======
+====== dotty (scala) [default], iteration 143 completed (823.119 ms) ======
+====== dotty (scala) [default], iteration 144 started ======
+====== dotty (scala) [default], iteration 144 completed (832.786 ms) ======
+====== dotty (scala) [default], iteration 145 started ======
+====== dotty (scala) [default], iteration 145 completed (829.317 ms) ======
+====== dotty (scala) [default], iteration 146 started ======
+====== dotty (scala) [default], iteration 146 completed (817.351 ms) ======
+====== dotty (scala) [default], iteration 147 started ======
+====== dotty (scala) [default], iteration 147 completed (814.475 ms) ======
+====== dotty (scala) [default], iteration 148 started ======
+====== dotty (scala) [default], iteration 148 completed (824.782 ms) ======
+====== dotty (scala) [default], iteration 149 started ======
+====== dotty (scala) [default], iteration 149 completed (814.976 ms) ======
+====== dotty (scala) [default], iteration 150 started ======
+====== dotty (scala) [default], iteration 150 completed (817.962 ms) ======
+====== dotty (scala) [default], iteration 151 started ======
+====== dotty (scala) [default], iteration 151 completed (814.144 ms) ======
+====== dotty (scala) [default], iteration 152 started ======
+====== dotty (scala) [default], iteration 152 completed (813.472 ms) ======
+====== dotty (scala) [default], iteration 153 started ======
+====== dotty (scala) [default], iteration 153 completed (827.673 ms) ======
+====== dotty (scala) [default], iteration 154 started ======
+====== dotty (scala) [default], iteration 154 completed (812.137 ms) ======
+====== dotty (scala) [default], iteration 155 started ======
+====== dotty (scala) [default], iteration 155 completed (817.597 ms) ======
+====== dotty (scala) [default], iteration 156 started ======
+====== dotty (scala) [default], iteration 156 completed (811.306 ms) ======
+====== dotty (scala) [default], iteration 157 started ======
+====== dotty (scala) [default], iteration 157 completed (810.624 ms) ======
+====== dotty (scala) [default], iteration 158 started ======
+====== dotty (scala) [default], iteration 158 completed (822.308 ms) ======
+====== dotty (scala) [default], iteration 159 started ======
+====== dotty (scala) [default], iteration 159 completed (810.155 ms) ======
+====== dotty (scala) [default], iteration 160 started ======
+====== dotty (scala) [default], iteration 160 completed (811.239 ms) ======
+====== dotty (scala) [default], iteration 161 started ======
+====== dotty (scala) [default], iteration 161 completed (819.388 ms) ======
+====== dotty (scala) [default], iteration 162 started ======
+====== dotty (scala) [default], iteration 162 completed (829.865 ms) ======
+====== dotty (scala) [default], iteration 163 started ======
+====== dotty (scala) [default], iteration 163 completed (815.540 ms) ======
+====== dotty (scala) [default], iteration 164 started ======
+====== dotty (scala) [default], iteration 164 completed (812.125 ms) ======
+====== dotty (scala) [default], iteration 165 started ======
+====== dotty (scala) [default], iteration 165 completed (825.174 ms) ======
+====== dotty (scala) [default], iteration 166 started ======
+====== dotty (scala) [default], iteration 166 completed (809.795 ms) ======
+====== dotty (scala) [default], iteration 167 started ======
+====== dotty (scala) [default], iteration 167 completed (823.233 ms) ======
+====== dotty (scala) [default], iteration 168 started ======
+====== dotty (scala) [default], iteration 168 completed (816.124 ms) ======
+====== dotty (scala) [default], iteration 169 started ======
+====== dotty (scala) [default], iteration 169 completed (809.361 ms) ======
+====== dotty (scala) [default], iteration 170 started ======
+====== dotty (scala) [default], iteration 170 completed (826.630 ms) ======
+====== dotty (scala) [default], iteration 171 started ======
+====== dotty (scala) [default], iteration 171 completed (820.862 ms) ======
+====== dotty (scala) [default], iteration 172 started ======
+====== dotty (scala) [default], iteration 172 completed (809.298 ms) ======
+====== dotty (scala) [default], iteration 173 started ======
+====== dotty (scala) [default], iteration 173 completed (815.245 ms) ======
+====== dotty (scala) [default], iteration 174 started ======
+====== dotty (scala) [default], iteration 174 completed (808.794 ms) ======
+====== dotty (scala) [default], iteration 175 started ======
+====== dotty (scala) [default], iteration 175 completed (809.038 ms) ======
+====== dotty (scala) [default], iteration 176 started ======
+====== dotty (scala) [default], iteration 176 completed (807.264 ms) ======
+====== dotty (scala) [default], iteration 177 started ======
+====== dotty (scala) [default], iteration 177 completed (808.117 ms) ======
+====== dotty (scala) [default], iteration 178 started ======
+====== dotty (scala) [default], iteration 178 completed (807.935 ms) ======
+====== dotty (scala) [default], iteration 179 started ======
+====== dotty (scala) [default], iteration 179 completed (813.025 ms) ======
+====== dotty (scala) [default], iteration 180 started ======
+====== dotty (scala) [default], iteration 180 completed (804.974 ms) ======
+====== dotty (scala) [default], iteration 181 started ======
+====== dotty (scala) [default], iteration 181 completed (807.498 ms) ======
+====== dotty (scala) [default], iteration 182 started ======
+====== dotty (scala) [default], iteration 182 completed (809.416 ms) ======
+====== dotty (scala) [default], iteration 183 started ======
+====== dotty (scala) [default], iteration 183 completed (807.523 ms) ======
+====== dotty (scala) [default], iteration 184 started ======
+====== dotty (scala) [default], iteration 184 completed (808.324 ms) ======
+====== dotty (scala) [default], iteration 185 started ======
+====== dotty (scala) [default], iteration 185 completed (814.502 ms) ======
+====== dotty (scala) [default], iteration 186 started ======
+====== dotty (scala) [default], iteration 186 completed (807.449 ms) ======
+====== dotty (scala) [default], iteration 187 started ======
+====== dotty (scala) [default], iteration 187 completed (1553.618 ms) ======
+====== dotty (scala) [default], iteration 188 started ======
+====== dotty (scala) [default], iteration 188 completed (811.145 ms) ======
+====== dotty (scala) [default], iteration 189 started ======
+====== dotty (scala) [default], iteration 189 completed (808.969 ms) ======
+====== dotty (scala) [default], iteration 190 started ======
+====== dotty (scala) [default], iteration 190 completed (807.156 ms) ======
+====== dotty (scala) [default], iteration 191 started ======
+====== dotty (scala) [default], iteration 191 completed (831.547 ms) ======
+====== dotty (scala) [default], iteration 192 started ======
+====== dotty (scala) [default], iteration 192 completed (815.399 ms) ======
+====== dotty (scala) [default], iteration 193 started ======
+====== dotty (scala) [default], iteration 193 completed (820.148 ms) ======
+====== dotty (scala) [default], iteration 194 started ======
+====== dotty (scala) [default], iteration 194 completed (812.567 ms) ======
+====== dotty (scala) [default], iteration 195 started ======
+====== dotty (scala) [default], iteration 195 completed (809.116 ms) ======
+====== dotty (scala) [default], iteration 196 started ======
+====== dotty (scala) [default], iteration 196 completed (811.675 ms) ======
+====== dotty (scala) [default], iteration 197 started ======
+====== dotty (scala) [default], iteration 197 completed (808.019 ms) ======
+====== dotty (scala) [default], iteration 198 started ======
+====== dotty (scala) [default], iteration 198 completed (805.427 ms) ======
+====== dotty (scala) [default], iteration 199 started ======
+====== dotty (scala) [default], iteration 199 completed (807.478 ms) ======
+====== dotty (scala) [default], iteration 200 started ======
+====== dotty (scala) [default], iteration 200 completed (805.133 ms) ======
+====== dotty (scala) [default], iteration 201 started ======
+====== dotty (scala) [default], iteration 201 completed (799.692 ms) ======
+====== dotty (scala) [default], iteration 202 started ======
+====== dotty (scala) [default], iteration 202 completed (806.421 ms) ======
+====== dotty (scala) [default], iteration 203 started ======
+====== dotty (scala) [default], iteration 203 completed (806.820 ms) ======
+====== dotty (scala) [default], iteration 204 started ======
+====== dotty (scala) [default], iteration 204 completed (811.190 ms) ======
+====== dotty (scala) [default], iteration 205 started ======
+====== dotty (scala) [default], iteration 205 completed (805.902 ms) ======
+====== dotty (scala) [default], iteration 206 started ======
+====== dotty (scala) [default], iteration 206 completed (814.563 ms) ======
+====== dotty (scala) [default], iteration 207 started ======
+====== dotty (scala) [default], iteration 207 completed (808.338 ms) ======
+====== dotty (scala) [default], iteration 208 started ======
+====== dotty (scala) [default], iteration 208 completed (806.305 ms) ======
+====== dotty (scala) [default], iteration 209 started ======
+====== dotty (scala) [default], iteration 209 completed (796.868 ms) ======
+====== dotty (scala) [default], iteration 210 started ======
+====== dotty (scala) [default], iteration 210 completed (806.339 ms) ======
+====== dotty (scala) [default], iteration 211 started ======
+====== dotty (scala) [default], iteration 211 completed (836.045 ms) ======
+====== dotty (scala) [default], iteration 212 started ======
+====== dotty (scala) [default], iteration 212 completed (806.357 ms) ======
+====== dotty (scala) [default], iteration 213 started ======
+====== dotty (scala) [default], iteration 213 completed (813.733 ms) ======
+====== dotty (scala) [default], iteration 214 started ======
+====== dotty (scala) [default], iteration 214 completed (811.558 ms) ======
+====== dotty (scala) [default], iteration 215 started ======
+====== dotty (scala) [default], iteration 215 completed (809.319 ms) ======
+====== dotty (scala) [default], iteration 216 started ======
+====== dotty (scala) [default], iteration 216 completed (804.604 ms) ======
+====== dotty (scala) [default], iteration 217 started ======
+====== dotty (scala) [default], iteration 217 completed (804.986 ms) ======
+====== dotty (scala) [default], iteration 218 started ======
+====== dotty (scala) [default], iteration 218 completed (803.921 ms) ======
+====== dotty (scala) [default], iteration 219 started ======
+====== dotty (scala) [default], iteration 219 completed (803.594 ms) ======
+====== dotty (scala) [default], iteration 220 started ======
+====== dotty (scala) [default], iteration 220 completed (805.284 ms) ======
+====== dotty (scala) [default], iteration 221 started ======
+====== dotty (scala) [default], iteration 221 completed (816.463 ms) ======
+====== dotty (scala) [default], iteration 222 started ======
+====== dotty (scala) [default], iteration 222 completed (810.286 ms) ======
+====== dotty (scala) [default], iteration 223 started ======
+====== dotty (scala) [default], iteration 223 completed (808.519 ms) ======
+====== dotty (scala) [default], iteration 224 started ======
+====== dotty (scala) [default], iteration 224 completed (817.916 ms) ======
+====== dotty (scala) [default], iteration 225 started ======
+====== dotty (scala) [default], iteration 225 completed (805.124 ms) ======
+====== dotty (scala) [default], iteration 226 started ======
+====== dotty (scala) [default], iteration 226 completed (803.788 ms) ======
+====== dotty (scala) [default], iteration 227 started ======
+====== dotty (scala) [default], iteration 227 completed (804.875 ms) ======
+====== dotty (scala) [default], iteration 228 started ======
+====== dotty (scala) [default], iteration 228 completed (803.062 ms) ======
+====== dotty (scala) [default], iteration 229 started ======
+====== dotty (scala) [default], iteration 229 completed (807.307 ms) ======
+====== dotty (scala) [default], iteration 230 started ======
+====== dotty (scala) [default], iteration 230 completed (802.856 ms) ======
+====== dotty (scala) [default], iteration 231 started ======
+====== dotty (scala) [default], iteration 231 completed (803.678 ms) ======
+====== dotty (scala) [default], iteration 232 started ======
+====== dotty (scala) [default], iteration 232 completed (804.996 ms) ======
+====== dotty (scala) [default], iteration 233 started ======
+====== dotty (scala) [default], iteration 233 completed (814.050 ms) ======
+====== dotty (scala) [default], iteration 234 started ======
+====== dotty (scala) [default], iteration 234 completed (809.422 ms) ======
+====== dotty (scala) [default], iteration 235 started ======
+====== dotty (scala) [default], iteration 235 completed (805.795 ms) ======
+====== dotty (scala) [default], iteration 236 started ======
+====== dotty (scala) [default], iteration 236 completed (1548.020 ms) ======
+====== dotty (scala) [default], iteration 237 started ======
+====== dotty (scala) [default], iteration 237 completed (822.940 ms) ======
+====== dotty (scala) [default], iteration 238 started ======
+====== dotty (scala) [default], iteration 238 completed (808.002 ms) ======
+====== dotty (scala) [default], iteration 239 started ======
+====== dotty (scala) [default], iteration 239 completed (815.014 ms) ======
+====== dotty (scala) [default], iteration 240 started ======
+====== dotty (scala) [default], iteration 240 completed (815.520 ms) ======
+====== dotty (scala) [default], iteration 241 started ======
+====== dotty (scala) [default], iteration 241 completed (809.744 ms) ======
+====== dotty (scala) [default], iteration 242 started ======
+====== dotty (scala) [default], iteration 242 completed (803.470 ms) ======
+====== dotty (scala) [default], iteration 243 started ======
+====== dotty (scala) [default], iteration 243 completed (801.825 ms) ======
+====== dotty (scala) [default], iteration 244 started ======
+====== dotty (scala) [default], iteration 244 completed (836.604 ms) ======
+====== dotty (scala) [default], iteration 245 started ======
+====== dotty (scala) [default], iteration 245 completed (808.972 ms) ======
+====== dotty (scala) [default], iteration 246 started ======
+====== dotty (scala) [default], iteration 246 completed (803.453 ms) ======
+====== dotty (scala) [default], iteration 247 started ======
+====== dotty (scala) [default], iteration 247 completed (800.454 ms) ======
+====== dotty (scala) [default], iteration 248 started ======
+====== dotty (scala) [default], iteration 248 completed (801.341 ms) ======
+====== dotty (scala) [default], iteration 249 started ======
+====== dotty (scala) [default], iteration 249 completed (803.623 ms) ======
+====== dotty (scala) [default], iteration 250 started ======
+====== dotty (scala) [default], iteration 250 completed (812.757 ms) ======
+====== dotty (scala) [default], iteration 251 started ======
+====== dotty (scala) [default], iteration 251 completed (802.584 ms) ======
+====== dotty (scala) [default], iteration 252 started ======
+====== dotty (scala) [default], iteration 252 completed (802.379 ms) ======
+====== dotty (scala) [default], iteration 253 started ======
+====== dotty (scala) [default], iteration 253 completed (803.149 ms) ======
+====== dotty (scala) [default], iteration 254 started ======
+====== dotty (scala) [default], iteration 254 completed (802.798 ms) ======
+====== dotty (scala) [default], iteration 255 started ======
+====== dotty (scala) [default], iteration 255 completed (838.360 ms) ======
+====== dotty (scala) [default], iteration 256 started ======
+====== dotty (scala) [default], iteration 256 completed (815.930 ms) ======
+====== dotty (scala) [default], iteration 257 started ======
+====== dotty (scala) [default], iteration 257 completed (807.351 ms) ======
+====== dotty (scala) [default], iteration 258 started ======
+====== dotty (scala) [default], iteration 258 completed (804.854 ms) ======
+====== dotty (scala) [default], iteration 259 started ======
+====== dotty (scala) [default], iteration 259 completed (809.935 ms) ======
+====== dotty (scala) [default], iteration 260 started ======
+====== dotty (scala) [default], iteration 260 completed (801.823 ms) ======
+====== dotty (scala) [default], iteration 261 started ======
+====== dotty (scala) [default], iteration 261 completed (800.803 ms) ======
+====== dotty (scala) [default], iteration 262 started ======
+====== dotty (scala) [default], iteration 262 completed (805.694 ms) ======
+====== dotty (scala) [default], iteration 263 started ======
+====== dotty (scala) [default], iteration 263 completed (800.514 ms) ======
+====== dotty (scala) [default], iteration 264 started ======
+====== dotty (scala) [default], iteration 264 completed (799.399 ms) ======
+====== dotty (scala) [default], iteration 265 started ======
+====== dotty (scala) [default], iteration 265 completed (801.493 ms) ======
+====== dotty (scala) [default], iteration 266 started ======
+====== dotty (scala) [default], iteration 266 completed (801.253 ms) ======
+====== dotty (scala) [default], iteration 267 started ======
+====== dotty (scala) [default], iteration 267 completed (801.187 ms) ======
+====== dotty (scala) [default], iteration 268 started ======
+====== dotty (scala) [default], iteration 268 completed (836.457 ms) ======
+====== dotty (scala) [default], iteration 269 started ======
+====== dotty (scala) [default], iteration 269 completed (803.115 ms) ======
+====== dotty (scala) [default], iteration 270 started ======
+====== dotty (scala) [default], iteration 270 completed (799.565 ms) ======
+====== dotty (scala) [default], iteration 271 started ======
+====== dotty (scala) [default], iteration 271 completed (805.089 ms) ======
+====== dotty (scala) [default], iteration 272 started ======
+====== dotty (scala) [default], iteration 272 completed (800.217 ms) ======
+====== dotty (scala) [default], iteration 273 started ======
+====== dotty (scala) [default], iteration 273 completed (800.530 ms) ======
+====== dotty (scala) [default], iteration 274 started ======
+====== dotty (scala) [default], iteration 274 completed (800.570 ms) ======
+====== dotty (scala) [default], iteration 275 started ======
+====== dotty (scala) [default], iteration 275 completed (800.628 ms) ======
+====== dotty (scala) [default], iteration 276 started ======
+====== dotty (scala) [default], iteration 276 completed (801.790 ms) ======
+====== dotty (scala) [default], iteration 277 started ======
+====== dotty (scala) [default], iteration 277 completed (813.884 ms) ======
+====== dotty (scala) [default], iteration 278 started ======
+====== dotty (scala) [default], iteration 278 completed (801.161 ms) ======
+====== dotty (scala) [default], iteration 279 started ======
+====== dotty (scala) [default], iteration 279 completed (801.890 ms) ======
+====== dotty (scala) [default], iteration 280 started ======
+====== dotty (scala) [default], iteration 280 completed (799.766 ms) ======
+====== dotty (scala) [default], iteration 281 started ======
+====== dotty (scala) [default], iteration 281 completed (836.693 ms) ======
+====== dotty (scala) [default], iteration 282 started ======
+====== dotty (scala) [default], iteration 282 completed (813.433 ms) ======
+====== dotty (scala) [default], iteration 283 started ======
+====== dotty (scala) [default], iteration 283 completed (800.726 ms) ======
+====== dotty (scala) [default], iteration 284 started ======
+====== dotty (scala) [default], iteration 284 completed (802.849 ms) ======
+====== dotty (scala) [default], iteration 285 started ======
+====== dotty (scala) [default], iteration 285 completed (1577.819 ms) ======
+====== dotty (scala) [default], iteration 286 started ======
+====== dotty (scala) [default], iteration 286 completed (795.771 ms) ======
+====== dotty (scala) [default], iteration 287 started ======
+====== dotty (scala) [default], iteration 287 completed (804.262 ms) ======
+====== dotty (scala) [default], iteration 288 started ======
+====== dotty (scala) [default], iteration 288 completed (801.086 ms) ======
+====== dotty (scala) [default], iteration 289 started ======
+====== dotty (scala) [default], iteration 289 completed (801.571 ms) ======
+====== dotty (scala) [default], iteration 290 started ======
+====== dotty (scala) [default], iteration 290 completed (806.549 ms) ======
+====== dotty (scala) [default], iteration 291 started ======
+====== dotty (scala) [default], iteration 291 completed (821.328 ms) ======
+====== dotty (scala) [default], iteration 292 started ======
+====== dotty (scala) [default], iteration 292 completed (810.062 ms) ======
+====== dotty (scala) [default], iteration 293 started ======
+====== dotty (scala) [default], iteration 293 completed (808.219 ms) ======
+====== dotty (scala) [default], iteration 294 started ======
+====== dotty (scala) [default], iteration 294 completed (812.494 ms) ======
+====== dotty (scala) [default], iteration 295 started ======
+====== dotty (scala) [default], iteration 295 completed (811.473 ms) ======
+====== dotty (scala) [default], iteration 296 started ======
+====== dotty (scala) [default], iteration 296 completed (806.107 ms) ======
+====== dotty (scala) [default], iteration 297 started ======
+====== dotty (scala) [default], iteration 297 completed (798.227 ms) ======
+====== dotty (scala) [default], iteration 298 started ======
+====== dotty (scala) [default], iteration 298 completed (819.422 ms) ======
+====== dotty (scala) [default], iteration 299 started ======
+====== dotty (scala) [default], iteration 299 completed (800.888 ms) ======
+====== dotty (scala) [default], iteration 300 started ======
+====== dotty (scala) [default], iteration 300 completed (799.512 ms) ======
+====== dotty (scala) [default], iteration 301 started ======
+====== dotty (scala) [default], iteration 301 completed (800.351 ms) ======
+====== dotty (scala) [default], iteration 302 started ======
+====== dotty (scala) [default], iteration 302 completed (804.808 ms) ======
+====== dotty (scala) [default], iteration 303 started ======
+====== dotty (scala) [default], iteration 303 completed (798.212 ms) ======
+====== dotty (scala) [default], iteration 304 started ======
+====== dotty (scala) [default], iteration 304 completed (806.073 ms) ======
+====== dotty (scala) [default], iteration 305 started ======
+====== dotty (scala) [default], iteration 305 completed (811.455 ms) ======
+====== dotty (scala) [default], iteration 306 started ======
+====== dotty (scala) [default], iteration 306 completed (799.951 ms) ======
+====== dotty (scala) [default], iteration 307 started ======
+====== dotty (scala) [default], iteration 307 completed (796.907 ms) ======
+====== dotty (scala) [default], iteration 308 started ======
+====== dotty (scala) [default], iteration 308 completed (798.890 ms) ======
+====== dotty (scala) [default], iteration 309 started ======
+====== dotty (scala) [default], iteration 309 completed (808.736 ms) ======
+====== dotty (scala) [default], iteration 310 started ======
+====== dotty (scala) [default], iteration 310 completed (809.173 ms) ======
+====== dotty (scala) [default], iteration 311 started ======
+====== dotty (scala) [default], iteration 311 completed (801.480 ms) ======
+====== dotty (scala) [default], iteration 312 started ======
+====== dotty (scala) [default], iteration 312 completed (799.215 ms) ======
+====== dotty (scala) [default], iteration 313 started ======
+====== dotty (scala) [default], iteration 313 completed (809.964 ms) ======
+====== dotty (scala) [default], iteration 314 started ======
+====== dotty (scala) [default], iteration 314 completed (803.864 ms) ======
+====== dotty (scala) [default], iteration 315 started ======
+====== dotty (scala) [default], iteration 315 completed (798.036 ms) ======
+====== dotty (scala) [default], iteration 316 started ======
+====== dotty (scala) [default], iteration 316 completed (810.035 ms) ======
+====== dotty (scala) [default], iteration 317 started ======
+====== dotty (scala) [default], iteration 317 completed (797.081 ms) ======
+====== dotty (scala) [default], iteration 318 started ======
+====== dotty (scala) [default], iteration 318 completed (797.242 ms) ======
+====== dotty (scala) [default], iteration 319 started ======
+====== dotty (scala) [default], iteration 319 completed (805.851 ms) ======
+====== dotty (scala) [default], iteration 320 started ======
+====== dotty (scala) [default], iteration 320 completed (809.760 ms) ======
+====== dotty (scala) [default], iteration 321 started ======
+====== dotty (scala) [default], iteration 321 completed (800.399 ms) ======
+====== dotty (scala) [default], iteration 322 started ======
+====== dotty (scala) [default], iteration 322 completed (800.375 ms) ======
+====== dotty (scala) [default], iteration 323 started ======
+====== dotty (scala) [default], iteration 323 completed (798.008 ms) ======
+====== dotty (scala) [default], iteration 324 started ======
+====== dotty (scala) [default], iteration 324 completed (808.716 ms) ======
+====== dotty (scala) [default], iteration 325 started ======
+====== dotty (scala) [default], iteration 325 completed (809.280 ms) ======
+====== dotty (scala) [default], iteration 326 started ======
+====== dotty (scala) [default], iteration 326 completed (800.396 ms) ======
+====== dotty (scala) [default], iteration 327 started ======
+====== dotty (scala) [default], iteration 327 completed (797.476 ms) ======
+====== dotty (scala) [default], iteration 328 started ======
+====== dotty (scala) [default], iteration 328 completed (797.069 ms) ======
+====== dotty (scala) [default], iteration 329 started ======
+====== dotty (scala) [default], iteration 329 completed (797.665 ms) ======
+====== dotty (scala) [default], iteration 330 started ======
+====== dotty (scala) [default], iteration 330 completed (797.385 ms) ======
+====== dotty (scala) [default], iteration 331 started ======
+====== dotty (scala) [default], iteration 331 completed (797.175 ms) ======
+====== dotty (scala) [default], iteration 332 started ======
+====== dotty (scala) [default], iteration 332 completed (797.900 ms) ======
+====== dotty (scala) [default], iteration 333 started ======
+====== dotty (scala) [default], iteration 333 completed (800.511 ms) ======
+====== dotty (scala) [default], iteration 334 started ======
+====== dotty (scala) [default], iteration 334 completed (1569.998 ms) ======
+====== dotty (scala) [default], iteration 335 started ======
+====== dotty (scala) [default], iteration 335 completed (811.156 ms) ======
+====== dotty (scala) [default], iteration 336 started ======
+====== dotty (scala) [default], iteration 336 completed (801.744 ms) ======
+====== dotty (scala) [default], iteration 337 started ======
+====== dotty (scala) [default], iteration 337 completed (796.845 ms) ======
+====== dotty (scala) [default], iteration 338 started ======
+====== dotty (scala) [default], iteration 338 completed (799.001 ms) ======
+====== dotty (scala) [default], iteration 339 started ======
+====== dotty (scala) [default], iteration 339 completed (797.533 ms) ======
+====== dotty (scala) [default], iteration 340 started ======
+====== dotty (scala) [default], iteration 340 completed (796.408 ms) ======
+====== dotty (scala) [default], iteration 341 started ======
+====== dotty (scala) [default], iteration 341 completed (799.051 ms) ======
+====== dotty (scala) [default], iteration 342 started ======
+====== dotty (scala) [default], iteration 342 completed (805.627 ms) ======
+====== dotty (scala) [default], iteration 343 started ======
+====== dotty (scala) [default], iteration 343 completed (801.713 ms) ======
+====== dotty (scala) [default], iteration 344 started ======
+====== dotty (scala) [default], iteration 344 completed (803.638 ms) ======
+====== dotty (scala) [default], iteration 345 started ======
+====== dotty (scala) [default], iteration 345 completed (806.854 ms) ======
+====== dotty (scala) [default], iteration 346 started ======
+====== dotty (scala) [default], iteration 346 completed (797.783 ms) ======
+====== dotty (scala) [default], iteration 347 started ======
+====== dotty (scala) [default], iteration 347 completed (800.129 ms) ======
+====== dotty (scala) [default], iteration 348 started ======
+====== dotty (scala) [default], iteration 348 completed (797.618 ms) ======
+====== dotty (scala) [default], iteration 349 started ======
+====== dotty (scala) [default], iteration 349 completed (802.645 ms) ======
+====== dotty (scala) [default], iteration 350 started ======
+====== dotty (scala) [default], iteration 350 completed (798.292 ms) ======
+====== dotty (scala) [default], iteration 351 started ======
+====== dotty (scala) [default], iteration 351 completed (798.797 ms) ======
+====== dotty (scala) [default], iteration 352 started ======
+====== dotty (scala) [default], iteration 352 completed (799.462 ms) ======
+====== dotty (scala) [default], iteration 353 started ======
+====== dotty (scala) [default], iteration 353 completed (796.751 ms) ======
+====== dotty (scala) [default], iteration 354 started ======
+====== dotty (scala) [default], iteration 354 completed (797.226 ms) ======
+====== dotty (scala) [default], iteration 355 started ======
+====== dotty (scala) [default], iteration 355 completed (799.032 ms) ======
+====== dotty (scala) [default], iteration 356 started ======
+====== dotty (scala) [default], iteration 356 completed (802.103 ms) ======
+====== dotty (scala) [default], iteration 357 started ======
+====== dotty (scala) [default], iteration 357 completed (795.936 ms) ======
+====== dotty (scala) [default], iteration 358 started ======
+====== dotty (scala) [default], iteration 358 completed (806.642 ms) ======
+====== dotty (scala) [default], iteration 359 started ======
+====== dotty (scala) [default], iteration 359 completed (796.490 ms) ======
+====== dotty (scala) [default], iteration 360 started ======
+====== dotty (scala) [default], iteration 360 completed (796.685 ms) ======
+====== dotty (scala) [default], iteration 361 started ======
+====== dotty (scala) [default], iteration 361 completed (795.730 ms) ======
+====== dotty (scala) [default], iteration 362 started ======
+====== dotty (scala) [default], iteration 362 completed (833.718 ms) ======
+====== dotty (scala) [default], iteration 363 started ======
+====== dotty (scala) [default], iteration 363 completed (798.586 ms) ======
+====== dotty (scala) [default], iteration 364 started ======
+====== dotty (scala) [default], iteration 364 completed (796.788 ms) ======
+====== dotty (scala) [default], iteration 365 started ======
+====== dotty (scala) [default], iteration 365 completed (808.602 ms) ======
+====== dotty (scala) [default], iteration 366 started ======
+====== dotty (scala) [default], iteration 366 completed (799.444 ms) ======

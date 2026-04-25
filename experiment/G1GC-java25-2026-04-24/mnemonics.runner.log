@@ -1,0 +1,386 @@
+>>> Starting benchmark: mnemonics
+>>> GC: G1GC
+>>> Duration: 600s
+>>> Base dir: G1GC-java25-2026-04-24
+>>> Output dir: G1GC-java25-2026-04-24/mnemonics
+WARNING: A terminally deprecated method in sun.misc.Unsafe has been called
+WARNING: sun.misc.Unsafe::objectFieldOffset has been called by scala.runtime.LazyVals$ (resource:/shared/scala3-library_3-3.3.4.jar)
+WARNING: Please consider reporting this to the maintainers of class scala.runtime.LazyVals$
+WARNING: sun.misc.Unsafe::objectFieldOffset will be removed in a future release
+[jmx-memory plugin] WARNING: Unknown garbage collector G1 Concurrent GC.
+====== mnemonics (functional) [default], iteration 0 started ======
+====== mnemonics (functional) [default], iteration 0 completed (4742.784 ms) ======
+====== mnemonics (functional) [default], iteration 1 started ======
+====== mnemonics (functional) [default], iteration 1 completed (5818.634 ms) ======
+====== mnemonics (functional) [default], iteration 2 started ======
+====== mnemonics (functional) [default], iteration 2 completed (2958.182 ms) ======
+====== mnemonics (functional) [default], iteration 3 started ======
+====== mnemonics (functional) [default], iteration 3 completed (3019.632 ms) ======
+====== mnemonics (functional) [default], iteration 4 started ======
+====== mnemonics (functional) [default], iteration 4 completed (2958.011 ms) ======
+====== mnemonics (functional) [default], iteration 5 started ======
+====== mnemonics (functional) [default], iteration 5 completed (3004.329 ms) ======
+====== mnemonics (functional) [default], iteration 6 started ======
+====== mnemonics (functional) [default], iteration 6 completed (3020.898 ms) ======
+====== mnemonics (functional) [default], iteration 7 started ======
+====== mnemonics (functional) [default], iteration 7 completed (2953.012 ms) ======
+====== mnemonics (functional) [default], iteration 8 started ======
+====== mnemonics (functional) [default], iteration 8 completed (3002.679 ms) ======
+====== mnemonics (functional) [default], iteration 9 started ======
+====== mnemonics (functional) [default], iteration 9 completed (3005.108 ms) ======
+====== mnemonics (functional) [default], iteration 10 started ======
+====== mnemonics (functional) [default], iteration 10 completed (2959.581 ms) ======
+====== mnemonics (functional) [default], iteration 11 started ======
+====== mnemonics (functional) [default], iteration 11 completed (3008.559 ms) ======
+====== mnemonics (functional) [default], iteration 12 started ======
+====== mnemonics (functional) [default], iteration 12 completed (3008.546 ms) ======
+====== mnemonics (functional) [default], iteration 13 started ======
+====== mnemonics (functional) [default], iteration 13 completed (2963.135 ms) ======
+====== mnemonics (functional) [default], iteration 14 started ======
+====== mnemonics (functional) [default], iteration 14 completed (3019.850 ms) ======
+====== mnemonics (functional) [default], iteration 15 started ======
+====== mnemonics (functional) [default], iteration 15 completed (3019.315 ms) ======
+====== mnemonics (functional) [default], iteration 16 started ======
+====== mnemonics (functional) [default], iteration 16 completed (2960.027 ms) ======
+====== mnemonics (functional) [default], iteration 17 started ======
+====== mnemonics (functional) [default], iteration 17 completed (3024.029 ms) ======
+====== mnemonics (functional) [default], iteration 18 started ======
+====== mnemonics (functional) [default], iteration 18 completed (2959.284 ms) ======
+====== mnemonics (functional) [default], iteration 19 started ======
+====== mnemonics (functional) [default], iteration 19 completed (3012.719 ms) ======
+====== mnemonics (functional) [default], iteration 20 started ======
+====== mnemonics (functional) [default], iteration 20 completed (3018.784 ms) ======
+====== mnemonics (functional) [default], iteration 21 started ======
+====== mnemonics (functional) [default], iteration 21 completed (2955.345 ms) ======
+====== mnemonics (functional) [default], iteration 22 started ======
+====== mnemonics (functional) [default], iteration 22 completed (2985.112 ms) ======
+====== mnemonics (functional) [default], iteration 23 started ======
+====== mnemonics (functional) [default], iteration 23 completed (2989.677 ms) ======
+====== mnemonics (functional) [default], iteration 24 started ======
+====== mnemonics (functional) [default], iteration 24 completed (2969.474 ms) ======
+====== mnemonics (functional) [default], iteration 25 started ======
+====== mnemonics (functional) [default], iteration 25 completed (3005.902 ms) ======
+====== mnemonics (functional) [default], iteration 26 started ======
+====== mnemonics (functional) [default], iteration 26 completed (2993.982 ms) ======
+====== mnemonics (functional) [default], iteration 27 started ======
+====== mnemonics (functional) [default], iteration 27 completed (2962.128 ms) ======
+====== mnemonics (functional) [default], iteration 28 started ======
+====== mnemonics (functional) [default], iteration 28 completed (3005.329 ms) ======
+====== mnemonics (functional) [default], iteration 29 started ======
+====== mnemonics (functional) [default], iteration 29 completed (2994.091 ms) ======
+====== mnemonics (functional) [default], iteration 30 started ======
+====== mnemonics (functional) [default], iteration 30 completed (2955.953 ms) ======
+====== mnemonics (functional) [default], iteration 31 started ======
+====== mnemonics (functional) [default], iteration 31 completed (2991.740 ms) ======
+====== mnemonics (functional) [default], iteration 32 started ======
+====== mnemonics (functional) [default], iteration 32 completed (2951.253 ms) ======
+====== mnemonics (functional) [default], iteration 33 started ======
+====== mnemonics (functional) [default], iteration 33 completed (2989.485 ms) ======
+====== mnemonics (functional) [default], iteration 34 started ======
+====== mnemonics (functional) [default], iteration 34 completed (2995.977 ms) ======
+====== mnemonics (functional) [default], iteration 35 started ======
+====== mnemonics (functional) [default], iteration 35 completed (2954.633 ms) ======
+====== mnemonics (functional) [default], iteration 36 started ======
+====== mnemonics (functional) [default], iteration 36 completed (2996.799 ms) ======
+====== mnemonics (functional) [default], iteration 37 started ======
+====== mnemonics (functional) [default], iteration 37 completed (2999.271 ms) ======
+====== mnemonics (functional) [default], iteration 38 started ======
+====== mnemonics (functional) [default], iteration 38 completed (2952.547 ms) ======
+====== mnemonics (functional) [default], iteration 39 started ======
+====== mnemonics (functional) [default], iteration 39 completed (2994.100 ms) ======
+====== mnemonics (functional) [default], iteration 40 started ======
+====== mnemonics (functional) [default], iteration 40 completed (2987.421 ms) ======
+====== mnemonics (functional) [default], iteration 41 started ======
+====== mnemonics (functional) [default], iteration 41 completed (2954.630 ms) ======
+====== mnemonics (functional) [default], iteration 42 started ======
+====== mnemonics (functional) [default], iteration 42 completed (2992.176 ms) ======
+====== mnemonics (functional) [default], iteration 43 started ======
+====== mnemonics (functional) [default], iteration 43 completed (2966.896 ms) ======
+====== mnemonics (functional) [default], iteration 44 started ======
+====== mnemonics (functional) [default], iteration 44 completed (2992.887 ms) ======
+====== mnemonics (functional) [default], iteration 45 started ======
+====== mnemonics (functional) [default], iteration 45 completed (2997.119 ms) ======
+====== mnemonics (functional) [default], iteration 46 started ======
+====== mnemonics (functional) [default], iteration 46 completed (2954.302 ms) ======
+====== mnemonics (functional) [default], iteration 47 started ======
+====== mnemonics (functional) [default], iteration 47 completed (2985.951 ms) ======
+====== mnemonics (functional) [default], iteration 48 started ======
+====== mnemonics (functional) [default], iteration 48 completed (2993.778 ms) ======
+====== mnemonics (functional) [default], iteration 49 started ======
+====== mnemonics (functional) [default], iteration 49 completed (2952.272 ms) ======
+====== mnemonics (functional) [default], iteration 50 started ======
+====== mnemonics (functional) [default], iteration 50 completed (2992.235 ms) ======
+====== mnemonics (functional) [default], iteration 51 started ======
+====== mnemonics (functional) [default], iteration 51 completed (2996.341 ms) ======
+====== mnemonics (functional) [default], iteration 52 started ======
+====== mnemonics (functional) [default], iteration 52 completed (2957.653 ms) ======
+====== mnemonics (functional) [default], iteration 53 started ======
+====== mnemonics (functional) [default], iteration 53 completed (2994.559 ms) ======
+====== mnemonics (functional) [default], iteration 54 started ======
+====== mnemonics (functional) [default], iteration 54 completed (2995.868 ms) ======
+====== mnemonics (functional) [default], iteration 55 started ======
+====== mnemonics (functional) [default], iteration 55 completed (2950.955 ms) ======
+====== mnemonics (functional) [default], iteration 56 started ======
+====== mnemonics (functional) [default], iteration 56 completed (2991.754 ms) ======
+====== mnemonics (functional) [default], iteration 57 started ======
+====== mnemonics (functional) [default], iteration 57 completed (2946.501 ms) ======
+====== mnemonics (functional) [default], iteration 58 started ======
+====== mnemonics (functional) [default], iteration 58 completed (2988.542 ms) ======
+====== mnemonics (functional) [default], iteration 59 started ======
+====== mnemonics (functional) [default], iteration 59 completed (2988.436 ms) ======
+====== mnemonics (functional) [default], iteration 60 started ======
+====== mnemonics (functional) [default], iteration 60 completed (2948.364 ms) ======
+====== mnemonics (functional) [default], iteration 61 started ======
+====== mnemonics (functional) [default], iteration 61 completed (3005.937 ms) ======
+====== mnemonics (functional) [default], iteration 62 started ======
+====== mnemonics (functional) [default], iteration 62 completed (3000.788 ms) ======
+====== mnemonics (functional) [default], iteration 63 started ======
+====== mnemonics (functional) [default], iteration 63 completed (2954.601 ms) ======
+====== mnemonics (functional) [default], iteration 64 started ======
+====== mnemonics (functional) [default], iteration 64 completed (2989.290 ms) ======
+====== mnemonics (functional) [default], iteration 65 started ======
+====== mnemonics (functional) [default], iteration 65 completed (2988.534 ms) ======
+====== mnemonics (functional) [default], iteration 66 started ======
+====== mnemonics (functional) [default], iteration 66 completed (2959.995 ms) ======
+====== mnemonics (functional) [default], iteration 67 started ======
+====== mnemonics (functional) [default], iteration 67 completed (2995.452 ms) ======
+====== mnemonics (functional) [default], iteration 68 started ======
+====== mnemonics (functional) [default], iteration 68 completed (2995.422 ms) ======
+====== mnemonics (functional) [default], iteration 69 started ======
+====== mnemonics (functional) [default], iteration 69 completed (2955.579 ms) ======
+====== mnemonics (functional) [default], iteration 70 started ======
+====== mnemonics (functional) [default], iteration 70 completed (2996.233 ms) ======
+====== mnemonics (functional) [default], iteration 71 started ======
+====== mnemonics (functional) [default], iteration 71 completed (2956.869 ms) ======
+====== mnemonics (functional) [default], iteration 72 started ======
+====== mnemonics (functional) [default], iteration 72 completed (2987.883 ms) ======
+====== mnemonics (functional) [default], iteration 73 started ======
+====== mnemonics (functional) [default], iteration 73 completed (2998.036 ms) ======
+====== mnemonics (functional) [default], iteration 74 started ======
+====== mnemonics (functional) [default], iteration 74 completed (2955.573 ms) ======
+====== mnemonics (functional) [default], iteration 75 started ======
+====== mnemonics (functional) [default], iteration 75 completed (2990.301 ms) ======
+====== mnemonics (functional) [default], iteration 76 started ======
+====== mnemonics (functional) [default], iteration 76 completed (2985.863 ms) ======
+====== mnemonics (functional) [default], iteration 77 started ======
+====== mnemonics (functional) [default], iteration 77 completed (2951.538 ms) ======
+====== mnemonics (functional) [default], iteration 78 started ======
+====== mnemonics (functional) [default], iteration 78 completed (2992.911 ms) ======
+====== mnemonics (functional) [default], iteration 79 started ======
+====== mnemonics (functional) [default], iteration 79 completed (2996.131 ms) ======
+====== mnemonics (functional) [default], iteration 80 started ======
+====== mnemonics (functional) [default], iteration 80 completed (2973.006 ms) ======
+====== mnemonics (functional) [default], iteration 81 started ======
+====== mnemonics (functional) [default], iteration 81 completed (2991.987 ms) ======
+====== mnemonics (functional) [default], iteration 82 started ======
+====== mnemonics (functional) [default], iteration 82 completed (2991.850 ms) ======
+====== mnemonics (functional) [default], iteration 83 started ======
+====== mnemonics (functional) [default], iteration 83 completed (2955.733 ms) ======
+====== mnemonics (functional) [default], iteration 84 started ======
+====== mnemonics (functional) [default], iteration 84 completed (2990.882 ms) ======
+====== mnemonics (functional) [default], iteration 85 started ======
+====== mnemonics (functional) [default], iteration 85 completed (2951.156 ms) ======
+====== mnemonics (functional) [default], iteration 86 started ======
+====== mnemonics (functional) [default], iteration 86 completed (2991.785 ms) ======
+====== mnemonics (functional) [default], iteration 87 started ======
+====== mnemonics (functional) [default], iteration 87 completed (2993.182 ms) ======
+====== mnemonics (functional) [default], iteration 88 started ======
+====== mnemonics (functional) [default], iteration 88 completed (2947.459 ms) ======
+====== mnemonics (functional) [default], iteration 89 started ======
+====== mnemonics (functional) [default], iteration 89 completed (3002.336 ms) ======
+====== mnemonics (functional) [default], iteration 90 started ======
+====== mnemonics (functional) [default], iteration 90 completed (2990.728 ms) ======
+====== mnemonics (functional) [default], iteration 91 started ======
+====== mnemonics (functional) [default], iteration 91 completed (2956.368 ms) ======
+====== mnemonics (functional) [default], iteration 92 started ======
+====== mnemonics (functional) [default], iteration 92 completed (2993.938 ms) ======
+====== mnemonics (functional) [default], iteration 93 started ======
+====== mnemonics (functional) [default], iteration 93 completed (2996.356 ms) ======
+====== mnemonics (functional) [default], iteration 94 started ======
+====== mnemonics (functional) [default], iteration 94 completed (2959.744 ms) ======
+====== mnemonics (functional) [default], iteration 95 started ======
+====== mnemonics (functional) [default], iteration 95 completed (2994.137 ms) ======
+====== mnemonics (functional) [default], iteration 96 started ======
+====== mnemonics (functional) [default], iteration 96 completed (2987.115 ms) ======
+====== mnemonics (functional) [default], iteration 97 started ======
+====== mnemonics (functional) [default], iteration 97 completed (2951.266 ms) ======
+====== mnemonics (functional) [default], iteration 98 started ======
+====== mnemonics (functional) [default], iteration 98 completed (2989.377 ms) ======
+====== mnemonics (functional) [default], iteration 99 started ======
+====== mnemonics (functional) [default], iteration 99 completed (2960.198 ms) ======
+====== mnemonics (functional) [default], iteration 100 started ======
+====== mnemonics (functional) [default], iteration 100 completed (2988.137 ms) ======
+====== mnemonics (functional) [default], iteration 101 started ======
+====== mnemonics (functional) [default], iteration 101 completed (2993.935 ms) ======
+====== mnemonics (functional) [default], iteration 102 started ======
+====== mnemonics (functional) [default], iteration 102 completed (2950.119 ms) ======
+====== mnemonics (functional) [default], iteration 103 started ======
+====== mnemonics (functional) [default], iteration 103 completed (2997.996 ms) ======
+====== mnemonics (functional) [default], iteration 104 started ======
+====== mnemonics (functional) [default], iteration 104 completed (2994.360 ms) ======
+====== mnemonics (functional) [default], iteration 105 started ======
+====== mnemonics (functional) [default], iteration 105 completed (2953.906 ms) ======
+====== mnemonics (functional) [default], iteration 106 started ======
+====== mnemonics (functional) [default], iteration 106 completed (2989.088 ms) ======
+====== mnemonics (functional) [default], iteration 107 started ======
+====== mnemonics (functional) [default], iteration 107 completed (2993.672 ms) ======
+====== mnemonics (functional) [default], iteration 108 started ======
+====== mnemonics (functional) [default], iteration 108 completed (2965.645 ms) ======
+====== mnemonics (functional) [default], iteration 109 started ======
+====== mnemonics (functional) [default], iteration 109 completed (2998.550 ms) ======
+====== mnemonics (functional) [default], iteration 110 started ======
+====== mnemonics (functional) [default], iteration 110 completed (2954.460 ms) ======
+====== mnemonics (functional) [default], iteration 111 started ======
+====== mnemonics (functional) [default], iteration 111 completed (2997.238 ms) ======
+====== mnemonics (functional) [default], iteration 112 started ======
+====== mnemonics (functional) [default], iteration 112 completed (2989.802 ms) ======
+====== mnemonics (functional) [default], iteration 113 started ======
+====== mnemonics (functional) [default], iteration 113 completed (2950.395 ms) ======
+====== mnemonics (functional) [default], iteration 114 started ======
+====== mnemonics (functional) [default], iteration 114 completed (2983.137 ms) ======
+====== mnemonics (functional) [default], iteration 115 started ======
+====== mnemonics (functional) [default], iteration 115 completed (2989.423 ms) ======
+====== mnemonics (functional) [default], iteration 116 started ======
+====== mnemonics (functional) [default], iteration 116 completed (2965.575 ms) ======
+====== mnemonics (functional) [default], iteration 117 started ======
+====== mnemonics (functional) [default], iteration 117 completed (3001.206 ms) ======
+====== mnemonics (functional) [default], iteration 118 started ======
+====== mnemonics (functional) [default], iteration 118 completed (3007.139 ms) ======
+====== mnemonics (functional) [default], iteration 119 started ======
+====== mnemonics (functional) [default], iteration 119 completed (2956.230 ms) ======
+====== mnemonics (functional) [default], iteration 120 started ======
+====== mnemonics (functional) [default], iteration 120 completed (2989.775 ms) ======
+====== mnemonics (functional) [default], iteration 121 started ======
+====== mnemonics (functional) [default], iteration 121 completed (2985.031 ms) ======
+====== mnemonics (functional) [default], iteration 122 started ======
+====== mnemonics (functional) [default], iteration 122 completed (2949.923 ms) ======
+====== mnemonics (functional) [default], iteration 123 started ======
+====== mnemonics (functional) [default], iteration 123 completed (2993.580 ms) ======
+====== mnemonics (functional) [default], iteration 124 started ======
+====== mnemonics (functional) [default], iteration 124 completed (2955.807 ms) ======
+====== mnemonics (functional) [default], iteration 125 started ======
+====== mnemonics (functional) [default], iteration 125 completed (2990.460 ms) ======
+====== mnemonics (functional) [default], iteration 126 started ======
+====== mnemonics (functional) [default], iteration 126 completed (3003.422 ms) ======
+====== mnemonics (functional) [default], iteration 127 started ======
+====== mnemonics (functional) [default], iteration 127 completed (2963.787 ms) ======
+====== mnemonics (functional) [default], iteration 128 started ======
+====== mnemonics (functional) [default], iteration 128 completed (3006.435 ms) ======
+====== mnemonics (functional) [default], iteration 129 started ======
+====== mnemonics (functional) [default], iteration 129 completed (2993.277 ms) ======
+====== mnemonics (functional) [default], iteration 130 started ======
+====== mnemonics (functional) [default], iteration 130 completed (2955.353 ms) ======
+====== mnemonics (functional) [default], iteration 131 started ======
+====== mnemonics (functional) [default], iteration 131 completed (2991.423 ms) ======
+====== mnemonics (functional) [default], iteration 132 started ======
+====== mnemonics (functional) [default], iteration 132 completed (3000.599 ms) ======
+====== mnemonics (functional) [default], iteration 133 started ======
+====== mnemonics (functional) [default], iteration 133 completed (2960.110 ms) ======
+====== mnemonics (functional) [default], iteration 134 started ======
+====== mnemonics (functional) [default], iteration 134 completed (2999.938 ms) ======
+====== mnemonics (functional) [default], iteration 135 started ======
+====== mnemonics (functional) [default], iteration 135 completed (3003.907 ms) ======
+====== mnemonics (functional) [default], iteration 136 started ======
+====== mnemonics (functional) [default], iteration 136 completed (2970.311 ms) ======
+====== mnemonics (functional) [default], iteration 137 started ======
+====== mnemonics (functional) [default], iteration 137 completed (2996.447 ms) ======
+====== mnemonics (functional) [default], iteration 138 started ======
+====== mnemonics (functional) [default], iteration 138 completed (2948.535 ms) ======
+====== mnemonics (functional) [default], iteration 139 started ======
+====== mnemonics (functional) [default], iteration 139 completed (2989.597 ms) ======
+====== mnemonics (functional) [default], iteration 140 started ======
+====== mnemonics (functional) [default], iteration 140 completed (2995.230 ms) ======
+====== mnemonics (functional) [default], iteration 141 started ======
+====== mnemonics (functional) [default], iteration 141 completed (2960.666 ms) ======
+====== mnemonics (functional) [default], iteration 142 started ======
+====== mnemonics (functional) [default], iteration 142 completed (2993.329 ms) ======
+====== mnemonics (functional) [default], iteration 143 started ======
+====== mnemonics (functional) [default], iteration 143 completed (3008.102 ms) ======
+====== mnemonics (functional) [default], iteration 144 started ======
+====== mnemonics (functional) [default], iteration 144 completed (2963.196 ms) ======
+====== mnemonics (functional) [default], iteration 145 started ======
+====== mnemonics (functional) [default], iteration 145 completed (3003.232 ms) ======
+====== mnemonics (functional) [default], iteration 146 started ======
+====== mnemonics (functional) [default], iteration 146 completed (2997.917 ms) ======
+====== mnemonics (functional) [default], iteration 147 started ======
+====== mnemonics (functional) [default], iteration 147 completed (2948.844 ms) ======
+====== mnemonics (functional) [default], iteration 148 started ======
+====== mnemonics (functional) [default], iteration 148 completed (2994.685 ms) ======
+====== mnemonics (functional) [default], iteration 149 started ======
+====== mnemonics (functional) [default], iteration 149 completed (3009.824 ms) ======
+====== mnemonics (functional) [default], iteration 150 started ======
+====== mnemonics (functional) [default], iteration 150 completed (2960.010 ms) ======
+====== mnemonics (functional) [default], iteration 151 started ======
+====== mnemonics (functional) [default], iteration 151 completed (3001.163 ms) ======
+====== mnemonics (functional) [default], iteration 152 started ======
+====== mnemonics (functional) [default], iteration 152 completed (2954.686 ms) ======
+====== mnemonics (functional) [default], iteration 153 started ======
+====== mnemonics (functional) [default], iteration 153 completed (2987.418 ms) ======
+====== mnemonics (functional) [default], iteration 154 started ======
+====== mnemonics (functional) [default], iteration 154 completed (3004.685 ms) ======
+====== mnemonics (functional) [default], iteration 155 started ======
+====== mnemonics (functional) [default], iteration 155 completed (2959.193 ms) ======
+====== mnemonics (functional) [default], iteration 156 started ======
+====== mnemonics (functional) [default], iteration 156 completed (2994.687 ms) ======
+====== mnemonics (functional) [default], iteration 157 started ======
+====== mnemonics (functional) [default], iteration 157 completed (2993.188 ms) ======
+====== mnemonics (functional) [default], iteration 158 started ======
+====== mnemonics (functional) [default], iteration 158 completed (2958.436 ms) ======
+====== mnemonics (functional) [default], iteration 159 started ======
+====== mnemonics (functional) [default], iteration 159 completed (2994.950 ms) ======
+====== mnemonics (functional) [default], iteration 160 started ======
+====== mnemonics (functional) [default], iteration 160 completed (2993.372 ms) ======
+====== mnemonics (functional) [default], iteration 161 started ======
+====== mnemonics (functional) [default], iteration 161 completed (2955.089 ms) ======
+====== mnemonics (functional) [default], iteration 162 started ======
+====== mnemonics (functional) [default], iteration 162 completed (3003.687 ms) ======
+====== mnemonics (functional) [default], iteration 163 started ======
+====== mnemonics (functional) [default], iteration 163 completed (2996.850 ms) ======
+====== mnemonics (functional) [default], iteration 164 started ======
+====== mnemonics (functional) [default], iteration 164 completed (2955.248 ms) ======
+====== mnemonics (functional) [default], iteration 165 started ======
+====== mnemonics (functional) [default], iteration 165 completed (3001.004 ms) ======
+====== mnemonics (functional) [default], iteration 166 started ======
+====== mnemonics (functional) [default], iteration 166 completed (2952.953 ms) ======
+====== mnemonics (functional) [default], iteration 167 started ======
+====== mnemonics (functional) [default], iteration 167 completed (3004.104 ms) ======
+====== mnemonics (functional) [default], iteration 168 started ======
+====== mnemonics (functional) [default], iteration 168 completed (2994.987 ms) ======
+====== mnemonics (functional) [default], iteration 169 started ======
+====== mnemonics (functional) [default], iteration 169 completed (2952.592 ms) ======
+====== mnemonics (functional) [default], iteration 170 started ======
+====== mnemonics (functional) [default], iteration 170 completed (3004.854 ms) ======
+====== mnemonics (functional) [default], iteration 171 started ======
+====== mnemonics (functional) [default], iteration 171 completed (2993.892 ms) ======
+====== mnemonics (functional) [default], iteration 172 started ======
+====== mnemonics (functional) [default], iteration 172 completed (2948.666 ms) ======
+====== mnemonics (functional) [default], iteration 173 started ======
+====== mnemonics (functional) [default], iteration 173 completed (3001.429 ms) ======
+====== mnemonics (functional) [default], iteration 174 started ======
+====== mnemonics (functional) [default], iteration 174 completed (2996.597 ms) ======
+====== mnemonics (functional) [default], iteration 175 started ======
+====== mnemonics (functional) [default], iteration 175 completed (2958.866 ms) ======
+====== mnemonics (functional) [default], iteration 176 started ======
+====== mnemonics (functional) [default], iteration 176 completed (2993.678 ms) ======
+====== mnemonics (functional) [default], iteration 177 started ======
+====== mnemonics (functional) [default], iteration 177 completed (2958.962 ms) ======
+====== mnemonics (functional) [default], iteration 178 started ======
+====== mnemonics (functional) [default], iteration 178 completed (2997.730 ms) ======
+====== mnemonics (functional) [default], iteration 179 started ======
+====== mnemonics (functional) [default], iteration 179 completed (3000.017 ms) ======
+====== mnemonics (functional) [default], iteration 180 started ======
+====== mnemonics (functional) [default], iteration 180 completed (2954.787 ms) ======
+====== mnemonics (functional) [default], iteration 181 started ======
+====== mnemonics (functional) [default], iteration 181 completed (2988.223 ms) ======
+====== mnemonics (functional) [default], iteration 182 started ======
+====== mnemonics (functional) [default], iteration 182 completed (3011.431 ms) ======
+====== mnemonics (functional) [default], iteration 183 started ======
+====== mnemonics (functional) [default], iteration 183 completed (2954.332 ms) ======
+====== mnemonics (functional) [default], iteration 184 started ======
+====== mnemonics (functional) [default], iteration 184 completed (2996.396 ms) ======
+====== mnemonics (functional) [default], iteration 185 started ======
+====== mnemonics (functional) [default], iteration 185 completed (3006.329 ms) ======
+OK: benchmark finished successfully
+CSV : G1GC-java25-2026-04-24/mnemonics/mnemonics.csv
+JSON: G1GC-java25-2026-04-24/mnemonics/mnemonics.json
+GC  : G1GC-java25-2026-04-24/mnemonics/mnemonics.gc.log

@@ -1,0 +1,179 @@
+Benchmarks to run (25): scrabble page-rank future-genetic akka-uct movie-lens scala-doku chi-square fj-kmeans rx-scrabble db-shootout neo4j-analytics finagle-http reactors dec-tree scala-stm-bench7 naive-bayes als par-mnemonics scala-kmeans philosophers log-regression gauss-mix mnemonics dotty finagle-chirper
+Results root: G1GC-java25-2026-04-24
+Per-benchmark duration: 600s
+Per-benchmark timeout: 900s (+120s kill-after)
+
+==================================================================
+[1/25] START scrabble | run=G1GC | at 2026-04-24T16:41:54+00:00
+EXPECTING DONE MARKER: G1GC-java25-2026-04-24/scrabble/DONE
+RUNNER LOG: G1GC-java25-2026-04-24/scrabble.runner.log
+==================================================================
+[1/25] DONE scrabble at 2026-04-24T16:51:57+00:00
+
+==================================================================
+[2/25] START page-rank | run=G1GC | at 2026-04-24T16:51:57+00:00
+EXPECTING DONE MARKER: G1GC-java25-2026-04-24/page-rank/DONE
+RUNNER LOG: G1GC-java25-2026-04-24/page-rank.runner.log
+==================================================================
+[2/25] DONE page-rank at 2026-04-24T17:02:20+00:00
+
+==================================================================
+[3/25] START future-genetic | run=G1GC | at 2026-04-24T17:02:20+00:00
+EXPECTING DONE MARKER: G1GC-java25-2026-04-24/future-genetic/DONE
+RUNNER LOG: G1GC-java25-2026-04-24/future-genetic.runner.log
+==================================================================
+[3/25] DONE future-genetic at 2026-04-24T17:12:25+00:00
+
+==================================================================
+[4/25] START akka-uct | run=G1GC | at 2026-04-24T17:12:25+00:00
+EXPECTING DONE MARKER: G1GC-java25-2026-04-24/akka-uct/DONE
+RUNNER LOG: G1GC-java25-2026-04-24/akka-uct.runner.log
+==================================================================
+[4/25] DONE akka-uct at 2026-04-24T17:22:38+00:00
+
+==================================================================
+[5/25] START movie-lens | run=G1GC | at 2026-04-24T17:22:38+00:00
+EXPECTING DONE MARKER: G1GC-java25-2026-04-24/movie-lens/DONE
+RUNNER LOG: G1GC-java25-2026-04-24/movie-lens.runner.log
+==================================================================
+[5/25] DONE movie-lens at 2026-04-24T17:33:15+00:00
+
+==================================================================
+[6/25] START scala-doku | run=G1GC | at 2026-04-24T17:33:15+00:00
+EXPECTING DONE MARKER: G1GC-java25-2026-04-24/scala-doku/DONE
+RUNNER LOG: G1GC-java25-2026-04-24/scala-doku.runner.log
+==================================================================
+[6/25] DONE scala-doku at 2026-04-24T17:43:21+00:00
+
+==================================================================
+[7/25] START chi-square | run=G1GC | at 2026-04-24T17:43:21+00:00
+EXPECTING DONE MARKER: G1GC-java25-2026-04-24/chi-square/DONE
+RUNNER LOG: G1GC-java25-2026-04-24/chi-square.runner.log
+==================================================================
+[7/25] DONE chi-square at 2026-04-24T17:53:31+00:00
+
+==================================================================
+[8/25] START fj-kmeans | run=G1GC | at 2026-04-24T17:53:31+00:00
+EXPECTING DONE MARKER: G1GC-java25-2026-04-24/fj-kmeans/DONE
+RUNNER LOG: G1GC-java25-2026-04-24/fj-kmeans.runner.log
+==================================================================
+[8/25] DONE fj-kmeans at 2026-04-24T18:03:37+00:00
+
+==================================================================
+[9/25] START rx-scrabble | run=G1GC | at 2026-04-24T18:03:37+00:00
+EXPECTING DONE MARKER: G1GC-java25-2026-04-24/rx-scrabble/DONE
+RUNNER LOG: G1GC-java25-2026-04-24/rx-scrabble.runner.log
+==================================================================
+[9/25] DONE rx-scrabble at 2026-04-24T18:13:40+00:00
+
+==================================================================
+[10/25] START db-shootout | run=G1GC | at 2026-04-24T18:13:40+00:00
+EXPECTING DONE MARKER: G1GC-java25-2026-04-24/db-shootout/DONE
+RUNNER LOG: G1GC-java25-2026-04-24/db-shootout.runner.log
+==================================================================
+[10/25] DONE db-shootout at 2026-04-24T18:24:02+00:00
+
+==================================================================
+[11/25] START neo4j-analytics | run=G1GC | at 2026-04-24T18:24:02+00:00
+EXPECTING DONE MARKER: G1GC-java25-2026-04-24/neo4j-analytics/DONE
+RUNNER LOG: G1GC-java25-2026-04-24/neo4j-analytics.runner.log
+==================================================================
+[11/25] DONE neo4j-analytics at 2026-04-24T18:34:37+00:00
+
+==================================================================
+[12/25] START finagle-http | run=G1GC | at 2026-04-24T18:34:37+00:00
+EXPECTING DONE MARKER: G1GC-java25-2026-04-24/finagle-http/DONE
+RUNNER LOG: G1GC-java25-2026-04-24/finagle-http.runner.log
+==================================================================
+[12/25] DONE finagle-http at 2026-04-24T18:44:46+00:00
+
+==================================================================
+[13/25] START reactors | run=G1GC | at 2026-04-24T18:44:46+00:00
+EXPECTING DONE MARKER: G1GC-java25-2026-04-24/reactors/DONE
+RUNNER LOG: G1GC-java25-2026-04-24/reactors.runner.log
+==================================================================
+[13/25] DONE reactors at 2026-04-24T18:55:04+00:00
+
+==================================================================
+[14/25] START dec-tree | run=G1GC | at 2026-04-24T18:55:04+00:00
+EXPECTING DONE MARKER: G1GC-java25-2026-04-24/dec-tree/DONE
+RUNNER LOG: G1GC-java25-2026-04-24/dec-tree.runner.log
+==================================================================
+[14/25] DONE dec-tree at 2026-04-24T19:05:14+00:00
+
+==================================================================
+[15/25] START scala-stm-bench7 | run=G1GC | at 2026-04-24T19:05:14+00:00
+EXPECTING DONE MARKER: G1GC-java25-2026-04-24/scala-stm-bench7/DONE
+RUNNER LOG: G1GC-java25-2026-04-24/scala-stm-bench7.runner.log
+==================================================================
+[15/25] DONE scala-stm-bench7 at 2026-04-24T19:15:18+00:00
+
+==================================================================
+[16/25] START naive-bayes | run=G1GC | at 2026-04-24T19:15:18+00:00
+EXPECTING DONE MARKER: G1GC-java25-2026-04-24/naive-bayes/DONE
+RUNNER LOG: G1GC-java25-2026-04-24/naive-bayes.runner.log
+==================================================================
+[16/25] DONE naive-bayes at 2026-04-24T19:25:30+00:00
+
+==================================================================
+[17/25] START als | run=G1GC | at 2026-04-24T19:25:30+00:00
+EXPECTING DONE MARKER: G1GC-java25-2026-04-24/als/DONE
+RUNNER LOG: G1GC-java25-2026-04-24/als.runner.log
+==================================================================
+[17/25] DONE als at 2026-04-24T19:35:48+00:00
+
+==================================================================
+[18/25] START par-mnemonics | run=G1GC | at 2026-04-24T19:35:48+00:00
+EXPECTING DONE MARKER: G1GC-java25-2026-04-24/par-mnemonics/DONE
+RUNNER LOG: G1GC-java25-2026-04-24/par-mnemonics.runner.log
+==================================================================
+[18/25] DONE par-mnemonics at 2026-04-24T19:45:53+00:00
+
+==================================================================
+[19/25] START scala-kmeans | run=G1GC | at 2026-04-24T19:45:53+00:00
+EXPECTING DONE MARKER: G1GC-java25-2026-04-24/scala-kmeans/DONE
+RUNNER LOG: G1GC-java25-2026-04-24/scala-kmeans.runner.log
+==================================================================
+[19/25] DONE scala-kmeans at 2026-04-24T19:55:55+00:00
+
+==================================================================
+[20/25] START philosophers | run=G1GC | at 2026-04-24T19:55:55+00:00
+EXPECTING DONE MARKER: G1GC-java25-2026-04-24/philosophers/DONE
+RUNNER LOG: G1GC-java25-2026-04-24/philosophers.runner.log
+==================================================================
+[20/25] DONE philosophers at 2026-04-24T20:06:00+00:00
+
+==================================================================
+[21/25] START log-regression | run=G1GC | at 2026-04-24T20:06:00+00:00
+EXPECTING DONE MARKER: G1GC-java25-2026-04-24/log-regression/DONE
+RUNNER LOG: G1GC-java25-2026-04-24/log-regression.runner.log
+==================================================================
+[21/25] DONE log-regression at 2026-04-24T20:16:11+00:00
+
+==================================================================
+[22/25] START gauss-mix | run=G1GC | at 2026-04-24T20:16:11+00:00
+EXPECTING DONE MARKER: G1GC-java25-2026-04-24/gauss-mix/DONE
+RUNNER LOG: G1GC-java25-2026-04-24/gauss-mix.runner.log
+==================================================================
+[22/25] DONE gauss-mix at 2026-04-24T20:26:33+00:00
+
+==================================================================
+[23/25] START mnemonics | run=G1GC | at 2026-04-24T20:26:33+00:00
+EXPECTING DONE MARKER: G1GC-java25-2026-04-24/mnemonics/DONE
+RUNNER LOG: G1GC-java25-2026-04-24/mnemonics.runner.log
+==================================================================
+[23/25] DONE mnemonics at 2026-04-24T20:36:41+00:00
+
+==================================================================
+[24/25] START dotty | run=G1GC | at 2026-04-24T20:36:41+00:00
+EXPECTING DONE MARKER: G1GC-java25-2026-04-24/dotty/DONE
+RUNNER LOG: G1GC-java25-2026-04-24/dotty.runner.log
+==================================================================
+[24/25] DONE dotty at 2026-04-24T20:46:47+00:00
+
+==================================================================
+[25/25] START finagle-chirper | run=G1GC | at 2026-04-24T20:46:47+00:00
+EXPECTING DONE MARKER: G1GC-java25-2026-04-24/finagle-chirper/DONE
+RUNNER LOG: G1GC-java25-2026-04-24/finagle-chirper.runner.log
+==================================================================
+[25/25] DONE finagle-chirper at 2026-04-24T20:56:56+00:00

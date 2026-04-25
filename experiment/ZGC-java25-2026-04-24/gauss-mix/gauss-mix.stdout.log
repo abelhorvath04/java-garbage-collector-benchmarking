@@ -1,0 +1,701 @@
+WARNING: A terminally deprecated method in sun.misc.Unsafe has been called
+WARNING: sun.misc.Unsafe::objectFieldOffset has been called by scala.runtime.LazyVals$ (resource:/shared/scala3-library_3-3.3.4.jar)
+WARNING: Please consider reporting this to the maintainers of class scala.runtime.LazyVals$
+WARNING: sun.misc.Unsafe::objectFieldOffset will be removed in a future release
+[jmx-memory plugin] WARNING: Unknown garbage collector ZGC Minor Cycles.
+[jmx-memory plugin] WARNING: Unknown garbage collector ZGC Minor Pauses.
+[jmx-memory plugin] WARNING: Unknown garbage collector ZGC Major Cycles.
+[jmx-memory plugin] WARNING: Unknown garbage collector ZGC Major Pauses.
+[jmx-memory plugin] WARNING: MXBean for young generation not found, using mock.
+[jmx-memory plugin] WARNING: MXBean for old generation not found, using mock.
+NOTE: 'gauss-mix' benchmark uses Spark local executor with 4 (out of 8) threads.
+====== gauss-mix (apache-spark) [default], iteration 0 started ======
+Accuracy (validation) = 0.99556 for the model trained with K = 12, maxIterations = 25, and seed = 159147643.
+Accuracy (validation) = 0.98333 for the model trained with K = 12, maxIterations = 25, and seed = 159147644.
+Accuracy (validation) = 0.99778 for the model trained with K = 12, maxIterations = 25, and seed = 159147645.
+Accuracy (validation) = 0.99889 for the model trained with K = 12, maxIterations = 25, and seed = 159147646.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147643.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147644.
+Accuracy (validation) = 0.99889 for the model trained with K = 9, maxIterations = 30, and seed = 159147645.
+Accuracy (validation) = 1.00000 for the model trained with K = 9, maxIterations = 30, and seed = 159147646.
+====== gauss-mix (apache-spark) [default], iteration 0 completed (15703.024 ms) ======
+====== gauss-mix (apache-spark) [default], iteration 1 started ======
+Accuracy (validation) = 0.99556 for the model trained with K = 12, maxIterations = 25, and seed = 159147643.
+Accuracy (validation) = 0.98333 for the model trained with K = 12, maxIterations = 25, and seed = 159147644.
+Accuracy (validation) = 0.99778 for the model trained with K = 12, maxIterations = 25, and seed = 159147645.
+Accuracy (validation) = 0.99889 for the model trained with K = 12, maxIterations = 25, and seed = 159147646.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147643.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147644.
+Accuracy (validation) = 0.99889 for the model trained with K = 9, maxIterations = 30, and seed = 159147645.
+Accuracy (validation) = 1.00000 for the model trained with K = 9, maxIterations = 30, and seed = 159147646.
+====== gauss-mix (apache-spark) [default], iteration 1 completed (10015.051 ms) ======
+====== gauss-mix (apache-spark) [default], iteration 2 started ======
+Accuracy (validation) = 0.99556 for the model trained with K = 12, maxIterations = 25, and seed = 159147643.
+Accuracy (validation) = 0.98333 for the model trained with K = 12, maxIterations = 25, and seed = 159147644.
+Accuracy (validation) = 0.99778 for the model trained with K = 12, maxIterations = 25, and seed = 159147645.
+Accuracy (validation) = 0.99889 for the model trained with K = 12, maxIterations = 25, and seed = 159147646.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147643.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147644.
+Accuracy (validation) = 0.99889 for the model trained with K = 9, maxIterations = 30, and seed = 159147645.
+Accuracy (validation) = 1.00000 for the model trained with K = 9, maxIterations = 30, and seed = 159147646.
+====== gauss-mix (apache-spark) [default], iteration 2 completed (8803.167 ms) ======
+====== gauss-mix (apache-spark) [default], iteration 3 started ======
+Accuracy (validation) = 0.99556 for the model trained with K = 12, maxIterations = 25, and seed = 159147643.
+Accuracy (validation) = 0.98333 for the model trained with K = 12, maxIterations = 25, and seed = 159147644.
+Accuracy (validation) = 0.99778 for the model trained with K = 12, maxIterations = 25, and seed = 159147645.
+Accuracy (validation) = 0.99889 for the model trained with K = 12, maxIterations = 25, and seed = 159147646.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147643.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147644.
+Accuracy (validation) = 0.99889 for the model trained with K = 9, maxIterations = 30, and seed = 159147645.
+Accuracy (validation) = 1.00000 for the model trained with K = 9, maxIterations = 30, and seed = 159147646.
+====== gauss-mix (apache-spark) [default], iteration 3 completed (8650.637 ms) ======
+====== gauss-mix (apache-spark) [default], iteration 4 started ======
+Accuracy (validation) = 0.99556 for the model trained with K = 12, maxIterations = 25, and seed = 159147643.
+Accuracy (validation) = 0.98333 for the model trained with K = 12, maxIterations = 25, and seed = 159147644.
+Accuracy (validation) = 0.99778 for the model trained with K = 12, maxIterations = 25, and seed = 159147645.
+Accuracy (validation) = 0.99889 for the model trained with K = 12, maxIterations = 25, and seed = 159147646.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147643.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147644.
+Accuracy (validation) = 0.99889 for the model trained with K = 9, maxIterations = 30, and seed = 159147645.
+Accuracy (validation) = 1.00000 for the model trained with K = 9, maxIterations = 30, and seed = 159147646.
+====== gauss-mix (apache-spark) [default], iteration 4 completed (8630.928 ms) ======
+====== gauss-mix (apache-spark) [default], iteration 5 started ======
+Accuracy (validation) = 0.99556 for the model trained with K = 12, maxIterations = 25, and seed = 159147643.
+Accuracy (validation) = 0.98333 for the model trained with K = 12, maxIterations = 25, and seed = 159147644.
+Accuracy (validation) = 0.99778 for the model trained with K = 12, maxIterations = 25, and seed = 159147645.
+Accuracy (validation) = 0.99889 for the model trained with K = 12, maxIterations = 25, and seed = 159147646.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147643.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147644.
+Accuracy (validation) = 0.99889 for the model trained with K = 9, maxIterations = 30, and seed = 159147645.
+Accuracy (validation) = 1.00000 for the model trained with K = 9, maxIterations = 30, and seed = 159147646.
+====== gauss-mix (apache-spark) [default], iteration 5 completed (8996.233 ms) ======
+====== gauss-mix (apache-spark) [default], iteration 6 started ======
+Accuracy (validation) = 0.99556 for the model trained with K = 12, maxIterations = 25, and seed = 159147643.
+Accuracy (validation) = 0.98333 for the model trained with K = 12, maxIterations = 25, and seed = 159147644.
+Accuracy (validation) = 0.99778 for the model trained with K = 12, maxIterations = 25, and seed = 159147645.
+Accuracy (validation) = 0.99889 for the model trained with K = 12, maxIterations = 25, and seed = 159147646.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147643.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147644.
+Accuracy (validation) = 0.99889 for the model trained with K = 9, maxIterations = 30, and seed = 159147645.
+Accuracy (validation) = 1.00000 for the model trained with K = 9, maxIterations = 30, and seed = 159147646.
+====== gauss-mix (apache-spark) [default], iteration 6 completed (8945.216 ms) ======
+====== gauss-mix (apache-spark) [default], iteration 7 started ======
+Accuracy (validation) = 0.99556 for the model trained with K = 12, maxIterations = 25, and seed = 159147643.
+Accuracy (validation) = 0.98333 for the model trained with K = 12, maxIterations = 25, and seed = 159147644.
+Accuracy (validation) = 0.99778 for the model trained with K = 12, maxIterations = 25, and seed = 159147645.
+Accuracy (validation) = 0.99889 for the model trained with K = 12, maxIterations = 25, and seed = 159147646.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147643.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147644.
+Accuracy (validation) = 0.99889 for the model trained with K = 9, maxIterations = 30, and seed = 159147645.
+Accuracy (validation) = 1.00000 for the model trained with K = 9, maxIterations = 30, and seed = 159147646.
+====== gauss-mix (apache-spark) [default], iteration 7 completed (8530.867 ms) ======
+====== gauss-mix (apache-spark) [default], iteration 8 started ======
+Accuracy (validation) = 0.99556 for the model trained with K = 12, maxIterations = 25, and seed = 159147643.
+Accuracy (validation) = 0.98333 for the model trained with K = 12, maxIterations = 25, and seed = 159147644.
+Accuracy (validation) = 0.99778 for the model trained with K = 12, maxIterations = 25, and seed = 159147645.
+Accuracy (validation) = 0.99889 for the model trained with K = 12, maxIterations = 25, and seed = 159147646.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147643.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147644.
+Accuracy (validation) = 0.99889 for the model trained with K = 9, maxIterations = 30, and seed = 159147645.
+Accuracy (validation) = 1.00000 for the model trained with K = 9, maxIterations = 30, and seed = 159147646.
+====== gauss-mix (apache-spark) [default], iteration 8 completed (8849.855 ms) ======
+====== gauss-mix (apache-spark) [default], iteration 9 started ======
+Accuracy (validation) = 0.99556 for the model trained with K = 12, maxIterations = 25, and seed = 159147643.
+Accuracy (validation) = 0.98333 for the model trained with K = 12, maxIterations = 25, and seed = 159147644.
+Accuracy (validation) = 0.99778 for the model trained with K = 12, maxIterations = 25, and seed = 159147645.
+Accuracy (validation) = 0.99889 for the model trained with K = 12, maxIterations = 25, and seed = 159147646.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147643.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147644.
+Accuracy (validation) = 0.99889 for the model trained with K = 9, maxIterations = 30, and seed = 159147645.
+Accuracy (validation) = 1.00000 for the model trained with K = 9, maxIterations = 30, and seed = 159147646.
+====== gauss-mix (apache-spark) [default], iteration 9 completed (11243.381 ms) ======
+====== gauss-mix (apache-spark) [default], iteration 10 started ======
+Accuracy (validation) = 0.99556 for the model trained with K = 12, maxIterations = 25, and seed = 159147643.
+Accuracy (validation) = 0.98333 for the model trained with K = 12, maxIterations = 25, and seed = 159147644.
+Accuracy (validation) = 0.99778 for the model trained with K = 12, maxIterations = 25, and seed = 159147645.
+Accuracy (validation) = 0.99889 for the model trained with K = 12, maxIterations = 25, and seed = 159147646.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147643.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147644.
+Accuracy (validation) = 0.99889 for the model trained with K = 9, maxIterations = 30, and seed = 159147645.
+Accuracy (validation) = 1.00000 for the model trained with K = 9, maxIterations = 30, and seed = 159147646.
+====== gauss-mix (apache-spark) [default], iteration 10 completed (8432.203 ms) ======
+====== gauss-mix (apache-spark) [default], iteration 11 started ======
+Accuracy (validation) = 0.99556 for the model trained with K = 12, maxIterations = 25, and seed = 159147643.
+Accuracy (validation) = 0.98333 for the model trained with K = 12, maxIterations = 25, and seed = 159147644.
+Accuracy (validation) = 0.99778 for the model trained with K = 12, maxIterations = 25, and seed = 159147645.
+Accuracy (validation) = 0.99889 for the model trained with K = 12, maxIterations = 25, and seed = 159147646.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147643.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147644.
+Accuracy (validation) = 0.99889 for the model trained with K = 9, maxIterations = 30, and seed = 159147645.
+Accuracy (validation) = 1.00000 for the model trained with K = 9, maxIterations = 30, and seed = 159147646.
+====== gauss-mix (apache-spark) [default], iteration 11 completed (8443.121 ms) ======
+====== gauss-mix (apache-spark) [default], iteration 12 started ======
+Accuracy (validation) = 0.99556 for the model trained with K = 12, maxIterations = 25, and seed = 159147643.
+Accuracy (validation) = 0.98333 for the model trained with K = 12, maxIterations = 25, and seed = 159147644.
+Accuracy (validation) = 0.99778 for the model trained with K = 12, maxIterations = 25, and seed = 159147645.
+Accuracy (validation) = 0.99889 for the model trained with K = 12, maxIterations = 25, and seed = 159147646.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147643.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147644.
+Accuracy (validation) = 0.99889 for the model trained with K = 9, maxIterations = 30, and seed = 159147645.
+Accuracy (validation) = 1.00000 for the model trained with K = 9, maxIterations = 30, and seed = 159147646.
+====== gauss-mix (apache-spark) [default], iteration 12 completed (7980.258 ms) ======
+====== gauss-mix (apache-spark) [default], iteration 13 started ======
+Accuracy (validation) = 0.99556 for the model trained with K = 12, maxIterations = 25, and seed = 159147643.
+Accuracy (validation) = 0.98333 for the model trained with K = 12, maxIterations = 25, and seed = 159147644.
+Accuracy (validation) = 0.99778 for the model trained with K = 12, maxIterations = 25, and seed = 159147645.
+Accuracy (validation) = 0.99889 for the model trained with K = 12, maxIterations = 25, and seed = 159147646.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147643.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147644.
+Accuracy (validation) = 0.99889 for the model trained with K = 9, maxIterations = 30, and seed = 159147645.
+Accuracy (validation) = 1.00000 for the model trained with K = 9, maxIterations = 30, and seed = 159147646.
+====== gauss-mix (apache-spark) [default], iteration 13 completed (8473.210 ms) ======
+====== gauss-mix (apache-spark) [default], iteration 14 started ======
+Accuracy (validation) = 0.99556 for the model trained with K = 12, maxIterations = 25, and seed = 159147643.
+Accuracy (validation) = 0.98333 for the model trained with K = 12, maxIterations = 25, and seed = 159147644.
+Accuracy (validation) = 0.99778 for the model trained with K = 12, maxIterations = 25, and seed = 159147645.
+Accuracy (validation) = 0.99889 for the model trained with K = 12, maxIterations = 25, and seed = 159147646.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147643.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147644.
+Accuracy (validation) = 0.99889 for the model trained with K = 9, maxIterations = 30, and seed = 159147645.
+Accuracy (validation) = 1.00000 for the model trained with K = 9, maxIterations = 30, and seed = 159147646.
+====== gauss-mix (apache-spark) [default], iteration 14 completed (8887.071 ms) ======
+====== gauss-mix (apache-spark) [default], iteration 15 started ======
+Accuracy (validation) = 0.99556 for the model trained with K = 12, maxIterations = 25, and seed = 159147643.
+Accuracy (validation) = 0.98333 for the model trained with K = 12, maxIterations = 25, and seed = 159147644.
+Accuracy (validation) = 0.99778 for the model trained with K = 12, maxIterations = 25, and seed = 159147645.
+Accuracy (validation) = 0.99889 for the model trained with K = 12, maxIterations = 25, and seed = 159147646.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147643.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147644.
+Accuracy (validation) = 0.99889 for the model trained with K = 9, maxIterations = 30, and seed = 159147645.
+Accuracy (validation) = 1.00000 for the model trained with K = 9, maxIterations = 30, and seed = 159147646.
+====== gauss-mix (apache-spark) [default], iteration 15 completed (8136.097 ms) ======
+====== gauss-mix (apache-spark) [default], iteration 16 started ======
+Accuracy (validation) = 0.99556 for the model trained with K = 12, maxIterations = 25, and seed = 159147643.
+Accuracy (validation) = 0.98333 for the model trained with K = 12, maxIterations = 25, and seed = 159147644.
+Accuracy (validation) = 0.99778 for the model trained with K = 12, maxIterations = 25, and seed = 159147645.
+Accuracy (validation) = 0.99889 for the model trained with K = 12, maxIterations = 25, and seed = 159147646.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147643.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147644.
+Accuracy (validation) = 0.99889 for the model trained with K = 9, maxIterations = 30, and seed = 159147645.
+Accuracy (validation) = 1.00000 for the model trained with K = 9, maxIterations = 30, and seed = 159147646.
+====== gauss-mix (apache-spark) [default], iteration 16 completed (8157.744 ms) ======
+====== gauss-mix (apache-spark) [default], iteration 17 started ======
+Accuracy (validation) = 0.99556 for the model trained with K = 12, maxIterations = 25, and seed = 159147643.
+Accuracy (validation) = 0.98333 for the model trained with K = 12, maxIterations = 25, and seed = 159147644.
+Accuracy (validation) = 0.99778 for the model trained with K = 12, maxIterations = 25, and seed = 159147645.
+Accuracy (validation) = 0.99889 for the model trained with K = 12, maxIterations = 25, and seed = 159147646.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147643.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147644.
+Accuracy (validation) = 0.99889 for the model trained with K = 9, maxIterations = 30, and seed = 159147645.
+Accuracy (validation) = 1.00000 for the model trained with K = 9, maxIterations = 30, and seed = 159147646.
+====== gauss-mix (apache-spark) [default], iteration 17 completed (8178.755 ms) ======
+====== gauss-mix (apache-spark) [default], iteration 18 started ======
+Accuracy (validation) = 0.99556 for the model trained with K = 12, maxIterations = 25, and seed = 159147643.
+Accuracy (validation) = 0.98333 for the model trained with K = 12, maxIterations = 25, and seed = 159147644.
+Accuracy (validation) = 0.99778 for the model trained with K = 12, maxIterations = 25, and seed = 159147645.
+Accuracy (validation) = 0.99889 for the model trained with K = 12, maxIterations = 25, and seed = 159147646.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147643.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147644.
+Accuracy (validation) = 0.99889 for the model trained with K = 9, maxIterations = 30, and seed = 159147645.
+Accuracy (validation) = 1.00000 for the model trained with K = 9, maxIterations = 30, and seed = 159147646.
+====== gauss-mix (apache-spark) [default], iteration 18 completed (8197.233 ms) ======
+====== gauss-mix (apache-spark) [default], iteration 19 started ======
+Accuracy (validation) = 0.99556 for the model trained with K = 12, maxIterations = 25, and seed = 159147643.
+Accuracy (validation) = 0.98333 for the model trained with K = 12, maxIterations = 25, and seed = 159147644.
+Accuracy (validation) = 0.99778 for the model trained with K = 12, maxIterations = 25, and seed = 159147645.
+Accuracy (validation) = 0.99889 for the model trained with K = 12, maxIterations = 25, and seed = 159147646.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147643.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147644.
+Accuracy (validation) = 0.99889 for the model trained with K = 9, maxIterations = 30, and seed = 159147645.
+Accuracy (validation) = 1.00000 for the model trained with K = 9, maxIterations = 30, and seed = 159147646.
+====== gauss-mix (apache-spark) [default], iteration 19 completed (8421.992 ms) ======
+====== gauss-mix (apache-spark) [default], iteration 20 started ======
+Accuracy (validation) = 0.99556 for the model trained with K = 12, maxIterations = 25, and seed = 159147643.
+Accuracy (validation) = 0.98333 for the model trained with K = 12, maxIterations = 25, and seed = 159147644.
+Accuracy (validation) = 0.99778 for the model trained with K = 12, maxIterations = 25, and seed = 159147645.
+Accuracy (validation) = 0.99889 for the model trained with K = 12, maxIterations = 25, and seed = 159147646.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147643.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147644.
+Accuracy (validation) = 0.99889 for the model trained with K = 9, maxIterations = 30, and seed = 159147645.
+Accuracy (validation) = 1.00000 for the model trained with K = 9, maxIterations = 30, and seed = 159147646.
+====== gauss-mix (apache-spark) [default], iteration 20 completed (8551.315 ms) ======
+====== gauss-mix (apache-spark) [default], iteration 21 started ======
+Accuracy (validation) = 0.99556 for the model trained with K = 12, maxIterations = 25, and seed = 159147643.
+Accuracy (validation) = 0.98333 for the model trained with K = 12, maxIterations = 25, and seed = 159147644.
+Accuracy (validation) = 0.99778 for the model trained with K = 12, maxIterations = 25, and seed = 159147645.
+Accuracy (validation) = 0.99889 for the model trained with K = 12, maxIterations = 25, and seed = 159147646.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147643.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147644.
+Accuracy (validation) = 0.99889 for the model trained with K = 9, maxIterations = 30, and seed = 159147645.
+Accuracy (validation) = 1.00000 for the model trained with K = 9, maxIterations = 30, and seed = 159147646.
+====== gauss-mix (apache-spark) [default], iteration 21 completed (8568.588 ms) ======
+====== gauss-mix (apache-spark) [default], iteration 22 started ======
+Accuracy (validation) = 0.99556 for the model trained with K = 12, maxIterations = 25, and seed = 159147643.
+Accuracy (validation) = 0.98333 for the model trained with K = 12, maxIterations = 25, and seed = 159147644.
+Accuracy (validation) = 0.99778 for the model trained with K = 12, maxIterations = 25, and seed = 159147645.
+Accuracy (validation) = 0.99889 for the model trained with K = 12, maxIterations = 25, and seed = 159147646.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147643.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147644.
+Accuracy (validation) = 0.99889 for the model trained with K = 9, maxIterations = 30, and seed = 159147645.
+Accuracy (validation) = 1.00000 for the model trained with K = 9, maxIterations = 30, and seed = 159147646.
+====== gauss-mix (apache-spark) [default], iteration 22 completed (8210.203 ms) ======
+====== gauss-mix (apache-spark) [default], iteration 23 started ======
+Accuracy (validation) = 0.99556 for the model trained with K = 12, maxIterations = 25, and seed = 159147643.
+Accuracy (validation) = 0.98333 for the model trained with K = 12, maxIterations = 25, and seed = 159147644.
+Accuracy (validation) = 0.99778 for the model trained with K = 12, maxIterations = 25, and seed = 159147645.
+Accuracy (validation) = 0.99889 for the model trained with K = 12, maxIterations = 25, and seed = 159147646.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147643.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147644.
+Accuracy (validation) = 0.99889 for the model trained with K = 9, maxIterations = 30, and seed = 159147645.
+Accuracy (validation) = 1.00000 for the model trained with K = 9, maxIterations = 30, and seed = 159147646.
+====== gauss-mix (apache-spark) [default], iteration 23 completed (7995.951 ms) ======
+====== gauss-mix (apache-spark) [default], iteration 24 started ======
+Accuracy (validation) = 0.99556 for the model trained with K = 12, maxIterations = 25, and seed = 159147643.
+Accuracy (validation) = 0.98333 for the model trained with K = 12, maxIterations = 25, and seed = 159147644.
+Accuracy (validation) = 0.99778 for the model trained with K = 12, maxIterations = 25, and seed = 159147645.
+Accuracy (validation) = 0.99889 for the model trained with K = 12, maxIterations = 25, and seed = 159147646.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147643.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147644.
+Accuracy (validation) = 0.99889 for the model trained with K = 9, maxIterations = 30, and seed = 159147645.
+Accuracy (validation) = 1.00000 for the model trained with K = 9, maxIterations = 30, and seed = 159147646.
+====== gauss-mix (apache-spark) [default], iteration 24 completed (8500.168 ms) ======
+====== gauss-mix (apache-spark) [default], iteration 25 started ======
+Accuracy (validation) = 0.99556 for the model trained with K = 12, maxIterations = 25, and seed = 159147643.
+Accuracy (validation) = 0.98333 for the model trained with K = 12, maxIterations = 25, and seed = 159147644.
+Accuracy (validation) = 0.99778 for the model trained with K = 12, maxIterations = 25, and seed = 159147645.
+Accuracy (validation) = 0.99889 for the model trained with K = 12, maxIterations = 25, and seed = 159147646.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147643.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147644.
+Accuracy (validation) = 0.99889 for the model trained with K = 9, maxIterations = 30, and seed = 159147645.
+Accuracy (validation) = 1.00000 for the model trained with K = 9, maxIterations = 30, and seed = 159147646.
+====== gauss-mix (apache-spark) [default], iteration 25 completed (8192.606 ms) ======
+====== gauss-mix (apache-spark) [default], iteration 26 started ======
+Accuracy (validation) = 0.99556 for the model trained with K = 12, maxIterations = 25, and seed = 159147643.
+Accuracy (validation) = 0.98333 for the model trained with K = 12, maxIterations = 25, and seed = 159147644.
+Accuracy (validation) = 0.99778 for the model trained with K = 12, maxIterations = 25, and seed = 159147645.
+Accuracy (validation) = 0.99889 for the model trained with K = 12, maxIterations = 25, and seed = 159147646.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147643.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147644.
+Accuracy (validation) = 0.99889 for the model trained with K = 9, maxIterations = 30, and seed = 159147645.
+Accuracy (validation) = 1.00000 for the model trained with K = 9, maxIterations = 30, and seed = 159147646.
+====== gauss-mix (apache-spark) [default], iteration 26 completed (8229.097 ms) ======
+====== gauss-mix (apache-spark) [default], iteration 27 started ======
+Accuracy (validation) = 0.99556 for the model trained with K = 12, maxIterations = 25, and seed = 159147643.
+Accuracy (validation) = 0.98333 for the model trained with K = 12, maxIterations = 25, and seed = 159147644.
+Accuracy (validation) = 0.99778 for the model trained with K = 12, maxIterations = 25, and seed = 159147645.
+Accuracy (validation) = 0.99889 for the model trained with K = 12, maxIterations = 25, and seed = 159147646.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147643.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147644.
+Accuracy (validation) = 0.99889 for the model trained with K = 9, maxIterations = 30, and seed = 159147645.
+Accuracy (validation) = 1.00000 for the model trained with K = 9, maxIterations = 30, and seed = 159147646.
+====== gauss-mix (apache-spark) [default], iteration 27 completed (7590.010 ms) ======
+====== gauss-mix (apache-spark) [default], iteration 28 started ======
+Accuracy (validation) = 0.99556 for the model trained with K = 12, maxIterations = 25, and seed = 159147643.
+Accuracy (validation) = 0.98333 for the model trained with K = 12, maxIterations = 25, and seed = 159147644.
+Accuracy (validation) = 0.99778 for the model trained with K = 12, maxIterations = 25, and seed = 159147645.
+Accuracy (validation) = 0.99889 for the model trained with K = 12, maxIterations = 25, and seed = 159147646.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147643.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147644.
+Accuracy (validation) = 0.99889 for the model trained with K = 9, maxIterations = 30, and seed = 159147645.
+Accuracy (validation) = 1.00000 for the model trained with K = 9, maxIterations = 30, and seed = 159147646.
+====== gauss-mix (apache-spark) [default], iteration 28 completed (8297.252 ms) ======
+====== gauss-mix (apache-spark) [default], iteration 29 started ======
+Accuracy (validation) = 0.99556 for the model trained with K = 12, maxIterations = 25, and seed = 159147643.
+Accuracy (validation) = 0.98333 for the model trained with K = 12, maxIterations = 25, and seed = 159147644.
+Accuracy (validation) = 0.99778 for the model trained with K = 12, maxIterations = 25, and seed = 159147645.
+Accuracy (validation) = 0.99889 for the model trained with K = 12, maxIterations = 25, and seed = 159147646.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147643.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147644.
+Accuracy (validation) = 0.99889 for the model trained with K = 9, maxIterations = 30, and seed = 159147645.
+Accuracy (validation) = 1.00000 for the model trained with K = 9, maxIterations = 30, and seed = 159147646.
+====== gauss-mix (apache-spark) [default], iteration 29 completed (8531.266 ms) ======
+====== gauss-mix (apache-spark) [default], iteration 30 started ======
+Accuracy (validation) = 0.99556 for the model trained with K = 12, maxIterations = 25, and seed = 159147643.
+Accuracy (validation) = 0.98333 for the model trained with K = 12, maxIterations = 25, and seed = 159147644.
+Accuracy (validation) = 0.99778 for the model trained with K = 12, maxIterations = 25, and seed = 159147645.
+Accuracy (validation) = 0.99889 for the model trained with K = 12, maxIterations = 25, and seed = 159147646.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147643.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147644.
+Accuracy (validation) = 0.99889 for the model trained with K = 9, maxIterations = 30, and seed = 159147645.
+Accuracy (validation) = 1.00000 for the model trained with K = 9, maxIterations = 30, and seed = 159147646.
+====== gauss-mix (apache-spark) [default], iteration 30 completed (8391.096 ms) ======
+====== gauss-mix (apache-spark) [default], iteration 31 started ======
+Accuracy (validation) = 0.99556 for the model trained with K = 12, maxIterations = 25, and seed = 159147643.
+Accuracy (validation) = 0.98333 for the model trained with K = 12, maxIterations = 25, and seed = 159147644.
+Accuracy (validation) = 0.99778 for the model trained with K = 12, maxIterations = 25, and seed = 159147645.
+Accuracy (validation) = 0.99889 for the model trained with K = 12, maxIterations = 25, and seed = 159147646.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147643.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147644.
+Accuracy (validation) = 0.99889 for the model trained with K = 9, maxIterations = 30, and seed = 159147645.
+Accuracy (validation) = 1.00000 for the model trained with K = 9, maxIterations = 30, and seed = 159147646.
+====== gauss-mix (apache-spark) [default], iteration 31 completed (7896.925 ms) ======
+====== gauss-mix (apache-spark) [default], iteration 32 started ======
+Accuracy (validation) = 0.99556 for the model trained with K = 12, maxIterations = 25, and seed = 159147643.
+Accuracy (validation) = 0.98333 for the model trained with K = 12, maxIterations = 25, and seed = 159147644.
+Accuracy (validation) = 0.99778 for the model trained with K = 12, maxIterations = 25, and seed = 159147645.
+Accuracy (validation) = 0.99889 for the model trained with K = 12, maxIterations = 25, and seed = 159147646.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147643.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147644.
+Accuracy (validation) = 0.99889 for the model trained with K = 9, maxIterations = 30, and seed = 159147645.
+Accuracy (validation) = 1.00000 for the model trained with K = 9, maxIterations = 30, and seed = 159147646.
+====== gauss-mix (apache-spark) [default], iteration 32 completed (8571.962 ms) ======
+====== gauss-mix (apache-spark) [default], iteration 33 started ======
+Accuracy (validation) = 0.99556 for the model trained with K = 12, maxIterations = 25, and seed = 159147643.
+Accuracy (validation) = 0.98333 for the model trained with K = 12, maxIterations = 25, and seed = 159147644.
+Accuracy (validation) = 0.99778 for the model trained with K = 12, maxIterations = 25, and seed = 159147645.
+Accuracy (validation) = 0.99889 for the model trained with K = 12, maxIterations = 25, and seed = 159147646.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147643.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147644.
+Accuracy (validation) = 0.99889 for the model trained with K = 9, maxIterations = 30, and seed = 159147645.
+Accuracy (validation) = 1.00000 for the model trained with K = 9, maxIterations = 30, and seed = 159147646.
+====== gauss-mix (apache-spark) [default], iteration 33 completed (8431.472 ms) ======
+====== gauss-mix (apache-spark) [default], iteration 34 started ======
+Accuracy (validation) = 0.99556 for the model trained with K = 12, maxIterations = 25, and seed = 159147643.
+Accuracy (validation) = 0.98333 for the model trained with K = 12, maxIterations = 25, and seed = 159147644.
+Accuracy (validation) = 0.99778 for the model trained with K = 12, maxIterations = 25, and seed = 159147645.
+Accuracy (validation) = 0.99889 for the model trained with K = 12, maxIterations = 25, and seed = 159147646.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147643.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147644.
+Accuracy (validation) = 0.99889 for the model trained with K = 9, maxIterations = 30, and seed = 159147645.
+Accuracy (validation) = 1.00000 for the model trained with K = 9, maxIterations = 30, and seed = 159147646.
+====== gauss-mix (apache-spark) [default], iteration 34 completed (8544.507 ms) ======
+====== gauss-mix (apache-spark) [default], iteration 35 started ======
+Accuracy (validation) = 0.99556 for the model trained with K = 12, maxIterations = 25, and seed = 159147643.
+Accuracy (validation) = 0.98333 for the model trained with K = 12, maxIterations = 25, and seed = 159147644.
+Accuracy (validation) = 0.99778 for the model trained with K = 12, maxIterations = 25, and seed = 159147645.
+Accuracy (validation) = 0.99889 for the model trained with K = 12, maxIterations = 25, and seed = 159147646.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147643.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147644.
+Accuracy (validation) = 0.99889 for the model trained with K = 9, maxIterations = 30, and seed = 159147645.
+Accuracy (validation) = 1.00000 for the model trained with K = 9, maxIterations = 30, and seed = 159147646.
+====== gauss-mix (apache-spark) [default], iteration 35 completed (8534.613 ms) ======
+====== gauss-mix (apache-spark) [default], iteration 36 started ======
+Accuracy (validation) = 0.99556 for the model trained with K = 12, maxIterations = 25, and seed = 159147643.
+Accuracy (validation) = 0.98333 for the model trained with K = 12, maxIterations = 25, and seed = 159147644.
+Accuracy (validation) = 0.99778 for the model trained with K = 12, maxIterations = 25, and seed = 159147645.
+Accuracy (validation) = 0.99889 for the model trained with K = 12, maxIterations = 25, and seed = 159147646.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147643.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147644.
+Accuracy (validation) = 0.99889 for the model trained with K = 9, maxIterations = 30, and seed = 159147645.
+Accuracy (validation) = 1.00000 for the model trained with K = 9, maxIterations = 30, and seed = 159147646.
+====== gauss-mix (apache-spark) [default], iteration 36 completed (8131.932 ms) ======
+====== gauss-mix (apache-spark) [default], iteration 37 started ======
+Accuracy (validation) = 0.99556 for the model trained with K = 12, maxIterations = 25, and seed = 159147643.
+Accuracy (validation) = 0.98333 for the model trained with K = 12, maxIterations = 25, and seed = 159147644.
+Accuracy (validation) = 0.99778 for the model trained with K = 12, maxIterations = 25, and seed = 159147645.
+Accuracy (validation) = 0.99889 for the model trained with K = 12, maxIterations = 25, and seed = 159147646.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147643.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147644.
+Accuracy (validation) = 0.99889 for the model trained with K = 9, maxIterations = 30, and seed = 159147645.
+Accuracy (validation) = 1.00000 for the model trained with K = 9, maxIterations = 30, and seed = 159147646.
+====== gauss-mix (apache-spark) [default], iteration 37 completed (8402.299 ms) ======
+====== gauss-mix (apache-spark) [default], iteration 38 started ======
+Accuracy (validation) = 0.99556 for the model trained with K = 12, maxIterations = 25, and seed = 159147643.
+Accuracy (validation) = 0.98333 for the model trained with K = 12, maxIterations = 25, and seed = 159147644.
+Accuracy (validation) = 0.99778 for the model trained with K = 12, maxIterations = 25, and seed = 159147645.
+Accuracy (validation) = 0.99889 for the model trained with K = 12, maxIterations = 25, and seed = 159147646.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147643.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147644.
+Accuracy (validation) = 0.99889 for the model trained with K = 9, maxIterations = 30, and seed = 159147645.
+Accuracy (validation) = 1.00000 for the model trained with K = 9, maxIterations = 30, and seed = 159147646.
+====== gauss-mix (apache-spark) [default], iteration 38 completed (8380.289 ms) ======
+====== gauss-mix (apache-spark) [default], iteration 39 started ======
+Accuracy (validation) = 0.99556 for the model trained with K = 12, maxIterations = 25, and seed = 159147643.
+Accuracy (validation) = 0.98333 for the model trained with K = 12, maxIterations = 25, and seed = 159147644.
+Accuracy (validation) = 0.99778 for the model trained with K = 12, maxIterations = 25, and seed = 159147645.
+Accuracy (validation) = 0.99889 for the model trained with K = 12, maxIterations = 25, and seed = 159147646.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147643.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147644.
+Accuracy (validation) = 0.99889 for the model trained with K = 9, maxIterations = 30, and seed = 159147645.
+Accuracy (validation) = 1.00000 for the model trained with K = 9, maxIterations = 30, and seed = 159147646.
+====== gauss-mix (apache-spark) [default], iteration 39 completed (8127.825 ms) ======
+====== gauss-mix (apache-spark) [default], iteration 40 started ======
+Accuracy (validation) = 0.99556 for the model trained with K = 12, maxIterations = 25, and seed = 159147643.
+Accuracy (validation) = 0.98333 for the model trained with K = 12, maxIterations = 25, and seed = 159147644.
+Accuracy (validation) = 0.99778 for the model trained with K = 12, maxIterations = 25, and seed = 159147645.
+Accuracy (validation) = 0.99889 for the model trained with K = 12, maxIterations = 25, and seed = 159147646.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147643.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147644.
+Accuracy (validation) = 0.99889 for the model trained with K = 9, maxIterations = 30, and seed = 159147645.
+Accuracy (validation) = 1.00000 for the model trained with K = 9, maxIterations = 30, and seed = 159147646.
+====== gauss-mix (apache-spark) [default], iteration 40 completed (8223.204 ms) ======
+====== gauss-mix (apache-spark) [default], iteration 41 started ======
+Accuracy (validation) = 0.99556 for the model trained with K = 12, maxIterations = 25, and seed = 159147643.
+Accuracy (validation) = 0.98333 for the model trained with K = 12, maxIterations = 25, and seed = 159147644.
+Accuracy (validation) = 0.99778 for the model trained with K = 12, maxIterations = 25, and seed = 159147645.
+Accuracy (validation) = 0.99889 for the model trained with K = 12, maxIterations = 25, and seed = 159147646.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147643.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147644.
+Accuracy (validation) = 0.99889 for the model trained with K = 9, maxIterations = 30, and seed = 159147645.
+Accuracy (validation) = 1.00000 for the model trained with K = 9, maxIterations = 30, and seed = 159147646.
+====== gauss-mix (apache-spark) [default], iteration 41 completed (8239.332 ms) ======
+====== gauss-mix (apache-spark) [default], iteration 42 started ======
+Accuracy (validation) = 0.99556 for the model trained with K = 12, maxIterations = 25, and seed = 159147643.
+Accuracy (validation) = 0.98333 for the model trained with K = 12, maxIterations = 25, and seed = 159147644.
+Accuracy (validation) = 0.99778 for the model trained with K = 12, maxIterations = 25, and seed = 159147645.
+Accuracy (validation) = 0.99889 for the model trained with K = 12, maxIterations = 25, and seed = 159147646.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147643.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147644.
+Accuracy (validation) = 0.99889 for the model trained with K = 9, maxIterations = 30, and seed = 159147645.
+Accuracy (validation) = 1.00000 for the model trained with K = 9, maxIterations = 30, and seed = 159147646.
+====== gauss-mix (apache-spark) [default], iteration 42 completed (8316.492 ms) ======
+====== gauss-mix (apache-spark) [default], iteration 43 started ======
+Accuracy (validation) = 0.99556 for the model trained with K = 12, maxIterations = 25, and seed = 159147643.
+Accuracy (validation) = 0.98333 for the model trained with K = 12, maxIterations = 25, and seed = 159147644.
+Accuracy (validation) = 0.99778 for the model trained with K = 12, maxIterations = 25, and seed = 159147645.
+Accuracy (validation) = 0.99889 for the model trained with K = 12, maxIterations = 25, and seed = 159147646.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147643.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147644.
+Accuracy (validation) = 0.99889 for the model trained with K = 9, maxIterations = 30, and seed = 159147645.
+Accuracy (validation) = 1.00000 for the model trained with K = 9, maxIterations = 30, and seed = 159147646.
+====== gauss-mix (apache-spark) [default], iteration 43 completed (8557.159 ms) ======
+====== gauss-mix (apache-spark) [default], iteration 44 started ======
+Accuracy (validation) = 0.99556 for the model trained with K = 12, maxIterations = 25, and seed = 159147643.
+Accuracy (validation) = 0.98333 for the model trained with K = 12, maxIterations = 25, and seed = 159147644.
+Accuracy (validation) = 0.99778 for the model trained with K = 12, maxIterations = 25, and seed = 159147645.
+Accuracy (validation) = 0.99889 for the model trained with K = 12, maxIterations = 25, and seed = 159147646.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147643.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147644.
+Accuracy (validation) = 0.99889 for the model trained with K = 9, maxIterations = 30, and seed = 159147645.
+Accuracy (validation) = 1.00000 for the model trained with K = 9, maxIterations = 30, and seed = 159147646.
+====== gauss-mix (apache-spark) [default], iteration 44 completed (8430.606 ms) ======
+====== gauss-mix (apache-spark) [default], iteration 45 started ======
+Accuracy (validation) = 0.99556 for the model trained with K = 12, maxIterations = 25, and seed = 159147643.
+Accuracy (validation) = 0.98333 for the model trained with K = 12, maxIterations = 25, and seed = 159147644.
+Accuracy (validation) = 0.99778 for the model trained with K = 12, maxIterations = 25, and seed = 159147645.
+Accuracy (validation) = 0.99889 for the model trained with K = 12, maxIterations = 25, and seed = 159147646.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147643.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147644.
+Accuracy (validation) = 0.99889 for the model trained with K = 9, maxIterations = 30, and seed = 159147645.
+Accuracy (validation) = 1.00000 for the model trained with K = 9, maxIterations = 30, and seed = 159147646.
+====== gauss-mix (apache-spark) [default], iteration 45 completed (9387.144 ms) ======
+====== gauss-mix (apache-spark) [default], iteration 46 started ======
+Accuracy (validation) = 0.99556 for the model trained with K = 12, maxIterations = 25, and seed = 159147643.
+Accuracy (validation) = 0.98333 for the model trained with K = 12, maxIterations = 25, and seed = 159147644.
+Accuracy (validation) = 0.99778 for the model trained with K = 12, maxIterations = 25, and seed = 159147645.
+Accuracy (validation) = 0.99889 for the model trained with K = 12, maxIterations = 25, and seed = 159147646.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147643.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147644.
+Accuracy (validation) = 0.99889 for the model trained with K = 9, maxIterations = 30, and seed = 159147645.
+Accuracy (validation) = 1.00000 for the model trained with K = 9, maxIterations = 30, and seed = 159147646.
+====== gauss-mix (apache-spark) [default], iteration 46 completed (25422.049 ms) ======
+====== gauss-mix (apache-spark) [default], iteration 47 started ======
+Accuracy (validation) = 0.99556 for the model trained with K = 12, maxIterations = 25, and seed = 159147643.
+Accuracy (validation) = 0.98333 for the model trained with K = 12, maxIterations = 25, and seed = 159147644.
+Accuracy (validation) = 0.99778 for the model trained with K = 12, maxIterations = 25, and seed = 159147645.
+Accuracy (validation) = 0.99889 for the model trained with K = 12, maxIterations = 25, and seed = 159147646.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147643.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147644.
+Accuracy (validation) = 0.99889 for the model trained with K = 9, maxIterations = 30, and seed = 159147645.
+Accuracy (validation) = 1.00000 for the model trained with K = 9, maxIterations = 30, and seed = 159147646.
+====== gauss-mix (apache-spark) [default], iteration 47 completed (10383.119 ms) ======
+====== gauss-mix (apache-spark) [default], iteration 48 started ======
+Accuracy (validation) = 0.99556 for the model trained with K = 12, maxIterations = 25, and seed = 159147643.
+Accuracy (validation) = 0.98333 for the model trained with K = 12, maxIterations = 25, and seed = 159147644.
+Accuracy (validation) = 0.99778 for the model trained with K = 12, maxIterations = 25, and seed = 159147645.
+Accuracy (validation) = 0.99889 for the model trained with K = 12, maxIterations = 25, and seed = 159147646.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147643.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147644.
+Accuracy (validation) = 0.99889 for the model trained with K = 9, maxIterations = 30, and seed = 159147645.
+Accuracy (validation) = 1.00000 for the model trained with K = 9, maxIterations = 30, and seed = 159147646.
+====== gauss-mix (apache-spark) [default], iteration 48 completed (10237.462 ms) ======
+====== gauss-mix (apache-spark) [default], iteration 49 started ======
+Accuracy (validation) = 0.99556 for the model trained with K = 12, maxIterations = 25, and seed = 159147643.
+Accuracy (validation) = 0.98333 for the model trained with K = 12, maxIterations = 25, and seed = 159147644.
+Accuracy (validation) = 0.99778 for the model trained with K = 12, maxIterations = 25, and seed = 159147645.
+Accuracy (validation) = 0.99889 for the model trained with K = 12, maxIterations = 25, and seed = 159147646.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147643.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147644.
+Accuracy (validation) = 0.99889 for the model trained with K = 9, maxIterations = 30, and seed = 159147645.
+Accuracy (validation) = 1.00000 for the model trained with K = 9, maxIterations = 30, and seed = 159147646.
+====== gauss-mix (apache-spark) [default], iteration 49 completed (10328.617 ms) ======
+====== gauss-mix (apache-spark) [default], iteration 50 started ======
+Accuracy (validation) = 0.99556 for the model trained with K = 12, maxIterations = 25, and seed = 159147643.
+Accuracy (validation) = 0.98333 for the model trained with K = 12, maxIterations = 25, and seed = 159147644.
+Accuracy (validation) = 0.99778 for the model trained with K = 12, maxIterations = 25, and seed = 159147645.
+Accuracy (validation) = 0.99889 for the model trained with K = 12, maxIterations = 25, and seed = 159147646.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147643.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147644.
+Accuracy (validation) = 0.99889 for the model trained with K = 9, maxIterations = 30, and seed = 159147645.
+Accuracy (validation) = 1.00000 for the model trained with K = 9, maxIterations = 30, and seed = 159147646.
+====== gauss-mix (apache-spark) [default], iteration 50 completed (10491.149 ms) ======
+====== gauss-mix (apache-spark) [default], iteration 51 started ======
+Accuracy (validation) = 0.99556 for the model trained with K = 12, maxIterations = 25, and seed = 159147643.
+Accuracy (validation) = 0.98333 for the model trained with K = 12, maxIterations = 25, and seed = 159147644.
+Accuracy (validation) = 0.99778 for the model trained with K = 12, maxIterations = 25, and seed = 159147645.
+Accuracy (validation) = 0.99889 for the model trained with K = 12, maxIterations = 25, and seed = 159147646.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147643.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147644.
+Accuracy (validation) = 0.99889 for the model trained with K = 9, maxIterations = 30, and seed = 159147645.
+Accuracy (validation) = 1.00000 for the model trained with K = 9, maxIterations = 30, and seed = 159147646.
+====== gauss-mix (apache-spark) [default], iteration 51 completed (10537.782 ms) ======
+====== gauss-mix (apache-spark) [default], iteration 52 started ======
+Accuracy (validation) = 0.99556 for the model trained with K = 12, maxIterations = 25, and seed = 159147643.
+Accuracy (validation) = 0.98333 for the model trained with K = 12, maxIterations = 25, and seed = 159147644.
+Accuracy (validation) = 0.99778 for the model trained with K = 12, maxIterations = 25, and seed = 159147645.
+Accuracy (validation) = 0.99889 for the model trained with K = 12, maxIterations = 25, and seed = 159147646.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147643.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147644.
+Accuracy (validation) = 0.99889 for the model trained with K = 9, maxIterations = 30, and seed = 159147645.
+Accuracy (validation) = 1.00000 for the model trained with K = 9, maxIterations = 30, and seed = 159147646.
+====== gauss-mix (apache-spark) [default], iteration 52 completed (8877.038 ms) ======
+====== gauss-mix (apache-spark) [default], iteration 53 started ======
+Accuracy (validation) = 0.99556 for the model trained with K = 12, maxIterations = 25, and seed = 159147643.
+Accuracy (validation) = 0.98333 for the model trained with K = 12, maxIterations = 25, and seed = 159147644.
+Accuracy (validation) = 0.99778 for the model trained with K = 12, maxIterations = 25, and seed = 159147645.
+Accuracy (validation) = 0.99889 for the model trained with K = 12, maxIterations = 25, and seed = 159147646.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147643.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147644.
+Accuracy (validation) = 0.99889 for the model trained with K = 9, maxIterations = 30, and seed = 159147645.
+Accuracy (validation) = 1.00000 for the model trained with K = 9, maxIterations = 30, and seed = 159147646.
+====== gauss-mix (apache-spark) [default], iteration 53 completed (7776.433 ms) ======
+====== gauss-mix (apache-spark) [default], iteration 54 started ======
+Accuracy (validation) = 0.99556 for the model trained with K = 12, maxIterations = 25, and seed = 159147643.
+Accuracy (validation) = 0.98333 for the model trained with K = 12, maxIterations = 25, and seed = 159147644.
+Accuracy (validation) = 0.99778 for the model trained with K = 12, maxIterations = 25, and seed = 159147645.
+Accuracy (validation) = 0.99889 for the model trained with K = 12, maxIterations = 25, and seed = 159147646.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147643.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147644.
+Accuracy (validation) = 0.99889 for the model trained with K = 9, maxIterations = 30, and seed = 159147645.
+Accuracy (validation) = 1.00000 for the model trained with K = 9, maxIterations = 30, and seed = 159147646.
+====== gauss-mix (apache-spark) [default], iteration 54 completed (8070.768 ms) ======
+====== gauss-mix (apache-spark) [default], iteration 55 started ======
+Accuracy (validation) = 0.99556 for the model trained with K = 12, maxIterations = 25, and seed = 159147643.
+Accuracy (validation) = 0.98333 for the model trained with K = 12, maxIterations = 25, and seed = 159147644.
+Accuracy (validation) = 0.99778 for the model trained with K = 12, maxIterations = 25, and seed = 159147645.
+Accuracy (validation) = 0.99889 for the model trained with K = 12, maxIterations = 25, and seed = 159147646.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147643.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147644.
+Accuracy (validation) = 0.99889 for the model trained with K = 9, maxIterations = 30, and seed = 159147645.
+Accuracy (validation) = 1.00000 for the model trained with K = 9, maxIterations = 30, and seed = 159147646.
+====== gauss-mix (apache-spark) [default], iteration 55 completed (8086.694 ms) ======
+====== gauss-mix (apache-spark) [default], iteration 56 started ======
+Accuracy (validation) = 0.99556 for the model trained with K = 12, maxIterations = 25, and seed = 159147643.
+Accuracy (validation) = 0.98333 for the model trained with K = 12, maxIterations = 25, and seed = 159147644.
+Accuracy (validation) = 0.99778 for the model trained with K = 12, maxIterations = 25, and seed = 159147645.
+Accuracy (validation) = 0.99889 for the model trained with K = 12, maxIterations = 25, and seed = 159147646.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147643.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147644.
+Accuracy (validation) = 0.99889 for the model trained with K = 9, maxIterations = 30, and seed = 159147645.
+Accuracy (validation) = 1.00000 for the model trained with K = 9, maxIterations = 30, and seed = 159147646.
+====== gauss-mix (apache-spark) [default], iteration 56 completed (8202.136 ms) ======
+====== gauss-mix (apache-spark) [default], iteration 57 started ======
+Accuracy (validation) = 0.99556 for the model trained with K = 12, maxIterations = 25, and seed = 159147643.
+Accuracy (validation) = 0.98333 for the model trained with K = 12, maxIterations = 25, and seed = 159147644.
+Accuracy (validation) = 0.99778 for the model trained with K = 12, maxIterations = 25, and seed = 159147645.
+Accuracy (validation) = 0.99889 for the model trained with K = 12, maxIterations = 25, and seed = 159147646.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147643.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147644.
+Accuracy (validation) = 0.99889 for the model trained with K = 9, maxIterations = 30, and seed = 159147645.
+Accuracy (validation) = 1.00000 for the model trained with K = 9, maxIterations = 30, and seed = 159147646.
+====== gauss-mix (apache-spark) [default], iteration 57 completed (8293.463 ms) ======
+====== gauss-mix (apache-spark) [default], iteration 58 started ======
+Accuracy (validation) = 0.99556 for the model trained with K = 12, maxIterations = 25, and seed = 159147643.
+Accuracy (validation) = 0.98333 for the model trained with K = 12, maxIterations = 25, and seed = 159147644.
+Accuracy (validation) = 0.99778 for the model trained with K = 12, maxIterations = 25, and seed = 159147645.
+Accuracy (validation) = 0.99889 for the model trained with K = 12, maxIterations = 25, and seed = 159147646.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147643.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147644.
+Accuracy (validation) = 0.99889 for the model trained with K = 9, maxIterations = 30, and seed = 159147645.
+Accuracy (validation) = 1.00000 for the model trained with K = 9, maxIterations = 30, and seed = 159147646.
+====== gauss-mix (apache-spark) [default], iteration 58 completed (8180.457 ms) ======
+====== gauss-mix (apache-spark) [default], iteration 59 started ======
+Accuracy (validation) = 0.99556 for the model trained with K = 12, maxIterations = 25, and seed = 159147643.
+Accuracy (validation) = 0.98333 for the model trained with K = 12, maxIterations = 25, and seed = 159147644.
+Accuracy (validation) = 0.99778 for the model trained with K = 12, maxIterations = 25, and seed = 159147645.
+Accuracy (validation) = 0.99889 for the model trained with K = 12, maxIterations = 25, and seed = 159147646.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147643.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147644.
+Accuracy (validation) = 0.99889 for the model trained with K = 9, maxIterations = 30, and seed = 159147645.
+Accuracy (validation) = 1.00000 for the model trained with K = 9, maxIterations = 30, and seed = 159147646.
+====== gauss-mix (apache-spark) [default], iteration 59 completed (7800.679 ms) ======
+====== gauss-mix (apache-spark) [default], iteration 60 started ======
+Accuracy (validation) = 0.99556 for the model trained with K = 12, maxIterations = 25, and seed = 159147643.
+Accuracy (validation) = 0.98333 for the model trained with K = 12, maxIterations = 25, and seed = 159147644.
+Accuracy (validation) = 0.99778 for the model trained with K = 12, maxIterations = 25, and seed = 159147645.
+Accuracy (validation) = 0.99889 for the model trained with K = 12, maxIterations = 25, and seed = 159147646.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147643.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147644.
+Accuracy (validation) = 0.99889 for the model trained with K = 9, maxIterations = 30, and seed = 159147645.
+Accuracy (validation) = 1.00000 for the model trained with K = 9, maxIterations = 30, and seed = 159147646.
+====== gauss-mix (apache-spark) [default], iteration 60 completed (8438.558 ms) ======
+====== gauss-mix (apache-spark) [default], iteration 61 started ======
+Accuracy (validation) = 0.99556 for the model trained with K = 12, maxIterations = 25, and seed = 159147643.
+Accuracy (validation) = 0.98333 for the model trained with K = 12, maxIterations = 25, and seed = 159147644.
+Accuracy (validation) = 0.99778 for the model trained with K = 12, maxIterations = 25, and seed = 159147645.
+Accuracy (validation) = 0.99889 for the model trained with K = 12, maxIterations = 25, and seed = 159147646.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147643.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147644.
+Accuracy (validation) = 0.99889 for the model trained with K = 9, maxIterations = 30, and seed = 159147645.
+Accuracy (validation) = 1.00000 for the model trained with K = 9, maxIterations = 30, and seed = 159147646.
+====== gauss-mix (apache-spark) [default], iteration 61 completed (8422.487 ms) ======
+====== gauss-mix (apache-spark) [default], iteration 62 started ======
+Accuracy (validation) = 0.99556 for the model trained with K = 12, maxIterations = 25, and seed = 159147643.
+Accuracy (validation) = 0.98333 for the model trained with K = 12, maxIterations = 25, and seed = 159147644.
+Accuracy (validation) = 0.99778 for the model trained with K = 12, maxIterations = 25, and seed = 159147645.
+Accuracy (validation) = 0.99889 for the model trained with K = 12, maxIterations = 25, and seed = 159147646.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147643.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147644.
+Accuracy (validation) = 0.99889 for the model trained with K = 9, maxIterations = 30, and seed = 159147645.
+Accuracy (validation) = 1.00000 for the model trained with K = 9, maxIterations = 30, and seed = 159147646.
+====== gauss-mix (apache-spark) [default], iteration 62 completed (8144.020 ms) ======
+====== gauss-mix (apache-spark) [default], iteration 63 started ======
+Accuracy (validation) = 0.99556 for the model trained with K = 12, maxIterations = 25, and seed = 159147643.
+Accuracy (validation) = 0.98333 for the model trained with K = 12, maxIterations = 25, and seed = 159147644.
+Accuracy (validation) = 0.99778 for the model trained with K = 12, maxIterations = 25, and seed = 159147645.
+Accuracy (validation) = 0.99889 for the model trained with K = 12, maxIterations = 25, and seed = 159147646.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147643.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147644.
+Accuracy (validation) = 0.99889 for the model trained with K = 9, maxIterations = 30, and seed = 159147645.
+Accuracy (validation) = 1.00000 for the model trained with K = 9, maxIterations = 30, and seed = 159147646.
+====== gauss-mix (apache-spark) [default], iteration 63 completed (8317.894 ms) ======
+====== gauss-mix (apache-spark) [default], iteration 64 started ======
+Accuracy (validation) = 0.99556 for the model trained with K = 12, maxIterations = 25, and seed = 159147643.
+Accuracy (validation) = 0.98333 for the model trained with K = 12, maxIterations = 25, and seed = 159147644.
+Accuracy (validation) = 0.99778 for the model trained with K = 12, maxIterations = 25, and seed = 159147645.
+Accuracy (validation) = 0.99889 for the model trained with K = 12, maxIterations = 25, and seed = 159147646.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147643.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147644.
+Accuracy (validation) = 0.99889 for the model trained with K = 9, maxIterations = 30, and seed = 159147645.
+Accuracy (validation) = 1.00000 for the model trained with K = 9, maxIterations = 30, and seed = 159147646.
+====== gauss-mix (apache-spark) [default], iteration 64 completed (8507.423 ms) ======
+====== gauss-mix (apache-spark) [default], iteration 65 started ======
+Accuracy (validation) = 0.99556 for the model trained with K = 12, maxIterations = 25, and seed = 159147643.
+Accuracy (validation) = 0.98333 for the model trained with K = 12, maxIterations = 25, and seed = 159147644.
+Accuracy (validation) = 0.99778 for the model trained with K = 12, maxIterations = 25, and seed = 159147645.
+Accuracy (validation) = 0.99889 for the model trained with K = 12, maxIterations = 25, and seed = 159147646.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147643.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147644.
+Accuracy (validation) = 0.99889 for the model trained with K = 9, maxIterations = 30, and seed = 159147645.
+Accuracy (validation) = 1.00000 for the model trained with K = 9, maxIterations = 30, and seed = 159147646.
+====== gauss-mix (apache-spark) [default], iteration 65 completed (7806.485 ms) ======
+====== gauss-mix (apache-spark) [default], iteration 66 started ======
+Accuracy (validation) = 0.99556 for the model trained with K = 12, maxIterations = 25, and seed = 159147643.
+Accuracy (validation) = 0.98333 for the model trained with K = 12, maxIterations = 25, and seed = 159147644.
+Accuracy (validation) = 0.99778 for the model trained with K = 12, maxIterations = 25, and seed = 159147645.
+Accuracy (validation) = 0.99889 for the model trained with K = 12, maxIterations = 25, and seed = 159147646.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147643.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147644.
+Accuracy (validation) = 0.99889 for the model trained with K = 9, maxIterations = 30, and seed = 159147645.
+Accuracy (validation) = 1.00000 for the model trained with K = 9, maxIterations = 30, and seed = 159147646.
+====== gauss-mix (apache-spark) [default], iteration 66 completed (7984.783 ms) ======
+====== gauss-mix (apache-spark) [default], iteration 67 started ======
+Accuracy (validation) = 0.99556 for the model trained with K = 12, maxIterations = 25, and seed = 159147643.
+Accuracy (validation) = 0.98333 for the model trained with K = 12, maxIterations = 25, and seed = 159147644.
+Accuracy (validation) = 0.99778 for the model trained with K = 12, maxIterations = 25, and seed = 159147645.
+Accuracy (validation) = 0.99889 for the model trained with K = 12, maxIterations = 25, and seed = 159147646.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147643.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147644.
+Accuracy (validation) = 0.99889 for the model trained with K = 9, maxIterations = 30, and seed = 159147645.
+Accuracy (validation) = 1.00000 for the model trained with K = 9, maxIterations = 30, and seed = 159147646.
+====== gauss-mix (apache-spark) [default], iteration 67 completed (8247.393 ms) ======
+====== gauss-mix (apache-spark) [default], iteration 68 started ======
+Accuracy (validation) = 0.99556 for the model trained with K = 12, maxIterations = 25, and seed = 159147643.
+Accuracy (validation) = 0.98333 for the model trained with K = 12, maxIterations = 25, and seed = 159147644.
+Accuracy (validation) = 0.99778 for the model trained with K = 12, maxIterations = 25, and seed = 159147645.
+Accuracy (validation) = 0.99889 for the model trained with K = 12, maxIterations = 25, and seed = 159147646.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147643.
+Accuracy (validation) = 0.99778 for the model trained with K = 9, maxIterations = 30, and seed = 159147644.
+Accuracy (validation) = 0.99889 for the model trained with K = 9, maxIterations = 30, and seed = 159147645.
+Accuracy (validation) = 1.00000 for the model trained with K = 9, maxIterations = 30, and seed = 159147646.
+====== gauss-mix (apache-spark) [default], iteration 68 completed (8231.051 ms) ======

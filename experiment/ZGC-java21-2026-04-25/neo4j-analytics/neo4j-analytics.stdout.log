@@ -1,0 +1,641 @@
+[jmx-memory plugin] WARNING: Unknown garbage collector ZGC Minor Cycles.
+[jmx-memory plugin] WARNING: Unknown garbage collector ZGC Minor Pauses.
+[jmx-memory plugin] WARNING: Unknown garbage collector ZGC Major Cycles.
+[jmx-memory plugin] WARNING: Unknown garbage collector ZGC Major Pauses.
+[jmx-memory plugin] WARNING: MXBean for young generation not found, using mock.
+[jmx-memory plugin] WARNING: MXBean for old generation not found, using mock.
+Creating graph database...
+Loading resources...
+Populating database...
+Creating indices...
+Database initialized with 327642 vertices and 725788 edges.
+====== neo4j-analytics (database) [default], iteration 0 started ======
+====== neo4j-analytics (database) [default], iteration 0 completed (7000.928 ms) ======
+====== neo4j-analytics (database) [default], iteration 1 started ======
+====== neo4j-analytics (database) [default], iteration 1 completed (2680.299 ms) ======
+====== neo4j-analytics (database) [default], iteration 2 started ======
+====== neo4j-analytics (database) [default], iteration 2 completed (2298.026 ms) ======
+====== neo4j-analytics (database) [default], iteration 3 started ======
+====== neo4j-analytics (database) [default], iteration 3 completed (2173.294 ms) ======
+====== neo4j-analytics (database) [default], iteration 4 started ======
+====== neo4j-analytics (database) [default], iteration 4 completed (1914.776 ms) ======
+====== neo4j-analytics (database) [default], iteration 5 started ======
+====== neo4j-analytics (database) [default], iteration 5 completed (2016.606 ms) ======
+====== neo4j-analytics (database) [default], iteration 6 started ======
+====== neo4j-analytics (database) [default], iteration 6 completed (1930.391 ms) ======
+====== neo4j-analytics (database) [default], iteration 7 started ======
+====== neo4j-analytics (database) [default], iteration 7 completed (1896.940 ms) ======
+====== neo4j-analytics (database) [default], iteration 8 started ======
+====== neo4j-analytics (database) [default], iteration 8 completed (1910.722 ms) ======
+====== neo4j-analytics (database) [default], iteration 9 started ======
+====== neo4j-analytics (database) [default], iteration 9 completed (1853.325 ms) ======
+====== neo4j-analytics (database) [default], iteration 10 started ======
+====== neo4j-analytics (database) [default], iteration 10 completed (1994.811 ms) ======
+====== neo4j-analytics (database) [default], iteration 11 started ======
+====== neo4j-analytics (database) [default], iteration 11 completed (2008.633 ms) ======
+====== neo4j-analytics (database) [default], iteration 12 started ======
+====== neo4j-analytics (database) [default], iteration 12 completed (1941.264 ms) ======
+====== neo4j-analytics (database) [default], iteration 13 started ======
+====== neo4j-analytics (database) [default], iteration 13 completed (1985.547 ms) ======
+====== neo4j-analytics (database) [default], iteration 14 started ======
+====== neo4j-analytics (database) [default], iteration 14 completed (2157.352 ms) ======
+====== neo4j-analytics (database) [default], iteration 15 started ======
+====== neo4j-analytics (database) [default], iteration 15 completed (2333.105 ms) ======
+====== neo4j-analytics (database) [default], iteration 16 started ======
+====== neo4j-analytics (database) [default], iteration 16 completed (1896.850 ms) ======
+====== neo4j-analytics (database) [default], iteration 17 started ======
+====== neo4j-analytics (database) [default], iteration 17 completed (1891.813 ms) ======
+====== neo4j-analytics (database) [default], iteration 18 started ======
+====== neo4j-analytics (database) [default], iteration 18 completed (1877.808 ms) ======
+====== neo4j-analytics (database) [default], iteration 19 started ======
+====== neo4j-analytics (database) [default], iteration 19 completed (1883.730 ms) ======
+====== neo4j-analytics (database) [default], iteration 20 started ======
+====== neo4j-analytics (database) [default], iteration 20 completed (1880.121 ms) ======
+====== neo4j-analytics (database) [default], iteration 21 started ======
+====== neo4j-analytics (database) [default], iteration 21 completed (2069.709 ms) ======
+====== neo4j-analytics (database) [default], iteration 22 started ======
+====== neo4j-analytics (database) [default], iteration 22 completed (1866.540 ms) ======
+====== neo4j-analytics (database) [default], iteration 23 started ======
+====== neo4j-analytics (database) [default], iteration 23 completed (1877.301 ms) ======
+====== neo4j-analytics (database) [default], iteration 24 started ======
+====== neo4j-analytics (database) [default], iteration 24 completed (1883.490 ms) ======
+====== neo4j-analytics (database) [default], iteration 25 started ======
+====== neo4j-analytics (database) [default], iteration 25 completed (1881.527 ms) ======
+====== neo4j-analytics (database) [default], iteration 26 started ======
+====== neo4j-analytics (database) [default], iteration 26 completed (1887.134 ms) ======
+====== neo4j-analytics (database) [default], iteration 27 started ======
+====== neo4j-analytics (database) [default], iteration 27 completed (2116.315 ms) ======
+====== neo4j-analytics (database) [default], iteration 28 started ======
+====== neo4j-analytics (database) [default], iteration 28 completed (1882.394 ms) ======
+====== neo4j-analytics (database) [default], iteration 29 started ======
+====== neo4j-analytics (database) [default], iteration 29 completed (1881.770 ms) ======
+====== neo4j-analytics (database) [default], iteration 30 started ======
+====== neo4j-analytics (database) [default], iteration 30 completed (1887.393 ms) ======
+====== neo4j-analytics (database) [default], iteration 31 started ======
+====== neo4j-analytics (database) [default], iteration 31 completed (1884.866 ms) ======
+====== neo4j-analytics (database) [default], iteration 32 started ======
+====== neo4j-analytics (database) [default], iteration 32 completed (1876.709 ms) ======
+====== neo4j-analytics (database) [default], iteration 33 started ======
+====== neo4j-analytics (database) [default], iteration 33 completed (2053.163 ms) ======
+====== neo4j-analytics (database) [default], iteration 34 started ======
+====== neo4j-analytics (database) [default], iteration 34 completed (1878.213 ms) ======
+====== neo4j-analytics (database) [default], iteration 35 started ======
+====== neo4j-analytics (database) [default], iteration 35 completed (1867.530 ms) ======
+====== neo4j-analytics (database) [default], iteration 36 started ======
+====== neo4j-analytics (database) [default], iteration 36 completed (1877.002 ms) ======
+====== neo4j-analytics (database) [default], iteration 37 started ======
+====== neo4j-analytics (database) [default], iteration 37 completed (1885.551 ms) ======
+====== neo4j-analytics (database) [default], iteration 38 started ======
+====== neo4j-analytics (database) [default], iteration 38 completed (1884.343 ms) ======
+====== neo4j-analytics (database) [default], iteration 39 started ======
+====== neo4j-analytics (database) [default], iteration 39 completed (1981.185 ms) ======
+====== neo4j-analytics (database) [default], iteration 40 started ======
+====== neo4j-analytics (database) [default], iteration 40 completed (1881.827 ms) ======
+====== neo4j-analytics (database) [default], iteration 41 started ======
+====== neo4j-analytics (database) [default], iteration 41 completed (1881.068 ms) ======
+====== neo4j-analytics (database) [default], iteration 42 started ======
+====== neo4j-analytics (database) [default], iteration 42 completed (1890.601 ms) ======
+====== neo4j-analytics (database) [default], iteration 43 started ======
+====== neo4j-analytics (database) [default], iteration 43 completed (1876.611 ms) ======
+====== neo4j-analytics (database) [default], iteration 44 started ======
+====== neo4j-analytics (database) [default], iteration 44 completed (1878.847 ms) ======
+====== neo4j-analytics (database) [default], iteration 45 started ======
+====== neo4j-analytics (database) [default], iteration 45 completed (1978.528 ms) ======
+====== neo4j-analytics (database) [default], iteration 46 started ======
+====== neo4j-analytics (database) [default], iteration 46 completed (1996.761 ms) ======
+====== neo4j-analytics (database) [default], iteration 47 started ======
+====== neo4j-analytics (database) [default], iteration 47 completed (1997.893 ms) ======
+====== neo4j-analytics (database) [default], iteration 48 started ======
+====== neo4j-analytics (database) [default], iteration 48 completed (1889.843 ms) ======
+====== neo4j-analytics (database) [default], iteration 49 started ======
+====== neo4j-analytics (database) [default], iteration 49 completed (1870.960 ms) ======
+====== neo4j-analytics (database) [default], iteration 50 started ======
+====== neo4j-analytics (database) [default], iteration 50 completed (1876.709 ms) ======
+====== neo4j-analytics (database) [default], iteration 51 started ======
+====== neo4j-analytics (database) [default], iteration 51 completed (1877.859 ms) ======
+====== neo4j-analytics (database) [default], iteration 52 started ======
+====== neo4j-analytics (database) [default], iteration 52 completed (1971.940 ms) ======
+====== neo4j-analytics (database) [default], iteration 53 started ======
+====== neo4j-analytics (database) [default], iteration 53 completed (1882.325 ms) ======
+====== neo4j-analytics (database) [default], iteration 54 started ======
+====== neo4j-analytics (database) [default], iteration 54 completed (1876.485 ms) ======
+====== neo4j-analytics (database) [default], iteration 55 started ======
+====== neo4j-analytics (database) [default], iteration 55 completed (1875.287 ms) ======
+====== neo4j-analytics (database) [default], iteration 56 started ======
+====== neo4j-analytics (database) [default], iteration 56 completed (1871.746 ms) ======
+====== neo4j-analytics (database) [default], iteration 57 started ======
+====== neo4j-analytics (database) [default], iteration 57 completed (1885.024 ms) ======
+====== neo4j-analytics (database) [default], iteration 58 started ======
+====== neo4j-analytics (database) [default], iteration 58 completed (1877.063 ms) ======
+====== neo4j-analytics (database) [default], iteration 59 started ======
+====== neo4j-analytics (database) [default], iteration 59 completed (1895.845 ms) ======
+====== neo4j-analytics (database) [default], iteration 60 started ======
+====== neo4j-analytics (database) [default], iteration 60 completed (1886.816 ms) ======
+====== neo4j-analytics (database) [default], iteration 61 started ======
+====== neo4j-analytics (database) [default], iteration 61 completed (1884.304 ms) ======
+====== neo4j-analytics (database) [default], iteration 62 started ======
+====== neo4j-analytics (database) [default], iteration 62 completed (1874.659 ms) ======
+====== neo4j-analytics (database) [default], iteration 63 started ======
+====== neo4j-analytics (database) [default], iteration 63 completed (1878.104 ms) ======
+====== neo4j-analytics (database) [default], iteration 64 started ======
+====== neo4j-analytics (database) [default], iteration 64 completed (1884.595 ms) ======
+====== neo4j-analytics (database) [default], iteration 65 started ======
+====== neo4j-analytics (database) [default], iteration 65 completed (1897.604 ms) ======
+====== neo4j-analytics (database) [default], iteration 66 started ======
+====== neo4j-analytics (database) [default], iteration 66 completed (1860.951 ms) ======
+====== neo4j-analytics (database) [default], iteration 67 started ======
+====== neo4j-analytics (database) [default], iteration 67 completed (1872.208 ms) ======
+====== neo4j-analytics (database) [default], iteration 68 started ======
+====== neo4j-analytics (database) [default], iteration 68 completed (1881.561 ms) ======
+====== neo4j-analytics (database) [default], iteration 69 started ======
+====== neo4j-analytics (database) [default], iteration 69 completed (1871.088 ms) ======
+====== neo4j-analytics (database) [default], iteration 70 started ======
+====== neo4j-analytics (database) [default], iteration 70 completed (1874.531 ms) ======
+====== neo4j-analytics (database) [default], iteration 71 started ======
+====== neo4j-analytics (database) [default], iteration 71 completed (2011.654 ms) ======
+====== neo4j-analytics (database) [default], iteration 72 started ======
+====== neo4j-analytics (database) [default], iteration 72 completed (1870.546 ms) ======
+====== neo4j-analytics (database) [default], iteration 73 started ======
+====== neo4j-analytics (database) [default], iteration 73 completed (1878.981 ms) ======
+====== neo4j-analytics (database) [default], iteration 74 started ======
+====== neo4j-analytics (database) [default], iteration 74 completed (1870.081 ms) ======
+====== neo4j-analytics (database) [default], iteration 75 started ======
+====== neo4j-analytics (database) [default], iteration 75 completed (1870.107 ms) ======
+====== neo4j-analytics (database) [default], iteration 76 started ======
+====== neo4j-analytics (database) [default], iteration 76 completed (1871.680 ms) ======
+====== neo4j-analytics (database) [default], iteration 77 started ======
+====== neo4j-analytics (database) [default], iteration 77 completed (1991.052 ms) ======
+====== neo4j-analytics (database) [default], iteration 78 started ======
+====== neo4j-analytics (database) [default], iteration 78 completed (1879.679 ms) ======
+====== neo4j-analytics (database) [default], iteration 79 started ======
+====== neo4j-analytics (database) [default], iteration 79 completed (1881.432 ms) ======
+====== neo4j-analytics (database) [default], iteration 80 started ======
+====== neo4j-analytics (database) [default], iteration 80 completed (1874.313 ms) ======
+====== neo4j-analytics (database) [default], iteration 81 started ======
+====== neo4j-analytics (database) [default], iteration 81 completed (1874.913 ms) ======
+====== neo4j-analytics (database) [default], iteration 82 started ======
+====== neo4j-analytics (database) [default], iteration 82 completed (1870.135 ms) ======
+====== neo4j-analytics (database) [default], iteration 83 started ======
+====== neo4j-analytics (database) [default], iteration 83 completed (1970.596 ms) ======
+====== neo4j-analytics (database) [default], iteration 84 started ======
+====== neo4j-analytics (database) [default], iteration 84 completed (1881.974 ms) ======
+====== neo4j-analytics (database) [default], iteration 85 started ======
+====== neo4j-analytics (database) [default], iteration 85 completed (1873.799 ms) ======
+====== neo4j-analytics (database) [default], iteration 86 started ======
+====== neo4j-analytics (database) [default], iteration 86 completed (1951.626 ms) ======
+====== neo4j-analytics (database) [default], iteration 87 started ======
+====== neo4j-analytics (database) [default], iteration 87 completed (1975.470 ms) ======
+====== neo4j-analytics (database) [default], iteration 88 started ======
+====== neo4j-analytics (database) [default], iteration 88 completed (1876.449 ms) ======
+====== neo4j-analytics (database) [default], iteration 89 started ======
+====== neo4j-analytics (database) [default], iteration 89 completed (1867.752 ms) ======
+====== neo4j-analytics (database) [default], iteration 90 started ======
+====== neo4j-analytics (database) [default], iteration 90 completed (1864.027 ms) ======
+====== neo4j-analytics (database) [default], iteration 91 started ======
+====== neo4j-analytics (database) [default], iteration 91 completed (1870.887 ms) ======
+====== neo4j-analytics (database) [default], iteration 92 started ======
+====== neo4j-analytics (database) [default], iteration 92 completed (1879.892 ms) ======
+====== neo4j-analytics (database) [default], iteration 93 started ======
+====== neo4j-analytics (database) [default], iteration 93 completed (1933.713 ms) ======
+====== neo4j-analytics (database) [default], iteration 94 started ======
+====== neo4j-analytics (database) [default], iteration 94 completed (1887.446 ms) ======
+====== neo4j-analytics (database) [default], iteration 95 started ======
+====== neo4j-analytics (database) [default], iteration 95 completed (1894.644 ms) ======
+====== neo4j-analytics (database) [default], iteration 96 started ======
+====== neo4j-analytics (database) [default], iteration 96 completed (1874.469 ms) ======
+====== neo4j-analytics (database) [default], iteration 97 started ======
+====== neo4j-analytics (database) [default], iteration 97 completed (1876.281 ms) ======
+====== neo4j-analytics (database) [default], iteration 98 started ======
+====== neo4j-analytics (database) [default], iteration 98 completed (1876.750 ms) ======
+====== neo4j-analytics (database) [default], iteration 99 started ======
+====== neo4j-analytics (database) [default], iteration 99 completed (1914.060 ms) ======
+====== neo4j-analytics (database) [default], iteration 100 started ======
+====== neo4j-analytics (database) [default], iteration 100 completed (1864.698 ms) ======
+====== neo4j-analytics (database) [default], iteration 101 started ======
+====== neo4j-analytics (database) [default], iteration 101 completed (1871.662 ms) ======
+====== neo4j-analytics (database) [default], iteration 102 started ======
+====== neo4j-analytics (database) [default], iteration 102 completed (1882.131 ms) ======
+====== neo4j-analytics (database) [default], iteration 103 started ======
+====== neo4j-analytics (database) [default], iteration 103 completed (1878.115 ms) ======
+====== neo4j-analytics (database) [default], iteration 104 started ======
+====== neo4j-analytics (database) [default], iteration 104 completed (1865.442 ms) ======
+====== neo4j-analytics (database) [default], iteration 105 started ======
+====== neo4j-analytics (database) [default], iteration 105 completed (1992.565 ms) ======
+====== neo4j-analytics (database) [default], iteration 106 started ======
+====== neo4j-analytics (database) [default], iteration 106 completed (1884.396 ms) ======
+====== neo4j-analytics (database) [default], iteration 107 started ======
+====== neo4j-analytics (database) [default], iteration 107 completed (1864.662 ms) ======
+====== neo4j-analytics (database) [default], iteration 108 started ======
+====== neo4j-analytics (database) [default], iteration 108 completed (1871.537 ms) ======
+====== neo4j-analytics (database) [default], iteration 109 started ======
+====== neo4j-analytics (database) [default], iteration 109 completed (1884.136 ms) ======
+====== neo4j-analytics (database) [default], iteration 110 started ======
+====== neo4j-analytics (database) [default], iteration 110 completed (1876.857 ms) ======
+====== neo4j-analytics (database) [default], iteration 111 started ======
+====== neo4j-analytics (database) [default], iteration 111 completed (1978.798 ms) ======
+====== neo4j-analytics (database) [default], iteration 112 started ======
+====== neo4j-analytics (database) [default], iteration 112 completed (1880.242 ms) ======
+====== neo4j-analytics (database) [default], iteration 113 started ======
+====== neo4j-analytics (database) [default], iteration 113 completed (1878.687 ms) ======
+====== neo4j-analytics (database) [default], iteration 114 started ======
+====== neo4j-analytics (database) [default], iteration 114 completed (1871.057 ms) ======
+====== neo4j-analytics (database) [default], iteration 115 started ======
+====== neo4j-analytics (database) [default], iteration 115 completed (1864.872 ms) ======
+====== neo4j-analytics (database) [default], iteration 116 started ======
+====== neo4j-analytics (database) [default], iteration 116 completed (1876.472 ms) ======
+====== neo4j-analytics (database) [default], iteration 117 started ======
+====== neo4j-analytics (database) [default], iteration 117 completed (1963.980 ms) ======
+====== neo4j-analytics (database) [default], iteration 118 started ======
+====== neo4j-analytics (database) [default], iteration 118 completed (1893.867 ms) ======
+====== neo4j-analytics (database) [default], iteration 119 started ======
+====== neo4j-analytics (database) [default], iteration 119 completed (1869.839 ms) ======
+====== neo4j-analytics (database) [default], iteration 120 started ======
+====== neo4j-analytics (database) [default], iteration 120 completed (2015.182 ms) ======
+====== neo4j-analytics (database) [default], iteration 121 started ======
+====== neo4j-analytics (database) [default], iteration 121 completed (1879.875 ms) ======
+====== neo4j-analytics (database) [default], iteration 122 started ======
+====== neo4j-analytics (database) [default], iteration 122 completed (1871.911 ms) ======
+====== neo4j-analytics (database) [default], iteration 123 started ======
+====== neo4j-analytics (database) [default], iteration 123 completed (1885.870 ms) ======
+====== neo4j-analytics (database) [default], iteration 124 started ======
+====== neo4j-analytics (database) [default], iteration 124 completed (1871.530 ms) ======
+====== neo4j-analytics (database) [default], iteration 125 started ======
+====== neo4j-analytics (database) [default], iteration 125 completed (1872.233 ms) ======
+====== neo4j-analytics (database) [default], iteration 126 started ======
+====== neo4j-analytics (database) [default], iteration 126 completed (1896.644 ms) ======
+====== neo4j-analytics (database) [default], iteration 127 started ======
+====== neo4j-analytics (database) [default], iteration 127 completed (1874.610 ms) ======
+====== neo4j-analytics (database) [default], iteration 128 started ======
+====== neo4j-analytics (database) [default], iteration 128 completed (1871.300 ms) ======
+====== neo4j-analytics (database) [default], iteration 129 started ======
+====== neo4j-analytics (database) [default], iteration 129 completed (1868.020 ms) ======
+====== neo4j-analytics (database) [default], iteration 130 started ======
+====== neo4j-analytics (database) [default], iteration 130 completed (1883.779 ms) ======
+====== neo4j-analytics (database) [default], iteration 131 started ======
+====== neo4j-analytics (database) [default], iteration 131 completed (1884.084 ms) ======
+====== neo4j-analytics (database) [default], iteration 132 started ======
+====== neo4j-analytics (database) [default], iteration 132 completed (1965.341 ms) ======
+====== neo4j-analytics (database) [default], iteration 133 started ======
+====== neo4j-analytics (database) [default], iteration 133 completed (1872.417 ms) ======
+====== neo4j-analytics (database) [default], iteration 134 started ======
+====== neo4j-analytics (database) [default], iteration 134 completed (1874.156 ms) ======
+====== neo4j-analytics (database) [default], iteration 135 started ======
+====== neo4j-analytics (database) [default], iteration 135 completed (1866.580 ms) ======
+====== neo4j-analytics (database) [default], iteration 136 started ======
+====== neo4j-analytics (database) [default], iteration 136 completed (1870.499 ms) ======
+====== neo4j-analytics (database) [default], iteration 137 started ======
+====== neo4j-analytics (database) [default], iteration 137 completed (1883.556 ms) ======
+====== neo4j-analytics (database) [default], iteration 138 started ======
+====== neo4j-analytics (database) [default], iteration 138 completed (1946.727 ms) ======
+====== neo4j-analytics (database) [default], iteration 139 started ======
+====== neo4j-analytics (database) [default], iteration 139 completed (1878.722 ms) ======
+====== neo4j-analytics (database) [default], iteration 140 started ======
+====== neo4j-analytics (database) [default], iteration 140 completed (1867.773 ms) ======
+====== neo4j-analytics (database) [default], iteration 141 started ======
+====== neo4j-analytics (database) [default], iteration 141 completed (1876.112 ms) ======
+====== neo4j-analytics (database) [default], iteration 142 started ======
+====== neo4j-analytics (database) [default], iteration 142 completed (1874.309 ms) ======
+====== neo4j-analytics (database) [default], iteration 143 started ======
+====== neo4j-analytics (database) [default], iteration 143 completed (1881.632 ms) ======
+====== neo4j-analytics (database) [default], iteration 144 started ======
+====== neo4j-analytics (database) [default], iteration 144 completed (1890.228 ms) ======
+====== neo4j-analytics (database) [default], iteration 145 started ======
+====== neo4j-analytics (database) [default], iteration 145 completed (1932.808 ms) ======
+====== neo4j-analytics (database) [default], iteration 146 started ======
+====== neo4j-analytics (database) [default], iteration 146 completed (1874.381 ms) ======
+====== neo4j-analytics (database) [default], iteration 147 started ======
+====== neo4j-analytics (database) [default], iteration 147 completed (1880.256 ms) ======
+====== neo4j-analytics (database) [default], iteration 148 started ======
+====== neo4j-analytics (database) [default], iteration 148 completed (1885.170 ms) ======
+====== neo4j-analytics (database) [default], iteration 149 started ======
+====== neo4j-analytics (database) [default], iteration 149 completed (1880.987 ms) ======
+====== neo4j-analytics (database) [default], iteration 150 started ======
+====== neo4j-analytics (database) [default], iteration 150 completed (1871.091 ms) ======
+====== neo4j-analytics (database) [default], iteration 151 started ======
+====== neo4j-analytics (database) [default], iteration 151 completed (1910.659 ms) ======
+====== neo4j-analytics (database) [default], iteration 152 started ======
+====== neo4j-analytics (database) [default], iteration 152 completed (1976.419 ms) ======
+====== neo4j-analytics (database) [default], iteration 153 started ======
+====== neo4j-analytics (database) [default], iteration 153 completed (1879.086 ms) ======
+====== neo4j-analytics (database) [default], iteration 154 started ======
+====== neo4j-analytics (database) [default], iteration 154 completed (1869.798 ms) ======
+====== neo4j-analytics (database) [default], iteration 155 started ======
+====== neo4j-analytics (database) [default], iteration 155 completed (1868.585 ms) ======
+====== neo4j-analytics (database) [default], iteration 156 started ======
+====== neo4j-analytics (database) [default], iteration 156 completed (1871.812 ms) ======
+====== neo4j-analytics (database) [default], iteration 157 started ======
+====== neo4j-analytics (database) [default], iteration 157 completed (1860.650 ms) ======
+====== neo4j-analytics (database) [default], iteration 158 started ======
+====== neo4j-analytics (database) [default], iteration 158 completed (1929.527 ms) ======
+====== neo4j-analytics (database) [default], iteration 159 started ======
+====== neo4j-analytics (database) [default], iteration 159 completed (1875.471 ms) ======
+====== neo4j-analytics (database) [default], iteration 160 started ======
+====== neo4j-analytics (database) [default], iteration 160 completed (1879.466 ms) ======
+====== neo4j-analytics (database) [default], iteration 161 started ======
+====== neo4j-analytics (database) [default], iteration 161 completed (1878.932 ms) ======
+====== neo4j-analytics (database) [default], iteration 162 started ======
+====== neo4j-analytics (database) [default], iteration 162 completed (1883.649 ms) ======
+====== neo4j-analytics (database) [default], iteration 163 started ======
+====== neo4j-analytics (database) [default], iteration 163 completed (1878.098 ms) ======
+====== neo4j-analytics (database) [default], iteration 164 started ======
+====== neo4j-analytics (database) [default], iteration 164 completed (1948.222 ms) ======
+====== neo4j-analytics (database) [default], iteration 165 started ======
+====== neo4j-analytics (database) [default], iteration 165 completed (1875.467 ms) ======
+====== neo4j-analytics (database) [default], iteration 166 started ======
+====== neo4j-analytics (database) [default], iteration 166 completed (1887.045 ms) ======
+====== neo4j-analytics (database) [default], iteration 167 started ======
+====== neo4j-analytics (database) [default], iteration 167 completed (1898.615 ms) ======
+====== neo4j-analytics (database) [default], iteration 168 started ======
+====== neo4j-analytics (database) [default], iteration 168 completed (1879.041 ms) ======
+====== neo4j-analytics (database) [default], iteration 169 started ======
+====== neo4j-analytics (database) [default], iteration 169 completed (1867.792 ms) ======
+====== neo4j-analytics (database) [default], iteration 170 started ======
+====== neo4j-analytics (database) [default], iteration 170 completed (1934.942 ms) ======
+====== neo4j-analytics (database) [default], iteration 171 started ======
+====== neo4j-analytics (database) [default], iteration 171 completed (1886.561 ms) ======
+====== neo4j-analytics (database) [default], iteration 172 started ======
+====== neo4j-analytics (database) [default], iteration 172 completed (1878.511 ms) ======
+====== neo4j-analytics (database) [default], iteration 173 started ======
+====== neo4j-analytics (database) [default], iteration 173 completed (1877.136 ms) ======
+====== neo4j-analytics (database) [default], iteration 174 started ======
+====== neo4j-analytics (database) [default], iteration 174 completed (1884.155 ms) ======
+====== neo4j-analytics (database) [default], iteration 175 started ======
+====== neo4j-analytics (database) [default], iteration 175 completed (1870.793 ms) ======
+====== neo4j-analytics (database) [default], iteration 176 started ======
+====== neo4j-analytics (database) [default], iteration 176 completed (1880.888 ms) ======
+====== neo4j-analytics (database) [default], iteration 177 started ======
+====== neo4j-analytics (database) [default], iteration 177 completed (1883.904 ms) ======
+====== neo4j-analytics (database) [default], iteration 178 started ======
+====== neo4j-analytics (database) [default], iteration 178 completed (1876.556 ms) ======
+====== neo4j-analytics (database) [default], iteration 179 started ======
+====== neo4j-analytics (database) [default], iteration 179 completed (1871.491 ms) ======
+====== neo4j-analytics (database) [default], iteration 180 started ======
+====== neo4j-analytics (database) [default], iteration 180 completed (1950.319 ms) ======
+====== neo4j-analytics (database) [default], iteration 181 started ======
+====== neo4j-analytics (database) [default], iteration 181 completed (1963.825 ms) ======
+====== neo4j-analytics (database) [default], iteration 182 started ======
+====== neo4j-analytics (database) [default], iteration 182 completed (1882.457 ms) ======
+====== neo4j-analytics (database) [default], iteration 183 started ======
+====== neo4j-analytics (database) [default], iteration 183 completed (1889.341 ms) ======
+====== neo4j-analytics (database) [default], iteration 184 started ======
+====== neo4j-analytics (database) [default], iteration 184 completed (1877.686 ms) ======
+====== neo4j-analytics (database) [default], iteration 185 started ======
+====== neo4j-analytics (database) [default], iteration 185 completed (1874.990 ms) ======
+====== neo4j-analytics (database) [default], iteration 186 started ======
+====== neo4j-analytics (database) [default], iteration 186 completed (1878.620 ms) ======
+====== neo4j-analytics (database) [default], iteration 187 started ======
+====== neo4j-analytics (database) [default], iteration 187 completed (1931.456 ms) ======
+====== neo4j-analytics (database) [default], iteration 188 started ======
+====== neo4j-analytics (database) [default], iteration 188 completed (1870.152 ms) ======
+====== neo4j-analytics (database) [default], iteration 189 started ======
+====== neo4j-analytics (database) [default], iteration 189 completed (1899.480 ms) ======
+====== neo4j-analytics (database) [default], iteration 190 started ======
+====== neo4j-analytics (database) [default], iteration 190 completed (1883.136 ms) ======
+====== neo4j-analytics (database) [default], iteration 191 started ======
+====== neo4j-analytics (database) [default], iteration 191 completed (1884.385 ms) ======
+====== neo4j-analytics (database) [default], iteration 192 started ======
+====== neo4j-analytics (database) [default], iteration 192 completed (1879.578 ms) ======
+====== neo4j-analytics (database) [default], iteration 193 started ======
+====== neo4j-analytics (database) [default], iteration 193 completed (1905.669 ms) ======
+====== neo4j-analytics (database) [default], iteration 194 started ======
+====== neo4j-analytics (database) [default], iteration 194 completed (1878.931 ms) ======
+====== neo4j-analytics (database) [default], iteration 195 started ======
+====== neo4j-analytics (database) [default], iteration 195 completed (1889.218 ms) ======
+====== neo4j-analytics (database) [default], iteration 196 started ======
+====== neo4j-analytics (database) [default], iteration 196 completed (1868.729 ms) ======
+====== neo4j-analytics (database) [default], iteration 197 started ======
+====== neo4j-analytics (database) [default], iteration 197 completed (1871.137 ms) ======
+====== neo4j-analytics (database) [default], iteration 198 started ======
+====== neo4j-analytics (database) [default], iteration 198 completed (1866.343 ms) ======
+====== neo4j-analytics (database) [default], iteration 199 started ======
+====== neo4j-analytics (database) [default], iteration 199 completed (1910.338 ms) ======
+====== neo4j-analytics (database) [default], iteration 200 started ======
+====== neo4j-analytics (database) [default], iteration 200 completed (1873.633 ms) ======
+====== neo4j-analytics (database) [default], iteration 201 started ======
+====== neo4j-analytics (database) [default], iteration 201 completed (1869.530 ms) ======
+====== neo4j-analytics (database) [default], iteration 202 started ======
+====== neo4j-analytics (database) [default], iteration 202 completed (1869.402 ms) ======
+====== neo4j-analytics (database) [default], iteration 203 started ======
+====== neo4j-analytics (database) [default], iteration 203 completed (1866.045 ms) ======
+====== neo4j-analytics (database) [default], iteration 204 started ======
+====== neo4j-analytics (database) [default], iteration 204 completed (1890.304 ms) ======
+====== neo4j-analytics (database) [default], iteration 205 started ======
+====== neo4j-analytics (database) [default], iteration 205 completed (1940.024 ms) ======
+====== neo4j-analytics (database) [default], iteration 206 started ======
+====== neo4j-analytics (database) [default], iteration 206 completed (1873.022 ms) ======
+====== neo4j-analytics (database) [default], iteration 207 started ======
+====== neo4j-analytics (database) [default], iteration 207 completed (1869.560 ms) ======
+====== neo4j-analytics (database) [default], iteration 208 started ======
+====== neo4j-analytics (database) [default], iteration 208 completed (2015.754 ms) ======
+====== neo4j-analytics (database) [default], iteration 209 started ======
+====== neo4j-analytics (database) [default], iteration 209 completed (1871.862 ms) ======
+====== neo4j-analytics (database) [default], iteration 210 started ======
+====== neo4j-analytics (database) [default], iteration 210 completed (1887.371 ms) ======
+====== neo4j-analytics (database) [default], iteration 211 started ======
+====== neo4j-analytics (database) [default], iteration 211 completed (1865.842 ms) ======
+====== neo4j-analytics (database) [default], iteration 212 started ======
+====== neo4j-analytics (database) [default], iteration 212 completed (1871.108 ms) ======
+====== neo4j-analytics (database) [default], iteration 213 started ======
+====== neo4j-analytics (database) [default], iteration 213 completed (1875.270 ms) ======
+====== neo4j-analytics (database) [default], iteration 214 started ======
+====== neo4j-analytics (database) [default], iteration 214 completed (1944.206 ms) ======
+====== neo4j-analytics (database) [default], iteration 215 started ======
+====== neo4j-analytics (database) [default], iteration 215 completed (1882.945 ms) ======
+====== neo4j-analytics (database) [default], iteration 216 started ======
+====== neo4j-analytics (database) [default], iteration 216 completed (1880.441 ms) ======
+====== neo4j-analytics (database) [default], iteration 217 started ======
+====== neo4j-analytics (database) [default], iteration 217 completed (1887.691 ms) ======
+====== neo4j-analytics (database) [default], iteration 218 started ======
+====== neo4j-analytics (database) [default], iteration 218 completed (1878.574 ms) ======
+====== neo4j-analytics (database) [default], iteration 219 started ======
+====== neo4j-analytics (database) [default], iteration 219 completed (1870.956 ms) ======
+====== neo4j-analytics (database) [default], iteration 220 started ======
+====== neo4j-analytics (database) [default], iteration 220 completed (1879.252 ms) ======
+====== neo4j-analytics (database) [default], iteration 221 started ======
+====== neo4j-analytics (database) [default], iteration 221 completed (1905.466 ms) ======
+====== neo4j-analytics (database) [default], iteration 222 started ======
+====== neo4j-analytics (database) [default], iteration 222 completed (1875.843 ms) ======
+====== neo4j-analytics (database) [default], iteration 223 started ======
+====== neo4j-analytics (database) [default], iteration 223 completed (1863.511 ms) ======
+====== neo4j-analytics (database) [default], iteration 224 started ======
+====== neo4j-analytics (database) [default], iteration 224 completed (1871.947 ms) ======
+====== neo4j-analytics (database) [default], iteration 225 started ======
+====== neo4j-analytics (database) [default], iteration 225 completed (1872.800 ms) ======
+====== neo4j-analytics (database) [default], iteration 226 started ======
+====== neo4j-analytics (database) [default], iteration 226 completed (1872.465 ms) ======
+====== neo4j-analytics (database) [default], iteration 227 started ======
+====== neo4j-analytics (database) [default], iteration 227 completed (1901.779 ms) ======
+====== neo4j-analytics (database) [default], iteration 228 started ======
+====== neo4j-analytics (database) [default], iteration 228 completed (1869.091 ms) ======
+====== neo4j-analytics (database) [default], iteration 229 started ======
+====== neo4j-analytics (database) [default], iteration 229 completed (1877.989 ms) ======
+====== neo4j-analytics (database) [default], iteration 230 started ======
+====== neo4j-analytics (database) [default], iteration 230 completed (1907.799 ms) ======
+====== neo4j-analytics (database) [default], iteration 231 started ======
+====== neo4j-analytics (database) [default], iteration 231 completed (1874.935 ms) ======
+====== neo4j-analytics (database) [default], iteration 232 started ======
+====== neo4j-analytics (database) [default], iteration 232 completed (1869.795 ms) ======
+====== neo4j-analytics (database) [default], iteration 233 started ======
+====== neo4j-analytics (database) [default], iteration 233 completed (1876.956 ms) ======
+====== neo4j-analytics (database) [default], iteration 234 started ======
+====== neo4j-analytics (database) [default], iteration 234 completed (1873.838 ms) ======
+====== neo4j-analytics (database) [default], iteration 235 started ======
+====== neo4j-analytics (database) [default], iteration 235 completed (1871.952 ms) ======
+====== neo4j-analytics (database) [default], iteration 236 started ======
+====== neo4j-analytics (database) [default], iteration 236 completed (1958.984 ms) ======
+====== neo4j-analytics (database) [default], iteration 237 started ======
+====== neo4j-analytics (database) [default], iteration 237 completed (1862.702 ms) ======
+====== neo4j-analytics (database) [default], iteration 238 started ======
+====== neo4j-analytics (database) [default], iteration 238 completed (1865.922 ms) ======
+====== neo4j-analytics (database) [default], iteration 239 started ======
+====== neo4j-analytics (database) [default], iteration 239 completed (1873.694 ms) ======
+====== neo4j-analytics (database) [default], iteration 240 started ======
+====== neo4j-analytics (database) [default], iteration 240 completed (1866.656 ms) ======
+====== neo4j-analytics (database) [default], iteration 241 started ======
+====== neo4j-analytics (database) [default], iteration 241 completed (1871.973 ms) ======
+====== neo4j-analytics (database) [default], iteration 242 started ======
+====== neo4j-analytics (database) [default], iteration 242 completed (1927.753 ms) ======
+====== neo4j-analytics (database) [default], iteration 243 started ======
+====== neo4j-analytics (database) [default], iteration 243 completed (1868.120 ms) ======
+====== neo4j-analytics (database) [default], iteration 244 started ======
+====== neo4j-analytics (database) [default], iteration 244 completed (1879.293 ms) ======
+====== neo4j-analytics (database) [default], iteration 245 started ======
+====== neo4j-analytics (database) [default], iteration 245 completed (1867.275 ms) ======
+====== neo4j-analytics (database) [default], iteration 246 started ======
+====== neo4j-analytics (database) [default], iteration 246 completed (1874.420 ms) ======
+====== neo4j-analytics (database) [default], iteration 247 started ======
+====== neo4j-analytics (database) [default], iteration 247 completed (1874.900 ms) ======
+====== neo4j-analytics (database) [default], iteration 248 started ======
+====== neo4j-analytics (database) [default], iteration 248 completed (1878.134 ms) ======
+====== neo4j-analytics (database) [default], iteration 249 started ======
+====== neo4j-analytics (database) [default], iteration 249 completed (1902.750 ms) ======
+====== neo4j-analytics (database) [default], iteration 250 started ======
+====== neo4j-analytics (database) [default], iteration 250 completed (1871.392 ms) ======
+====== neo4j-analytics (database) [default], iteration 251 started ======
+====== neo4j-analytics (database) [default], iteration 251 completed (1912.087 ms) ======
+====== neo4j-analytics (database) [default], iteration 252 started ======
+====== neo4j-analytics (database) [default], iteration 252 completed (1877.694 ms) ======
+====== neo4j-analytics (database) [default], iteration 253 started ======
+====== neo4j-analytics (database) [default], iteration 253 completed (1872.891 ms) ======
+====== neo4j-analytics (database) [default], iteration 254 started ======
+====== neo4j-analytics (database) [default], iteration 254 completed (1876.174 ms) ======
+====== neo4j-analytics (database) [default], iteration 255 started ======
+====== neo4j-analytics (database) [default], iteration 255 completed (1870.323 ms) ======
+====== neo4j-analytics (database) [default], iteration 256 started ======
+====== neo4j-analytics (database) [default], iteration 256 completed (1878.724 ms) ======
+====== neo4j-analytics (database) [default], iteration 257 started ======
+====== neo4j-analytics (database) [default], iteration 257 completed (1936.942 ms) ======
+====== neo4j-analytics (database) [default], iteration 258 started ======
+====== neo4j-analytics (database) [default], iteration 258 completed (1878.491 ms) ======
+====== neo4j-analytics (database) [default], iteration 259 started ======
+====== neo4j-analytics (database) [default], iteration 259 completed (1876.604 ms) ======
+====== neo4j-analytics (database) [default], iteration 260 started ======
+====== neo4j-analytics (database) [default], iteration 260 completed (1872.916 ms) ======
+====== neo4j-analytics (database) [default], iteration 261 started ======
+====== neo4j-analytics (database) [default], iteration 261 completed (1871.922 ms) ======
+====== neo4j-analytics (database) [default], iteration 262 started ======
+====== neo4j-analytics (database) [default], iteration 262 completed (1875.367 ms) ======
+====== neo4j-analytics (database) [default], iteration 263 started ======
+====== neo4j-analytics (database) [default], iteration 263 completed (1931.370 ms) ======
+====== neo4j-analytics (database) [default], iteration 264 started ======
+====== neo4j-analytics (database) [default], iteration 264 completed (1876.687 ms) ======
+====== neo4j-analytics (database) [default], iteration 265 started ======
+====== neo4j-analytics (database) [default], iteration 265 completed (1862.119 ms) ======
+====== neo4j-analytics (database) [default], iteration 266 started ======
+====== neo4j-analytics (database) [default], iteration 266 completed (1871.995 ms) ======
+====== neo4j-analytics (database) [default], iteration 267 started ======
+====== neo4j-analytics (database) [default], iteration 267 completed (1864.960 ms) ======
+====== neo4j-analytics (database) [default], iteration 268 started ======
+====== neo4j-analytics (database) [default], iteration 268 completed (1865.684 ms) ======
+====== neo4j-analytics (database) [default], iteration 269 started ======
+====== neo4j-analytics (database) [default], iteration 269 completed (1875.950 ms) ======
+====== neo4j-analytics (database) [default], iteration 270 started ======
+====== neo4j-analytics (database) [default], iteration 270 completed (2051.334 ms) ======
+====== neo4j-analytics (database) [default], iteration 271 started ======
+====== neo4j-analytics (database) [default], iteration 271 completed (1925.462 ms) ======
+====== neo4j-analytics (database) [default], iteration 272 started ======
+====== neo4j-analytics (database) [default], iteration 272 completed (1871.353 ms) ======
+====== neo4j-analytics (database) [default], iteration 273 started ======
+====== neo4j-analytics (database) [default], iteration 273 completed (1874.010 ms) ======
+====== neo4j-analytics (database) [default], iteration 274 started ======
+====== neo4j-analytics (database) [default], iteration 274 completed (1871.041 ms) ======
+====== neo4j-analytics (database) [default], iteration 275 started ======
+====== neo4j-analytics (database) [default], iteration 275 completed (1866.049 ms) ======
+====== neo4j-analytics (database) [default], iteration 276 started ======
+====== neo4j-analytics (database) [default], iteration 276 completed (1877.374 ms) ======
+====== neo4j-analytics (database) [default], iteration 277 started ======
+====== neo4j-analytics (database) [default], iteration 277 completed (1921.182 ms) ======
+====== neo4j-analytics (database) [default], iteration 278 started ======
+====== neo4j-analytics (database) [default], iteration 278 completed (1875.285 ms) ======
+====== neo4j-analytics (database) [default], iteration 279 started ======
+====== neo4j-analytics (database) [default], iteration 279 completed (1857.248 ms) ======
+====== neo4j-analytics (database) [default], iteration 280 started ======
+====== neo4j-analytics (database) [default], iteration 280 completed (1875.146 ms) ======
+====== neo4j-analytics (database) [default], iteration 281 started ======
+====== neo4j-analytics (database) [default], iteration 281 completed (1869.416 ms) ======
+====== neo4j-analytics (database) [default], iteration 282 started ======
+====== neo4j-analytics (database) [default], iteration 282 completed (1869.876 ms) ======
+====== neo4j-analytics (database) [default], iteration 283 started ======
+====== neo4j-analytics (database) [default], iteration 283 completed (1893.624 ms) ======
+====== neo4j-analytics (database) [default], iteration 284 started ======
+====== neo4j-analytics (database) [default], iteration 284 completed (1870.587 ms) ======
+====== neo4j-analytics (database) [default], iteration 285 started ======
+====== neo4j-analytics (database) [default], iteration 285 completed (1879.508 ms) ======
+====== neo4j-analytics (database) [default], iteration 286 started ======
+====== neo4j-analytics (database) [default], iteration 286 completed (1873.213 ms) ======
+====== neo4j-analytics (database) [default], iteration 287 started ======
+====== neo4j-analytics (database) [default], iteration 287 completed (1867.795 ms) ======
+====== neo4j-analytics (database) [default], iteration 288 started ======
+====== neo4j-analytics (database) [default], iteration 288 completed (1907.644 ms) ======
+====== neo4j-analytics (database) [default], iteration 289 started ======
+====== neo4j-analytics (database) [default], iteration 289 completed (1879.822 ms) ======
+====== neo4j-analytics (database) [default], iteration 290 started ======
+====== neo4j-analytics (database) [default], iteration 290 completed (1888.639 ms) ======
+====== neo4j-analytics (database) [default], iteration 291 started ======
+====== neo4j-analytics (database) [default], iteration 291 completed (1878.595 ms) ======
+====== neo4j-analytics (database) [default], iteration 292 started ======
+====== neo4j-analytics (database) [default], iteration 292 completed (1875.283 ms) ======
+====== neo4j-analytics (database) [default], iteration 293 started ======
+====== neo4j-analytics (database) [default], iteration 293 completed (1875.061 ms) ======
+====== neo4j-analytics (database) [default], iteration 294 started ======
+====== neo4j-analytics (database) [default], iteration 294 completed (1947.784 ms) ======
+====== neo4j-analytics (database) [default], iteration 295 started ======
+====== neo4j-analytics (database) [default], iteration 295 completed (1886.403 ms) ======
+====== neo4j-analytics (database) [default], iteration 296 started ======
+====== neo4j-analytics (database) [default], iteration 296 completed (1878.482 ms) ======
+====== neo4j-analytics (database) [default], iteration 297 started ======
+====== neo4j-analytics (database) [default], iteration 297 completed (1864.119 ms) ======
+====== neo4j-analytics (database) [default], iteration 298 started ======
+====== neo4j-analytics (database) [default], iteration 298 completed (1865.305 ms) ======
+====== neo4j-analytics (database) [default], iteration 299 started ======
+====== neo4j-analytics (database) [default], iteration 299 completed (1866.236 ms) ======
+====== neo4j-analytics (database) [default], iteration 300 started ======
+====== neo4j-analytics (database) [default], iteration 300 completed (1940.686 ms) ======
+====== neo4j-analytics (database) [default], iteration 301 started ======
+====== neo4j-analytics (database) [default], iteration 301 completed (1880.828 ms) ======
+====== neo4j-analytics (database) [default], iteration 302 started ======
+====== neo4j-analytics (database) [default], iteration 302 completed (2180.403 ms) ======
+====== neo4j-analytics (database) [default], iteration 303 started ======
+====== neo4j-analytics (database) [default], iteration 303 completed (1905.241 ms) ======
+====== neo4j-analytics (database) [default], iteration 304 started ======
+====== neo4j-analytics (database) [default], iteration 304 completed (1873.428 ms) ======
+====== neo4j-analytics (database) [default], iteration 305 started ======
+====== neo4j-analytics (database) [default], iteration 305 completed (1905.041 ms) ======
+====== neo4j-analytics (database) [default], iteration 306 started ======
+====== neo4j-analytics (database) [default], iteration 306 completed (1885.675 ms) ======
+====== neo4j-analytics (database) [default], iteration 307 started ======
+====== neo4j-analytics (database) [default], iteration 307 completed (1914.105 ms) ======
+====== neo4j-analytics (database) [default], iteration 308 started ======
+====== neo4j-analytics (database) [default], iteration 308 completed (1869.583 ms) ======
+====== neo4j-analytics (database) [default], iteration 309 started ======
+====== neo4j-analytics (database) [default], iteration 309 completed (1863.787 ms) ======
+====== neo4j-analytics (database) [default], iteration 310 started ======
+====== neo4j-analytics (database) [default], iteration 310 completed (1861.159 ms) ======
+====== neo4j-analytics (database) [default], iteration 311 started ======
+====== neo4j-analytics (database) [default], iteration 311 completed (1865.828 ms) ======
+====== neo4j-analytics (database) [default], iteration 312 started ======
+====== neo4j-analytics (database) [default], iteration 312 completed (1862.533 ms) ======
+====== neo4j-analytics (database) [default], iteration 313 started ======
+====== neo4j-analytics (database) [default], iteration 313 completed (1880.145 ms) ======
+====== neo4j-analytics (database) [default], iteration 314 started ======
+====== neo4j-analytics (database) [default], iteration 314 completed (1910.213 ms) ======

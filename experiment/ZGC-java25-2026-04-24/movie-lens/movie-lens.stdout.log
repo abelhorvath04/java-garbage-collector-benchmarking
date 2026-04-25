@@ -1,0 +1,877 @@
+WARNING: A terminally deprecated method in sun.misc.Unsafe has been called
+WARNING: sun.misc.Unsafe::objectFieldOffset has been called by scala.runtime.LazyVals$ (resource:/shared/scala3-library_3-3.3.4.jar)
+WARNING: Please consider reporting this to the maintainers of class scala.runtime.LazyVals$
+WARNING: sun.misc.Unsafe::objectFieldOffset will be removed in a future release
+[jmx-memory plugin] WARNING: Unknown garbage collector ZGC Minor Cycles.
+[jmx-memory plugin] WARNING: Unknown garbage collector ZGC Minor Pauses.
+[jmx-memory plugin] WARNING: Unknown garbage collector ZGC Major Cycles.
+[jmx-memory plugin] WARNING: Unknown garbage collector ZGC Major Pauses.
+[jmx-memory plugin] WARNING: MXBean for young generation not found, using mock.
+[jmx-memory plugin] WARNING: MXBean for old generation not found, using mock.
+NOTE: 'movie-lens' benchmark uses Spark local executor with 8 (out of 8) threads.
+Got 100004 ratings from 671 users on 9066 movies.
+Training: 60056, validation: 20285, test: 19854
+====== movie-lens (apache-spark) [default], iteration 0 started ======
+RMSE (validation) = 3.6219689545487506 for the model trained with rank = 8, lambda = 5.0, and numIter = 20.
+RMSE (validation) = 2.134092321711807 for the model trained with rank = 10, lambda = 2.0, and numIter = 20.
+RMSE (validation) = 1.3105189674610933 for the model trained with rank = 12, lambda = 1.0, and numIter = 20.
+RMSE (validation) = 1.004540774800519 for the model trained with rank = 8, lambda = 0.05, and numIter = 20.
+RMSE (validation) = 1.2218330581874075 for the model trained with rank = 10, lambda = 0.01, and numIter = 10.
+RMSE (validation) = 1.1174953766371012 for the model trained with rank = 8, lambda = 0.02, and numIter = 10.
+RMSE (validation) = 0.9275717391338141 for the model trained with rank = 12, lambda = 0.1, and numIter = 10.
+RMSE (validation) = 0.9001440981626694 for the model trained with rank = 8, lambda = 0.2, and numIter = 10.
+The best model was trained with rank = 8 and lambda = 0.2, and numIter = 10, and its RMSE on the test set is 0.9073522634082535.
+The best model improves the baseline by 14.43%.
+Top recommended movies for user id 72:
+ 1: Land of Silence and Darkness (Land des Schweigens und der Dunkelheit) (1971) (rating: 4.674, id: 67504)
+ 2: Goat, The (1921) (rating: 4.674, id: 83318)
+ 3: Play House, The (1921) (rating: 4.674, id: 83359)
+ 4: Cops (1922) (rating: 4.674, id: 83411)
+ 5: Dear Frankie (2004) (rating: 4.256, id: 8530)
+====== movie-lens (apache-spark) [default], iteration 0 completed (20046.379 ms) ======
+====== movie-lens (apache-spark) [default], iteration 1 started ======
+RMSE (validation) = 3.621968954548751 for the model trained with rank = 8, lambda = 5.0, and numIter = 20.
+RMSE (validation) = 2.134092321711807 for the model trained with rank = 10, lambda = 2.0, and numIter = 20.
+RMSE (validation) = 1.3105189674610933 for the model trained with rank = 12, lambda = 1.0, and numIter = 20.
+RMSE (validation) = 1.0045407748005193 for the model trained with rank = 8, lambda = 0.05, and numIter = 20.
+RMSE (validation) = 1.2218330581874075 for the model trained with rank = 10, lambda = 0.01, and numIter = 10.
+RMSE (validation) = 1.1174953766371012 for the model trained with rank = 8, lambda = 0.02, and numIter = 10.
+RMSE (validation) = 0.9275717391338141 for the model trained with rank = 12, lambda = 0.1, and numIter = 10.
+RMSE (validation) = 0.9001440981626695 for the model trained with rank = 8, lambda = 0.2, and numIter = 10.
+The best model was trained with rank = 8 and lambda = 0.2, and numIter = 10, and its RMSE on the test set is 0.9073522634082535.
+The best model improves the baseline by 14.43%.
+Top recommended movies for user id 72:
+ 1: Land of Silence and Darkness (Land des Schweigens und der Dunkelheit) (1971) (rating: 4.674, id: 67504)
+ 2: Goat, The (1921) (rating: 4.674, id: 83318)
+ 3: Play House, The (1921) (rating: 4.674, id: 83359)
+ 4: Cops (1922) (rating: 4.674, id: 83411)
+ 5: Dear Frankie (2004) (rating: 4.256, id: 8530)
+====== movie-lens (apache-spark) [default], iteration 1 completed (13054.089 ms) ======
+====== movie-lens (apache-spark) [default], iteration 2 started ======
+RMSE (validation) = 3.621968954548751 for the model trained with rank = 8, lambda = 5.0, and numIter = 20.
+RMSE (validation) = 2.134092321711807 for the model trained with rank = 10, lambda = 2.0, and numIter = 20.
+RMSE (validation) = 1.3105189674610933 for the model trained with rank = 12, lambda = 1.0, and numIter = 20.
+RMSE (validation) = 1.004540774800519 for the model trained with rank = 8, lambda = 0.05, and numIter = 20.
+RMSE (validation) = 1.2218330581874075 for the model trained with rank = 10, lambda = 0.01, and numIter = 10.
+RMSE (validation) = 1.1174953766371012 for the model trained with rank = 8, lambda = 0.02, and numIter = 10.
+RMSE (validation) = 0.9275717391338142 for the model trained with rank = 12, lambda = 0.1, and numIter = 10.
+RMSE (validation) = 0.9001440981626695 for the model trained with rank = 8, lambda = 0.2, and numIter = 10.
+The best model was trained with rank = 8 and lambda = 0.2, and numIter = 10, and its RMSE on the test set is 0.9073522634082535.
+The best model improves the baseline by 14.43%.
+Top recommended movies for user id 72:
+ 1: Land of Silence and Darkness (Land des Schweigens und der Dunkelheit) (1971) (rating: 4.674, id: 67504)
+ 2: Goat, The (1921) (rating: 4.674, id: 83318)
+ 3: Play House, The (1921) (rating: 4.674, id: 83359)
+ 4: Cops (1922) (rating: 4.674, id: 83411)
+ 5: Dear Frankie (2004) (rating: 4.256, id: 8530)
+====== movie-lens (apache-spark) [default], iteration 2 completed (12969.855 ms) ======
+====== movie-lens (apache-spark) [default], iteration 3 started ======
+RMSE (validation) = 3.621968954548751 for the model trained with rank = 8, lambda = 5.0, and numIter = 20.
+RMSE (validation) = 2.134092321711807 for the model trained with rank = 10, lambda = 2.0, and numIter = 20.
+RMSE (validation) = 1.3105189674610933 for the model trained with rank = 12, lambda = 1.0, and numIter = 20.
+RMSE (validation) = 1.004540774800519 for the model trained with rank = 8, lambda = 0.05, and numIter = 20.
+RMSE (validation) = 1.2218330581874075 for the model trained with rank = 10, lambda = 0.01, and numIter = 10.
+RMSE (validation) = 1.1174953766371012 for the model trained with rank = 8, lambda = 0.02, and numIter = 10.
+RMSE (validation) = 0.9275717391338141 for the model trained with rank = 12, lambda = 0.1, and numIter = 10.
+RMSE (validation) = 0.9001440981626695 for the model trained with rank = 8, lambda = 0.2, and numIter = 10.
+The best model was trained with rank = 8 and lambda = 0.2, and numIter = 10, and its RMSE on the test set is 0.9073522634082535.
+The best model improves the baseline by 14.43%.
+Top recommended movies for user id 72:
+ 1: Land of Silence and Darkness (Land des Schweigens und der Dunkelheit) (1971) (rating: 4.674, id: 67504)
+ 2: Goat, The (1921) (rating: 4.674, id: 83318)
+ 3: Play House, The (1921) (rating: 4.674, id: 83359)
+ 4: Cops (1922) (rating: 4.674, id: 83411)
+ 5: Dear Frankie (2004) (rating: 4.256, id: 8530)
+====== movie-lens (apache-spark) [default], iteration 3 completed (12191.979 ms) ======
+====== movie-lens (apache-spark) [default], iteration 4 started ======
+RMSE (validation) = 3.621968954548751 for the model trained with rank = 8, lambda = 5.0, and numIter = 20.
+RMSE (validation) = 2.134092321711807 for the model trained with rank = 10, lambda = 2.0, and numIter = 20.
+RMSE (validation) = 1.3105189674610933 for the model trained with rank = 12, lambda = 1.0, and numIter = 20.
+RMSE (validation) = 1.004540774800519 for the model trained with rank = 8, lambda = 0.05, and numIter = 20.
+RMSE (validation) = 1.2218330581874075 for the model trained with rank = 10, lambda = 0.01, and numIter = 10.
+RMSE (validation) = 1.1174953766371012 for the model trained with rank = 8, lambda = 0.02, and numIter = 10.
+RMSE (validation) = 0.9275717391338141 for the model trained with rank = 12, lambda = 0.1, and numIter = 10.
+RMSE (validation) = 0.9001440981626695 for the model trained with rank = 8, lambda = 0.2, and numIter = 10.
+The best model was trained with rank = 8 and lambda = 0.2, and numIter = 10, and its RMSE on the test set is 0.9073522634082535.
+The best model improves the baseline by 14.43%.
+Top recommended movies for user id 72:
+ 1: Land of Silence and Darkness (Land des Schweigens und der Dunkelheit) (1971) (rating: 4.674, id: 67504)
+ 2: Goat, The (1921) (rating: 4.674, id: 83318)
+ 3: Play House, The (1921) (rating: 4.674, id: 83359)
+ 4: Cops (1922) (rating: 4.674, id: 83411)
+ 5: Dear Frankie (2004) (rating: 4.256, id: 8530)
+====== movie-lens (apache-spark) [default], iteration 4 completed (11848.150 ms) ======
+====== movie-lens (apache-spark) [default], iteration 5 started ======
+RMSE (validation) = 3.621968954548751 for the model trained with rank = 8, lambda = 5.0, and numIter = 20.
+RMSE (validation) = 2.134092321711807 for the model trained with rank = 10, lambda = 2.0, and numIter = 20.
+RMSE (validation) = 1.3105189674610935 for the model trained with rank = 12, lambda = 1.0, and numIter = 20.
+RMSE (validation) = 1.0045407748005193 for the model trained with rank = 8, lambda = 0.05, and numIter = 20.
+RMSE (validation) = 1.2218330581874075 for the model trained with rank = 10, lambda = 0.01, and numIter = 10.
+RMSE (validation) = 1.1174953766371012 for the model trained with rank = 8, lambda = 0.02, and numIter = 10.
+RMSE (validation) = 0.9275717391338142 for the model trained with rank = 12, lambda = 0.1, and numIter = 10.
+RMSE (validation) = 0.9001440981626694 for the model trained with rank = 8, lambda = 0.2, and numIter = 10.
+The best model was trained with rank = 8 and lambda = 0.2, and numIter = 10, and its RMSE on the test set is 0.9073522634082535.
+The best model improves the baseline by 14.43%.
+Top recommended movies for user id 72:
+ 1: Land of Silence and Darkness (Land des Schweigens und der Dunkelheit) (1971) (rating: 4.674, id: 67504)
+ 2: Goat, The (1921) (rating: 4.674, id: 83318)
+ 3: Play House, The (1921) (rating: 4.674, id: 83359)
+ 4: Cops (1922) (rating: 4.674, id: 83411)
+ 5: Dear Frankie (2004) (rating: 4.256, id: 8530)
+====== movie-lens (apache-spark) [default], iteration 5 completed (11796.985 ms) ======
+====== movie-lens (apache-spark) [default], iteration 6 started ======
+RMSE (validation) = 3.621968954548751 for the model trained with rank = 8, lambda = 5.0, and numIter = 20.
+RMSE (validation) = 2.134092321711807 for the model trained with rank = 10, lambda = 2.0, and numIter = 20.
+RMSE (validation) = 1.3105189674610933 for the model trained with rank = 12, lambda = 1.0, and numIter = 20.
+RMSE (validation) = 1.004540774800519 for the model trained with rank = 8, lambda = 0.05, and numIter = 20.
+RMSE (validation) = 1.2218330581874075 for the model trained with rank = 10, lambda = 0.01, and numIter = 10.
+RMSE (validation) = 1.1174953766371012 for the model trained with rank = 8, lambda = 0.02, and numIter = 10.
+RMSE (validation) = 0.9275717391338141 for the model trained with rank = 12, lambda = 0.1, and numIter = 10.
+RMSE (validation) = 0.9001440981626695 for the model trained with rank = 8, lambda = 0.2, and numIter = 10.
+The best model was trained with rank = 8 and lambda = 0.2, and numIter = 10, and its RMSE on the test set is 0.9073522634082535.
+The best model improves the baseline by 14.43%.
+Top recommended movies for user id 72:
+ 1: Land of Silence and Darkness (Land des Schweigens und der Dunkelheit) (1971) (rating: 4.674, id: 67504)
+ 2: Goat, The (1921) (rating: 4.674, id: 83318)
+ 3: Play House, The (1921) (rating: 4.674, id: 83359)
+ 4: Cops (1922) (rating: 4.674, id: 83411)
+ 5: Dear Frankie (2004) (rating: 4.256, id: 8530)
+====== movie-lens (apache-spark) [default], iteration 6 completed (12324.058 ms) ======
+====== movie-lens (apache-spark) [default], iteration 7 started ======
+RMSE (validation) = 3.6219689545487506 for the model trained with rank = 8, lambda = 5.0, and numIter = 20.
+RMSE (validation) = 2.134092321711807 for the model trained with rank = 10, lambda = 2.0, and numIter = 20.
+RMSE (validation) = 1.3105189674610933 for the model trained with rank = 12, lambda = 1.0, and numIter = 20.
+RMSE (validation) = 1.0045407748005193 for the model trained with rank = 8, lambda = 0.05, and numIter = 20.
+RMSE (validation) = 1.2218330581874075 for the model trained with rank = 10, lambda = 0.01, and numIter = 10.
+RMSE (validation) = 1.1174953766371012 for the model trained with rank = 8, lambda = 0.02, and numIter = 10.
+RMSE (validation) = 0.9275717391338142 for the model trained with rank = 12, lambda = 0.1, and numIter = 10.
+RMSE (validation) = 0.9001440981626695 for the model trained with rank = 8, lambda = 0.2, and numIter = 10.
+The best model was trained with rank = 8 and lambda = 0.2, and numIter = 10, and its RMSE on the test set is 0.9073522634082535.
+The best model improves the baseline by 14.43%.
+Top recommended movies for user id 72:
+ 1: Land of Silence and Darkness (Land des Schweigens und der Dunkelheit) (1971) (rating: 4.674, id: 67504)
+ 2: Goat, The (1921) (rating: 4.674, id: 83318)
+ 3: Play House, The (1921) (rating: 4.674, id: 83359)
+ 4: Cops (1922) (rating: 4.674, id: 83411)
+ 5: Dear Frankie (2004) (rating: 4.256, id: 8530)
+====== movie-lens (apache-spark) [default], iteration 7 completed (16155.617 ms) ======
+====== movie-lens (apache-spark) [default], iteration 8 started ======
+RMSE (validation) = 3.6219689545487506 for the model trained with rank = 8, lambda = 5.0, and numIter = 20.
+RMSE (validation) = 2.134092321711807 for the model trained with rank = 10, lambda = 2.0, and numIter = 20.
+RMSE (validation) = 1.3105189674610933 for the model trained with rank = 12, lambda = 1.0, and numIter = 20.
+RMSE (validation) = 1.0045407748005193 for the model trained with rank = 8, lambda = 0.05, and numIter = 20.
+RMSE (validation) = 1.2218330581874075 for the model trained with rank = 10, lambda = 0.01, and numIter = 10.
+RMSE (validation) = 1.1174953766371012 for the model trained with rank = 8, lambda = 0.02, and numIter = 10.
+RMSE (validation) = 0.9275717391338141 for the model trained with rank = 12, lambda = 0.1, and numIter = 10.
+RMSE (validation) = 0.9001440981626695 for the model trained with rank = 8, lambda = 0.2, and numIter = 10.
+The best model was trained with rank = 8 and lambda = 0.2, and numIter = 10, and its RMSE on the test set is 0.9073522634082535.
+The best model improves the baseline by 14.43%.
+Top recommended movies for user id 72:
+ 1: Land of Silence and Darkness (Land des Schweigens und der Dunkelheit) (1971) (rating: 4.674, id: 67504)
+ 2: Goat, The (1921) (rating: 4.674, id: 83318)
+ 3: Play House, The (1921) (rating: 4.674, id: 83359)
+ 4: Cops (1922) (rating: 4.674, id: 83411)
+ 5: Dear Frankie (2004) (rating: 4.256, id: 8530)
+====== movie-lens (apache-spark) [default], iteration 8 completed (12722.655 ms) ======
+====== movie-lens (apache-spark) [default], iteration 9 started ======
+RMSE (validation) = 3.621968954548751 for the model trained with rank = 8, lambda = 5.0, and numIter = 20.
+RMSE (validation) = 2.134092321711807 for the model trained with rank = 10, lambda = 2.0, and numIter = 20.
+RMSE (validation) = 1.3105189674610935 for the model trained with rank = 12, lambda = 1.0, and numIter = 20.
+RMSE (validation) = 1.0045407748005193 for the model trained with rank = 8, lambda = 0.05, and numIter = 20.
+RMSE (validation) = 1.2218330581874075 for the model trained with rank = 10, lambda = 0.01, and numIter = 10.
+RMSE (validation) = 1.1174953766371012 for the model trained with rank = 8, lambda = 0.02, and numIter = 10.
+RMSE (validation) = 0.9275717391338142 for the model trained with rank = 12, lambda = 0.1, and numIter = 10.
+RMSE (validation) = 0.9001440981626695 for the model trained with rank = 8, lambda = 0.2, and numIter = 10.
+The best model was trained with rank = 8 and lambda = 0.2, and numIter = 10, and its RMSE on the test set is 0.9073522634082535.
+The best model improves the baseline by 14.43%.
+Top recommended movies for user id 72:
+ 1: Land of Silence and Darkness (Land des Schweigens und der Dunkelheit) (1971) (rating: 4.674, id: 67504)
+ 2: Goat, The (1921) (rating: 4.674, id: 83318)
+ 3: Play House, The (1921) (rating: 4.674, id: 83359)
+ 4: Cops (1922) (rating: 4.674, id: 83411)
+ 5: Dear Frankie (2004) (rating: 4.256, id: 8530)
+====== movie-lens (apache-spark) [default], iteration 9 completed (11705.028 ms) ======
+====== movie-lens (apache-spark) [default], iteration 10 started ======
+RMSE (validation) = 3.6219689545487506 for the model trained with rank = 8, lambda = 5.0, and numIter = 20.
+RMSE (validation) = 2.134092321711807 for the model trained with rank = 10, lambda = 2.0, and numIter = 20.
+RMSE (validation) = 1.3105189674610933 for the model trained with rank = 12, lambda = 1.0, and numIter = 20.
+RMSE (validation) = 1.0045407748005193 for the model trained with rank = 8, lambda = 0.05, and numIter = 20.
+RMSE (validation) = 1.2218330581874075 for the model trained with rank = 10, lambda = 0.01, and numIter = 10.
+RMSE (validation) = 1.1174953766371012 for the model trained with rank = 8, lambda = 0.02, and numIter = 10.
+RMSE (validation) = 0.9275717391338141 for the model trained with rank = 12, lambda = 0.1, and numIter = 10.
+RMSE (validation) = 0.9001440981626695 for the model trained with rank = 8, lambda = 0.2, and numIter = 10.
+The best model was trained with rank = 8 and lambda = 0.2, and numIter = 10, and its RMSE on the test set is 0.9073522634082535.
+The best model improves the baseline by 14.43%.
+Top recommended movies for user id 72:
+ 1: Land of Silence and Darkness (Land des Schweigens und der Dunkelheit) (1971) (rating: 4.674, id: 67504)
+ 2: Goat, The (1921) (rating: 4.674, id: 83318)
+ 3: Play House, The (1921) (rating: 4.674, id: 83359)
+ 4: Cops (1922) (rating: 4.674, id: 83411)
+ 5: Dear Frankie (2004) (rating: 4.256, id: 8530)
+====== movie-lens (apache-spark) [default], iteration 10 completed (11890.195 ms) ======
+====== movie-lens (apache-spark) [default], iteration 11 started ======
+RMSE (validation) = 3.621968954548751 for the model trained with rank = 8, lambda = 5.0, and numIter = 20.
+RMSE (validation) = 2.134092321711807 for the model trained with rank = 10, lambda = 2.0, and numIter = 20.
+RMSE (validation) = 1.3105189674610933 for the model trained with rank = 12, lambda = 1.0, and numIter = 20.
+RMSE (validation) = 1.0045407748005193 for the model trained with rank = 8, lambda = 0.05, and numIter = 20.
+RMSE (validation) = 1.2218330581874075 for the model trained with rank = 10, lambda = 0.01, and numIter = 10.
+RMSE (validation) = 1.1174953766371012 for the model trained with rank = 8, lambda = 0.02, and numIter = 10.
+RMSE (validation) = 0.9275717391338141 for the model trained with rank = 12, lambda = 0.1, and numIter = 10.
+RMSE (validation) = 0.9001440981626694 for the model trained with rank = 8, lambda = 0.2, and numIter = 10.
+The best model was trained with rank = 8 and lambda = 0.2, and numIter = 10, and its RMSE on the test set is 0.9073522634082535.
+The best model improves the baseline by 14.43%.
+Top recommended movies for user id 72:
+ 1: Land of Silence and Darkness (Land des Schweigens und der Dunkelheit) (1971) (rating: 4.674, id: 67504)
+ 2: Goat, The (1921) (rating: 4.674, id: 83318)
+ 3: Play House, The (1921) (rating: 4.674, id: 83359)
+ 4: Cops (1922) (rating: 4.674, id: 83411)
+ 5: Dear Frankie (2004) (rating: 4.256, id: 8530)
+====== movie-lens (apache-spark) [default], iteration 11 completed (11866.565 ms) ======
+====== movie-lens (apache-spark) [default], iteration 12 started ======
+RMSE (validation) = 3.621968954548751 for the model trained with rank = 8, lambda = 5.0, and numIter = 20.
+RMSE (validation) = 2.134092321711807 for the model trained with rank = 10, lambda = 2.0, and numIter = 20.
+RMSE (validation) = 1.3105189674610933 for the model trained with rank = 12, lambda = 1.0, and numIter = 20.
+RMSE (validation) = 1.004540774800519 for the model trained with rank = 8, lambda = 0.05, and numIter = 20.
+RMSE (validation) = 1.2218330581874075 for the model trained with rank = 10, lambda = 0.01, and numIter = 10.
+RMSE (validation) = 1.1174953766371012 for the model trained with rank = 8, lambda = 0.02, and numIter = 10.
+RMSE (validation) = 0.9275717391338141 for the model trained with rank = 12, lambda = 0.1, and numIter = 10.
+RMSE (validation) = 0.9001440981626695 for the model trained with rank = 8, lambda = 0.2, and numIter = 10.
+The best model was trained with rank = 8 and lambda = 0.2, and numIter = 10, and its RMSE on the test set is 0.9073522634082535.
+The best model improves the baseline by 14.43%.
+Top recommended movies for user id 72:
+ 1: Land of Silence and Darkness (Land des Schweigens und der Dunkelheit) (1971) (rating: 4.674, id: 67504)
+ 2: Goat, The (1921) (rating: 4.674, id: 83318)
+ 3: Play House, The (1921) (rating: 4.674, id: 83359)
+ 4: Cops (1922) (rating: 4.674, id: 83411)
+ 5: Dear Frankie (2004) (rating: 4.256, id: 8530)
+====== movie-lens (apache-spark) [default], iteration 12 completed (12022.327 ms) ======
+====== movie-lens (apache-spark) [default], iteration 13 started ======
+RMSE (validation) = 3.6219689545487506 for the model trained with rank = 8, lambda = 5.0, and numIter = 20.
+RMSE (validation) = 2.134092321711807 for the model trained with rank = 10, lambda = 2.0, and numIter = 20.
+RMSE (validation) = 1.3105189674610935 for the model trained with rank = 12, lambda = 1.0, and numIter = 20.
+RMSE (validation) = 1.0045407748005193 for the model trained with rank = 8, lambda = 0.05, and numIter = 20.
+RMSE (validation) = 1.2218330581874075 for the model trained with rank = 10, lambda = 0.01, and numIter = 10.
+RMSE (validation) = 1.1174953766371012 for the model trained with rank = 8, lambda = 0.02, and numIter = 10.
+RMSE (validation) = 0.9275717391338141 for the model trained with rank = 12, lambda = 0.1, and numIter = 10.
+RMSE (validation) = 0.9001440981626695 for the model trained with rank = 8, lambda = 0.2, and numIter = 10.
+The best model was trained with rank = 8 and lambda = 0.2, and numIter = 10, and its RMSE on the test set is 0.9073522634082535.
+The best model improves the baseline by 14.43%.
+Top recommended movies for user id 72:
+ 1: Land of Silence and Darkness (Land des Schweigens und der Dunkelheit) (1971) (rating: 4.674, id: 67504)
+ 2: Goat, The (1921) (rating: 4.674, id: 83318)
+ 3: Play House, The (1921) (rating: 4.674, id: 83359)
+ 4: Cops (1922) (rating: 4.674, id: 83411)
+ 5: Dear Frankie (2004) (rating: 4.256, id: 8530)
+====== movie-lens (apache-spark) [default], iteration 13 completed (11883.888 ms) ======
+====== movie-lens (apache-spark) [default], iteration 14 started ======
+RMSE (validation) = 3.621968954548751 for the model trained with rank = 8, lambda = 5.0, and numIter = 20.
+RMSE (validation) = 2.1340923217118064 for the model trained with rank = 10, lambda = 2.0, and numIter = 20.
+RMSE (validation) = 1.3105189674610933 for the model trained with rank = 12, lambda = 1.0, and numIter = 20.
+RMSE (validation) = 1.0045407748005193 for the model trained with rank = 8, lambda = 0.05, and numIter = 20.
+RMSE (validation) = 1.2218330581874075 for the model trained with rank = 10, lambda = 0.01, and numIter = 10.
+RMSE (validation) = 1.1174953766371012 for the model trained with rank = 8, lambda = 0.02, and numIter = 10.
+RMSE (validation) = 0.9275717391338141 for the model trained with rank = 12, lambda = 0.1, and numIter = 10.
+RMSE (validation) = 0.9001440981626694 for the model trained with rank = 8, lambda = 0.2, and numIter = 10.
+The best model was trained with rank = 8 and lambda = 0.2, and numIter = 10, and its RMSE on the test set is 0.9073522634082535.
+The best model improves the baseline by 14.43%.
+Top recommended movies for user id 72:
+ 1: Land of Silence and Darkness (Land des Schweigens und der Dunkelheit) (1971) (rating: 4.674, id: 67504)
+ 2: Goat, The (1921) (rating: 4.674, id: 83318)
+ 3: Play House, The (1921) (rating: 4.674, id: 83359)
+ 4: Cops (1922) (rating: 4.674, id: 83411)
+ 5: Dear Frankie (2004) (rating: 4.256, id: 8530)
+====== movie-lens (apache-spark) [default], iteration 14 completed (11799.055 ms) ======
+====== movie-lens (apache-spark) [default], iteration 15 started ======
+RMSE (validation) = 3.621968954548751 for the model trained with rank = 8, lambda = 5.0, and numIter = 20.
+RMSE (validation) = 2.134092321711807 for the model trained with rank = 10, lambda = 2.0, and numIter = 20.
+RMSE (validation) = 1.3105189674610933 for the model trained with rank = 12, lambda = 1.0, and numIter = 20.
+RMSE (validation) = 1.0045407748005193 for the model trained with rank = 8, lambda = 0.05, and numIter = 20.
+RMSE (validation) = 1.2218330581874075 for the model trained with rank = 10, lambda = 0.01, and numIter = 10.
+RMSE (validation) = 1.1174953766371012 for the model trained with rank = 8, lambda = 0.02, and numIter = 10.
+RMSE (validation) = 0.9275717391338142 for the model trained with rank = 12, lambda = 0.1, and numIter = 10.
+RMSE (validation) = 0.9001440981626695 for the model trained with rank = 8, lambda = 0.2, and numIter = 10.
+The best model was trained with rank = 8 and lambda = 0.2, and numIter = 10, and its RMSE on the test set is 0.9073522634082535.
+The best model improves the baseline by 14.43%.
+Top recommended movies for user id 72:
+ 1: Land of Silence and Darkness (Land des Schweigens und der Dunkelheit) (1971) (rating: 4.674, id: 67504)
+ 2: Goat, The (1921) (rating: 4.674, id: 83318)
+ 3: Play House, The (1921) (rating: 4.674, id: 83359)
+ 4: Cops (1922) (rating: 4.674, id: 83411)
+ 5: Dear Frankie (2004) (rating: 4.256, id: 8530)
+====== movie-lens (apache-spark) [default], iteration 15 completed (11892.957 ms) ======
+====== movie-lens (apache-spark) [default], iteration 16 started ======
+RMSE (validation) = 3.621968954548751 for the model trained with rank = 8, lambda = 5.0, and numIter = 20.
+RMSE (validation) = 2.134092321711807 for the model trained with rank = 10, lambda = 2.0, and numIter = 20.
+RMSE (validation) = 1.3105189674610935 for the model trained with rank = 12, lambda = 1.0, and numIter = 20.
+RMSE (validation) = 1.0045407748005193 for the model trained with rank = 8, lambda = 0.05, and numIter = 20.
+RMSE (validation) = 1.2218330581874075 for the model trained with rank = 10, lambda = 0.01, and numIter = 10.
+RMSE (validation) = 1.1174953766371012 for the model trained with rank = 8, lambda = 0.02, and numIter = 10.
+RMSE (validation) = 0.9275717391338142 for the model trained with rank = 12, lambda = 0.1, and numIter = 10.
+RMSE (validation) = 0.9001440981626695 for the model trained with rank = 8, lambda = 0.2, and numIter = 10.
+The best model was trained with rank = 8 and lambda = 0.2, and numIter = 10, and its RMSE on the test set is 0.9073522634082535.
+The best model improves the baseline by 14.43%.
+Top recommended movies for user id 72:
+ 1: Land of Silence and Darkness (Land des Schweigens und der Dunkelheit) (1971) (rating: 4.674, id: 67504)
+ 2: Goat, The (1921) (rating: 4.674, id: 83318)
+ 3: Play House, The (1921) (rating: 4.674, id: 83359)
+ 4: Cops (1922) (rating: 4.674, id: 83411)
+ 5: Dear Frankie (2004) (rating: 4.256, id: 8530)
+====== movie-lens (apache-spark) [default], iteration 16 completed (11864.286 ms) ======
+====== movie-lens (apache-spark) [default], iteration 17 started ======
+RMSE (validation) = 3.621968954548751 for the model trained with rank = 8, lambda = 5.0, and numIter = 20.
+RMSE (validation) = 2.134092321711807 for the model trained with rank = 10, lambda = 2.0, and numIter = 20.
+RMSE (validation) = 1.3105189674610933 for the model trained with rank = 12, lambda = 1.0, and numIter = 20.
+RMSE (validation) = 1.004540774800519 for the model trained with rank = 8, lambda = 0.05, and numIter = 20.
+RMSE (validation) = 1.2218330581874075 for the model trained with rank = 10, lambda = 0.01, and numIter = 10.
+RMSE (validation) = 1.1174953766371012 for the model trained with rank = 8, lambda = 0.02, and numIter = 10.
+RMSE (validation) = 0.9275717391338142 for the model trained with rank = 12, lambda = 0.1, and numIter = 10.
+RMSE (validation) = 0.9001440981626695 for the model trained with rank = 8, lambda = 0.2, and numIter = 10.
+The best model was trained with rank = 8 and lambda = 0.2, and numIter = 10, and its RMSE on the test set is 0.9073522634082535.
+The best model improves the baseline by 14.43%.
+Top recommended movies for user id 72:
+ 1: Land of Silence and Darkness (Land des Schweigens und der Dunkelheit) (1971) (rating: 4.674, id: 67504)
+ 2: Goat, The (1921) (rating: 4.674, id: 83318)
+ 3: Play House, The (1921) (rating: 4.674, id: 83359)
+ 4: Cops (1922) (rating: 4.674, id: 83411)
+ 5: Dear Frankie (2004) (rating: 4.256, id: 8530)
+====== movie-lens (apache-spark) [default], iteration 17 completed (11757.106 ms) ======
+====== movie-lens (apache-spark) [default], iteration 18 started ======
+RMSE (validation) = 3.621968954548751 for the model trained with rank = 8, lambda = 5.0, and numIter = 20.
+RMSE (validation) = 2.134092321711807 for the model trained with rank = 10, lambda = 2.0, and numIter = 20.
+RMSE (validation) = 1.3105189674610935 for the model trained with rank = 12, lambda = 1.0, and numIter = 20.
+RMSE (validation) = 1.004540774800519 for the model trained with rank = 8, lambda = 0.05, and numIter = 20.
+RMSE (validation) = 1.2218330581874075 for the model trained with rank = 10, lambda = 0.01, and numIter = 10.
+RMSE (validation) = 1.1174953766371012 for the model trained with rank = 8, lambda = 0.02, and numIter = 10.
+RMSE (validation) = 0.9275717391338142 for the model trained with rank = 12, lambda = 0.1, and numIter = 10.
+RMSE (validation) = 0.9001440981626694 for the model trained with rank = 8, lambda = 0.2, and numIter = 10.
+The best model was trained with rank = 8 and lambda = 0.2, and numIter = 10, and its RMSE on the test set is 0.9073522634082535.
+The best model improves the baseline by 14.43%.
+Top recommended movies for user id 72:
+ 1: Land of Silence and Darkness (Land des Schweigens und der Dunkelheit) (1971) (rating: 4.674, id: 67504)
+ 2: Goat, The (1921) (rating: 4.674, id: 83318)
+ 3: Play House, The (1921) (rating: 4.674, id: 83359)
+ 4: Cops (1922) (rating: 4.674, id: 83411)
+ 5: Dear Frankie (2004) (rating: 4.256, id: 8530)
+====== movie-lens (apache-spark) [default], iteration 18 completed (12028.582 ms) ======
+====== movie-lens (apache-spark) [default], iteration 19 started ======
+RMSE (validation) = 3.621968954548751 for the model trained with rank = 8, lambda = 5.0, and numIter = 20.
+RMSE (validation) = 2.1340923217118064 for the model trained with rank = 10, lambda = 2.0, and numIter = 20.
+RMSE (validation) = 1.3105189674610933 for the model trained with rank = 12, lambda = 1.0, and numIter = 20.
+RMSE (validation) = 1.0045407748005193 for the model trained with rank = 8, lambda = 0.05, and numIter = 20.
+RMSE (validation) = 1.2218330581874075 for the model trained with rank = 10, lambda = 0.01, and numIter = 10.
+RMSE (validation) = 1.1174953766371012 for the model trained with rank = 8, lambda = 0.02, and numIter = 10.
+RMSE (validation) = 0.9275717391338141 for the model trained with rank = 12, lambda = 0.1, and numIter = 10.
+RMSE (validation) = 0.9001440981626695 for the model trained with rank = 8, lambda = 0.2, and numIter = 10.
+The best model was trained with rank = 8 and lambda = 0.2, and numIter = 10, and its RMSE on the test set is 0.9073522634082535.
+The best model improves the baseline by 14.43%.
+Top recommended movies for user id 72:
+ 1: Land of Silence and Darkness (Land des Schweigens und der Dunkelheit) (1971) (rating: 4.674, id: 67504)
+ 2: Goat, The (1921) (rating: 4.674, id: 83318)
+ 3: Play House, The (1921) (rating: 4.674, id: 83359)
+ 4: Cops (1922) (rating: 4.674, id: 83411)
+ 5: Dear Frankie (2004) (rating: 4.256, id: 8530)
+====== movie-lens (apache-spark) [default], iteration 19 completed (11767.990 ms) ======
+====== movie-lens (apache-spark) [default], iteration 20 started ======
+RMSE (validation) = 3.621968954548751 for the model trained with rank = 8, lambda = 5.0, and numIter = 20.
+RMSE (validation) = 2.134092321711807 for the model trained with rank = 10, lambda = 2.0, and numIter = 20.
+RMSE (validation) = 1.3105189674610935 for the model trained with rank = 12, lambda = 1.0, and numIter = 20.
+RMSE (validation) = 1.0045407748005193 for the model trained with rank = 8, lambda = 0.05, and numIter = 20.
+RMSE (validation) = 1.2218330581874075 for the model trained with rank = 10, lambda = 0.01, and numIter = 10.
+RMSE (validation) = 1.1174953766371012 for the model trained with rank = 8, lambda = 0.02, and numIter = 10.
+RMSE (validation) = 0.9275717391338141 for the model trained with rank = 12, lambda = 0.1, and numIter = 10.
+RMSE (validation) = 0.9001440981626695 for the model trained with rank = 8, lambda = 0.2, and numIter = 10.
+The best model was trained with rank = 8 and lambda = 0.2, and numIter = 10, and its RMSE on the test set is 0.9073522634082535.
+The best model improves the baseline by 14.43%.
+Top recommended movies for user id 72:
+ 1: Land of Silence and Darkness (Land des Schweigens und der Dunkelheit) (1971) (rating: 4.674, id: 67504)
+ 2: Goat, The (1921) (rating: 4.674, id: 83318)
+ 3: Play House, The (1921) (rating: 4.674, id: 83359)
+ 4: Cops (1922) (rating: 4.674, id: 83411)
+ 5: Dear Frankie (2004) (rating: 4.256, id: 8530)
+====== movie-lens (apache-spark) [default], iteration 20 completed (11797.410 ms) ======
+====== movie-lens (apache-spark) [default], iteration 21 started ======
+RMSE (validation) = 3.621968954548751 for the model trained with rank = 8, lambda = 5.0, and numIter = 20.
+RMSE (validation) = 2.134092321711807 for the model trained with rank = 10, lambda = 2.0, and numIter = 20.
+RMSE (validation) = 1.3105189674610935 for the model trained with rank = 12, lambda = 1.0, and numIter = 20.
+RMSE (validation) = 1.0045407748005193 for the model trained with rank = 8, lambda = 0.05, and numIter = 20.
+RMSE (validation) = 1.2218330581874075 for the model trained with rank = 10, lambda = 0.01, and numIter = 10.
+RMSE (validation) = 1.1174953766371012 for the model trained with rank = 8, lambda = 0.02, and numIter = 10.
+RMSE (validation) = 0.9275717391338141 for the model trained with rank = 12, lambda = 0.1, and numIter = 10.
+RMSE (validation) = 0.9001440981626695 for the model trained with rank = 8, lambda = 0.2, and numIter = 10.
+The best model was trained with rank = 8 and lambda = 0.2, and numIter = 10, and its RMSE on the test set is 0.9073522634082535.
+The best model improves the baseline by 14.43%.
+Top recommended movies for user id 72:
+ 1: Land of Silence and Darkness (Land des Schweigens und der Dunkelheit) (1971) (rating: 4.674, id: 67504)
+ 2: Goat, The (1921) (rating: 4.674, id: 83318)
+ 3: Play House, The (1921) (rating: 4.674, id: 83359)
+ 4: Cops (1922) (rating: 4.674, id: 83411)
+ 5: Dear Frankie (2004) (rating: 4.256, id: 8530)
+====== movie-lens (apache-spark) [default], iteration 21 completed (11894.742 ms) ======
+====== movie-lens (apache-spark) [default], iteration 22 started ======
+RMSE (validation) = 3.621968954548751 for the model trained with rank = 8, lambda = 5.0, and numIter = 20.
+RMSE (validation) = 2.1340923217118064 for the model trained with rank = 10, lambda = 2.0, and numIter = 20.
+RMSE (validation) = 1.3105189674610935 for the model trained with rank = 12, lambda = 1.0, and numIter = 20.
+RMSE (validation) = 1.004540774800519 for the model trained with rank = 8, lambda = 0.05, and numIter = 20.
+RMSE (validation) = 1.2218330581874075 for the model trained with rank = 10, lambda = 0.01, and numIter = 10.
+RMSE (validation) = 1.1174953766371012 for the model trained with rank = 8, lambda = 0.02, and numIter = 10.
+RMSE (validation) = 0.9275717391338141 for the model trained with rank = 12, lambda = 0.1, and numIter = 10.
+RMSE (validation) = 0.9001440981626695 for the model trained with rank = 8, lambda = 0.2, and numIter = 10.
+The best model was trained with rank = 8 and lambda = 0.2, and numIter = 10, and its RMSE on the test set is 0.9073522634082535.
+The best model improves the baseline by 14.43%.
+Top recommended movies for user id 72:
+ 1: Land of Silence and Darkness (Land des Schweigens und der Dunkelheit) (1971) (rating: 4.674, id: 67504)
+ 2: Goat, The (1921) (rating: 4.674, id: 83318)
+ 3: Play House, The (1921) (rating: 4.674, id: 83359)
+ 4: Cops (1922) (rating: 4.674, id: 83411)
+ 5: Dear Frankie (2004) (rating: 4.256, id: 8530)
+====== movie-lens (apache-spark) [default], iteration 22 completed (11845.226 ms) ======
+====== movie-lens (apache-spark) [default], iteration 23 started ======
+RMSE (validation) = 3.621968954548751 for the model trained with rank = 8, lambda = 5.0, and numIter = 20.
+RMSE (validation) = 2.134092321711807 for the model trained with rank = 10, lambda = 2.0, and numIter = 20.
+RMSE (validation) = 1.3105189674610933 for the model trained with rank = 12, lambda = 1.0, and numIter = 20.
+RMSE (validation) = 1.004540774800519 for the model trained with rank = 8, lambda = 0.05, and numIter = 20.
+RMSE (validation) = 1.2218330581874075 for the model trained with rank = 10, lambda = 0.01, and numIter = 10.
+RMSE (validation) = 1.1174953766371012 for the model trained with rank = 8, lambda = 0.02, and numIter = 10.
+RMSE (validation) = 0.9275717391338141 for the model trained with rank = 12, lambda = 0.1, and numIter = 10.
+RMSE (validation) = 0.9001440981626695 for the model trained with rank = 8, lambda = 0.2, and numIter = 10.
+The best model was trained with rank = 8 and lambda = 0.2, and numIter = 10, and its RMSE on the test set is 0.9073522634082535.
+The best model improves the baseline by 14.43%.
+Top recommended movies for user id 72:
+ 1: Land of Silence and Darkness (Land des Schweigens und der Dunkelheit) (1971) (rating: 4.674, id: 67504)
+ 2: Goat, The (1921) (rating: 4.674, id: 83318)
+ 3: Play House, The (1921) (rating: 4.674, id: 83359)
+ 4: Cops (1922) (rating: 4.674, id: 83411)
+ 5: Dear Frankie (2004) (rating: 4.256, id: 8530)
+====== movie-lens (apache-spark) [default], iteration 23 completed (11751.883 ms) ======
+====== movie-lens (apache-spark) [default], iteration 24 started ======
+RMSE (validation) = 3.6219689545487506 for the model trained with rank = 8, lambda = 5.0, and numIter = 20.
+RMSE (validation) = 2.134092321711807 for the model trained with rank = 10, lambda = 2.0, and numIter = 20.
+RMSE (validation) = 1.3105189674610935 for the model trained with rank = 12, lambda = 1.0, and numIter = 20.
+RMSE (validation) = 1.0045407748005193 for the model trained with rank = 8, lambda = 0.05, and numIter = 20.
+RMSE (validation) = 1.2218330581874075 for the model trained with rank = 10, lambda = 0.01, and numIter = 10.
+RMSE (validation) = 1.1174953766371012 for the model trained with rank = 8, lambda = 0.02, and numIter = 10.
+RMSE (validation) = 0.9275717391338141 for the model trained with rank = 12, lambda = 0.1, and numIter = 10.
+RMSE (validation) = 0.9001440981626695 for the model trained with rank = 8, lambda = 0.2, and numIter = 10.
+The best model was trained with rank = 8 and lambda = 0.2, and numIter = 10, and its RMSE on the test set is 0.9073522634082535.
+The best model improves the baseline by 14.43%.
+Top recommended movies for user id 72:
+ 1: Land of Silence and Darkness (Land des Schweigens und der Dunkelheit) (1971) (rating: 4.674, id: 67504)
+ 2: Goat, The (1921) (rating: 4.674, id: 83318)
+ 3: Play House, The (1921) (rating: 4.674, id: 83359)
+ 4: Cops (1922) (rating: 4.674, id: 83411)
+ 5: Dear Frankie (2004) (rating: 4.256, id: 8530)
+====== movie-lens (apache-spark) [default], iteration 24 completed (11711.706 ms) ======
+====== movie-lens (apache-spark) [default], iteration 25 started ======
+RMSE (validation) = 3.621968954548751 for the model trained with rank = 8, lambda = 5.0, and numIter = 20.
+RMSE (validation) = 2.1340923217118064 for the model trained with rank = 10, lambda = 2.0, and numIter = 20.
+RMSE (validation) = 1.3105189674610933 for the model trained with rank = 12, lambda = 1.0, and numIter = 20.
+RMSE (validation) = 1.0045407748005193 for the model trained with rank = 8, lambda = 0.05, and numIter = 20.
+RMSE (validation) = 1.2218330581874075 for the model trained with rank = 10, lambda = 0.01, and numIter = 10.
+RMSE (validation) = 1.1174953766371012 for the model trained with rank = 8, lambda = 0.02, and numIter = 10.
+RMSE (validation) = 0.9275717391338142 for the model trained with rank = 12, lambda = 0.1, and numIter = 10.
+RMSE (validation) = 0.9001440981626695 for the model trained with rank = 8, lambda = 0.2, and numIter = 10.
+The best model was trained with rank = 8 and lambda = 0.2, and numIter = 10, and its RMSE on the test set is 0.9073522634082535.
+The best model improves the baseline by 14.43%.
+Top recommended movies for user id 72:
+ 1: Land of Silence and Darkness (Land des Schweigens und der Dunkelheit) (1971) (rating: 4.674, id: 67504)
+ 2: Goat, The (1921) (rating: 4.674, id: 83318)
+ 3: Play House, The (1921) (rating: 4.674, id: 83359)
+ 4: Cops (1922) (rating: 4.674, id: 83411)
+ 5: Dear Frankie (2004) (rating: 4.256, id: 8530)
+====== movie-lens (apache-spark) [default], iteration 25 completed (11780.630 ms) ======
+====== movie-lens (apache-spark) [default], iteration 26 started ======
+RMSE (validation) = 3.621968954548751 for the model trained with rank = 8, lambda = 5.0, and numIter = 20.
+RMSE (validation) = 2.1340923217118064 for the model trained with rank = 10, lambda = 2.0, and numIter = 20.
+RMSE (validation) = 1.3105189674610933 for the model trained with rank = 12, lambda = 1.0, and numIter = 20.
+RMSE (validation) = 1.0045407748005193 for the model trained with rank = 8, lambda = 0.05, and numIter = 20.
+RMSE (validation) = 1.2218330581874075 for the model trained with rank = 10, lambda = 0.01, and numIter = 10.
+RMSE (validation) = 1.1174953766371012 for the model trained with rank = 8, lambda = 0.02, and numIter = 10.
+RMSE (validation) = 0.9275717391338141 for the model trained with rank = 12, lambda = 0.1, and numIter = 10.
+RMSE (validation) = 0.9001440981626695 for the model trained with rank = 8, lambda = 0.2, and numIter = 10.
+The best model was trained with rank = 8 and lambda = 0.2, and numIter = 10, and its RMSE on the test set is 0.9073522634082535.
+The best model improves the baseline by 14.43%.
+Top recommended movies for user id 72:
+ 1: Land of Silence and Darkness (Land des Schweigens und der Dunkelheit) (1971) (rating: 4.674, id: 67504)
+ 2: Goat, The (1921) (rating: 4.674, id: 83318)
+ 3: Play House, The (1921) (rating: 4.674, id: 83359)
+ 4: Cops (1922) (rating: 4.674, id: 83411)
+ 5: Dear Frankie (2004) (rating: 4.256, id: 8530)
+====== movie-lens (apache-spark) [default], iteration 26 completed (11765.129 ms) ======
+====== movie-lens (apache-spark) [default], iteration 27 started ======
+RMSE (validation) = 3.621968954548751 for the model trained with rank = 8, lambda = 5.0, and numIter = 20.
+RMSE (validation) = 2.134092321711807 for the model trained with rank = 10, lambda = 2.0, and numIter = 20.
+RMSE (validation) = 1.3105189674610933 for the model trained with rank = 12, lambda = 1.0, and numIter = 20.
+RMSE (validation) = 1.0045407748005193 for the model trained with rank = 8, lambda = 0.05, and numIter = 20.
+RMSE (validation) = 1.2218330581874075 for the model trained with rank = 10, lambda = 0.01, and numIter = 10.
+RMSE (validation) = 1.1174953766371012 for the model trained with rank = 8, lambda = 0.02, and numIter = 10.
+RMSE (validation) = 0.9275717391338142 for the model trained with rank = 12, lambda = 0.1, and numIter = 10.
+RMSE (validation) = 0.9001440981626695 for the model trained with rank = 8, lambda = 0.2, and numIter = 10.
+The best model was trained with rank = 8 and lambda = 0.2, and numIter = 10, and its RMSE on the test set is 0.9073522634082535.
+The best model improves the baseline by 14.43%.
+Top recommended movies for user id 72:
+ 1: Land of Silence and Darkness (Land des Schweigens und der Dunkelheit) (1971) (rating: 4.674, id: 67504)
+ 2: Goat, The (1921) (rating: 4.674, id: 83318)
+ 3: Play House, The (1921) (rating: 4.674, id: 83359)
+ 4: Cops (1922) (rating: 4.674, id: 83411)
+ 5: Dear Frankie (2004) (rating: 4.256, id: 8530)
+====== movie-lens (apache-spark) [default], iteration 27 completed (11735.732 ms) ======
+====== movie-lens (apache-spark) [default], iteration 28 started ======
+RMSE (validation) = 3.621968954548751 for the model trained with rank = 8, lambda = 5.0, and numIter = 20.
+RMSE (validation) = 2.134092321711807 for the model trained with rank = 10, lambda = 2.0, and numIter = 20.
+RMSE (validation) = 1.3105189674610933 for the model trained with rank = 12, lambda = 1.0, and numIter = 20.
+RMSE (validation) = 1.0045407748005193 for the model trained with rank = 8, lambda = 0.05, and numIter = 20.
+RMSE (validation) = 1.2218330581874075 for the model trained with rank = 10, lambda = 0.01, and numIter = 10.
+RMSE (validation) = 1.1174953766371012 for the model trained with rank = 8, lambda = 0.02, and numIter = 10.
+RMSE (validation) = 0.9275717391338142 for the model trained with rank = 12, lambda = 0.1, and numIter = 10.
+RMSE (validation) = 0.9001440981626695 for the model trained with rank = 8, lambda = 0.2, and numIter = 10.
+The best model was trained with rank = 8 and lambda = 0.2, and numIter = 10, and its RMSE on the test set is 0.9073522634082535.
+The best model improves the baseline by 14.43%.
+Top recommended movies for user id 72:
+ 1: Land of Silence and Darkness (Land des Schweigens und der Dunkelheit) (1971) (rating: 4.674, id: 67504)
+ 2: Goat, The (1921) (rating: 4.674, id: 83318)
+ 3: Play House, The (1921) (rating: 4.674, id: 83359)
+ 4: Cops (1922) (rating: 4.674, id: 83411)
+ 5: Dear Frankie (2004) (rating: 4.256, id: 8530)
+====== movie-lens (apache-spark) [default], iteration 28 completed (15658.214 ms) ======
+====== movie-lens (apache-spark) [default], iteration 29 started ======
+RMSE (validation) = 3.6219689545487506 for the model trained with rank = 8, lambda = 5.0, and numIter = 20.
+RMSE (validation) = 2.134092321711807 for the model trained with rank = 10, lambda = 2.0, and numIter = 20.
+RMSE (validation) = 1.3105189674610933 for the model trained with rank = 12, lambda = 1.0, and numIter = 20.
+RMSE (validation) = 1.004540774800519 for the model trained with rank = 8, lambda = 0.05, and numIter = 20.
+RMSE (validation) = 1.2218330581874075 for the model trained with rank = 10, lambda = 0.01, and numIter = 10.
+RMSE (validation) = 1.1174953766371012 for the model trained with rank = 8, lambda = 0.02, and numIter = 10.
+RMSE (validation) = 0.9275717391338141 for the model trained with rank = 12, lambda = 0.1, and numIter = 10.
+RMSE (validation) = 0.9001440981626695 for the model trained with rank = 8, lambda = 0.2, and numIter = 10.
+The best model was trained with rank = 8 and lambda = 0.2, and numIter = 10, and its RMSE on the test set is 0.9073522634082535.
+The best model improves the baseline by 14.43%.
+Top recommended movies for user id 72:
+ 1: Land of Silence and Darkness (Land des Schweigens und der Dunkelheit) (1971) (rating: 4.674, id: 67504)
+ 2: Goat, The (1921) (rating: 4.674, id: 83318)
+ 3: Play House, The (1921) (rating: 4.674, id: 83359)
+ 4: Cops (1922) (rating: 4.674, id: 83411)
+ 5: Dear Frankie (2004) (rating: 4.256, id: 8530)
+====== movie-lens (apache-spark) [default], iteration 29 completed (18980.622 ms) ======
+====== movie-lens (apache-spark) [default], iteration 30 started ======
+RMSE (validation) = 3.6219689545487506 for the model trained with rank = 8, lambda = 5.0, and numIter = 20.
+RMSE (validation) = 2.134092321711807 for the model trained with rank = 10, lambda = 2.0, and numIter = 20.
+RMSE (validation) = 1.3105189674610933 for the model trained with rank = 12, lambda = 1.0, and numIter = 20.
+RMSE (validation) = 1.004540774800519 for the model trained with rank = 8, lambda = 0.05, and numIter = 20.
+RMSE (validation) = 1.2218330581874075 for the model trained with rank = 10, lambda = 0.01, and numIter = 10.
+RMSE (validation) = 1.1174953766371012 for the model trained with rank = 8, lambda = 0.02, and numIter = 10.
+RMSE (validation) = 0.9275717391338141 for the model trained with rank = 12, lambda = 0.1, and numIter = 10.
+RMSE (validation) = 0.9001440981626695 for the model trained with rank = 8, lambda = 0.2, and numIter = 10.
+The best model was trained with rank = 8 and lambda = 0.2, and numIter = 10, and its RMSE on the test set is 0.9073522634082535.
+The best model improves the baseline by 14.43%.
+Top recommended movies for user id 72:
+ 1: Land of Silence and Darkness (Land des Schweigens und der Dunkelheit) (1971) (rating: 4.674, id: 67504)
+ 2: Goat, The (1921) (rating: 4.674, id: 83318)
+ 3: Play House, The (1921) (rating: 4.674, id: 83359)
+ 4: Cops (1922) (rating: 4.674, id: 83411)
+ 5: Dear Frankie (2004) (rating: 4.256, id: 8530)
+====== movie-lens (apache-spark) [default], iteration 30 completed (14565.654 ms) ======
+====== movie-lens (apache-spark) [default], iteration 31 started ======
+RMSE (validation) = 3.6219689545487506 for the model trained with rank = 8, lambda = 5.0, and numIter = 20.
+RMSE (validation) = 2.134092321711807 for the model trained with rank = 10, lambda = 2.0, and numIter = 20.
+RMSE (validation) = 1.3105189674610935 for the model trained with rank = 12, lambda = 1.0, and numIter = 20.
+RMSE (validation) = 1.004540774800519 for the model trained with rank = 8, lambda = 0.05, and numIter = 20.
+RMSE (validation) = 1.2218330581874075 for the model trained with rank = 10, lambda = 0.01, and numIter = 10.
+RMSE (validation) = 1.1174953766371012 for the model trained with rank = 8, lambda = 0.02, and numIter = 10.
+RMSE (validation) = 0.927571739133814 for the model trained with rank = 12, lambda = 0.1, and numIter = 10.
+RMSE (validation) = 0.9001440981626695 for the model trained with rank = 8, lambda = 0.2, and numIter = 10.
+The best model was trained with rank = 8 and lambda = 0.2, and numIter = 10, and its RMSE on the test set is 0.9073522634082535.
+The best model improves the baseline by 14.43%.
+Top recommended movies for user id 72:
+ 1: Land of Silence and Darkness (Land des Schweigens und der Dunkelheit) (1971) (rating: 4.674, id: 67504)
+ 2: Goat, The (1921) (rating: 4.674, id: 83318)
+ 3: Play House, The (1921) (rating: 4.674, id: 83359)
+ 4: Cops (1922) (rating: 4.674, id: 83411)
+ 5: Dear Frankie (2004) (rating: 4.256, id: 8530)
+====== movie-lens (apache-spark) [default], iteration 31 completed (15064.429 ms) ======
+====== movie-lens (apache-spark) [default], iteration 32 started ======
+RMSE (validation) = 3.6219689545487506 for the model trained with rank = 8, lambda = 5.0, and numIter = 20.
+RMSE (validation) = 2.134092321711807 for the model trained with rank = 10, lambda = 2.0, and numIter = 20.
+RMSE (validation) = 1.3105189674610933 for the model trained with rank = 12, lambda = 1.0, and numIter = 20.
+RMSE (validation) = 1.0045407748005193 for the model trained with rank = 8, lambda = 0.05, and numIter = 20.
+RMSE (validation) = 1.2218330581874075 for the model trained with rank = 10, lambda = 0.01, and numIter = 10.
+RMSE (validation) = 1.1174953766371012 for the model trained with rank = 8, lambda = 0.02, and numIter = 10.
+RMSE (validation) = 0.9275717391338141 for the model trained with rank = 12, lambda = 0.1, and numIter = 10.
+RMSE (validation) = 0.9001440981626695 for the model trained with rank = 8, lambda = 0.2, and numIter = 10.
+The best model was trained with rank = 8 and lambda = 0.2, and numIter = 10, and its RMSE on the test set is 0.9073522634082535.
+The best model improves the baseline by 14.43%.
+Top recommended movies for user id 72:
+ 1: Land of Silence and Darkness (Land des Schweigens und der Dunkelheit) (1971) (rating: 4.674, id: 67504)
+ 2: Goat, The (1921) (rating: 4.674, id: 83318)
+ 3: Play House, The (1921) (rating: 4.674, id: 83359)
+ 4: Cops (1922) (rating: 4.674, id: 83411)
+ 5: Dear Frankie (2004) (rating: 4.256, id: 8530)
+====== movie-lens (apache-spark) [default], iteration 32 completed (15139.010 ms) ======
+====== movie-lens (apache-spark) [default], iteration 33 started ======
+RMSE (validation) = 3.621968954548751 for the model trained with rank = 8, lambda = 5.0, and numIter = 20.
+RMSE (validation) = 2.134092321711807 for the model trained with rank = 10, lambda = 2.0, and numIter = 20.
+RMSE (validation) = 1.3105189674610935 for the model trained with rank = 12, lambda = 1.0, and numIter = 20.
+RMSE (validation) = 1.004540774800519 for the model trained with rank = 8, lambda = 0.05, and numIter = 20.
+RMSE (validation) = 1.2218330581874073 for the model trained with rank = 10, lambda = 0.01, and numIter = 10.
+RMSE (validation) = 1.1174953766371012 for the model trained with rank = 8, lambda = 0.02, and numIter = 10.
+RMSE (validation) = 0.927571739133814 for the model trained with rank = 12, lambda = 0.1, and numIter = 10.
+RMSE (validation) = 0.9001440981626694 for the model trained with rank = 8, lambda = 0.2, and numIter = 10.
+The best model was trained with rank = 8 and lambda = 0.2, and numIter = 10, and its RMSE on the test set is 0.9073522634082535.
+The best model improves the baseline by 14.43%.
+Top recommended movies for user id 72:
+ 1: Land of Silence and Darkness (Land des Schweigens und der Dunkelheit) (1971) (rating: 4.674, id: 67504)
+ 2: Goat, The (1921) (rating: 4.674, id: 83318)
+ 3: Play House, The (1921) (rating: 4.674, id: 83359)
+ 4: Cops (1922) (rating: 4.674, id: 83411)
+ 5: Dear Frankie (2004) (rating: 4.256, id: 8530)
+====== movie-lens (apache-spark) [default], iteration 33 completed (15165.324 ms) ======
+====== movie-lens (apache-spark) [default], iteration 34 started ======
+RMSE (validation) = 3.621968954548751 for the model trained with rank = 8, lambda = 5.0, and numIter = 20.
+RMSE (validation) = 2.134092321711807 for the model trained with rank = 10, lambda = 2.0, and numIter = 20.
+RMSE (validation) = 1.3105189674610935 for the model trained with rank = 12, lambda = 1.0, and numIter = 20.
+RMSE (validation) = 1.004540774800519 for the model trained with rank = 8, lambda = 0.05, and numIter = 20.
+RMSE (validation) = 1.2218330581874075 for the model trained with rank = 10, lambda = 0.01, and numIter = 10.
+RMSE (validation) = 1.1174953766371012 for the model trained with rank = 8, lambda = 0.02, and numIter = 10.
+RMSE (validation) = 0.9275717391338141 for the model trained with rank = 12, lambda = 0.1, and numIter = 10.
+RMSE (validation) = 0.9001440981626695 for the model trained with rank = 8, lambda = 0.2, and numIter = 10.
+The best model was trained with rank = 8 and lambda = 0.2, and numIter = 10, and its RMSE on the test set is 0.9073522634082535.
+The best model improves the baseline by 14.43%.
+Top recommended movies for user id 72:
+ 1: Land of Silence and Darkness (Land des Schweigens und der Dunkelheit) (1971) (rating: 4.674, id: 67504)
+ 2: Goat, The (1921) (rating: 4.674, id: 83318)
+ 3: Play House, The (1921) (rating: 4.674, id: 83359)
+ 4: Cops (1922) (rating: 4.674, id: 83411)
+ 5: Dear Frankie (2004) (rating: 4.256, id: 8530)
+====== movie-lens (apache-spark) [default], iteration 34 completed (15198.832 ms) ======
+====== movie-lens (apache-spark) [default], iteration 35 started ======
+RMSE (validation) = 3.6219689545487506 for the model trained with rank = 8, lambda = 5.0, and numIter = 20.
+RMSE (validation) = 2.134092321711807 for the model trained with rank = 10, lambda = 2.0, and numIter = 20.
+RMSE (validation) = 1.3105189674610933 for the model trained with rank = 12, lambda = 1.0, and numIter = 20.
+RMSE (validation) = 1.0045407748005193 for the model trained with rank = 8, lambda = 0.05, and numIter = 20.
+RMSE (validation) = 1.2218330581874075 for the model trained with rank = 10, lambda = 0.01, and numIter = 10.
+RMSE (validation) = 1.1174953766371012 for the model trained with rank = 8, lambda = 0.02, and numIter = 10.
+RMSE (validation) = 0.9275717391338142 for the model trained with rank = 12, lambda = 0.1, and numIter = 10.
+RMSE (validation) = 0.9001440981626695 for the model trained with rank = 8, lambda = 0.2, and numIter = 10.
+The best model was trained with rank = 8 and lambda = 0.2, and numIter = 10, and its RMSE on the test set is 0.9073522634082535.
+The best model improves the baseline by 14.43%.
+Top recommended movies for user id 72:
+ 1: Land of Silence and Darkness (Land des Schweigens und der Dunkelheit) (1971) (rating: 4.674, id: 67504)
+ 2: Goat, The (1921) (rating: 4.674, id: 83318)
+ 3: Play House, The (1921) (rating: 4.674, id: 83359)
+ 4: Cops (1922) (rating: 4.674, id: 83411)
+ 5: Dear Frankie (2004) (rating: 4.256, id: 8530)
+====== movie-lens (apache-spark) [default], iteration 35 completed (14915.854 ms) ======
+====== movie-lens (apache-spark) [default], iteration 36 started ======
+RMSE (validation) = 3.6219689545487506 for the model trained with rank = 8, lambda = 5.0, and numIter = 20.
+RMSE (validation) = 2.134092321711807 for the model trained with rank = 10, lambda = 2.0, and numIter = 20.
+RMSE (validation) = 1.3105189674610933 for the model trained with rank = 12, lambda = 1.0, and numIter = 20.
+RMSE (validation) = 1.0045407748005193 for the model trained with rank = 8, lambda = 0.05, and numIter = 20.
+RMSE (validation) = 1.2218330581874073 for the model trained with rank = 10, lambda = 0.01, and numIter = 10.
+RMSE (validation) = 1.1174953766371012 for the model trained with rank = 8, lambda = 0.02, and numIter = 10.
+RMSE (validation) = 0.9275717391338141 for the model trained with rank = 12, lambda = 0.1, and numIter = 10.
+RMSE (validation) = 0.9001440981626695 for the model trained with rank = 8, lambda = 0.2, and numIter = 10.
+The best model was trained with rank = 8 and lambda = 0.2, and numIter = 10, and its RMSE on the test set is 0.9073522634082535.
+The best model improves the baseline by 14.43%.
+Top recommended movies for user id 72:
+ 1: Land of Silence and Darkness (Land des Schweigens und der Dunkelheit) (1971) (rating: 4.674, id: 67504)
+ 2: Goat, The (1921) (rating: 4.674, id: 83318)
+ 3: Play House, The (1921) (rating: 4.674, id: 83359)
+ 4: Cops (1922) (rating: 4.674, id: 83411)
+ 5: Dear Frankie (2004) (rating: 4.256, id: 8530)
+====== movie-lens (apache-spark) [default], iteration 36 completed (15044.768 ms) ======
+====== movie-lens (apache-spark) [default], iteration 37 started ======
+RMSE (validation) = 3.621968954548751 for the model trained with rank = 8, lambda = 5.0, and numIter = 20.
+RMSE (validation) = 2.134092321711807 for the model trained with rank = 10, lambda = 2.0, and numIter = 20.
+RMSE (validation) = 1.3105189674610933 for the model trained with rank = 12, lambda = 1.0, and numIter = 20.
+RMSE (validation) = 1.004540774800519 for the model trained with rank = 8, lambda = 0.05, and numIter = 20.
+RMSE (validation) = 1.2218330581874075 for the model trained with rank = 10, lambda = 0.01, and numIter = 10.
+RMSE (validation) = 1.1174953766371012 for the model trained with rank = 8, lambda = 0.02, and numIter = 10.
+RMSE (validation) = 0.9275717391338141 for the model trained with rank = 12, lambda = 0.1, and numIter = 10.
+RMSE (validation) = 0.9001440981626695 for the model trained with rank = 8, lambda = 0.2, and numIter = 10.
+The best model was trained with rank = 8 and lambda = 0.2, and numIter = 10, and its RMSE on the test set is 0.9073522634082535.
+The best model improves the baseline by 14.43%.
+Top recommended movies for user id 72:
+ 1: Land of Silence and Darkness (Land des Schweigens und der Dunkelheit) (1971) (rating: 4.674, id: 67504)
+ 2: Goat, The (1921) (rating: 4.674, id: 83318)
+ 3: Play House, The (1921) (rating: 4.674, id: 83359)
+ 4: Cops (1922) (rating: 4.674, id: 83411)
+ 5: Dear Frankie (2004) (rating: 4.256, id: 8530)
+====== movie-lens (apache-spark) [default], iteration 37 completed (12205.501 ms) ======
+====== movie-lens (apache-spark) [default], iteration 38 started ======
+RMSE (validation) = 3.621968954548751 for the model trained with rank = 8, lambda = 5.0, and numIter = 20.
+RMSE (validation) = 2.134092321711807 for the model trained with rank = 10, lambda = 2.0, and numIter = 20.
+RMSE (validation) = 1.3105189674610935 for the model trained with rank = 12, lambda = 1.0, and numIter = 20.
+RMSE (validation) = 1.004540774800519 for the model trained with rank = 8, lambda = 0.05, and numIter = 20.
+RMSE (validation) = 1.2218330581874075 for the model trained with rank = 10, lambda = 0.01, and numIter = 10.
+RMSE (validation) = 1.1174953766371012 for the model trained with rank = 8, lambda = 0.02, and numIter = 10.
+RMSE (validation) = 0.9275717391338142 for the model trained with rank = 12, lambda = 0.1, and numIter = 10.
+RMSE (validation) = 0.9001440981626695 for the model trained with rank = 8, lambda = 0.2, and numIter = 10.
+The best model was trained with rank = 8 and lambda = 0.2, and numIter = 10, and its RMSE on the test set is 0.9073522634082535.
+The best model improves the baseline by 14.43%.
+Top recommended movies for user id 72:
+ 1: Land of Silence and Darkness (Land des Schweigens und der Dunkelheit) (1971) (rating: 4.674, id: 67504)
+ 2: Goat, The (1921) (rating: 4.674, id: 83318)
+ 3: Play House, The (1921) (rating: 4.674, id: 83359)
+ 4: Cops (1922) (rating: 4.674, id: 83411)
+ 5: Dear Frankie (2004) (rating: 4.256, id: 8530)
+====== movie-lens (apache-spark) [default], iteration 38 completed (11780.745 ms) ======
+====== movie-lens (apache-spark) [default], iteration 39 started ======
+RMSE (validation) = 3.621968954548751 for the model trained with rank = 8, lambda = 5.0, and numIter = 20.
+RMSE (validation) = 2.1340923217118064 for the model trained with rank = 10, lambda = 2.0, and numIter = 20.
+RMSE (validation) = 1.3105189674610935 for the model trained with rank = 12, lambda = 1.0, and numIter = 20.
+RMSE (validation) = 1.0045407748005193 for the model trained with rank = 8, lambda = 0.05, and numIter = 20.
+RMSE (validation) = 1.2218330581874075 for the model trained with rank = 10, lambda = 0.01, and numIter = 10.
+RMSE (validation) = 1.1174953766371012 for the model trained with rank = 8, lambda = 0.02, and numIter = 10.
+RMSE (validation) = 0.9275717391338141 for the model trained with rank = 12, lambda = 0.1, and numIter = 10.
+RMSE (validation) = 0.9001440981626694 for the model trained with rank = 8, lambda = 0.2, and numIter = 10.
+The best model was trained with rank = 8 and lambda = 0.2, and numIter = 10, and its RMSE on the test set is 0.9073522634082535.
+The best model improves the baseline by 14.43%.
+Top recommended movies for user id 72:
+ 1: Land of Silence and Darkness (Land des Schweigens und der Dunkelheit) (1971) (rating: 4.674, id: 67504)
+ 2: Goat, The (1921) (rating: 4.674, id: 83318)
+ 3: Play House, The (1921) (rating: 4.674, id: 83359)
+ 4: Cops (1922) (rating: 4.674, id: 83411)
+ 5: Dear Frankie (2004) (rating: 4.256, id: 8530)
+====== movie-lens (apache-spark) [default], iteration 39 completed (12364.159 ms) ======
+====== movie-lens (apache-spark) [default], iteration 40 started ======
+RMSE (validation) = 3.6219689545487506 for the model trained with rank = 8, lambda = 5.0, and numIter = 20.
+RMSE (validation) = 2.134092321711807 for the model trained with rank = 10, lambda = 2.0, and numIter = 20.
+RMSE (validation) = 1.3105189674610933 for the model trained with rank = 12, lambda = 1.0, and numIter = 20.
+RMSE (validation) = 1.0045407748005193 for the model trained with rank = 8, lambda = 0.05, and numIter = 20.
+RMSE (validation) = 1.2218330581874075 for the model trained with rank = 10, lambda = 0.01, and numIter = 10.
+RMSE (validation) = 1.1174953766371012 for the model trained with rank = 8, lambda = 0.02, and numIter = 10.
+RMSE (validation) = 0.9275717391338141 for the model trained with rank = 12, lambda = 0.1, and numIter = 10.
+RMSE (validation) = 0.9001440981626694 for the model trained with rank = 8, lambda = 0.2, and numIter = 10.
+The best model was trained with rank = 8 and lambda = 0.2, and numIter = 10, and its RMSE on the test set is 0.9073522634082535.
+The best model improves the baseline by 14.43%.
+Top recommended movies for user id 72:
+ 1: Land of Silence and Darkness (Land des Schweigens und der Dunkelheit) (1971) (rating: 4.674, id: 67504)
+ 2: Goat, The (1921) (rating: 4.674, id: 83318)
+ 3: Play House, The (1921) (rating: 4.674, id: 83359)
+ 4: Cops (1922) (rating: 4.674, id: 83411)
+ 5: Dear Frankie (2004) (rating: 4.256, id: 8530)
+====== movie-lens (apache-spark) [default], iteration 40 completed (12068.905 ms) ======
+====== movie-lens (apache-spark) [default], iteration 41 started ======
+RMSE (validation) = 3.621968954548751 for the model trained with rank = 8, lambda = 5.0, and numIter = 20.
+RMSE (validation) = 2.134092321711807 for the model trained with rank = 10, lambda = 2.0, and numIter = 20.
+RMSE (validation) = 1.3105189674610933 for the model trained with rank = 12, lambda = 1.0, and numIter = 20.
+RMSE (validation) = 1.004540774800519 for the model trained with rank = 8, lambda = 0.05, and numIter = 20.
+RMSE (validation) = 1.2218330581874075 for the model trained with rank = 10, lambda = 0.01, and numIter = 10.
+RMSE (validation) = 1.1174953766371012 for the model trained with rank = 8, lambda = 0.02, and numIter = 10.
+RMSE (validation) = 0.9275717391338141 for the model trained with rank = 12, lambda = 0.1, and numIter = 10.
+RMSE (validation) = 0.9001440981626695 for the model trained with rank = 8, lambda = 0.2, and numIter = 10.
+The best model was trained with rank = 8 and lambda = 0.2, and numIter = 10, and its RMSE on the test set is 0.9073522634082535.
+The best model improves the baseline by 14.43%.
+Top recommended movies for user id 72:
+ 1: Land of Silence and Darkness (Land des Schweigens und der Dunkelheit) (1971) (rating: 4.674, id: 67504)
+ 2: Goat, The (1921) (rating: 4.674, id: 83318)
+ 3: Play House, The (1921) (rating: 4.674, id: 83359)
+ 4: Cops (1922) (rating: 4.674, id: 83411)
+ 5: Dear Frankie (2004) (rating: 4.256, id: 8530)
+====== movie-lens (apache-spark) [default], iteration 41 completed (11813.851 ms) ======
+====== movie-lens (apache-spark) [default], iteration 42 started ======
+RMSE (validation) = 3.621968954548751 for the model trained with rank = 8, lambda = 5.0, and numIter = 20.
+RMSE (validation) = 2.134092321711807 for the model trained with rank = 10, lambda = 2.0, and numIter = 20.
+RMSE (validation) = 1.3105189674610935 for the model trained with rank = 12, lambda = 1.0, and numIter = 20.
+RMSE (validation) = 1.004540774800519 for the model trained with rank = 8, lambda = 0.05, and numIter = 20.
+RMSE (validation) = 1.2218330581874075 for the model trained with rank = 10, lambda = 0.01, and numIter = 10.
+RMSE (validation) = 1.1174953766371012 for the model trained with rank = 8, lambda = 0.02, and numIter = 10.
+RMSE (validation) = 0.9275717391338142 for the model trained with rank = 12, lambda = 0.1, and numIter = 10.
+RMSE (validation) = 0.9001440981626695 for the model trained with rank = 8, lambda = 0.2, and numIter = 10.
+The best model was trained with rank = 8 and lambda = 0.2, and numIter = 10, and its RMSE on the test set is 0.9073522634082535.
+The best model improves the baseline by 14.43%.
+Top recommended movies for user id 72:
+ 1: Land of Silence and Darkness (Land des Schweigens und der Dunkelheit) (1971) (rating: 4.674, id: 67504)
+ 2: Goat, The (1921) (rating: 4.674, id: 83318)
+ 3: Play House, The (1921) (rating: 4.674, id: 83359)
+ 4: Cops (1922) (rating: 4.674, id: 83411)
+ 5: Dear Frankie (2004) (rating: 4.256, id: 8530)
+====== movie-lens (apache-spark) [default], iteration 42 completed (11805.731 ms) ======
+====== movie-lens (apache-spark) [default], iteration 43 started ======
+RMSE (validation) = 3.621968954548751 for the model trained with rank = 8, lambda = 5.0, and numIter = 20.
+RMSE (validation) = 2.134092321711807 for the model trained with rank = 10, lambda = 2.0, and numIter = 20.
+RMSE (validation) = 1.3105189674610935 for the model trained with rank = 12, lambda = 1.0, and numIter = 20.
+RMSE (validation) = 1.0045407748005193 for the model trained with rank = 8, lambda = 0.05, and numIter = 20.
+RMSE (validation) = 1.2218330581874075 for the model trained with rank = 10, lambda = 0.01, and numIter = 10.
+RMSE (validation) = 1.1174953766371012 for the model trained with rank = 8, lambda = 0.02, and numIter = 10.
+RMSE (validation) = 0.9275717391338142 for the model trained with rank = 12, lambda = 0.1, and numIter = 10.
+RMSE (validation) = 0.9001440981626695 for the model trained with rank = 8, lambda = 0.2, and numIter = 10.
+The best model was trained with rank = 8 and lambda = 0.2, and numIter = 10, and its RMSE on the test set is 0.9073522634082535.
+The best model improves the baseline by 14.43%.
+Top recommended movies for user id 72:
+ 1: Land of Silence and Darkness (Land des Schweigens und der Dunkelheit) (1971) (rating: 4.674, id: 67504)
+ 2: Goat, The (1921) (rating: 4.674, id: 83318)
+ 3: Play House, The (1921) (rating: 4.674, id: 83359)
+ 4: Cops (1922) (rating: 4.674, id: 83411)
+ 5: Dear Frankie (2004) (rating: 4.256, id: 8530)
+====== movie-lens (apache-spark) [default], iteration 43 completed (11662.313 ms) ======
+====== movie-lens (apache-spark) [default], iteration 44 started ======
+RMSE (validation) = 3.6219689545487506 for the model trained with rank = 8, lambda = 5.0, and numIter = 20.
+RMSE (validation) = 2.134092321711807 for the model trained with rank = 10, lambda = 2.0, and numIter = 20.
+RMSE (validation) = 1.3105189674610933 for the model trained with rank = 12, lambda = 1.0, and numIter = 20.
+RMSE (validation) = 1.0045407748005193 for the model trained with rank = 8, lambda = 0.05, and numIter = 20.
+RMSE (validation) = 1.2218330581874075 for the model trained with rank = 10, lambda = 0.01, and numIter = 10.
+RMSE (validation) = 1.1174953766371012 for the model trained with rank = 8, lambda = 0.02, and numIter = 10.
+RMSE (validation) = 0.9275717391338141 for the model trained with rank = 12, lambda = 0.1, and numIter = 10.
+RMSE (validation) = 0.9001440981626695 for the model trained with rank = 8, lambda = 0.2, and numIter = 10.
+The best model was trained with rank = 8 and lambda = 0.2, and numIter = 10, and its RMSE on the test set is 0.9073522634082535.
+The best model improves the baseline by 14.43%.
+Top recommended movies for user id 72:
+ 1: Land of Silence and Darkness (Land des Schweigens und der Dunkelheit) (1971) (rating: 4.674, id: 67504)
+ 2: Goat, The (1921) (rating: 4.674, id: 83318)
+ 3: Play House, The (1921) (rating: 4.674, id: 83359)
+ 4: Cops (1922) (rating: 4.674, id: 83411)
+ 5: Dear Frankie (2004) (rating: 4.256, id: 8530)
+====== movie-lens (apache-spark) [default], iteration 44 completed (11743.346 ms) ======
+====== movie-lens (apache-spark) [default], iteration 45 started ======
+RMSE (validation) = 3.6219689545487506 for the model trained with rank = 8, lambda = 5.0, and numIter = 20.
+RMSE (validation) = 2.1340923217118064 for the model trained with rank = 10, lambda = 2.0, and numIter = 20.
+RMSE (validation) = 1.3105189674610933 for the model trained with rank = 12, lambda = 1.0, and numIter = 20.
+RMSE (validation) = 1.0045407748005193 for the model trained with rank = 8, lambda = 0.05, and numIter = 20.
+RMSE (validation) = 1.2218330581874075 for the model trained with rank = 10, lambda = 0.01, and numIter = 10.
+RMSE (validation) = 1.1174953766371012 for the model trained with rank = 8, lambda = 0.02, and numIter = 10.
+RMSE (validation) = 0.9275717391338142 for the model trained with rank = 12, lambda = 0.1, and numIter = 10.
+RMSE (validation) = 0.9001440981626695 for the model trained with rank = 8, lambda = 0.2, and numIter = 10.
+The best model was trained with rank = 8 and lambda = 0.2, and numIter = 10, and its RMSE on the test set is 0.9073522634082535.
+The best model improves the baseline by 14.43%.
+Top recommended movies for user id 72:
+ 1: Land of Silence and Darkness (Land des Schweigens und der Dunkelheit) (1971) (rating: 4.674, id: 67504)
+ 2: Goat, The (1921) (rating: 4.674, id: 83318)
+ 3: Play House, The (1921) (rating: 4.674, id: 83359)
+ 4: Cops (1922) (rating: 4.674, id: 83411)
+ 5: Dear Frankie (2004) (rating: 4.256, id: 8530)
+====== movie-lens (apache-spark) [default], iteration 45 completed (11533.828 ms) ======
+====== movie-lens (apache-spark) [default], iteration 46 started ======
+RMSE (validation) = 3.621968954548751 for the model trained with rank = 8, lambda = 5.0, and numIter = 20.
+RMSE (validation) = 2.134092321711807 for the model trained with rank = 10, lambda = 2.0, and numIter = 20.
+RMSE (validation) = 1.3105189674610933 for the model trained with rank = 12, lambda = 1.0, and numIter = 20.
+RMSE (validation) = 1.0045407748005193 for the model trained with rank = 8, lambda = 0.05, and numIter = 20.
+RMSE (validation) = 1.2218330581874075 for the model trained with rank = 10, lambda = 0.01, and numIter = 10.
+RMSE (validation) = 1.1174953766371012 for the model trained with rank = 8, lambda = 0.02, and numIter = 10.
+RMSE (validation) = 0.9275717391338142 for the model trained with rank = 12, lambda = 0.1, and numIter = 10.
+RMSE (validation) = 0.9001440981626695 for the model trained with rank = 8, lambda = 0.2, and numIter = 10.
+The best model was trained with rank = 8 and lambda = 0.2, and numIter = 10, and its RMSE on the test set is 0.9073522634082535.
+The best model improves the baseline by 14.43%.
+Top recommended movies for user id 72:
+ 1: Land of Silence and Darkness (Land des Schweigens und der Dunkelheit) (1971) (rating: 4.674, id: 67504)
+ 2: Goat, The (1921) (rating: 4.674, id: 83318)
+ 3: Play House, The (1921) (rating: 4.674, id: 83359)
+ 4: Cops (1922) (rating: 4.674, id: 83411)
+ 5: Dear Frankie (2004) (rating: 4.256, id: 8530)
+====== movie-lens (apache-spark) [default], iteration 46 completed (11662.723 ms) ======
+====== movie-lens (apache-spark) [default], iteration 47 started ======
+RMSE (validation) = 3.621968954548751 for the model trained with rank = 8, lambda = 5.0, and numIter = 20.
+RMSE (validation) = 2.134092321711807 for the model trained with rank = 10, lambda = 2.0, and numIter = 20.
+RMSE (validation) = 1.3105189674610935 for the model trained with rank = 12, lambda = 1.0, and numIter = 20.
+RMSE (validation) = 1.004540774800519 for the model trained with rank = 8, lambda = 0.05, and numIter = 20.
+RMSE (validation) = 1.2218330581874075 for the model trained with rank = 10, lambda = 0.01, and numIter = 10.
+RMSE (validation) = 1.1174953766371012 for the model trained with rank = 8, lambda = 0.02, and numIter = 10.
+RMSE (validation) = 0.9275717391338141 for the model trained with rank = 12, lambda = 0.1, and numIter = 10.
+RMSE (validation) = 0.9001440981626695 for the model trained with rank = 8, lambda = 0.2, and numIter = 10.
+The best model was trained with rank = 8 and lambda = 0.2, and numIter = 10, and its RMSE on the test set is 0.9073522634082535.
+The best model improves the baseline by 14.43%.
+Top recommended movies for user id 72:
+ 1: Land of Silence and Darkness (Land des Schweigens und der Dunkelheit) (1971) (rating: 4.674, id: 67504)
+ 2: Goat, The (1921) (rating: 4.674, id: 83318)
+ 3: Play House, The (1921) (rating: 4.674, id: 83359)
+ 4: Cops (1922) (rating: 4.674, id: 83411)
+ 5: Dear Frankie (2004) (rating: 4.256, id: 8530)
+====== movie-lens (apache-spark) [default], iteration 47 completed (11738.350 ms) ======

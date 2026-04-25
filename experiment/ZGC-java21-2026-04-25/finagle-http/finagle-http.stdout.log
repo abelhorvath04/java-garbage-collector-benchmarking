@@ -1,0 +1,259 @@
+[jmx-memory plugin] WARNING: Unknown garbage collector ZGC Minor Cycles.
+[jmx-memory plugin] WARNING: Unknown garbage collector ZGC Minor Pauses.
+[jmx-memory plugin] WARNING: Unknown garbage collector ZGC Major Cycles.
+[jmx-memory plugin] WARNING: Unknown garbage collector ZGC Major Pauses.
+[jmx-memory plugin] WARNING: MXBean for young generation not found, using mock.
+[jmx-memory plugin] WARNING: MXBean for old generation not found, using mock.
+finagle-http on :41897 spawning 8 client and default number of server workers.
+====== finagle-http (web) [default], iteration 0 started ======
+====== finagle-http (web) [default], iteration 0 completed (14152.215 ms) ======
+====== finagle-http (web) [default], iteration 1 started ======
+====== finagle-http (web) [default], iteration 1 completed (6914.584 ms) ======
+====== finagle-http (web) [default], iteration 2 started ======
+====== finagle-http (web) [default], iteration 2 completed (4704.143 ms) ======
+====== finagle-http (web) [default], iteration 3 started ======
+====== finagle-http (web) [default], iteration 3 completed (5267.479 ms) ======
+====== finagle-http (web) [default], iteration 4 started ======
+====== finagle-http (web) [default], iteration 4 completed (4816.254 ms) ======
+====== finagle-http (web) [default], iteration 5 started ======
+====== finagle-http (web) [default], iteration 5 completed (4634.278 ms) ======
+====== finagle-http (web) [default], iteration 6 started ======
+====== finagle-http (web) [default], iteration 6 completed (4804.373 ms) ======
+====== finagle-http (web) [default], iteration 7 started ======
+====== finagle-http (web) [default], iteration 7 completed (4605.263 ms) ======
+====== finagle-http (web) [default], iteration 8 started ======
+====== finagle-http (web) [default], iteration 8 completed (4508.578 ms) ======
+====== finagle-http (web) [default], iteration 9 started ======
+====== finagle-http (web) [default], iteration 9 completed (4698.993 ms) ======
+====== finagle-http (web) [default], iteration 10 started ======
+====== finagle-http (web) [default], iteration 10 completed (4798.879 ms) ======
+====== finagle-http (web) [default], iteration 11 started ======
+====== finagle-http (web) [default], iteration 11 completed (4769.921 ms) ======
+====== finagle-http (web) [default], iteration 12 started ======
+====== finagle-http (web) [default], iteration 12 completed (4756.339 ms) ======
+====== finagle-http (web) [default], iteration 13 started ======
+====== finagle-http (web) [default], iteration 13 completed (4686.160 ms) ======
+====== finagle-http (web) [default], iteration 14 started ======
+====== finagle-http (web) [default], iteration 14 completed (4621.779 ms) ======
+====== finagle-http (web) [default], iteration 15 started ======
+====== finagle-http (web) [default], iteration 15 completed (4621.272 ms) ======
+====== finagle-http (web) [default], iteration 16 started ======
+====== finagle-http (web) [default], iteration 16 completed (4725.609 ms) ======
+====== finagle-http (web) [default], iteration 17 started ======
+====== finagle-http (web) [default], iteration 17 completed (4742.597 ms) ======
+====== finagle-http (web) [default], iteration 18 started ======
+====== finagle-http (web) [default], iteration 18 completed (4727.361 ms) ======
+====== finagle-http (web) [default], iteration 19 started ======
+====== finagle-http (web) [default], iteration 19 completed (4763.437 ms) ======
+====== finagle-http (web) [default], iteration 20 started ======
+====== finagle-http (web) [default], iteration 20 completed (4637.911 ms) ======
+====== finagle-http (web) [default], iteration 21 started ======
+====== finagle-http (web) [default], iteration 21 completed (4634.399 ms) ======
+====== finagle-http (web) [default], iteration 22 started ======
+====== finagle-http (web) [default], iteration 22 completed (4684.377 ms) ======
+====== finagle-http (web) [default], iteration 23 started ======
+====== finagle-http (web) [default], iteration 23 completed (4734.858 ms) ======
+====== finagle-http (web) [default], iteration 24 started ======
+====== finagle-http (web) [default], iteration 24 completed (4738.472 ms) ======
+====== finagle-http (web) [default], iteration 25 started ======
+====== finagle-http (web) [default], iteration 25 completed (4713.578 ms) ======
+====== finagle-http (web) [default], iteration 26 started ======
+====== finagle-http (web) [default], iteration 26 completed (4622.924 ms) ======
+====== finagle-http (web) [default], iteration 27 started ======
+====== finagle-http (web) [default], iteration 27 completed (4631.522 ms) ======
+====== finagle-http (web) [default], iteration 28 started ======
+====== finagle-http (web) [default], iteration 28 completed (4655.423 ms) ======
+====== finagle-http (web) [default], iteration 29 started ======
+====== finagle-http (web) [default], iteration 29 completed (4730.369 ms) ======
+====== finagle-http (web) [default], iteration 30 started ======
+====== finagle-http (web) [default], iteration 30 completed (4736.593 ms) ======
+====== finagle-http (web) [default], iteration 31 started ======
+====== finagle-http (web) [default], iteration 31 completed (4759.015 ms) ======
+====== finagle-http (web) [default], iteration 32 started ======
+====== finagle-http (web) [default], iteration 32 completed (4640.188 ms) ======
+====== finagle-http (web) [default], iteration 33 started ======
+====== finagle-http (web) [default], iteration 33 completed (4624.023 ms) ======
+====== finagle-http (web) [default], iteration 34 started ======
+====== finagle-http (web) [default], iteration 34 completed (4665.610 ms) ======
+====== finagle-http (web) [default], iteration 35 started ======
+====== finagle-http (web) [default], iteration 35 completed (4718.220 ms) ======
+====== finagle-http (web) [default], iteration 36 started ======
+====== finagle-http (web) [default], iteration 36 completed (4597.084 ms) ======
+====== finagle-http (web) [default], iteration 37 started ======
+====== finagle-http (web) [default], iteration 37 completed (4630.429 ms) ======
+====== finagle-http (web) [default], iteration 38 started ======
+====== finagle-http (web) [default], iteration 38 completed (4681.069 ms) ======
+====== finagle-http (web) [default], iteration 39 started ======
+====== finagle-http (web) [default], iteration 39 completed (4747.739 ms) ======
+====== finagle-http (web) [default], iteration 40 started ======
+====== finagle-http (web) [default], iteration 40 completed (4731.731 ms) ======
+====== finagle-http (web) [default], iteration 41 started ======
+====== finagle-http (web) [default], iteration 41 completed (4620.199 ms) ======
+====== finagle-http (web) [default], iteration 42 started ======
+====== finagle-http (web) [default], iteration 42 completed (4614.176 ms) ======
+====== finagle-http (web) [default], iteration 43 started ======
+====== finagle-http (web) [default], iteration 43 completed (4621.470 ms) ======
+====== finagle-http (web) [default], iteration 44 started ======
+====== finagle-http (web) [default], iteration 44 completed (4699.822 ms) ======
+====== finagle-http (web) [default], iteration 45 started ======
+====== finagle-http (web) [default], iteration 45 completed (4742.631 ms) ======
+====== finagle-http (web) [default], iteration 46 started ======
+====== finagle-http (web) [default], iteration 46 completed (4724.334 ms) ======
+====== finagle-http (web) [default], iteration 47 started ======
+====== finagle-http (web) [default], iteration 47 completed (4644.624 ms) ======
+====== finagle-http (web) [default], iteration 48 started ======
+====== finagle-http (web) [default], iteration 48 completed (4716.373 ms) ======
+====== finagle-http (web) [default], iteration 49 started ======
+====== finagle-http (web) [default], iteration 49 completed (4677.119 ms) ======
+====== finagle-http (web) [default], iteration 50 started ======
+====== finagle-http (web) [default], iteration 50 completed (4622.544 ms) ======
+====== finagle-http (web) [default], iteration 51 started ======
+====== finagle-http (web) [default], iteration 51 completed (4678.279 ms) ======
+====== finagle-http (web) [default], iteration 52 started ======
+====== finagle-http (web) [default], iteration 52 completed (4738.654 ms) ======
+====== finagle-http (web) [default], iteration 53 started ======
+====== finagle-http (web) [default], iteration 53 completed (4702.277 ms) ======
+====== finagle-http (web) [default], iteration 54 started ======
+====== finagle-http (web) [default], iteration 54 completed (4736.722 ms) ======
+====== finagle-http (web) [default], iteration 55 started ======
+====== finagle-http (web) [default], iteration 55 completed (4647.417 ms) ======
+====== finagle-http (web) [default], iteration 56 started ======
+====== finagle-http (web) [default], iteration 56 completed (4619.331 ms) ======
+====== finagle-http (web) [default], iteration 57 started ======
+====== finagle-http (web) [default], iteration 57 completed (4628.743 ms) ======
+====== finagle-http (web) [default], iteration 58 started ======
+====== finagle-http (web) [default], iteration 58 completed (4694.141 ms) ======
+====== finagle-http (web) [default], iteration 59 started ======
+====== finagle-http (web) [default], iteration 59 completed (4734.274 ms) ======
+====== finagle-http (web) [default], iteration 60 started ======
+====== finagle-http (web) [default], iteration 60 completed (4716.032 ms) ======
+====== finagle-http (web) [default], iteration 61 started ======
+====== finagle-http (web) [default], iteration 61 completed (4717.807 ms) ======
+====== finagle-http (web) [default], iteration 62 started ======
+====== finagle-http (web) [default], iteration 62 completed (4602.679 ms) ======
+====== finagle-http (web) [default], iteration 63 started ======
+====== finagle-http (web) [default], iteration 63 completed (4607.184 ms) ======
+====== finagle-http (web) [default], iteration 64 started ======
+====== finagle-http (web) [default], iteration 64 completed (4659.297 ms) ======
+====== finagle-http (web) [default], iteration 65 started ======
+====== finagle-http (web) [default], iteration 65 completed (4706.800 ms) ======
+====== finagle-http (web) [default], iteration 66 started ======
+====== finagle-http (web) [default], iteration 66 completed (4709.900 ms) ======
+====== finagle-http (web) [default], iteration 67 started ======
+====== finagle-http (web) [default], iteration 67 completed (4681.273 ms) ======
+====== finagle-http (web) [default], iteration 68 started ======
+====== finagle-http (web) [default], iteration 68 completed (4605.665 ms) ======
+====== finagle-http (web) [default], iteration 69 started ======
+====== finagle-http (web) [default], iteration 69 completed (4609.226 ms) ======
+====== finagle-http (web) [default], iteration 70 started ======
+====== finagle-http (web) [default], iteration 70 completed (4674.882 ms) ======
+====== finagle-http (web) [default], iteration 71 started ======
+====== finagle-http (web) [default], iteration 71 completed (4736.313 ms) ======
+====== finagle-http (web) [default], iteration 72 started ======
+====== finagle-http (web) [default], iteration 72 completed (4738.724 ms) ======
+====== finagle-http (web) [default], iteration 73 started ======
+====== finagle-http (web) [default], iteration 73 completed (4707.700 ms) ======
+====== finagle-http (web) [default], iteration 74 started ======
+====== finagle-http (web) [default], iteration 74 completed (4713.056 ms) ======
+====== finagle-http (web) [default], iteration 75 started ======
+====== finagle-http (web) [default], iteration 75 completed (4641.589 ms) ======
+====== finagle-http (web) [default], iteration 76 started ======
+====== finagle-http (web) [default], iteration 76 completed (4633.980 ms) ======
+====== finagle-http (web) [default], iteration 77 started ======
+====== finagle-http (web) [default], iteration 77 completed (4674.069 ms) ======
+====== finagle-http (web) [default], iteration 78 started ======
+====== finagle-http (web) [default], iteration 78 completed (4728.258 ms) ======
+====== finagle-http (web) [default], iteration 79 started ======
+====== finagle-http (web) [default], iteration 79 completed (4717.684 ms) ======
+====== finagle-http (web) [default], iteration 80 started ======
+====== finagle-http (web) [default], iteration 80 completed (4637.401 ms) ======
+====== finagle-http (web) [default], iteration 81 started ======
+====== finagle-http (web) [default], iteration 81 completed (4628.504 ms) ======
+====== finagle-http (web) [default], iteration 82 started ======
+====== finagle-http (web) [default], iteration 82 completed (4605.493 ms) ======
+====== finagle-http (web) [default], iteration 83 started ======
+====== finagle-http (web) [default], iteration 83 completed (5190.566 ms) ======
+====== finagle-http (web) [default], iteration 84 started ======
+====== finagle-http (web) [default], iteration 84 completed (5309.088 ms) ======
+====== finagle-http (web) [default], iteration 85 started ======
+====== finagle-http (web) [default], iteration 85 completed (5301.277 ms) ======
+====== finagle-http (web) [default], iteration 86 started ======
+====== finagle-http (web) [default], iteration 86 completed (4915.374 ms) ======
+====== finagle-http (web) [default], iteration 87 started ======
+====== finagle-http (web) [default], iteration 87 completed (4697.869 ms) ======
+====== finagle-http (web) [default], iteration 88 started ======
+====== finagle-http (web) [default], iteration 88 completed (4596.758 ms) ======
+====== finagle-http (web) [default], iteration 89 started ======
+====== finagle-http (web) [default], iteration 89 completed (4603.150 ms) ======
+====== finagle-http (web) [default], iteration 90 started ======
+====== finagle-http (web) [default], iteration 90 completed (4683.766 ms) ======
+====== finagle-http (web) [default], iteration 91 started ======
+====== finagle-http (web) [default], iteration 91 completed (4719.014 ms) ======
+====== finagle-http (web) [default], iteration 92 started ======
+====== finagle-http (web) [default], iteration 92 completed (4728.223 ms) ======
+====== finagle-http (web) [default], iteration 93 started ======
+====== finagle-http (web) [default], iteration 93 completed (4635.950 ms) ======
+====== finagle-http (web) [default], iteration 94 started ======
+====== finagle-http (web) [default], iteration 94 completed (4613.873 ms) ======
+====== finagle-http (web) [default], iteration 95 started ======
+====== finagle-http (web) [default], iteration 95 completed (4594.913 ms) ======
+====== finagle-http (web) [default], iteration 96 started ======
+====== finagle-http (web) [default], iteration 96 completed (4677.824 ms) ======
+====== finagle-http (web) [default], iteration 97 started ======
+====== finagle-http (web) [default], iteration 97 completed (4710.732 ms) ======
+====== finagle-http (web) [default], iteration 98 started ======
+====== finagle-http (web) [default], iteration 98 completed (4723.711 ms) ======
+====== finagle-http (web) [default], iteration 99 started ======
+====== finagle-http (web) [default], iteration 99 completed (4798.303 ms) ======
+====== finagle-http (web) [default], iteration 100 started ======
+====== finagle-http (web) [default], iteration 100 completed (4616.717 ms) ======
+====== finagle-http (web) [default], iteration 101 started ======
+====== finagle-http (web) [default], iteration 101 completed (4621.582 ms) ======
+====== finagle-http (web) [default], iteration 102 started ======
+====== finagle-http (web) [default], iteration 102 completed (4662.318 ms) ======
+====== finagle-http (web) [default], iteration 103 started ======
+====== finagle-http (web) [default], iteration 103 completed (4921.192 ms) ======
+====== finagle-http (web) [default], iteration 104 started ======
+====== finagle-http (web) [default], iteration 104 completed (5310.179 ms) ======
+====== finagle-http (web) [default], iteration 105 started ======
+====== finagle-http (web) [default], iteration 105 completed (5330.424 ms) ======
+====== finagle-http (web) [default], iteration 106 started ======
+====== finagle-http (web) [default], iteration 106 completed (4907.175 ms) ======
+====== finagle-http (web) [default], iteration 107 started ======
+====== finagle-http (web) [default], iteration 107 completed (4589.035 ms) ======
+====== finagle-http (web) [default], iteration 108 started ======
+====== finagle-http (web) [default], iteration 108 completed (4642.243 ms) ======
+====== finagle-http (web) [default], iteration 109 started ======
+====== finagle-http (web) [default], iteration 109 completed (4691.488 ms) ======
+====== finagle-http (web) [default], iteration 110 started ======
+====== finagle-http (web) [default], iteration 110 completed (4712.658 ms) ======
+====== finagle-http (web) [default], iteration 111 started ======
+====== finagle-http (web) [default], iteration 111 completed (4729.401 ms) ======
+====== finagle-http (web) [default], iteration 112 started ======
+====== finagle-http (web) [default], iteration 112 completed (4648.235 ms) ======
+====== finagle-http (web) [default], iteration 113 started ======
+====== finagle-http (web) [default], iteration 113 completed (4609.850 ms) ======
+====== finagle-http (web) [default], iteration 114 started ======
+====== finagle-http (web) [default], iteration 114 completed (4666.500 ms) ======
+====== finagle-http (web) [default], iteration 115 started ======
+====== finagle-http (web) [default], iteration 115 completed (4726.184 ms) ======
+====== finagle-http (web) [default], iteration 116 started ======
+====== finagle-http (web) [default], iteration 116 completed (4712.142 ms) ======
+====== finagle-http (web) [default], iteration 117 started ======
+====== finagle-http (web) [default], iteration 117 completed (4642.962 ms) ======
+====== finagle-http (web) [default], iteration 118 started ======
+====== finagle-http (web) [default], iteration 118 completed (4622.266 ms) ======
+====== finagle-http (web) [default], iteration 119 started ======
+====== finagle-http (web) [default], iteration 119 completed (4621.389 ms) ======
+====== finagle-http (web) [default], iteration 120 started ======
+====== finagle-http (web) [default], iteration 120 completed (4662.576 ms) ======
+====== finagle-http (web) [default], iteration 121 started ======
+====== finagle-http (web) [default], iteration 121 completed (4769.040 ms) ======
+====== finagle-http (web) [default], iteration 122 started ======
+====== finagle-http (web) [default], iteration 122 completed (4704.312 ms) ======
+====== finagle-http (web) [default], iteration 123 started ======
+====== finagle-http (web) [default], iteration 123 completed (4778.635 ms) ======
+====== finagle-http (web) [default], iteration 124 started ======
+====== finagle-http (web) [default], iteration 124 completed (4613.566 ms) ======
+====== finagle-http (web) [default], iteration 125 started ======
+====== finagle-http (web) [default], iteration 125 completed (4591.360 ms) ======

@@ -1,0 +1,841 @@
+WARNING: A terminally deprecated method in sun.misc.Unsafe has been called
+WARNING: sun.misc.Unsafe::objectFieldOffset has been called by scala.runtime.LazyVals$ (resource:/shared/scala3-library_3-3.3.4.jar)
+WARNING: Please consider reporting this to the maintainers of class scala.runtime.LazyVals$
+WARNING: sun.misc.Unsafe::objectFieldOffset will be removed in a future release
+[jmx-memory plugin] WARNING: Unknown garbage collector ZGC Minor Cycles.
+[jmx-memory plugin] WARNING: Unknown garbage collector ZGC Minor Pauses.
+[jmx-memory plugin] WARNING: Unknown garbage collector ZGC Major Cycles.
+[jmx-memory plugin] WARNING: Unknown garbage collector ZGC Major Pauses.
+[jmx-memory plugin] WARNING: MXBean for young generation not found, using mock.
+[jmx-memory plugin] WARNING: MXBean for old generation not found, using mock.
+NOTE: 'naive-bayes' benchmark uses Spark local executor with 8 (out of 8) threads.
+====== naive-bayes (apache-spark) [default], iteration 0 started ======
+====== naive-bayes (apache-spark) [default], iteration 0 completed (18752.994 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 1 started ======
+====== naive-bayes (apache-spark) [default], iteration 1 completed (1604.547 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 2 started ======
+====== naive-bayes (apache-spark) [default], iteration 2 completed (1725.772 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 3 started ======
+====== naive-bayes (apache-spark) [default], iteration 3 completed (1478.538 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 4 started ======
+====== naive-bayes (apache-spark) [default], iteration 4 completed (1644.347 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 5 started ======
+====== naive-bayes (apache-spark) [default], iteration 5 completed (1402.437 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 6 started ======
+====== naive-bayes (apache-spark) [default], iteration 6 completed (1360.413 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 7 started ======
+====== naive-bayes (apache-spark) [default], iteration 7 completed (1319.408 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 8 started ======
+====== naive-bayes (apache-spark) [default], iteration 8 completed (1579.660 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 9 started ======
+====== naive-bayes (apache-spark) [default], iteration 9 completed (1416.341 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 10 started ======
+====== naive-bayes (apache-spark) [default], iteration 10 completed (1411.432 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 11 started ======
+====== naive-bayes (apache-spark) [default], iteration 11 completed (1406.594 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 12 started ======
+====== naive-bayes (apache-spark) [default], iteration 12 completed (1453.278 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 13 started ======
+====== naive-bayes (apache-spark) [default], iteration 13 completed (1467.071 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 14 started ======
+====== naive-bayes (apache-spark) [default], iteration 14 completed (1452.240 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 15 started ======
+====== naive-bayes (apache-spark) [default], iteration 15 completed (1404.581 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 16 started ======
+====== naive-bayes (apache-spark) [default], iteration 16 completed (1474.920 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 17 started ======
+====== naive-bayes (apache-spark) [default], iteration 17 completed (1444.017 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 18 started ======
+====== naive-bayes (apache-spark) [default], iteration 18 completed (1925.985 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 19 started ======
+====== naive-bayes (apache-spark) [default], iteration 19 completed (1703.702 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 20 started ======
+====== naive-bayes (apache-spark) [default], iteration 20 completed (1336.529 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 21 started ======
+====== naive-bayes (apache-spark) [default], iteration 21 completed (1360.020 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 22 started ======
+====== naive-bayes (apache-spark) [default], iteration 22 completed (1387.527 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 23 started ======
+====== naive-bayes (apache-spark) [default], iteration 23 completed (1497.691 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 24 started ======
+====== naive-bayes (apache-spark) [default], iteration 24 completed (1436.295 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 25 started ======
+====== naive-bayes (apache-spark) [default], iteration 25 completed (1363.417 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 26 started ======
+====== naive-bayes (apache-spark) [default], iteration 26 completed (1477.391 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 27 started ======
+====== naive-bayes (apache-spark) [default], iteration 27 completed (1434.481 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 28 started ======
+====== naive-bayes (apache-spark) [default], iteration 28 completed (1444.369 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 29 started ======
+====== naive-bayes (apache-spark) [default], iteration 29 completed (1368.247 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 30 started ======
+====== naive-bayes (apache-spark) [default], iteration 30 completed (1388.902 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 31 started ======
+====== naive-bayes (apache-spark) [default], iteration 31 completed (1513.356 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 32 started ======
+====== naive-bayes (apache-spark) [default], iteration 32 completed (1429.269 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 33 started ======
+====== naive-bayes (apache-spark) [default], iteration 33 completed (1569.221 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 34 started ======
+====== naive-bayes (apache-spark) [default], iteration 34 completed (1425.924 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 35 started ======
+====== naive-bayes (apache-spark) [default], iteration 35 completed (1381.439 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 36 started ======
+====== naive-bayes (apache-spark) [default], iteration 36 completed (1461.838 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 37 started ======
+====== naive-bayes (apache-spark) [default], iteration 37 completed (1457.912 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 38 started ======
+====== naive-bayes (apache-spark) [default], iteration 38 completed (1382.743 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 39 started ======
+====== naive-bayes (apache-spark) [default], iteration 39 completed (1381.823 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 40 started ======
+====== naive-bayes (apache-spark) [default], iteration 40 completed (1468.344 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 41 started ======
+====== naive-bayes (apache-spark) [default], iteration 41 completed (1378.834 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 42 started ======
+====== naive-bayes (apache-spark) [default], iteration 42 completed (1374.676 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 43 started ======
+====== naive-bayes (apache-spark) [default], iteration 43 completed (1486.199 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 44 started ======
+====== naive-bayes (apache-spark) [default], iteration 44 completed (1651.801 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 45 started ======
+====== naive-bayes (apache-spark) [default], iteration 45 completed (1466.629 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 46 started ======
+====== naive-bayes (apache-spark) [default], iteration 46 completed (1435.931 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 47 started ======
+====== naive-bayes (apache-spark) [default], iteration 47 completed (1478.463 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 48 started ======
+====== naive-bayes (apache-spark) [default], iteration 48 completed (1400.744 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 49 started ======
+====== naive-bayes (apache-spark) [default], iteration 49 completed (1446.999 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 50 started ======
+====== naive-bayes (apache-spark) [default], iteration 50 completed (1383.520 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 51 started ======
+====== naive-bayes (apache-spark) [default], iteration 51 completed (1527.208 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 52 started ======
+====== naive-bayes (apache-spark) [default], iteration 52 completed (1367.653 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 53 started ======
+====== naive-bayes (apache-spark) [default], iteration 53 completed (1406.026 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 54 started ======
+====== naive-bayes (apache-spark) [default], iteration 54 completed (1389.710 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 55 started ======
+====== naive-bayes (apache-spark) [default], iteration 55 completed (1399.883 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 56 started ======
+====== naive-bayes (apache-spark) [default], iteration 56 completed (1436.719 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 57 started ======
+====== naive-bayes (apache-spark) [default], iteration 57 completed (1393.620 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 58 started ======
+====== naive-bayes (apache-spark) [default], iteration 58 completed (1604.917 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 59 started ======
+====== naive-bayes (apache-spark) [default], iteration 59 completed (1437.242 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 60 started ======
+====== naive-bayes (apache-spark) [default], iteration 60 completed (1539.366 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 61 started ======
+====== naive-bayes (apache-spark) [default], iteration 61 completed (1676.782 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 62 started ======
+====== naive-bayes (apache-spark) [default], iteration 62 completed (1906.157 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 63 started ======
+====== naive-bayes (apache-spark) [default], iteration 63 completed (1765.099 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 64 started ======
+====== naive-bayes (apache-spark) [default], iteration 64 completed (1707.997 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 65 started ======
+====== naive-bayes (apache-spark) [default], iteration 65 completed (1488.410 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 66 started ======
+====== naive-bayes (apache-spark) [default], iteration 66 completed (1492.113 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 67 started ======
+====== naive-bayes (apache-spark) [default], iteration 67 completed (1364.524 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 68 started ======
+====== naive-bayes (apache-spark) [default], iteration 68 completed (1357.359 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 69 started ======
+====== naive-bayes (apache-spark) [default], iteration 69 completed (1449.834 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 70 started ======
+====== naive-bayes (apache-spark) [default], iteration 70 completed (1425.072 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 71 started ======
+====== naive-bayes (apache-spark) [default], iteration 71 completed (1367.056 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 72 started ======
+====== naive-bayes (apache-spark) [default], iteration 72 completed (1429.853 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 73 started ======
+====== naive-bayes (apache-spark) [default], iteration 73 completed (1398.332 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 74 started ======
+====== naive-bayes (apache-spark) [default], iteration 74 completed (1392.138 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 75 started ======
+====== naive-bayes (apache-spark) [default], iteration 75 completed (1612.583 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 76 started ======
+====== naive-bayes (apache-spark) [default], iteration 76 completed (1411.517 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 77 started ======
+====== naive-bayes (apache-spark) [default], iteration 77 completed (1380.533 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 78 started ======
+====== naive-bayes (apache-spark) [default], iteration 78 completed (1394.979 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 79 started ======
+====== naive-bayes (apache-spark) [default], iteration 79 completed (1348.641 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 80 started ======
+====== naive-bayes (apache-spark) [default], iteration 80 completed (1316.027 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 81 started ======
+====== naive-bayes (apache-spark) [default], iteration 81 completed (1228.760 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 82 started ======
+====== naive-bayes (apache-spark) [default], iteration 82 completed (1654.084 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 83 started ======
+====== naive-bayes (apache-spark) [default], iteration 83 completed (1412.075 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 84 started ======
+====== naive-bayes (apache-spark) [default], iteration 84 completed (1377.483 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 85 started ======
+====== naive-bayes (apache-spark) [default], iteration 85 completed (1460.636 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 86 started ======
+====== naive-bayes (apache-spark) [default], iteration 86 completed (1318.164 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 87 started ======
+====== naive-bayes (apache-spark) [default], iteration 87 completed (1390.464 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 88 started ======
+====== naive-bayes (apache-spark) [default], iteration 88 completed (1363.115 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 89 started ======
+====== naive-bayes (apache-spark) [default], iteration 89 completed (1362.257 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 90 started ======
+====== naive-bayes (apache-spark) [default], iteration 90 completed (1370.053 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 91 started ======
+====== naive-bayes (apache-spark) [default], iteration 91 completed (1514.745 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 92 started ======
+====== naive-bayes (apache-spark) [default], iteration 92 completed (1346.941 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 93 started ======
+====== naive-bayes (apache-spark) [default], iteration 93 completed (1565.644 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 94 started ======
+====== naive-bayes (apache-spark) [default], iteration 94 completed (1370.802 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 95 started ======
+====== naive-bayes (apache-spark) [default], iteration 95 completed (1365.815 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 96 started ======
+====== naive-bayes (apache-spark) [default], iteration 96 completed (1366.797 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 97 started ======
+====== naive-bayes (apache-spark) [default], iteration 97 completed (1378.459 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 98 started ======
+====== naive-bayes (apache-spark) [default], iteration 98 completed (1488.845 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 99 started ======
+====== naive-bayes (apache-spark) [default], iteration 99 completed (1368.582 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 100 started ======
+====== naive-bayes (apache-spark) [default], iteration 100 completed (1385.443 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 101 started ======
+====== naive-bayes (apache-spark) [default], iteration 101 completed (1540.392 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 102 started ======
+====== naive-bayes (apache-spark) [default], iteration 102 completed (1371.321 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 103 started ======
+====== naive-bayes (apache-spark) [default], iteration 103 completed (1355.683 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 104 started ======
+====== naive-bayes (apache-spark) [default], iteration 104 completed (1366.811 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 105 started ======
+====== naive-bayes (apache-spark) [default], iteration 105 completed (1386.380 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 106 started ======
+====== naive-bayes (apache-spark) [default], iteration 106 completed (1378.090 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 107 started ======
+====== naive-bayes (apache-spark) [default], iteration 107 completed (1364.386 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 108 started ======
+====== naive-bayes (apache-spark) [default], iteration 108 completed (1618.228 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 109 started ======
+====== naive-bayes (apache-spark) [default], iteration 109 completed (1375.391 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 110 started ======
+====== naive-bayes (apache-spark) [default], iteration 110 completed (1363.272 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 111 started ======
+====== naive-bayes (apache-spark) [default], iteration 111 completed (1593.593 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 112 started ======
+====== naive-bayes (apache-spark) [default], iteration 112 completed (1360.050 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 113 started ======
+====== naive-bayes (apache-spark) [default], iteration 113 completed (1371.234 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 114 started ======
+====== naive-bayes (apache-spark) [default], iteration 114 completed (1365.469 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 115 started ======
+====== naive-bayes (apache-spark) [default], iteration 115 completed (1367.539 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 116 started ======
+====== naive-bayes (apache-spark) [default], iteration 116 completed (1463.294 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 117 started ======
+====== naive-bayes (apache-spark) [default], iteration 117 completed (1407.577 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 118 started ======
+====== naive-bayes (apache-spark) [default], iteration 118 completed (1363.921 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 119 started ======
+====== naive-bayes (apache-spark) [default], iteration 119 completed (1466.345 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 120 started ======
+====== naive-bayes (apache-spark) [default], iteration 120 completed (1358.996 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 121 started ======
+====== naive-bayes (apache-spark) [default], iteration 121 completed (1742.981 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 122 started ======
+====== naive-bayes (apache-spark) [default], iteration 122 completed (1944.790 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 123 started ======
+====== naive-bayes (apache-spark) [default], iteration 123 completed (1652.763 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 124 started ======
+====== naive-bayes (apache-spark) [default], iteration 124 completed (1816.991 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 125 started ======
+====== naive-bayes (apache-spark) [default], iteration 125 completed (1387.037 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 126 started ======
+====== naive-bayes (apache-spark) [default], iteration 126 completed (1548.344 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 127 started ======
+====== naive-bayes (apache-spark) [default], iteration 127 completed (1384.981 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 128 started ======
+====== naive-bayes (apache-spark) [default], iteration 128 completed (1503.994 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 129 started ======
+====== naive-bayes (apache-spark) [default], iteration 129 completed (1433.182 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 130 started ======
+====== naive-bayes (apache-spark) [default], iteration 130 completed (1368.465 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 131 started ======
+====== naive-bayes (apache-spark) [default], iteration 131 completed (1359.294 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 132 started ======
+====== naive-bayes (apache-spark) [default], iteration 132 completed (1434.270 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 133 started ======
+====== naive-bayes (apache-spark) [default], iteration 133 completed (1448.589 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 134 started ======
+====== naive-bayes (apache-spark) [default], iteration 134 completed (1430.936 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 135 started ======
+====== naive-bayes (apache-spark) [default], iteration 135 completed (1423.303 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 136 started ======
+====== naive-bayes (apache-spark) [default], iteration 136 completed (1356.280 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 137 started ======
+====== naive-bayes (apache-spark) [default], iteration 137 completed (1557.500 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 138 started ======
+====== naive-bayes (apache-spark) [default], iteration 138 completed (1358.903 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 139 started ======
+====== naive-bayes (apache-spark) [default], iteration 139 completed (1360.818 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 140 started ======
+====== naive-bayes (apache-spark) [default], iteration 140 completed (1366.661 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 141 started ======
+====== naive-bayes (apache-spark) [default], iteration 141 completed (1447.838 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 142 started ======
+====== naive-bayes (apache-spark) [default], iteration 142 completed (1397.489 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 143 started ======
+====== naive-bayes (apache-spark) [default], iteration 143 completed (1376.089 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 144 started ======
+====== naive-bayes (apache-spark) [default], iteration 144 completed (1421.096 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 145 started ======
+====== naive-bayes (apache-spark) [default], iteration 145 completed (1529.727 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 146 started ======
+====== naive-bayes (apache-spark) [default], iteration 146 completed (1348.630 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 147 started ======
+====== naive-bayes (apache-spark) [default], iteration 147 completed (1317.000 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 148 started ======
+====== naive-bayes (apache-spark) [default], iteration 148 completed (1312.002 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 149 started ======
+====== naive-bayes (apache-spark) [default], iteration 149 completed (1299.043 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 150 started ======
+====== naive-bayes (apache-spark) [default], iteration 150 completed (1177.096 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 151 started ======
+====== naive-bayes (apache-spark) [default], iteration 151 completed (1716.019 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 152 started ======
+====== naive-bayes (apache-spark) [default], iteration 152 completed (1522.296 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 153 started ======
+====== naive-bayes (apache-spark) [default], iteration 153 completed (1391.044 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 154 started ======
+====== naive-bayes (apache-spark) [default], iteration 154 completed (1298.782 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 155 started ======
+====== naive-bayes (apache-spark) [default], iteration 155 completed (1233.691 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 156 started ======
+====== naive-bayes (apache-spark) [default], iteration 156 completed (1292.506 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 157 started ======
+====== naive-bayes (apache-spark) [default], iteration 157 completed (1164.853 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 158 started ======
+====== naive-bayes (apache-spark) [default], iteration 158 completed (1705.763 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 159 started ======
+====== naive-bayes (apache-spark) [default], iteration 159 completed (1578.712 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 160 started ======
+====== naive-bayes (apache-spark) [default], iteration 160 completed (2034.159 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 161 started ======
+====== naive-bayes (apache-spark) [default], iteration 161 completed (1466.239 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 162 started ======
+====== naive-bayes (apache-spark) [default], iteration 162 completed (1863.509 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 163 started ======
+====== naive-bayes (apache-spark) [default], iteration 163 completed (1415.976 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 164 started ======
+====== naive-bayes (apache-spark) [default], iteration 164 completed (1362.544 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 165 started ======
+====== naive-bayes (apache-spark) [default], iteration 165 completed (1330.991 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 166 started ======
+====== naive-bayes (apache-spark) [default], iteration 166 completed (1317.937 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 167 started ======
+====== naive-bayes (apache-spark) [default], iteration 167 completed (1372.711 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 168 started ======
+====== naive-bayes (apache-spark) [default], iteration 168 completed (1336.329 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 169 started ======
+====== naive-bayes (apache-spark) [default], iteration 169 completed (1430.147 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 170 started ======
+====== naive-bayes (apache-spark) [default], iteration 170 completed (1318.625 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 171 started ======
+====== naive-bayes (apache-spark) [default], iteration 171 completed (1302.778 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 172 started ======
+====== naive-bayes (apache-spark) [default], iteration 172 completed (1228.124 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 173 started ======
+====== naive-bayes (apache-spark) [default], iteration 173 completed (1173.379 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 174 started ======
+====== naive-bayes (apache-spark) [default], iteration 174 completed (1608.260 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 175 started ======
+====== naive-bayes (apache-spark) [default], iteration 175 completed (1317.755 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 176 started ======
+====== naive-bayes (apache-spark) [default], iteration 176 completed (1321.721 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 177 started ======
+====== naive-bayes (apache-spark) [default], iteration 177 completed (1349.611 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 178 started ======
+====== naive-bayes (apache-spark) [default], iteration 178 completed (1364.146 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 179 started ======
+====== naive-bayes (apache-spark) [default], iteration 179 completed (1369.119 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 180 started ======
+====== naive-bayes (apache-spark) [default], iteration 180 completed (1345.331 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 181 started ======
+====== naive-bayes (apache-spark) [default], iteration 181 completed (1344.345 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 182 started ======
+====== naive-bayes (apache-spark) [default], iteration 182 completed (1375.618 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 183 started ======
+====== naive-bayes (apache-spark) [default], iteration 183 completed (1338.589 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 184 started ======
+====== naive-bayes (apache-spark) [default], iteration 184 completed (1452.755 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 185 started ======
+====== naive-bayes (apache-spark) [default], iteration 185 completed (1352.869 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 186 started ======
+====== naive-bayes (apache-spark) [default], iteration 186 completed (1322.978 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 187 started ======
+====== naive-bayes (apache-spark) [default], iteration 187 completed (1331.744 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 188 started ======
+====== naive-bayes (apache-spark) [default], iteration 188 completed (1366.436 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 189 started ======
+====== naive-bayes (apache-spark) [default], iteration 189 completed (1376.749 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 190 started ======
+====== naive-bayes (apache-spark) [default], iteration 190 completed (1312.298 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 191 started ======
+====== naive-bayes (apache-spark) [default], iteration 191 completed (1354.364 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 192 started ======
+====== naive-bayes (apache-spark) [default], iteration 192 completed (1341.169 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 193 started ======
+====== naive-bayes (apache-spark) [default], iteration 193 completed (1410.785 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 194 started ======
+====== naive-bayes (apache-spark) [default], iteration 194 completed (1322.355 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 195 started ======
+====== naive-bayes (apache-spark) [default], iteration 195 completed (1429.641 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 196 started ======
+====== naive-bayes (apache-spark) [default], iteration 196 completed (1306.428 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 197 started ======
+====== naive-bayes (apache-spark) [default], iteration 197 completed (1157.476 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 198 started ======
+====== naive-bayes (apache-spark) [default], iteration 198 completed (1510.340 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 199 started ======
+====== naive-bayes (apache-spark) [default], iteration 199 completed (1313.103 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 200 started ======
+====== naive-bayes (apache-spark) [default], iteration 200 completed (1421.893 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 201 started ======
+====== naive-bayes (apache-spark) [default], iteration 201 completed (1336.613 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 202 started ======
+====== naive-bayes (apache-spark) [default], iteration 202 completed (1342.099 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 203 started ======
+====== naive-bayes (apache-spark) [default], iteration 203 completed (1338.452 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 204 started ======
+====== naive-bayes (apache-spark) [default], iteration 204 completed (1337.948 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 205 started ======
+====== naive-bayes (apache-spark) [default], iteration 205 completed (1355.786 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 206 started ======
+====== naive-bayes (apache-spark) [default], iteration 206 completed (1357.524 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 207 started ======
+====== naive-bayes (apache-spark) [default], iteration 207 completed (1349.429 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 208 started ======
+====== naive-bayes (apache-spark) [default], iteration 208 completed (1433.204 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 209 started ======
+====== naive-bayes (apache-spark) [default], iteration 209 completed (1335.459 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 210 started ======
+====== naive-bayes (apache-spark) [default], iteration 210 completed (1340.711 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 211 started ======
+====== naive-bayes (apache-spark) [default], iteration 211 completed (1335.887 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 212 started ======
+====== naive-bayes (apache-spark) [default], iteration 212 completed (1417.341 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 213 started ======
+====== naive-bayes (apache-spark) [default], iteration 213 completed (1330.510 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 214 started ======
+====== naive-bayes (apache-spark) [default], iteration 214 completed (1330.268 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 215 started ======
+====== naive-bayes (apache-spark) [default], iteration 215 completed (1331.497 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 216 started ======
+====== naive-bayes (apache-spark) [default], iteration 216 completed (1352.750 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 217 started ======
+====== naive-bayes (apache-spark) [default], iteration 217 completed (1410.937 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 218 started ======
+====== naive-bayes (apache-spark) [default], iteration 218 completed (1328.745 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 219 started ======
+====== naive-bayes (apache-spark) [default], iteration 219 completed (1426.278 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 220 started ======
+====== naive-bayes (apache-spark) [default], iteration 220 completed (1346.634 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 221 started ======
+====== naive-bayes (apache-spark) [default], iteration 221 completed (1322.547 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 222 started ======
+====== naive-bayes (apache-spark) [default], iteration 222 completed (1354.133 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 223 started ======
+====== naive-bayes (apache-spark) [default], iteration 223 completed (1349.658 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 224 started ======
+====== naive-bayes (apache-spark) [default], iteration 224 completed (1542.806 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 225 started ======
+====== naive-bayes (apache-spark) [default], iteration 225 completed (1322.158 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 226 started ======
+====== naive-bayes (apache-spark) [default], iteration 226 completed (1335.904 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 227 started ======
+====== naive-bayes (apache-spark) [default], iteration 227 completed (1336.543 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 228 started ======
+====== naive-bayes (apache-spark) [default], iteration 228 completed (1384.512 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 229 started ======
+====== naive-bayes (apache-spark) [default], iteration 229 completed (1396.666 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 230 started ======
+====== naive-bayes (apache-spark) [default], iteration 230 completed (1343.754 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 231 started ======
+====== naive-bayes (apache-spark) [default], iteration 231 completed (1343.609 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 232 started ======
+====== naive-bayes (apache-spark) [default], iteration 232 completed (1445.327 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 233 started ======
+====== naive-bayes (apache-spark) [default], iteration 233 completed (1990.359 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 234 started ======
+====== naive-bayes (apache-spark) [default], iteration 234 completed (1799.566 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 235 started ======
+====== naive-bayes (apache-spark) [default], iteration 235 completed (1988.306 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 236 started ======
+====== naive-bayes (apache-spark) [default], iteration 236 completed (1597.687 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 237 started ======
+====== naive-bayes (apache-spark) [default], iteration 237 completed (1346.233 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 238 started ======
+====== naive-bayes (apache-spark) [default], iteration 238 completed (1394.048 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 239 started ======
+====== naive-bayes (apache-spark) [default], iteration 239 completed (1332.251 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 240 started ======
+====== naive-bayes (apache-spark) [default], iteration 240 completed (1447.706 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 241 started ======
+====== naive-bayes (apache-spark) [default], iteration 241 completed (1328.888 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 242 started ======
+====== naive-bayes (apache-spark) [default], iteration 242 completed (1351.378 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 243 started ======
+====== naive-bayes (apache-spark) [default], iteration 243 completed (1376.340 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 244 started ======
+====== naive-bayes (apache-spark) [default], iteration 244 completed (1310.041 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 245 started ======
+====== naive-bayes (apache-spark) [default], iteration 245 completed (1255.897 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 246 started ======
+====== naive-bayes (apache-spark) [default], iteration 246 completed (1316.151 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 247 started ======
+====== naive-bayes (apache-spark) [default], iteration 247 completed (1294.500 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 248 started ======
+====== naive-bayes (apache-spark) [default], iteration 248 completed (1160.241 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 249 started ======
+====== naive-bayes (apache-spark) [default], iteration 249 completed (1647.187 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 250 started ======
+====== naive-bayes (apache-spark) [default], iteration 250 completed (1408.254 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 251 started ======
+====== naive-bayes (apache-spark) [default], iteration 251 completed (1297.079 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 252 started ======
+====== naive-bayes (apache-spark) [default], iteration 252 completed (1339.890 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 253 started ======
+====== naive-bayes (apache-spark) [default], iteration 253 completed (1237.798 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 254 started ======
+====== naive-bayes (apache-spark) [default], iteration 254 completed (1236.700 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 255 started ======
+====== naive-bayes (apache-spark) [default], iteration 255 completed (1199.929 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 256 started ======
+====== naive-bayes (apache-spark) [default], iteration 256 completed (1625.176 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 257 started ======
+====== naive-bayes (apache-spark) [default], iteration 257 completed (1482.786 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 258 started ======
+====== naive-bayes (apache-spark) [default], iteration 258 completed (1418.584 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 259 started ======
+====== naive-bayes (apache-spark) [default], iteration 259 completed (1323.268 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 260 started ======
+====== naive-bayes (apache-spark) [default], iteration 260 completed (1336.212 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 261 started ======
+====== naive-bayes (apache-spark) [default], iteration 261 completed (1343.804 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 262 started ======
+====== naive-bayes (apache-spark) [default], iteration 262 completed (1347.292 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 263 started ======
+====== naive-bayes (apache-spark) [default], iteration 263 completed (1342.223 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 264 started ======
+====== naive-bayes (apache-spark) [default], iteration 264 completed (1346.484 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 265 started ======
+====== naive-bayes (apache-spark) [default], iteration 265 completed (1361.100 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 266 started ======
+====== naive-bayes (apache-spark) [default], iteration 266 completed (1550.725 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 267 started ======
+====== naive-bayes (apache-spark) [default], iteration 267 completed (1331.327 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 268 started ======
+====== naive-bayes (apache-spark) [default], iteration 268 completed (1346.985 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 269 started ======
+====== naive-bayes (apache-spark) [default], iteration 269 completed (1333.649 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 270 started ======
+====== naive-bayes (apache-spark) [default], iteration 270 completed (1348.576 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 271 started ======
+====== naive-bayes (apache-spark) [default], iteration 271 completed (1355.378 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 272 started ======
+====== naive-bayes (apache-spark) [default], iteration 272 completed (1654.442 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 273 started ======
+====== naive-bayes (apache-spark) [default], iteration 273 completed (1443.183 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 274 started ======
+====== naive-bayes (apache-spark) [default], iteration 274 completed (1350.683 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 275 started ======
+====== naive-bayes (apache-spark) [default], iteration 275 completed (1329.497 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 276 started ======
+====== naive-bayes (apache-spark) [default], iteration 276 completed (1347.273 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 277 started ======
+====== naive-bayes (apache-spark) [default], iteration 277 completed (1352.464 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 278 started ======
+====== naive-bayes (apache-spark) [default], iteration 278 completed (1365.946 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 279 started ======
+====== naive-bayes (apache-spark) [default], iteration 279 completed (1345.416 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 280 started ======
+====== naive-bayes (apache-spark) [default], iteration 280 completed (1389.701 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 281 started ======
+====== naive-bayes (apache-spark) [default], iteration 281 completed (1427.199 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 282 started ======
+====== naive-bayes (apache-spark) [default], iteration 282 completed (1344.078 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 283 started ======
+====== naive-bayes (apache-spark) [default], iteration 283 completed (1505.571 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 284 started ======
+====== naive-bayes (apache-spark) [default], iteration 284 completed (1334.273 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 285 started ======
+====== naive-bayes (apache-spark) [default], iteration 285 completed (1370.451 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 286 started ======
+====== naive-bayes (apache-spark) [default], iteration 286 completed (1334.592 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 287 started ======
+====== naive-bayes (apache-spark) [default], iteration 287 completed (1450.244 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 288 started ======
+====== naive-bayes (apache-spark) [default], iteration 288 completed (1321.693 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 289 started ======
+====== naive-bayes (apache-spark) [default], iteration 289 completed (1328.344 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 290 started ======
+====== naive-bayes (apache-spark) [default], iteration 290 completed (1330.462 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 291 started ======
+====== naive-bayes (apache-spark) [default], iteration 291 completed (1331.588 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 292 started ======
+====== naive-bayes (apache-spark) [default], iteration 292 completed (1449.182 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 293 started ======
+====== naive-bayes (apache-spark) [default], iteration 293 completed (1338.548 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 294 started ======
+====== naive-bayes (apache-spark) [default], iteration 294 completed (1320.280 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 295 started ======
+====== naive-bayes (apache-spark) [default], iteration 295 completed (1418.872 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 296 started ======
+====== naive-bayes (apache-spark) [default], iteration 296 completed (1335.665 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 297 started ======
+====== naive-bayes (apache-spark) [default], iteration 297 completed (1323.134 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 298 started ======
+====== naive-bayes (apache-spark) [default], iteration 298 completed (1344.645 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 299 started ======
+====== naive-bayes (apache-spark) [default], iteration 299 completed (1363.157 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 300 started ======
+====== naive-bayes (apache-spark) [default], iteration 300 completed (1343.005 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 301 started ======
+====== naive-bayes (apache-spark) [default], iteration 301 completed (1345.878 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 302 started ======
+====== naive-bayes (apache-spark) [default], iteration 302 completed (1351.691 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 303 started ======
+====== naive-bayes (apache-spark) [default], iteration 303 completed (1425.746 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 304 started ======
+====== naive-bayes (apache-spark) [default], iteration 304 completed (1354.765 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 305 started ======
+====== naive-bayes (apache-spark) [default], iteration 305 completed (1524.036 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 306 started ======
+====== naive-bayes (apache-spark) [default], iteration 306 completed (2154.864 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 307 started ======
+====== naive-bayes (apache-spark) [default], iteration 307 completed (1760.290 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 308 started ======
+====== naive-bayes (apache-spark) [default], iteration 308 completed (2018.715 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 309 started ======
+====== naive-bayes (apache-spark) [default], iteration 309 completed (1363.181 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 310 started ======
+====== naive-bayes (apache-spark) [default], iteration 310 completed (1349.531 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 311 started ======
+====== naive-bayes (apache-spark) [default], iteration 311 completed (1287.319 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 312 started ======
+====== naive-bayes (apache-spark) [default], iteration 312 completed (1296.612 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 313 started ======
+====== naive-bayes (apache-spark) [default], iteration 313 completed (1291.722 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 314 started ======
+====== naive-bayes (apache-spark) [default], iteration 314 completed (1330.306 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 315 started ======
+====== naive-bayes (apache-spark) [default], iteration 315 completed (1327.319 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 316 started ======
+====== naive-bayes (apache-spark) [default], iteration 316 completed (1326.033 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 317 started ======
+====== naive-bayes (apache-spark) [default], iteration 317 completed (1316.252 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 318 started ======
+====== naive-bayes (apache-spark) [default], iteration 318 completed (1321.478 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 319 started ======
+====== naive-bayes (apache-spark) [default], iteration 319 completed (1324.708 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 320 started ======
+====== naive-bayes (apache-spark) [default], iteration 320 completed (1370.495 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 321 started ======
+====== naive-bayes (apache-spark) [default], iteration 321 completed (1435.893 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 322 started ======
+====== naive-bayes (apache-spark) [default], iteration 322 completed (1338.583 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 323 started ======
+====== naive-bayes (apache-spark) [default], iteration 323 completed (1340.292 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 324 started ======
+====== naive-bayes (apache-spark) [default], iteration 324 completed (1329.031 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 325 started ======
+====== naive-bayes (apache-spark) [default], iteration 325 completed (1335.222 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 326 started ======
+====== naive-bayes (apache-spark) [default], iteration 326 completed (1331.997 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 327 started ======
+====== naive-bayes (apache-spark) [default], iteration 327 completed (1320.510 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 328 started ======
+====== naive-bayes (apache-spark) [default], iteration 328 completed (1297.131 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 329 started ======
+====== naive-bayes (apache-spark) [default], iteration 329 completed (1272.507 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 330 started ======
+====== naive-bayes (apache-spark) [default], iteration 330 completed (1224.289 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 331 started ======
+====== naive-bayes (apache-spark) [default], iteration 331 completed (1312.087 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 332 started ======
+====== naive-bayes (apache-spark) [default], iteration 332 completed (1150.840 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 333 started ======
+====== naive-bayes (apache-spark) [default], iteration 333 completed (1589.742 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 334 started ======
+====== naive-bayes (apache-spark) [default], iteration 334 completed (1372.475 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 335 started ======
+====== naive-bayes (apache-spark) [default], iteration 335 completed (1297.822 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 336 started ======
+====== naive-bayes (apache-spark) [default], iteration 336 completed (1302.944 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 337 started ======
+====== naive-bayes (apache-spark) [default], iteration 337 completed (1160.020 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 338 started ======
+====== naive-bayes (apache-spark) [default], iteration 338 completed (1446.884 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 339 started ======
+====== naive-bayes (apache-spark) [default], iteration 339 completed (1287.749 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 340 started ======
+====== naive-bayes (apache-spark) [default], iteration 340 completed (1299.239 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 341 started ======
+====== naive-bayes (apache-spark) [default], iteration 341 completed (1304.793 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 342 started ======
+====== naive-bayes (apache-spark) [default], iteration 342 completed (1325.584 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 343 started ======
+====== naive-bayes (apache-spark) [default], iteration 343 completed (1320.425 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 344 started ======
+====== naive-bayes (apache-spark) [default], iteration 344 completed (1336.166 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 345 started ======
+====== naive-bayes (apache-spark) [default], iteration 345 completed (1323.125 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 346 started ======
+====== naive-bayes (apache-spark) [default], iteration 346 completed (1323.546 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 347 started ======
+====== naive-bayes (apache-spark) [default], iteration 347 completed (1332.416 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 348 started ======
+====== naive-bayes (apache-spark) [default], iteration 348 completed (1326.383 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 349 started ======
+====== naive-bayes (apache-spark) [default], iteration 349 completed (1323.140 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 350 started ======
+====== naive-bayes (apache-spark) [default], iteration 350 completed (1450.949 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 351 started ======
+====== naive-bayes (apache-spark) [default], iteration 351 completed (1304.647 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 352 started ======
+====== naive-bayes (apache-spark) [default], iteration 352 completed (1302.293 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 353 started ======
+====== naive-bayes (apache-spark) [default], iteration 353 completed (1308.926 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 354 started ======
+====== naive-bayes (apache-spark) [default], iteration 354 completed (1316.545 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 355 started ======
+====== naive-bayes (apache-spark) [default], iteration 355 completed (1310.923 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 356 started ======
+====== naive-bayes (apache-spark) [default], iteration 356 completed (1320.632 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 357 started ======
+====== naive-bayes (apache-spark) [default], iteration 357 completed (1320.231 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 358 started ======
+====== naive-bayes (apache-spark) [default], iteration 358 completed (1344.352 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 359 started ======
+====== naive-bayes (apache-spark) [default], iteration 359 completed (1337.013 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 360 started ======
+====== naive-bayes (apache-spark) [default], iteration 360 completed (1324.506 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 361 started ======
+====== naive-bayes (apache-spark) [default], iteration 361 completed (1315.394 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 362 started ======
+====== naive-bayes (apache-spark) [default], iteration 362 completed (1360.195 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 363 started ======
+====== naive-bayes (apache-spark) [default], iteration 363 completed (1305.716 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 364 started ======
+====== naive-bayes (apache-spark) [default], iteration 364 completed (1315.460 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 365 started ======
+====== naive-bayes (apache-spark) [default], iteration 365 completed (1409.899 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 366 started ======
+====== naive-bayes (apache-spark) [default], iteration 366 completed (1313.970 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 367 started ======
+====== naive-bayes (apache-spark) [default], iteration 367 completed (1297.907 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 368 started ======
+====== naive-bayes (apache-spark) [default], iteration 368 completed (1314.078 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 369 started ======
+====== naive-bayes (apache-spark) [default], iteration 369 completed (1377.438 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 370 started ======
+====== naive-bayes (apache-spark) [default], iteration 370 completed (1304.467 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 371 started ======
+====== naive-bayes (apache-spark) [default], iteration 371 completed (1312.524 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 372 started ======
+====== naive-bayes (apache-spark) [default], iteration 372 completed (1330.173 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 373 started ======
+====== naive-bayes (apache-spark) [default], iteration 373 completed (1322.432 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 374 started ======
+====== naive-bayes (apache-spark) [default], iteration 374 completed (1327.844 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 375 started ======
+====== naive-bayes (apache-spark) [default], iteration 375 completed (1317.691 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 376 started ======
+====== naive-bayes (apache-spark) [default], iteration 376 completed (1342.002 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 377 started ======
+====== naive-bayes (apache-spark) [default], iteration 377 completed (1316.256 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 378 started ======
+====== naive-bayes (apache-spark) [default], iteration 378 completed (1320.123 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 379 started ======
+====== naive-bayes (apache-spark) [default], iteration 379 completed (1328.951 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 380 started ======
+====== naive-bayes (apache-spark) [default], iteration 380 completed (1314.732 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 381 started ======
+====== naive-bayes (apache-spark) [default], iteration 381 completed (1318.180 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 382 started ======
+====== naive-bayes (apache-spark) [default], iteration 382 completed (1343.718 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 383 started ======
+====== naive-bayes (apache-spark) [default], iteration 383 completed (1426.605 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 384 started ======
+====== naive-bayes (apache-spark) [default], iteration 384 completed (1301.313 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 385 started ======
+====== naive-bayes (apache-spark) [default], iteration 385 completed (1313.673 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 386 started ======
+====== naive-bayes (apache-spark) [default], iteration 386 completed (1307.674 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 387 started ======
+====== naive-bayes (apache-spark) [default], iteration 387 completed (1310.166 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 388 started ======
+====== naive-bayes (apache-spark) [default], iteration 388 completed (1309.354 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 389 started ======
+====== naive-bayes (apache-spark) [default], iteration 389 completed (1319.907 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 390 started ======
+====== naive-bayes (apache-spark) [default], iteration 390 completed (1312.839 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 391 started ======
+====== naive-bayes (apache-spark) [default], iteration 391 completed (1351.669 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 392 started ======
+====== naive-bayes (apache-spark) [default], iteration 392 completed (1435.501 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 393 started ======
+====== naive-bayes (apache-spark) [default], iteration 393 completed (1295.486 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 394 started ======
+====== naive-bayes (apache-spark) [default], iteration 394 completed (1303.340 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 395 started ======
+====== naive-bayes (apache-spark) [default], iteration 395 completed (1307.875 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 396 started ======
+====== naive-bayes (apache-spark) [default], iteration 396 completed (1315.471 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 397 started ======
+====== naive-bayes (apache-spark) [default], iteration 397 completed (1316.491 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 398 started ======
+====== naive-bayes (apache-spark) [default], iteration 398 completed (1321.646 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 399 started ======
+====== naive-bayes (apache-spark) [default], iteration 399 completed (1319.793 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 400 started ======
+====== naive-bayes (apache-spark) [default], iteration 400 completed (1326.978 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 401 started ======
+====== naive-bayes (apache-spark) [default], iteration 401 completed (1326.571 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 402 started ======
+====== naive-bayes (apache-spark) [default], iteration 402 completed (1346.291 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 403 started ======
+====== naive-bayes (apache-spark) [default], iteration 403 completed (1676.712 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 404 started ======
+====== naive-bayes (apache-spark) [default], iteration 404 completed (1483.183 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 405 started ======
+====== naive-bayes (apache-spark) [default], iteration 405 completed (1655.528 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 406 started ======
+====== naive-bayes (apache-spark) [default], iteration 406 completed (1909.184 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 407 started ======
+====== naive-bayes (apache-spark) [default], iteration 407 completed (2131.627 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 408 started ======
+====== naive-bayes (apache-spark) [default], iteration 408 completed (2207.252 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 409 started ======
+====== naive-bayes (apache-spark) [default], iteration 409 completed (1750.679 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 410 started ======
+====== naive-bayes (apache-spark) [default], iteration 410 completed (1464.163 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 411 started ======
+====== naive-bayes (apache-spark) [default], iteration 411 completed (1507.768 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 412 started ======
+====== naive-bayes (apache-spark) [default], iteration 412 completed (1497.971 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 413 started ======
+====== naive-bayes (apache-spark) [default], iteration 413 completed (1405.928 ms) ======
+====== naive-bayes (apache-spark) [default], iteration 414 started ======
+====== naive-bayes (apache-spark) [default], iteration 414 completed (1347.943 ms) ======

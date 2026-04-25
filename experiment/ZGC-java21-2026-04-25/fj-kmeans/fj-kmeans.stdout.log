@@ -1,0 +1,242 @@
+[jmx-memory plugin] WARNING: Unknown garbage collector ZGC Minor Cycles.
+[jmx-memory plugin] WARNING: Unknown garbage collector ZGC Minor Pauses.
+[jmx-memory plugin] WARNING: Unknown garbage collector ZGC Major Cycles.
+[jmx-memory plugin] WARNING: Unknown garbage collector ZGC Major Pauses.
+[jmx-memory plugin] WARNING: MXBean for young generation not found, using mock.
+[jmx-memory plugin] WARNING: MXBean for old generation not found, using mock.
+====== fj-kmeans (concurrency) [default], iteration 0 started ======
+====== fj-kmeans (concurrency) [default], iteration 0 completed (7060.483 ms) ======
+====== fj-kmeans (concurrency) [default], iteration 1 started ======
+====== fj-kmeans (concurrency) [default], iteration 1 completed (5229.538 ms) ======
+====== fj-kmeans (concurrency) [default], iteration 2 started ======
+====== fj-kmeans (concurrency) [default], iteration 2 completed (5583.634 ms) ======
+====== fj-kmeans (concurrency) [default], iteration 3 started ======
+====== fj-kmeans (concurrency) [default], iteration 3 completed (5201.839 ms) ======
+====== fj-kmeans (concurrency) [default], iteration 4 started ======
+====== fj-kmeans (concurrency) [default], iteration 4 completed (5176.720 ms) ======
+====== fj-kmeans (concurrency) [default], iteration 5 started ======
+====== fj-kmeans (concurrency) [default], iteration 5 completed (5178.201 ms) ======
+====== fj-kmeans (concurrency) [default], iteration 6 started ======
+====== fj-kmeans (concurrency) [default], iteration 6 completed (5125.841 ms) ======
+====== fj-kmeans (concurrency) [default], iteration 7 started ======
+====== fj-kmeans (concurrency) [default], iteration 7 completed (5127.581 ms) ======
+====== fj-kmeans (concurrency) [default], iteration 8 started ======
+====== fj-kmeans (concurrency) [default], iteration 8 completed (5162.793 ms) ======
+====== fj-kmeans (concurrency) [default], iteration 9 started ======
+====== fj-kmeans (concurrency) [default], iteration 9 completed (5130.248 ms) ======
+====== fj-kmeans (concurrency) [default], iteration 10 started ======
+====== fj-kmeans (concurrency) [default], iteration 10 completed (5132.728 ms) ======
+====== fj-kmeans (concurrency) [default], iteration 11 started ======
+====== fj-kmeans (concurrency) [default], iteration 11 completed (5153.054 ms) ======
+====== fj-kmeans (concurrency) [default], iteration 12 started ======
+====== fj-kmeans (concurrency) [default], iteration 12 completed (5154.595 ms) ======
+====== fj-kmeans (concurrency) [default], iteration 13 started ======
+====== fj-kmeans (concurrency) [default], iteration 13 completed (5119.107 ms) ======
+====== fj-kmeans (concurrency) [default], iteration 14 started ======
+====== fj-kmeans (concurrency) [default], iteration 14 completed (5208.755 ms) ======
+====== fj-kmeans (concurrency) [default], iteration 15 started ======
+====== fj-kmeans (concurrency) [default], iteration 15 completed (5143.799 ms) ======
+====== fj-kmeans (concurrency) [default], iteration 16 started ======
+====== fj-kmeans (concurrency) [default], iteration 16 completed (5120.548 ms) ======
+====== fj-kmeans (concurrency) [default], iteration 17 started ======
+====== fj-kmeans (concurrency) [default], iteration 17 completed (5138.681 ms) ======
+====== fj-kmeans (concurrency) [default], iteration 18 started ======
+====== fj-kmeans (concurrency) [default], iteration 18 completed (5175.785 ms) ======
+====== fj-kmeans (concurrency) [default], iteration 19 started ======
+====== fj-kmeans (concurrency) [default], iteration 19 completed (5118.274 ms) ======
+====== fj-kmeans (concurrency) [default], iteration 20 started ======
+====== fj-kmeans (concurrency) [default], iteration 20 completed (5125.604 ms) ======
+====== fj-kmeans (concurrency) [default], iteration 21 started ======
+====== fj-kmeans (concurrency) [default], iteration 21 completed (5152.927 ms) ======
+====== fj-kmeans (concurrency) [default], iteration 22 started ======
+====== fj-kmeans (concurrency) [default], iteration 22 completed (5130.035 ms) ======
+====== fj-kmeans (concurrency) [default], iteration 23 started ======
+====== fj-kmeans (concurrency) [default], iteration 23 completed (5136.281 ms) ======
+====== fj-kmeans (concurrency) [default], iteration 24 started ======
+====== fj-kmeans (concurrency) [default], iteration 24 completed (5142.316 ms) ======
+====== fj-kmeans (concurrency) [default], iteration 25 started ======
+====== fj-kmeans (concurrency) [default], iteration 25 completed (5168.226 ms) ======
+====== fj-kmeans (concurrency) [default], iteration 26 started ======
+====== fj-kmeans (concurrency) [default], iteration 26 completed (5192.737 ms) ======
+====== fj-kmeans (concurrency) [default], iteration 27 started ======
+====== fj-kmeans (concurrency) [default], iteration 27 completed (5120.925 ms) ======
+====== fj-kmeans (concurrency) [default], iteration 28 started ======
+====== fj-kmeans (concurrency) [default], iteration 28 completed (5143.522 ms) ======
+====== fj-kmeans (concurrency) [default], iteration 29 started ======
+====== fj-kmeans (concurrency) [default], iteration 29 completed (5118.469 ms) ======
+====== fj-kmeans (concurrency) [default], iteration 30 started ======
+====== fj-kmeans (concurrency) [default], iteration 30 completed (5131.516 ms) ======
+====== fj-kmeans (concurrency) [default], iteration 31 started ======
+====== fj-kmeans (concurrency) [default], iteration 31 completed (5158.305 ms) ======
+====== fj-kmeans (concurrency) [default], iteration 32 started ======
+====== fj-kmeans (concurrency) [default], iteration 32 completed (5113.439 ms) ======
+====== fj-kmeans (concurrency) [default], iteration 33 started ======
+====== fj-kmeans (concurrency) [default], iteration 33 completed (5113.686 ms) ======
+====== fj-kmeans (concurrency) [default], iteration 34 started ======
+====== fj-kmeans (concurrency) [default], iteration 34 completed (5161.252 ms) ======
+====== fj-kmeans (concurrency) [default], iteration 35 started ======
+====== fj-kmeans (concurrency) [default], iteration 35 completed (5111.639 ms) ======
+====== fj-kmeans (concurrency) [default], iteration 36 started ======
+====== fj-kmeans (concurrency) [default], iteration 36 completed (5175.032 ms) ======
+====== fj-kmeans (concurrency) [default], iteration 37 started ======
+====== fj-kmeans (concurrency) [default], iteration 37 completed (5154.423 ms) ======
+====== fj-kmeans (concurrency) [default], iteration 38 started ======
+====== fj-kmeans (concurrency) [default], iteration 38 completed (5110.747 ms) ======
+====== fj-kmeans (concurrency) [default], iteration 39 started ======
+====== fj-kmeans (concurrency) [default], iteration 39 completed (5149.239 ms) ======
+====== fj-kmeans (concurrency) [default], iteration 40 started ======
+====== fj-kmeans (concurrency) [default], iteration 40 completed (5119.360 ms) ======
+====== fj-kmeans (concurrency) [default], iteration 41 started ======
+====== fj-kmeans (concurrency) [default], iteration 41 completed (5110.784 ms) ======
+====== fj-kmeans (concurrency) [default], iteration 42 started ======
+====== fj-kmeans (concurrency) [default], iteration 42 completed (5125.508 ms) ======
+====== fj-kmeans (concurrency) [default], iteration 43 started ======
+====== fj-kmeans (concurrency) [default], iteration 43 completed (5151.670 ms) ======
+====== fj-kmeans (concurrency) [default], iteration 44 started ======
+====== fj-kmeans (concurrency) [default], iteration 44 completed (5117.476 ms) ======
+====== fj-kmeans (concurrency) [default], iteration 45 started ======
+====== fj-kmeans (concurrency) [default], iteration 45 completed (5118.836 ms) ======
+====== fj-kmeans (concurrency) [default], iteration 46 started ======
+====== fj-kmeans (concurrency) [default], iteration 46 completed (5210.423 ms) ======
+====== fj-kmeans (concurrency) [default], iteration 47 started ======
+====== fj-kmeans (concurrency) [default], iteration 47 completed (5130.400 ms) ======
+====== fj-kmeans (concurrency) [default], iteration 48 started ======
+====== fj-kmeans (concurrency) [default], iteration 48 completed (5121.768 ms) ======
+====== fj-kmeans (concurrency) [default], iteration 49 started ======
+====== fj-kmeans (concurrency) [default], iteration 49 completed (5135.218 ms) ======
+====== fj-kmeans (concurrency) [default], iteration 50 started ======
+====== fj-kmeans (concurrency) [default], iteration 50 completed (5135.878 ms) ======
+====== fj-kmeans (concurrency) [default], iteration 51 started ======
+====== fj-kmeans (concurrency) [default], iteration 51 completed (5110.980 ms) ======
+====== fj-kmeans (concurrency) [default], iteration 52 started ======
+====== fj-kmeans (concurrency) [default], iteration 52 completed (5115.603 ms) ======
+====== fj-kmeans (concurrency) [default], iteration 53 started ======
+====== fj-kmeans (concurrency) [default], iteration 53 completed (5147.286 ms) ======
+====== fj-kmeans (concurrency) [default], iteration 54 started ======
+====== fj-kmeans (concurrency) [default], iteration 54 completed (5216.237 ms) ======
+====== fj-kmeans (concurrency) [default], iteration 55 started ======
+====== fj-kmeans (concurrency) [default], iteration 55 completed (5131.024 ms) ======
+====== fj-kmeans (concurrency) [default], iteration 56 started ======
+====== fj-kmeans (concurrency) [default], iteration 56 completed (5167.444 ms) ======
+====== fj-kmeans (concurrency) [default], iteration 57 started ======
+====== fj-kmeans (concurrency) [default], iteration 57 completed (5125.305 ms) ======
+====== fj-kmeans (concurrency) [default], iteration 58 started ======
+====== fj-kmeans (concurrency) [default], iteration 58 completed (5124.925 ms) ======
+====== fj-kmeans (concurrency) [default], iteration 59 started ======
+====== fj-kmeans (concurrency) [default], iteration 59 completed (5144.755 ms) ======
+====== fj-kmeans (concurrency) [default], iteration 60 started ======
+====== fj-kmeans (concurrency) [default], iteration 60 completed (5150.072 ms) ======
+====== fj-kmeans (concurrency) [default], iteration 61 started ======
+====== fj-kmeans (concurrency) [default], iteration 61 completed (5123.346 ms) ======
+====== fj-kmeans (concurrency) [default], iteration 62 started ======
+====== fj-kmeans (concurrency) [default], iteration 62 completed (5206.773 ms) ======
+====== fj-kmeans (concurrency) [default], iteration 63 started ======
+====== fj-kmeans (concurrency) [default], iteration 63 completed (5116.458 ms) ======
+====== fj-kmeans (concurrency) [default], iteration 64 started ======
+====== fj-kmeans (concurrency) [default], iteration 64 completed (5112.313 ms) ======
+====== fj-kmeans (concurrency) [default], iteration 65 started ======
+====== fj-kmeans (concurrency) [default], iteration 65 completed (5154.835 ms) ======
+====== fj-kmeans (concurrency) [default], iteration 66 started ======
+====== fj-kmeans (concurrency) [default], iteration 66 completed (5118.457 ms) ======
+====== fj-kmeans (concurrency) [default], iteration 67 started ======
+====== fj-kmeans (concurrency) [default], iteration 67 completed (5123.391 ms) ======
+====== fj-kmeans (concurrency) [default], iteration 68 started ======
+====== fj-kmeans (concurrency) [default], iteration 68 completed (5111.526 ms) ======
+====== fj-kmeans (concurrency) [default], iteration 69 started ======
+====== fj-kmeans (concurrency) [default], iteration 69 completed (5143.572 ms) ======
+====== fj-kmeans (concurrency) [default], iteration 70 started ======
+====== fj-kmeans (concurrency) [default], iteration 70 completed (5210.913 ms) ======
+====== fj-kmeans (concurrency) [default], iteration 71 started ======
+====== fj-kmeans (concurrency) [default], iteration 71 completed (5109.695 ms) ======
+====== fj-kmeans (concurrency) [default], iteration 72 started ======
+====== fj-kmeans (concurrency) [default], iteration 72 completed (5151.750 ms) ======
+====== fj-kmeans (concurrency) [default], iteration 73 started ======
+====== fj-kmeans (concurrency) [default], iteration 73 completed (5125.399 ms) ======
+====== fj-kmeans (concurrency) [default], iteration 74 started ======
+====== fj-kmeans (concurrency) [default], iteration 74 completed (5119.809 ms) ======
+====== fj-kmeans (concurrency) [default], iteration 75 started ======
+====== fj-kmeans (concurrency) [default], iteration 75 completed (5127.977 ms) ======
+====== fj-kmeans (concurrency) [default], iteration 76 started ======
+====== fj-kmeans (concurrency) [default], iteration 76 completed (5155.181 ms) ======
+====== fj-kmeans (concurrency) [default], iteration 77 started ======
+====== fj-kmeans (concurrency) [default], iteration 77 completed (5126.149 ms) ======
+====== fj-kmeans (concurrency) [default], iteration 78 started ======
+====== fj-kmeans (concurrency) [default], iteration 78 completed (5186.131 ms) ======
+====== fj-kmeans (concurrency) [default], iteration 79 started ======
+====== fj-kmeans (concurrency) [default], iteration 79 completed (5149.416 ms) ======
+====== fj-kmeans (concurrency) [default], iteration 80 started ======
+====== fj-kmeans (concurrency) [default], iteration 80 completed (5118.747 ms) ======
+====== fj-kmeans (concurrency) [default], iteration 81 started ======
+====== fj-kmeans (concurrency) [default], iteration 81 completed (5162.441 ms) ======
+====== fj-kmeans (concurrency) [default], iteration 82 started ======
+====== fj-kmeans (concurrency) [default], iteration 82 completed (5124.488 ms) ======
+====== fj-kmeans (concurrency) [default], iteration 83 started ======
+====== fj-kmeans (concurrency) [default], iteration 83 completed (5117.570 ms) ======
+====== fj-kmeans (concurrency) [default], iteration 84 started ======
+====== fj-kmeans (concurrency) [default], iteration 84 completed (5130.915 ms) ======
+====== fj-kmeans (concurrency) [default], iteration 85 started ======
+====== fj-kmeans (concurrency) [default], iteration 85 completed (5137.263 ms) ======
+====== fj-kmeans (concurrency) [default], iteration 86 started ======
+====== fj-kmeans (concurrency) [default], iteration 86 completed (5170.230 ms) ======
+====== fj-kmeans (concurrency) [default], iteration 87 started ======
+====== fj-kmeans (concurrency) [default], iteration 87 completed (5193.628 ms) ======
+====== fj-kmeans (concurrency) [default], iteration 88 started ======
+====== fj-kmeans (concurrency) [default], iteration 88 completed (5118.966 ms) ======
+====== fj-kmeans (concurrency) [default], iteration 89 started ======
+====== fj-kmeans (concurrency) [default], iteration 89 completed (5126.800 ms) ======
+====== fj-kmeans (concurrency) [default], iteration 90 started ======
+====== fj-kmeans (concurrency) [default], iteration 90 completed (5145.340 ms) ======
+====== fj-kmeans (concurrency) [default], iteration 91 started ======
+====== fj-kmeans (concurrency) [default], iteration 91 completed (5121.273 ms) ======
+====== fj-kmeans (concurrency) [default], iteration 92 started ======
+====== fj-kmeans (concurrency) [default], iteration 92 completed (5129.126 ms) ======
+====== fj-kmeans (concurrency) [default], iteration 93 started ======
+====== fj-kmeans (concurrency) [default], iteration 93 completed (5139.416 ms) ======
+====== fj-kmeans (concurrency) [default], iteration 94 started ======
+====== fj-kmeans (concurrency) [default], iteration 94 completed (5203.734 ms) ======
+====== fj-kmeans (concurrency) [default], iteration 95 started ======
+====== fj-kmeans (concurrency) [default], iteration 95 completed (5142.543 ms) ======
+====== fj-kmeans (concurrency) [default], iteration 96 started ======
+====== fj-kmeans (concurrency) [default], iteration 96 completed (5121.532 ms) ======
+====== fj-kmeans (concurrency) [default], iteration 97 started ======
+====== fj-kmeans (concurrency) [default], iteration 97 completed (5163.977 ms) ======
+====== fj-kmeans (concurrency) [default], iteration 98 started ======
+====== fj-kmeans (concurrency) [default], iteration 98 completed (5125.307 ms) ======
+====== fj-kmeans (concurrency) [default], iteration 99 started ======
+====== fj-kmeans (concurrency) [default], iteration 99 completed (5117.897 ms) ======
+====== fj-kmeans (concurrency) [default], iteration 100 started ======
+====== fj-kmeans (concurrency) [default], iteration 100 completed (5150.583 ms) ======
+====== fj-kmeans (concurrency) [default], iteration 101 started ======
+====== fj-kmeans (concurrency) [default], iteration 101 completed (5119.034 ms) ======
+====== fj-kmeans (concurrency) [default], iteration 102 started ======
+====== fj-kmeans (concurrency) [default], iteration 102 completed (5118.385 ms) ======
+====== fj-kmeans (concurrency) [default], iteration 103 started ======
+====== fj-kmeans (concurrency) [default], iteration 103 completed (5220.113 ms) ======
+====== fj-kmeans (concurrency) [default], iteration 104 started ======
+====== fj-kmeans (concurrency) [default], iteration 104 completed (5161.876 ms) ======
+====== fj-kmeans (concurrency) [default], iteration 105 started ======
+====== fj-kmeans (concurrency) [default], iteration 105 completed (5123.983 ms) ======
+====== fj-kmeans (concurrency) [default], iteration 106 started ======
+====== fj-kmeans (concurrency) [default], iteration 106 completed (5126.645 ms) ======
+====== fj-kmeans (concurrency) [default], iteration 107 started ======
+====== fj-kmeans (concurrency) [default], iteration 107 completed (5150.081 ms) ======
+====== fj-kmeans (concurrency) [default], iteration 108 started ======
+====== fj-kmeans (concurrency) [default], iteration 108 completed (5131.504 ms) ======
+====== fj-kmeans (concurrency) [default], iteration 109 started ======
+====== fj-kmeans (concurrency) [default], iteration 109 completed (5117.731 ms) ======
+====== fj-kmeans (concurrency) [default], iteration 110 started ======
+====== fj-kmeans (concurrency) [default], iteration 110 completed (5127.744 ms) ======
+====== fj-kmeans (concurrency) [default], iteration 111 started ======
+====== fj-kmeans (concurrency) [default], iteration 111 completed (5229.231 ms) ======
+====== fj-kmeans (concurrency) [default], iteration 112 started ======
+====== fj-kmeans (concurrency) [default], iteration 112 completed (5124.571 ms) ======
+====== fj-kmeans (concurrency) [default], iteration 113 started ======
+====== fj-kmeans (concurrency) [default], iteration 113 completed (5156.496 ms) ======
+====== fj-kmeans (concurrency) [default], iteration 114 started ======
+====== fj-kmeans (concurrency) [default], iteration 114 completed (5124.011 ms) ======
+====== fj-kmeans (concurrency) [default], iteration 115 started ======
+====== fj-kmeans (concurrency) [default], iteration 115 completed (5114.648 ms) ======
+====== fj-kmeans (concurrency) [default], iteration 116 started ======
+====== fj-kmeans (concurrency) [default], iteration 116 completed (5134.006 ms) ======
+====== fj-kmeans (concurrency) [default], iteration 117 started ======
+====== fj-kmeans (concurrency) [default], iteration 117 completed (5155.818 ms) ======

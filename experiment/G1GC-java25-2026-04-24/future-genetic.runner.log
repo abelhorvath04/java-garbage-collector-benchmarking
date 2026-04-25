@@ -1,0 +1,596 @@
+>>> Starting benchmark: future-genetic
+>>> GC: G1GC
+>>> Duration: 600s
+>>> Base dir: G1GC-java25-2026-04-24
+>>> Output dir: G1GC-java25-2026-04-24/future-genetic
+WARNING: A terminally deprecated method in sun.misc.Unsafe has been called
+WARNING: sun.misc.Unsafe::objectFieldOffset has been called by scala.runtime.LazyVals$ (resource:/shared/scala3-library_3-3.3.4.jar)
+WARNING: Please consider reporting this to the maintainers of class scala.runtime.LazyVals$
+WARNING: sun.misc.Unsafe::objectFieldOffset will be removed in a future release
+[jmx-memory plugin] WARNING: Unknown garbage collector G1 Concurrent GC.
+====== future-genetic (functional) [default], iteration 0 started ======
+====== future-genetic (functional) [default], iteration 0 completed (2758.680 ms) ======
+====== future-genetic (functional) [default], iteration 1 started ======
+====== future-genetic (functional) [default], iteration 1 completed (2092.203 ms) ======
+====== future-genetic (functional) [default], iteration 2 started ======
+====== future-genetic (functional) [default], iteration 2 completed (2503.772 ms) ======
+====== future-genetic (functional) [default], iteration 3 started ======
+====== future-genetic (functional) [default], iteration 3 completed (2378.452 ms) ======
+====== future-genetic (functional) [default], iteration 4 started ======
+====== future-genetic (functional) [default], iteration 4 completed (2316.265 ms) ======
+====== future-genetic (functional) [default], iteration 5 started ======
+====== future-genetic (functional) [default], iteration 5 completed (2263.910 ms) ======
+====== future-genetic (functional) [default], iteration 6 started ======
+====== future-genetic (functional) [default], iteration 6 completed (2275.299 ms) ======
+====== future-genetic (functional) [default], iteration 7 started ======
+====== future-genetic (functional) [default], iteration 7 completed (2272.902 ms) ======
+====== future-genetic (functional) [default], iteration 8 started ======
+====== future-genetic (functional) [default], iteration 8 completed (1903.576 ms) ======
+====== future-genetic (functional) [default], iteration 9 started ======
+====== future-genetic (functional) [default], iteration 9 completed (1900.322 ms) ======
+====== future-genetic (functional) [default], iteration 10 started ======
+====== future-genetic (functional) [default], iteration 10 completed (1931.104 ms) ======
+====== future-genetic (functional) [default], iteration 11 started ======
+====== future-genetic (functional) [default], iteration 11 completed (1909.972 ms) ======
+====== future-genetic (functional) [default], iteration 12 started ======
+====== future-genetic (functional) [default], iteration 12 completed (1848.100 ms) ======
+====== future-genetic (functional) [default], iteration 13 started ======
+====== future-genetic (functional) [default], iteration 13 completed (1900.979 ms) ======
+====== future-genetic (functional) [default], iteration 14 started ======
+====== future-genetic (functional) [default], iteration 14 completed (1905.823 ms) ======
+====== future-genetic (functional) [default], iteration 15 started ======
+====== future-genetic (functional) [default], iteration 15 completed (1811.211 ms) ======
+====== future-genetic (functional) [default], iteration 16 started ======
+====== future-genetic (functional) [default], iteration 16 completed (1813.998 ms) ======
+====== future-genetic (functional) [default], iteration 17 started ======
+====== future-genetic (functional) [default], iteration 17 completed (1809.159 ms) ======
+====== future-genetic (functional) [default], iteration 18 started ======
+====== future-genetic (functional) [default], iteration 18 completed (1873.933 ms) ======
+====== future-genetic (functional) [default], iteration 19 started ======
+====== future-genetic (functional) [default], iteration 19 completed (1839.421 ms) ======
+====== future-genetic (functional) [default], iteration 20 started ======
+====== future-genetic (functional) [default], iteration 20 completed (1922.298 ms) ======
+====== future-genetic (functional) [default], iteration 21 started ======
+====== future-genetic (functional) [default], iteration 21 completed (1806.342 ms) ======
+====== future-genetic (functional) [default], iteration 22 started ======
+====== future-genetic (functional) [default], iteration 22 completed (1804.095 ms) ======
+====== future-genetic (functional) [default], iteration 23 started ======
+====== future-genetic (functional) [default], iteration 23 completed (1817.586 ms) ======
+====== future-genetic (functional) [default], iteration 24 started ======
+====== future-genetic (functional) [default], iteration 24 completed (1808.665 ms) ======
+====== future-genetic (functional) [default], iteration 25 started ======
+====== future-genetic (functional) [default], iteration 25 completed (1827.355 ms) ======
+====== future-genetic (functional) [default], iteration 26 started ======
+====== future-genetic (functional) [default], iteration 26 completed (1919.635 ms) ======
+====== future-genetic (functional) [default], iteration 27 started ======
+====== future-genetic (functional) [default], iteration 27 completed (1820.561 ms) ======
+====== future-genetic (functional) [default], iteration 28 started ======
+====== future-genetic (functional) [default], iteration 28 completed (1821.791 ms) ======
+====== future-genetic (functional) [default], iteration 29 started ======
+====== future-genetic (functional) [default], iteration 29 completed (1817.003 ms) ======
+====== future-genetic (functional) [default], iteration 30 started ======
+====== future-genetic (functional) [default], iteration 30 completed (1861.393 ms) ======
+====== future-genetic (functional) [default], iteration 31 started ======
+====== future-genetic (functional) [default], iteration 31 completed (1929.449 ms) ======
+====== future-genetic (functional) [default], iteration 32 started ======
+====== future-genetic (functional) [default], iteration 32 completed (1941.616 ms) ======
+====== future-genetic (functional) [default], iteration 33 started ======
+====== future-genetic (functional) [default], iteration 33 completed (2023.015 ms) ======
+====== future-genetic (functional) [default], iteration 34 started ======
+====== future-genetic (functional) [default], iteration 34 completed (2157.204 ms) ======
+====== future-genetic (functional) [default], iteration 35 started ======
+====== future-genetic (functional) [default], iteration 35 completed (2189.769 ms) ======
+====== future-genetic (functional) [default], iteration 36 started ======
+====== future-genetic (functional) [default], iteration 36 completed (2057.674 ms) ======
+====== future-genetic (functional) [default], iteration 37 started ======
+====== future-genetic (functional) [default], iteration 37 completed (2134.957 ms) ======
+====== future-genetic (functional) [default], iteration 38 started ======
+====== future-genetic (functional) [default], iteration 38 completed (2151.226 ms) ======
+====== future-genetic (functional) [default], iteration 39 started ======
+====== future-genetic (functional) [default], iteration 39 completed (2185.871 ms) ======
+====== future-genetic (functional) [default], iteration 40 started ======
+====== future-genetic (functional) [default], iteration 40 completed (2114.027 ms) ======
+====== future-genetic (functional) [default], iteration 41 started ======
+====== future-genetic (functional) [default], iteration 41 completed (2117.611 ms) ======
+====== future-genetic (functional) [default], iteration 42 started ======
+====== future-genetic (functional) [default], iteration 42 completed (2100.615 ms) ======
+====== future-genetic (functional) [default], iteration 43 started ======
+====== future-genetic (functional) [default], iteration 43 completed (2045.170 ms) ======
+====== future-genetic (functional) [default], iteration 44 started ======
+====== future-genetic (functional) [default], iteration 44 completed (2053.526 ms) ======
+====== future-genetic (functional) [default], iteration 45 started ======
+====== future-genetic (functional) [default], iteration 45 completed (2120.135 ms) ======
+====== future-genetic (functional) [default], iteration 46 started ======
+====== future-genetic (functional) [default], iteration 46 completed (2086.250 ms) ======
+====== future-genetic (functional) [default], iteration 47 started ======
+====== future-genetic (functional) [default], iteration 47 completed (2107.475 ms) ======
+====== future-genetic (functional) [default], iteration 48 started ======
+====== future-genetic (functional) [default], iteration 48 completed (2112.798 ms) ======
+====== future-genetic (functional) [default], iteration 49 started ======
+====== future-genetic (functional) [default], iteration 49 completed (2113.231 ms) ======
+====== future-genetic (functional) [default], iteration 50 started ======
+====== future-genetic (functional) [default], iteration 50 completed (2092.812 ms) ======
+====== future-genetic (functional) [default], iteration 51 started ======
+====== future-genetic (functional) [default], iteration 51 completed (2084.575 ms) ======
+====== future-genetic (functional) [default], iteration 52 started ======
+====== future-genetic (functional) [default], iteration 52 completed (2162.896 ms) ======
+====== future-genetic (functional) [default], iteration 53 started ======
+====== future-genetic (functional) [default], iteration 53 completed (2084.041 ms) ======
+====== future-genetic (functional) [default], iteration 54 started ======
+====== future-genetic (functional) [default], iteration 54 completed (2100.510 ms) ======
+====== future-genetic (functional) [default], iteration 55 started ======
+====== future-genetic (functional) [default], iteration 55 completed (2119.049 ms) ======
+====== future-genetic (functional) [default], iteration 56 started ======
+====== future-genetic (functional) [default], iteration 56 completed (2116.436 ms) ======
+====== future-genetic (functional) [default], iteration 57 started ======
+====== future-genetic (functional) [default], iteration 57 completed (2165.628 ms) ======
+====== future-genetic (functional) [default], iteration 58 started ======
+====== future-genetic (functional) [default], iteration 58 completed (2304.248 ms) ======
+====== future-genetic (functional) [default], iteration 59 started ======
+====== future-genetic (functional) [default], iteration 59 completed (2320.044 ms) ======
+====== future-genetic (functional) [default], iteration 60 started ======
+====== future-genetic (functional) [default], iteration 60 completed (2337.276 ms) ======
+====== future-genetic (functional) [default], iteration 61 started ======
+====== future-genetic (functional) [default], iteration 61 completed (2388.224 ms) ======
+====== future-genetic (functional) [default], iteration 62 started ======
+====== future-genetic (functional) [default], iteration 62 completed (2330.031 ms) ======
+====== future-genetic (functional) [default], iteration 63 started ======
+====== future-genetic (functional) [default], iteration 63 completed (2359.646 ms) ======
+====== future-genetic (functional) [default], iteration 64 started ======
+====== future-genetic (functional) [default], iteration 64 completed (2191.123 ms) ======
+====== future-genetic (functional) [default], iteration 65 started ======
+====== future-genetic (functional) [default], iteration 65 completed (2087.098 ms) ======
+====== future-genetic (functional) [default], iteration 66 started ======
+====== future-genetic (functional) [default], iteration 66 completed (2111.008 ms) ======
+====== future-genetic (functional) [default], iteration 67 started ======
+====== future-genetic (functional) [default], iteration 67 completed (2110.996 ms) ======
+====== future-genetic (functional) [default], iteration 68 started ======
+====== future-genetic (functional) [default], iteration 68 completed (2084.833 ms) ======
+====== future-genetic (functional) [default], iteration 69 started ======
+====== future-genetic (functional) [default], iteration 69 completed (2090.957 ms) ======
+====== future-genetic (functional) [default], iteration 70 started ======
+====== future-genetic (functional) [default], iteration 70 completed (2107.659 ms) ======
+====== future-genetic (functional) [default], iteration 71 started ======
+====== future-genetic (functional) [default], iteration 71 completed (2166.492 ms) ======
+====== future-genetic (functional) [default], iteration 72 started ======
+====== future-genetic (functional) [default], iteration 72 completed (2061.618 ms) ======
+====== future-genetic (functional) [default], iteration 73 started ======
+====== future-genetic (functional) [default], iteration 73 completed (2102.884 ms) ======
+====== future-genetic (functional) [default], iteration 74 started ======
+====== future-genetic (functional) [default], iteration 74 completed (2073.649 ms) ======
+====== future-genetic (functional) [default], iteration 75 started ======
+====== future-genetic (functional) [default], iteration 75 completed (2124.468 ms) ======
+====== future-genetic (functional) [default], iteration 76 started ======
+====== future-genetic (functional) [default], iteration 76 completed (2106.079 ms) ======
+====== future-genetic (functional) [default], iteration 77 started ======
+====== future-genetic (functional) [default], iteration 77 completed (2168.112 ms) ======
+====== future-genetic (functional) [default], iteration 78 started ======
+====== future-genetic (functional) [default], iteration 78 completed (2133.665 ms) ======
+====== future-genetic (functional) [default], iteration 79 started ======
+====== future-genetic (functional) [default], iteration 79 completed (1898.942 ms) ======
+====== future-genetic (functional) [default], iteration 80 started ======
+====== future-genetic (functional) [default], iteration 80 completed (1903.049 ms) ======
+====== future-genetic (functional) [default], iteration 81 started ======
+====== future-genetic (functional) [default], iteration 81 completed (1947.817 ms) ======
+====== future-genetic (functional) [default], iteration 82 started ======
+====== future-genetic (functional) [default], iteration 82 completed (1882.149 ms) ======
+====== future-genetic (functional) [default], iteration 83 started ======
+====== future-genetic (functional) [default], iteration 83 completed (1948.959 ms) ======
+====== future-genetic (functional) [default], iteration 84 started ======
+====== future-genetic (functional) [default], iteration 84 completed (1953.672 ms) ======
+====== future-genetic (functional) [default], iteration 85 started ======
+====== future-genetic (functional) [default], iteration 85 completed (1973.550 ms) ======
+====== future-genetic (functional) [default], iteration 86 started ======
+====== future-genetic (functional) [default], iteration 86 completed (1970.471 ms) ======
+====== future-genetic (functional) [default], iteration 87 started ======
+====== future-genetic (functional) [default], iteration 87 completed (2003.120 ms) ======
+====== future-genetic (functional) [default], iteration 88 started ======
+====== future-genetic (functional) [default], iteration 88 completed (2121.178 ms) ======
+====== future-genetic (functional) [default], iteration 89 started ======
+====== future-genetic (functional) [default], iteration 89 completed (2139.152 ms) ======
+====== future-genetic (functional) [default], iteration 90 started ======
+====== future-genetic (functional) [default], iteration 90 completed (2162.765 ms) ======
+====== future-genetic (functional) [default], iteration 91 started ======
+====== future-genetic (functional) [default], iteration 91 completed (2135.318 ms) ======
+====== future-genetic (functional) [default], iteration 92 started ======
+====== future-genetic (functional) [default], iteration 92 completed (2102.722 ms) ======
+====== future-genetic (functional) [default], iteration 93 started ======
+====== future-genetic (functional) [default], iteration 93 completed (2132.444 ms) ======
+====== future-genetic (functional) [default], iteration 94 started ======
+====== future-genetic (functional) [default], iteration 94 completed (2123.136 ms) ======
+====== future-genetic (functional) [default], iteration 95 started ======
+====== future-genetic (functional) [default], iteration 95 completed (2103.162 ms) ======
+====== future-genetic (functional) [default], iteration 96 started ======
+====== future-genetic (functional) [default], iteration 96 completed (2158.497 ms) ======
+====== future-genetic (functional) [default], iteration 97 started ======
+====== future-genetic (functional) [default], iteration 97 completed (2105.837 ms) ======
+====== future-genetic (functional) [default], iteration 98 started ======
+====== future-genetic (functional) [default], iteration 98 completed (2123.199 ms) ======
+====== future-genetic (functional) [default], iteration 99 started ======
+====== future-genetic (functional) [default], iteration 99 completed (2118.323 ms) ======
+====== future-genetic (functional) [default], iteration 100 started ======
+====== future-genetic (functional) [default], iteration 100 completed (2107.146 ms) ======
+====== future-genetic (functional) [default], iteration 101 started ======
+====== future-genetic (functional) [default], iteration 101 completed (2133.408 ms) ======
+====== future-genetic (functional) [default], iteration 102 started ======
+====== future-genetic (functional) [default], iteration 102 completed (2013.203 ms) ======
+====== future-genetic (functional) [default], iteration 103 started ======
+====== future-genetic (functional) [default], iteration 103 completed (1899.601 ms) ======
+====== future-genetic (functional) [default], iteration 104 started ======
+====== future-genetic (functional) [default], iteration 104 completed (1915.876 ms) ======
+====== future-genetic (functional) [default], iteration 105 started ======
+====== future-genetic (functional) [default], iteration 105 completed (1959.057 ms) ======
+====== future-genetic (functional) [default], iteration 106 started ======
+====== future-genetic (functional) [default], iteration 106 completed (1873.153 ms) ======
+====== future-genetic (functional) [default], iteration 107 started ======
+====== future-genetic (functional) [default], iteration 107 completed (1879.755 ms) ======
+====== future-genetic (functional) [default], iteration 108 started ======
+====== future-genetic (functional) [default], iteration 108 completed (1913.054 ms) ======
+====== future-genetic (functional) [default], iteration 109 started ======
+====== future-genetic (functional) [default], iteration 109 completed (1982.385 ms) ======
+====== future-genetic (functional) [default], iteration 110 started ======
+====== future-genetic (functional) [default], iteration 110 completed (2006.532 ms) ======
+====== future-genetic (functional) [default], iteration 111 started ======
+====== future-genetic (functional) [default], iteration 111 completed (2090.041 ms) ======
+====== future-genetic (functional) [default], iteration 112 started ======
+====== future-genetic (functional) [default], iteration 112 completed (2117.567 ms) ======
+====== future-genetic (functional) [default], iteration 113 started ======
+====== future-genetic (functional) [default], iteration 113 completed (2105.385 ms) ======
+====== future-genetic (functional) [default], iteration 114 started ======
+====== future-genetic (functional) [default], iteration 114 completed (2047.092 ms) ======
+====== future-genetic (functional) [default], iteration 115 started ======
+====== future-genetic (functional) [default], iteration 115 completed (2151.647 ms) ======
+====== future-genetic (functional) [default], iteration 116 started ======
+====== future-genetic (functional) [default], iteration 116 completed (2103.133 ms) ======
+====== future-genetic (functional) [default], iteration 117 started ======
+====== future-genetic (functional) [default], iteration 117 completed (2084.720 ms) ======
+====== future-genetic (functional) [default], iteration 118 started ======
+====== future-genetic (functional) [default], iteration 118 completed (2091.429 ms) ======
+====== future-genetic (functional) [default], iteration 119 started ======
+====== future-genetic (functional) [default], iteration 119 completed (2118.763 ms) ======
+====== future-genetic (functional) [default], iteration 120 started ======
+====== future-genetic (functional) [default], iteration 120 completed (2045.404 ms) ======
+====== future-genetic (functional) [default], iteration 121 started ======
+====== future-genetic (functional) [default], iteration 121 completed (2134.472 ms) ======
+====== future-genetic (functional) [default], iteration 122 started ======
+====== future-genetic (functional) [default], iteration 122 completed (2115.857 ms) ======
+====== future-genetic (functional) [default], iteration 123 started ======
+====== future-genetic (functional) [default], iteration 123 completed (2114.040 ms) ======
+====== future-genetic (functional) [default], iteration 124 started ======
+====== future-genetic (functional) [default], iteration 124 completed (2106.465 ms) ======
+====== future-genetic (functional) [default], iteration 125 started ======
+====== future-genetic (functional) [default], iteration 125 completed (2136.734 ms) ======
+====== future-genetic (functional) [default], iteration 126 started ======
+====== future-genetic (functional) [default], iteration 126 completed (2132.846 ms) ======
+====== future-genetic (functional) [default], iteration 127 started ======
+====== future-genetic (functional) [default], iteration 127 completed (2127.264 ms) ======
+====== future-genetic (functional) [default], iteration 128 started ======
+====== future-genetic (functional) [default], iteration 128 completed (2117.784 ms) ======
+====== future-genetic (functional) [default], iteration 129 started ======
+====== future-genetic (functional) [default], iteration 129 completed (2081.258 ms) ======
+====== future-genetic (functional) [default], iteration 130 started ======
+====== future-genetic (functional) [default], iteration 130 completed (2104.189 ms) ======
+====== future-genetic (functional) [default], iteration 131 started ======
+====== future-genetic (functional) [default], iteration 131 completed (2111.416 ms) ======
+====== future-genetic (functional) [default], iteration 132 started ======
+====== future-genetic (functional) [default], iteration 132 completed (2110.540 ms) ======
+====== future-genetic (functional) [default], iteration 133 started ======
+====== future-genetic (functional) [default], iteration 133 completed (2104.433 ms) ======
+====== future-genetic (functional) [default], iteration 134 started ======
+====== future-genetic (functional) [default], iteration 134 completed (2152.439 ms) ======
+====== future-genetic (functional) [default], iteration 135 started ======
+====== future-genetic (functional) [default], iteration 135 completed (2085.954 ms) ======
+====== future-genetic (functional) [default], iteration 136 started ======
+====== future-genetic (functional) [default], iteration 136 completed (2114.419 ms) ======
+====== future-genetic (functional) [default], iteration 137 started ======
+====== future-genetic (functional) [default], iteration 137 completed (2074.957 ms) ======
+====== future-genetic (functional) [default], iteration 138 started ======
+====== future-genetic (functional) [default], iteration 138 completed (2106.011 ms) ======
+====== future-genetic (functional) [default], iteration 139 started ======
+====== future-genetic (functional) [default], iteration 139 completed (2109.441 ms) ======
+====== future-genetic (functional) [default], iteration 140 started ======
+====== future-genetic (functional) [default], iteration 140 completed (2084.274 ms) ======
+====== future-genetic (functional) [default], iteration 141 started ======
+====== future-genetic (functional) [default], iteration 141 completed (2137.443 ms) ======
+====== future-genetic (functional) [default], iteration 142 started ======
+====== future-genetic (functional) [default], iteration 142 completed (2087.641 ms) ======
+====== future-genetic (functional) [default], iteration 143 started ======
+====== future-genetic (functional) [default], iteration 143 completed (2079.472 ms) ======
+====== future-genetic (functional) [default], iteration 144 started ======
+====== future-genetic (functional) [default], iteration 144 completed (2081.332 ms) ======
+====== future-genetic (functional) [default], iteration 145 started ======
+====== future-genetic (functional) [default], iteration 145 completed (2123.983 ms) ======
+====== future-genetic (functional) [default], iteration 146 started ======
+====== future-genetic (functional) [default], iteration 146 completed (2093.627 ms) ======
+====== future-genetic (functional) [default], iteration 147 started ======
+====== future-genetic (functional) [default], iteration 147 completed (2143.604 ms) ======
+====== future-genetic (functional) [default], iteration 148 started ======
+====== future-genetic (functional) [default], iteration 148 completed (2129.485 ms) ======
+====== future-genetic (functional) [default], iteration 149 started ======
+====== future-genetic (functional) [default], iteration 149 completed (1929.354 ms) ======
+====== future-genetic (functional) [default], iteration 150 started ======
+====== future-genetic (functional) [default], iteration 150 completed (1827.453 ms) ======
+====== future-genetic (functional) [default], iteration 151 started ======
+====== future-genetic (functional) [default], iteration 151 completed (1869.044 ms) ======
+====== future-genetic (functional) [default], iteration 152 started ======
+====== future-genetic (functional) [default], iteration 152 completed (1883.435 ms) ======
+====== future-genetic (functional) [default], iteration 153 started ======
+====== future-genetic (functional) [default], iteration 153 completed (1921.251 ms) ======
+====== future-genetic (functional) [default], iteration 154 started ======
+====== future-genetic (functional) [default], iteration 154 completed (1918.337 ms) ======
+====== future-genetic (functional) [default], iteration 155 started ======
+====== future-genetic (functional) [default], iteration 155 completed (1925.662 ms) ======
+====== future-genetic (functional) [default], iteration 156 started ======
+====== future-genetic (functional) [default], iteration 156 completed (2037.297 ms) ======
+====== future-genetic (functional) [default], iteration 157 started ======
+====== future-genetic (functional) [default], iteration 157 completed (2133.397 ms) ======
+====== future-genetic (functional) [default], iteration 158 started ======
+====== future-genetic (functional) [default], iteration 158 completed (2116.739 ms) ======
+====== future-genetic (functional) [default], iteration 159 started ======
+====== future-genetic (functional) [default], iteration 159 completed (2113.492 ms) ======
+====== future-genetic (functional) [default], iteration 160 started ======
+====== future-genetic (functional) [default], iteration 160 completed (2169.555 ms) ======
+====== future-genetic (functional) [default], iteration 161 started ======
+====== future-genetic (functional) [default], iteration 161 completed (2108.752 ms) ======
+====== future-genetic (functional) [default], iteration 162 started ======
+====== future-genetic (functional) [default], iteration 162 completed (2137.449 ms) ======
+====== future-genetic (functional) [default], iteration 163 started ======
+====== future-genetic (functional) [default], iteration 163 completed (2099.706 ms) ======
+====== future-genetic (functional) [default], iteration 164 started ======
+====== future-genetic (functional) [default], iteration 164 completed (2093.132 ms) ======
+====== future-genetic (functional) [default], iteration 165 started ======
+====== future-genetic (functional) [default], iteration 165 completed (2122.338 ms) ======
+====== future-genetic (functional) [default], iteration 166 started ======
+====== future-genetic (functional) [default], iteration 166 completed (2138.456 ms) ======
+====== future-genetic (functional) [default], iteration 167 started ======
+====== future-genetic (functional) [default], iteration 167 completed (2131.277 ms) ======
+====== future-genetic (functional) [default], iteration 168 started ======
+====== future-genetic (functional) [default], iteration 168 completed (2098.132 ms) ======
+====== future-genetic (functional) [default], iteration 169 started ======
+====== future-genetic (functional) [default], iteration 169 completed (2120.491 ms) ======
+====== future-genetic (functional) [default], iteration 170 started ======
+====== future-genetic (functional) [default], iteration 170 completed (2141.112 ms) ======
+====== future-genetic (functional) [default], iteration 171 started ======
+====== future-genetic (functional) [default], iteration 171 completed (2128.570 ms) ======
+====== future-genetic (functional) [default], iteration 172 started ======
+====== future-genetic (functional) [default], iteration 172 completed (2114.413 ms) ======
+====== future-genetic (functional) [default], iteration 173 started ======
+====== future-genetic (functional) [default], iteration 173 completed (2121.507 ms) ======
+====== future-genetic (functional) [default], iteration 174 started ======
+====== future-genetic (functional) [default], iteration 174 completed (2099.368 ms) ======
+====== future-genetic (functional) [default], iteration 175 started ======
+====== future-genetic (functional) [default], iteration 175 completed (2095.050 ms) ======
+====== future-genetic (functional) [default], iteration 176 started ======
+====== future-genetic (functional) [default], iteration 176 completed (2139.181 ms) ======
+====== future-genetic (functional) [default], iteration 177 started ======
+====== future-genetic (functional) [default], iteration 177 completed (2089.194 ms) ======
+====== future-genetic (functional) [default], iteration 178 started ======
+====== future-genetic (functional) [default], iteration 178 completed (2104.632 ms) ======
+====== future-genetic (functional) [default], iteration 179 started ======
+====== future-genetic (functional) [default], iteration 179 completed (2148.891 ms) ======
+====== future-genetic (functional) [default], iteration 180 started ======
+====== future-genetic (functional) [default], iteration 180 completed (2093.707 ms) ======
+====== future-genetic (functional) [default], iteration 181 started ======
+====== future-genetic (functional) [default], iteration 181 completed (2132.292 ms) ======
+====== future-genetic (functional) [default], iteration 182 started ======
+====== future-genetic (functional) [default], iteration 182 completed (2126.412 ms) ======
+====== future-genetic (functional) [default], iteration 183 started ======
+====== future-genetic (functional) [default], iteration 183 completed (2125.723 ms) ======
+====== future-genetic (functional) [default], iteration 184 started ======
+====== future-genetic (functional) [default], iteration 184 completed (2075.153 ms) ======
+====== future-genetic (functional) [default], iteration 185 started ======
+====== future-genetic (functional) [default], iteration 185 completed (2148.156 ms) ======
+====== future-genetic (functional) [default], iteration 186 started ======
+====== future-genetic (functional) [default], iteration 186 completed (2107.689 ms) ======
+====== future-genetic (functional) [default], iteration 187 started ======
+====== future-genetic (functional) [default], iteration 187 completed (2129.138 ms) ======
+====== future-genetic (functional) [default], iteration 188 started ======
+====== future-genetic (functional) [default], iteration 188 completed (2086.943 ms) ======
+====== future-genetic (functional) [default], iteration 189 started ======
+====== future-genetic (functional) [default], iteration 189 completed (2168.664 ms) ======
+====== future-genetic (functional) [default], iteration 190 started ======
+====== future-genetic (functional) [default], iteration 190 completed (2095.703 ms) ======
+====== future-genetic (functional) [default], iteration 191 started ======
+====== future-genetic (functional) [default], iteration 191 completed (2145.145 ms) ======
+====== future-genetic (functional) [default], iteration 192 started ======
+====== future-genetic (functional) [default], iteration 192 completed (2087.730 ms) ======
+====== future-genetic (functional) [default], iteration 193 started ======
+====== future-genetic (functional) [default], iteration 193 completed (2118.619 ms) ======
+====== future-genetic (functional) [default], iteration 194 started ======
+====== future-genetic (functional) [default], iteration 194 completed (2114.730 ms) ======
+====== future-genetic (functional) [default], iteration 195 started ======
+====== future-genetic (functional) [default], iteration 195 completed (2087.632 ms) ======
+====== future-genetic (functional) [default], iteration 196 started ======
+====== future-genetic (functional) [default], iteration 196 completed (2125.557 ms) ======
+====== future-genetic (functional) [default], iteration 197 started ======
+====== future-genetic (functional) [default], iteration 197 completed (2106.749 ms) ======
+====== future-genetic (functional) [default], iteration 198 started ======
+====== future-genetic (functional) [default], iteration 198 completed (2164.855 ms) ======
+====== future-genetic (functional) [default], iteration 199 started ======
+====== future-genetic (functional) [default], iteration 199 completed (2119.616 ms) ======
+====== future-genetic (functional) [default], iteration 200 started ======
+====== future-genetic (functional) [default], iteration 200 completed (2085.849 ms) ======
+====== future-genetic (functional) [default], iteration 201 started ======
+====== future-genetic (functional) [default], iteration 201 completed (2078.784 ms) ======
+====== future-genetic (functional) [default], iteration 202 started ======
+====== future-genetic (functional) [default], iteration 202 completed (1934.250 ms) ======
+====== future-genetic (functional) [default], iteration 203 started ======
+====== future-genetic (functional) [default], iteration 203 completed (1916.603 ms) ======
+====== future-genetic (functional) [default], iteration 204 started ======
+====== future-genetic (functional) [default], iteration 204 completed (1946.415 ms) ======
+====== future-genetic (functional) [default], iteration 205 started ======
+====== future-genetic (functional) [default], iteration 205 completed (1890.446 ms) ======
+====== future-genetic (functional) [default], iteration 206 started ======
+====== future-genetic (functional) [default], iteration 206 completed (1898.492 ms) ======
+====== future-genetic (functional) [default], iteration 207 started ======
+====== future-genetic (functional) [default], iteration 207 completed (1906.557 ms) ======
+====== future-genetic (functional) [default], iteration 208 started ======
+====== future-genetic (functional) [default], iteration 208 completed (1897.992 ms) ======
+====== future-genetic (functional) [default], iteration 209 started ======
+====== future-genetic (functional) [default], iteration 209 completed (1895.476 ms) ======
+====== future-genetic (functional) [default], iteration 210 started ======
+====== future-genetic (functional) [default], iteration 210 completed (1929.078 ms) ======
+====== future-genetic (functional) [default], iteration 211 started ======
+====== future-genetic (functional) [default], iteration 211 completed (1935.798 ms) ======
+====== future-genetic (functional) [default], iteration 212 started ======
+====== future-genetic (functional) [default], iteration 212 completed (1896.262 ms) ======
+====== future-genetic (functional) [default], iteration 213 started ======
+====== future-genetic (functional) [default], iteration 213 completed (1876.361 ms) ======
+====== future-genetic (functional) [default], iteration 214 started ======
+====== future-genetic (functional) [default], iteration 214 completed (1889.031 ms) ======
+====== future-genetic (functional) [default], iteration 215 started ======
+====== future-genetic (functional) [default], iteration 215 completed (1908.764 ms) ======
+====== future-genetic (functional) [default], iteration 216 started ======
+====== future-genetic (functional) [default], iteration 216 completed (1960.524 ms) ======
+====== future-genetic (functional) [default], iteration 217 started ======
+====== future-genetic (functional) [default], iteration 217 completed (1926.814 ms) ======
+====== future-genetic (functional) [default], iteration 218 started ======
+====== future-genetic (functional) [default], iteration 218 completed (1904.547 ms) ======
+====== future-genetic (functional) [default], iteration 219 started ======
+====== future-genetic (functional) [default], iteration 219 completed (2091.848 ms) ======
+====== future-genetic (functional) [default], iteration 220 started ======
+====== future-genetic (functional) [default], iteration 220 completed (2106.642 ms) ======
+====== future-genetic (functional) [default], iteration 221 started ======
+====== future-genetic (functional) [default], iteration 221 completed (2126.894 ms) ======
+====== future-genetic (functional) [default], iteration 222 started ======
+====== future-genetic (functional) [default], iteration 222 completed (2111.241 ms) ======
+====== future-genetic (functional) [default], iteration 223 started ======
+====== future-genetic (functional) [default], iteration 223 completed (2155.904 ms) ======
+====== future-genetic (functional) [default], iteration 224 started ======
+====== future-genetic (functional) [default], iteration 224 completed (2119.594 ms) ======
+====== future-genetic (functional) [default], iteration 225 started ======
+====== future-genetic (functional) [default], iteration 225 completed (2111.974 ms) ======
+====== future-genetic (functional) [default], iteration 226 started ======
+====== future-genetic (functional) [default], iteration 226 completed (1978.859 ms) ======
+====== future-genetic (functional) [default], iteration 227 started ======
+====== future-genetic (functional) [default], iteration 227 completed (1963.666 ms) ======
+====== future-genetic (functional) [default], iteration 228 started ======
+====== future-genetic (functional) [default], iteration 228 completed (1877.849 ms) ======
+====== future-genetic (functional) [default], iteration 229 started ======
+====== future-genetic (functional) [default], iteration 229 completed (1938.823 ms) ======
+====== future-genetic (functional) [default], iteration 230 started ======
+====== future-genetic (functional) [default], iteration 230 completed (1941.559 ms) ======
+====== future-genetic (functional) [default], iteration 231 started ======
+====== future-genetic (functional) [default], iteration 231 completed (1858.302 ms) ======
+====== future-genetic (functional) [default], iteration 232 started ======
+====== future-genetic (functional) [default], iteration 232 completed (1842.864 ms) ======
+====== future-genetic (functional) [default], iteration 233 started ======
+====== future-genetic (functional) [default], iteration 233 completed (1877.681 ms) ======
+====== future-genetic (functional) [default], iteration 234 started ======
+====== future-genetic (functional) [default], iteration 234 completed (1965.545 ms) ======
+====== future-genetic (functional) [default], iteration 235 started ======
+====== future-genetic (functional) [default], iteration 235 completed (2093.960 ms) ======
+====== future-genetic (functional) [default], iteration 236 started ======
+====== future-genetic (functional) [default], iteration 236 completed (2169.214 ms) ======
+====== future-genetic (functional) [default], iteration 237 started ======
+====== future-genetic (functional) [default], iteration 237 completed (2142.771 ms) ======
+====== future-genetic (functional) [default], iteration 238 started ======
+====== future-genetic (functional) [default], iteration 238 completed (2129.976 ms) ======
+====== future-genetic (functional) [default], iteration 239 started ======
+====== future-genetic (functional) [default], iteration 239 completed (2073.231 ms) ======
+====== future-genetic (functional) [default], iteration 240 started ======
+====== future-genetic (functional) [default], iteration 240 completed (2109.401 ms) ======
+====== future-genetic (functional) [default], iteration 241 started ======
+====== future-genetic (functional) [default], iteration 241 completed (2096.536 ms) ======
+====== future-genetic (functional) [default], iteration 242 started ======
+====== future-genetic (functional) [default], iteration 242 completed (2151.275 ms) ======
+====== future-genetic (functional) [default], iteration 243 started ======
+====== future-genetic (functional) [default], iteration 243 completed (2138.098 ms) ======
+====== future-genetic (functional) [default], iteration 244 started ======
+====== future-genetic (functional) [default], iteration 244 completed (2065.823 ms) ======
+====== future-genetic (functional) [default], iteration 245 started ======
+====== future-genetic (functional) [default], iteration 245 completed (2112.368 ms) ======
+====== future-genetic (functional) [default], iteration 246 started ======
+====== future-genetic (functional) [default], iteration 246 completed (2102.701 ms) ======
+====== future-genetic (functional) [default], iteration 247 started ======
+====== future-genetic (functional) [default], iteration 247 completed (2102.056 ms) ======
+====== future-genetic (functional) [default], iteration 248 started ======
+====== future-genetic (functional) [default], iteration 248 completed (2139.088 ms) ======
+====== future-genetic (functional) [default], iteration 249 started ======
+====== future-genetic (functional) [default], iteration 249 completed (2121.822 ms) ======
+====== future-genetic (functional) [default], iteration 250 started ======
+====== future-genetic (functional) [default], iteration 250 completed (2134.125 ms) ======
+====== future-genetic (functional) [default], iteration 251 started ======
+====== future-genetic (functional) [default], iteration 251 completed (2093.136 ms) ======
+====== future-genetic (functional) [default], iteration 252 started ======
+====== future-genetic (functional) [default], iteration 252 completed (2116.668 ms) ======
+====== future-genetic (functional) [default], iteration 253 started ======
+====== future-genetic (functional) [default], iteration 253 completed (2127.590 ms) ======
+====== future-genetic (functional) [default], iteration 254 started ======
+====== future-genetic (functional) [default], iteration 254 completed (2111.532 ms) ======
+====== future-genetic (functional) [default], iteration 255 started ======
+====== future-genetic (functional) [default], iteration 255 completed (2166.001 ms) ======
+====== future-genetic (functional) [default], iteration 256 started ======
+====== future-genetic (functional) [default], iteration 256 completed (2127.894 ms) ======
+====== future-genetic (functional) [default], iteration 257 started ======
+====== future-genetic (functional) [default], iteration 257 completed (2083.912 ms) ======
+====== future-genetic (functional) [default], iteration 258 started ======
+====== future-genetic (functional) [default], iteration 258 completed (1823.355 ms) ======
+====== future-genetic (functional) [default], iteration 259 started ======
+====== future-genetic (functional) [default], iteration 259 completed (1876.168 ms) ======
+====== future-genetic (functional) [default], iteration 260 started ======
+====== future-genetic (functional) [default], iteration 260 completed (1903.901 ms) ======
+====== future-genetic (functional) [default], iteration 261 started ======
+====== future-genetic (functional) [default], iteration 261 completed (1991.132 ms) ======
+====== future-genetic (functional) [default], iteration 262 started ======
+====== future-genetic (functional) [default], iteration 262 completed (1923.083 ms) ======
+====== future-genetic (functional) [default], iteration 263 started ======
+====== future-genetic (functional) [default], iteration 263 completed (1911.037 ms) ======
+====== future-genetic (functional) [default], iteration 264 started ======
+====== future-genetic (functional) [default], iteration 264 completed (1904.640 ms) ======
+====== future-genetic (functional) [default], iteration 265 started ======
+====== future-genetic (functional) [default], iteration 265 completed (1950.380 ms) ======
+====== future-genetic (functional) [default], iteration 266 started ======
+====== future-genetic (functional) [default], iteration 266 completed (2126.048 ms) ======
+====== future-genetic (functional) [default], iteration 267 started ======
+====== future-genetic (functional) [default], iteration 267 completed (2137.349 ms) ======
+====== future-genetic (functional) [default], iteration 268 started ======
+====== future-genetic (functional) [default], iteration 268 completed (2101.594 ms) ======
+====== future-genetic (functional) [default], iteration 269 started ======
+====== future-genetic (functional) [default], iteration 269 completed (2104.279 ms) ======
+====== future-genetic (functional) [default], iteration 270 started ======
+====== future-genetic (functional) [default], iteration 270 completed (2108.080 ms) ======
+====== future-genetic (functional) [default], iteration 271 started ======
+====== future-genetic (functional) [default], iteration 271 completed (2122.913 ms) ======
+====== future-genetic (functional) [default], iteration 272 started ======
+====== future-genetic (functional) [default], iteration 272 completed (2109.545 ms) ======
+====== future-genetic (functional) [default], iteration 273 started ======
+====== future-genetic (functional) [default], iteration 273 completed (2134.957 ms) ======
+====== future-genetic (functional) [default], iteration 274 started ======
+====== future-genetic (functional) [default], iteration 274 completed (2159.697 ms) ======
+====== future-genetic (functional) [default], iteration 275 started ======
+====== future-genetic (functional) [default], iteration 275 completed (2134.652 ms) ======
+====== future-genetic (functional) [default], iteration 276 started ======
+====== future-genetic (functional) [default], iteration 276 completed (2103.160 ms) ======
+====== future-genetic (functional) [default], iteration 277 started ======
+====== future-genetic (functional) [default], iteration 277 completed (2123.066 ms) ======
+====== future-genetic (functional) [default], iteration 278 started ======
+====== future-genetic (functional) [default], iteration 278 completed (2094.189 ms) ======
+====== future-genetic (functional) [default], iteration 279 started ======
+====== future-genetic (functional) [default], iteration 279 completed (2106.511 ms) ======
+====== future-genetic (functional) [default], iteration 280 started ======
+====== future-genetic (functional) [default], iteration 280 completed (2190.784 ms) ======
+====== future-genetic (functional) [default], iteration 281 started ======
+====== future-genetic (functional) [default], iteration 281 completed (2187.792 ms) ======
+====== future-genetic (functional) [default], iteration 282 started ======
+====== future-genetic (functional) [default], iteration 282 completed (2323.753 ms) ======
+====== future-genetic (functional) [default], iteration 283 started ======
+====== future-genetic (functional) [default], iteration 283 completed (2322.996 ms) ======
+====== future-genetic (functional) [default], iteration 284 started ======
+====== future-genetic (functional) [default], iteration 284 completed (2352.506 ms) ======
+====== future-genetic (functional) [default], iteration 285 started ======
+====== future-genetic (functional) [default], iteration 285 completed (2323.231 ms) ======
+====== future-genetic (functional) [default], iteration 286 started ======
+====== future-genetic (functional) [default], iteration 286 completed (2414.940 ms) ======
+====== future-genetic (functional) [default], iteration 287 started ======
+====== future-genetic (functional) [default], iteration 287 completed (2375.352 ms) ======
+====== future-genetic (functional) [default], iteration 288 started ======
+====== future-genetic (functional) [default], iteration 288 completed (2433.924 ms) ======
+====== future-genetic (functional) [default], iteration 289 started ======
+====== future-genetic (functional) [default], iteration 289 completed (2422.346 ms) ======
+====== future-genetic (functional) [default], iteration 290 started ======
+====== future-genetic (functional) [default], iteration 290 completed (2041.536 ms) ======
+OK: benchmark finished successfully
+CSV : G1GC-java25-2026-04-24/future-genetic/future-genetic.csv
+JSON: G1GC-java25-2026-04-24/future-genetic/future-genetic.json
+GC  : G1GC-java25-2026-04-24/future-genetic/future-genetic.gc.log

@@ -1,0 +1,189 @@
+>>> Starting benchmark: page-rank
+>>> GC: G1GC
+>>> Duration: 600s
+>>> Base dir: G1GC-java21-2026-04-25
+>>> Output dir: G1GC-java21-2026-04-25/page-rank
+[jmx-memory plugin] WARNING: Unknown garbage collector G1 Concurrent GC.
+NOTE: 'page-rank' benchmark uses Spark local executor with 8 (out of 8) threads.
+====== page-rank (apache-spark) [default], iteration 0 started ======
+====== page-rank (apache-spark) [default], iteration 0 completed (11183.409 ms) ======
+====== page-rank (apache-spark) [default], iteration 1 started ======
+====== page-rank (apache-spark) [default], iteration 1 completed (6471.131 ms) ======
+====== page-rank (apache-spark) [default], iteration 2 started ======
+====== page-rank (apache-spark) [default], iteration 2 completed (4612.076 ms) ======
+====== page-rank (apache-spark) [default], iteration 3 started ======
+====== page-rank (apache-spark) [default], iteration 3 completed (4290.875 ms) ======
+====== page-rank (apache-spark) [default], iteration 4 started ======
+====== page-rank (apache-spark) [default], iteration 4 completed (4423.235 ms) ======
+====== page-rank (apache-spark) [default], iteration 5 started ======
+====== page-rank (apache-spark) [default], iteration 5 completed (4284.180 ms) ======
+====== page-rank (apache-spark) [default], iteration 6 started ======
+====== page-rank (apache-spark) [default], iteration 6 completed (4406.053 ms) ======
+====== page-rank (apache-spark) [default], iteration 7 started ======
+====== page-rank (apache-spark) [default], iteration 7 completed (4440.015 ms) ======
+====== page-rank (apache-spark) [default], iteration 8 started ======
+====== page-rank (apache-spark) [default], iteration 8 completed (4558.337 ms) ======
+====== page-rank (apache-spark) [default], iteration 9 started ======
+====== page-rank (apache-spark) [default], iteration 9 completed (4564.666 ms) ======
+====== page-rank (apache-spark) [default], iteration 10 started ======
+====== page-rank (apache-spark) [default], iteration 10 completed (4230.160 ms) ======
+====== page-rank (apache-spark) [default], iteration 11 started ======
+====== page-rank (apache-spark) [default], iteration 11 completed (4390.963 ms) ======
+====== page-rank (apache-spark) [default], iteration 12 started ======
+====== page-rank (apache-spark) [default], iteration 12 completed (4379.893 ms) ======
+====== page-rank (apache-spark) [default], iteration 13 started ======
+====== page-rank (apache-spark) [default], iteration 13 completed (4294.202 ms) ======
+====== page-rank (apache-spark) [default], iteration 14 started ======
+====== page-rank (apache-spark) [default], iteration 14 completed (4528.907 ms) ======
+====== page-rank (apache-spark) [default], iteration 15 started ======
+====== page-rank (apache-spark) [default], iteration 15 completed (4467.352 ms) ======
+====== page-rank (apache-spark) [default], iteration 16 started ======
+====== page-rank (apache-spark) [default], iteration 16 completed (4521.617 ms) ======
+====== page-rank (apache-spark) [default], iteration 17 started ======
+====== page-rank (apache-spark) [default], iteration 17 completed (4378.500 ms) ======
+====== page-rank (apache-spark) [default], iteration 18 started ======
+====== page-rank (apache-spark) [default], iteration 18 completed (4758.333 ms) ======
+====== page-rank (apache-spark) [default], iteration 19 started ======
+====== page-rank (apache-spark) [default], iteration 19 completed (4196.683 ms) ======
+====== page-rank (apache-spark) [default], iteration 20 started ======
+====== page-rank (apache-spark) [default], iteration 20 completed (4300.908 ms) ======
+====== page-rank (apache-spark) [default], iteration 21 started ======
+====== page-rank (apache-spark) [default], iteration 21 completed (4541.704 ms) ======
+====== page-rank (apache-spark) [default], iteration 22 started ======
+====== page-rank (apache-spark) [default], iteration 22 completed (4654.763 ms) ======
+====== page-rank (apache-spark) [default], iteration 23 started ======
+====== page-rank (apache-spark) [default], iteration 23 completed (4228.520 ms) ======
+====== page-rank (apache-spark) [default], iteration 24 started ======
+====== page-rank (apache-spark) [default], iteration 24 completed (4465.415 ms) ======
+====== page-rank (apache-spark) [default], iteration 25 started ======
+====== page-rank (apache-spark) [default], iteration 25 completed (4294.270 ms) ======
+====== page-rank (apache-spark) [default], iteration 26 started ======
+====== page-rank (apache-spark) [default], iteration 26 completed (4471.194 ms) ======
+====== page-rank (apache-spark) [default], iteration 27 started ======
+====== page-rank (apache-spark) [default], iteration 27 completed (4536.898 ms) ======
+====== page-rank (apache-spark) [default], iteration 28 started ======
+====== page-rank (apache-spark) [default], iteration 28 completed (4334.600 ms) ======
+====== page-rank (apache-spark) [default], iteration 29 started ======
+====== page-rank (apache-spark) [default], iteration 29 completed (4530.144 ms) ======
+====== page-rank (apache-spark) [default], iteration 30 started ======
+====== page-rank (apache-spark) [default], iteration 30 completed (4225.065 ms) ======
+====== page-rank (apache-spark) [default], iteration 31 started ======
+====== page-rank (apache-spark) [default], iteration 31 completed (4346.905 ms) ======
+====== page-rank (apache-spark) [default], iteration 32 started ======
+====== page-rank (apache-spark) [default], iteration 32 completed (4612.204 ms) ======
+====== page-rank (apache-spark) [default], iteration 33 started ======
+====== page-rank (apache-spark) [default], iteration 33 completed (4373.085 ms) ======
+====== page-rank (apache-spark) [default], iteration 34 started ======
+====== page-rank (apache-spark) [default], iteration 34 completed (4571.246 ms) ======
+====== page-rank (apache-spark) [default], iteration 35 started ======
+====== page-rank (apache-spark) [default], iteration 35 completed (4684.298 ms) ======
+====== page-rank (apache-spark) [default], iteration 36 started ======
+====== page-rank (apache-spark) [default], iteration 36 completed (4352.309 ms) ======
+====== page-rank (apache-spark) [default], iteration 37 started ======
+====== page-rank (apache-spark) [default], iteration 37 completed (4555.126 ms) ======
+====== page-rank (apache-spark) [default], iteration 38 started ======
+====== page-rank (apache-spark) [default], iteration 38 completed (4518.395 ms) ======
+====== page-rank (apache-spark) [default], iteration 39 started ======
+====== page-rank (apache-spark) [default], iteration 39 completed (4802.244 ms) ======
+====== page-rank (apache-spark) [default], iteration 40 started ======
+====== page-rank (apache-spark) [default], iteration 40 completed (4252.170 ms) ======
+====== page-rank (apache-spark) [default], iteration 41 started ======
+====== page-rank (apache-spark) [default], iteration 41 completed (4353.394 ms) ======
+====== page-rank (apache-spark) [default], iteration 42 started ======
+====== page-rank (apache-spark) [default], iteration 42 completed (4517.763 ms) ======
+====== page-rank (apache-spark) [default], iteration 43 started ======
+====== page-rank (apache-spark) [default], iteration 43 completed (4356.943 ms) ======
+====== page-rank (apache-spark) [default], iteration 44 started ======
+====== page-rank (apache-spark) [default], iteration 44 completed (4424.790 ms) ======
+====== page-rank (apache-spark) [default], iteration 45 started ======
+====== page-rank (apache-spark) [default], iteration 45 completed (4536.920 ms) ======
+====== page-rank (apache-spark) [default], iteration 46 started ======
+====== page-rank (apache-spark) [default], iteration 46 completed (4473.124 ms) ======
+====== page-rank (apache-spark) [default], iteration 47 started ======
+====== page-rank (apache-spark) [default], iteration 47 completed (4762.921 ms) ======
+====== page-rank (apache-spark) [default], iteration 48 started ======
+====== page-rank (apache-spark) [default], iteration 48 completed (4436.720 ms) ======
+====== page-rank (apache-spark) [default], iteration 49 started ======
+====== page-rank (apache-spark) [default], iteration 49 completed (4245.471 ms) ======
+====== page-rank (apache-spark) [default], iteration 50 started ======
+====== page-rank (apache-spark) [default], iteration 50 completed (4313.683 ms) ======
+====== page-rank (apache-spark) [default], iteration 51 started ======
+====== page-rank (apache-spark) [default], iteration 51 completed (4505.031 ms) ======
+====== page-rank (apache-spark) [default], iteration 52 started ======
+====== page-rank (apache-spark) [default], iteration 52 completed (4487.611 ms) ======
+====== page-rank (apache-spark) [default], iteration 53 started ======
+====== page-rank (apache-spark) [default], iteration 53 completed (4458.126 ms) ======
+====== page-rank (apache-spark) [default], iteration 54 started ======
+====== page-rank (apache-spark) [default], iteration 54 completed (4578.133 ms) ======
+====== page-rank (apache-spark) [default], iteration 55 started ======
+====== page-rank (apache-spark) [default], iteration 55 completed (4519.429 ms) ======
+====== page-rank (apache-spark) [default], iteration 56 started ======
+====== page-rank (apache-spark) [default], iteration 56 completed (4336.932 ms) ======
+====== page-rank (apache-spark) [default], iteration 57 started ======
+====== page-rank (apache-spark) [default], iteration 57 completed (4514.493 ms) ======
+====== page-rank (apache-spark) [default], iteration 58 started ======
+====== page-rank (apache-spark) [default], iteration 58 completed (4458.568 ms) ======
+====== page-rank (apache-spark) [default], iteration 59 started ======
+====== page-rank (apache-spark) [default], iteration 59 completed (4524.191 ms) ======
+====== page-rank (apache-spark) [default], iteration 60 started ======
+====== page-rank (apache-spark) [default], iteration 60 completed (4313.143 ms) ======
+====== page-rank (apache-spark) [default], iteration 61 started ======
+====== page-rank (apache-spark) [default], iteration 61 completed (4548.808 ms) ======
+====== page-rank (apache-spark) [default], iteration 62 started ======
+====== page-rank (apache-spark) [default], iteration 62 completed (4651.444 ms) ======
+====== page-rank (apache-spark) [default], iteration 63 started ======
+====== page-rank (apache-spark) [default], iteration 63 completed (4586.891 ms) ======
+====== page-rank (apache-spark) [default], iteration 64 started ======
+====== page-rank (apache-spark) [default], iteration 64 completed (4509.172 ms) ======
+====== page-rank (apache-spark) [default], iteration 65 started ======
+====== page-rank (apache-spark) [default], iteration 65 completed (4431.145 ms) ======
+====== page-rank (apache-spark) [default], iteration 66 started ======
+====== page-rank (apache-spark) [default], iteration 66 completed (4606.865 ms) ======
+====== page-rank (apache-spark) [default], iteration 67 started ======
+====== page-rank (apache-spark) [default], iteration 67 completed (4308.171 ms) ======
+====== page-rank (apache-spark) [default], iteration 68 started ======
+====== page-rank (apache-spark) [default], iteration 68 completed (4478.546 ms) ======
+====== page-rank (apache-spark) [default], iteration 69 started ======
+====== page-rank (apache-spark) [default], iteration 69 completed (4506.867 ms) ======
+====== page-rank (apache-spark) [default], iteration 70 started ======
+====== page-rank (apache-spark) [default], iteration 70 completed (4285.508 ms) ======
+====== page-rank (apache-spark) [default], iteration 71 started ======
+====== page-rank (apache-spark) [default], iteration 71 completed (4312.090 ms) ======
+====== page-rank (apache-spark) [default], iteration 72 started ======
+====== page-rank (apache-spark) [default], iteration 72 completed (4336.327 ms) ======
+====== page-rank (apache-spark) [default], iteration 73 started ======
+====== page-rank (apache-spark) [default], iteration 73 completed (4470.744 ms) ======
+====== page-rank (apache-spark) [default], iteration 74 started ======
+====== page-rank (apache-spark) [default], iteration 74 completed (4274.744 ms) ======
+====== page-rank (apache-spark) [default], iteration 75 started ======
+====== page-rank (apache-spark) [default], iteration 75 completed (4515.421 ms) ======
+====== page-rank (apache-spark) [default], iteration 76 started ======
+====== page-rank (apache-spark) [default], iteration 76 completed (4666.435 ms) ======
+====== page-rank (apache-spark) [default], iteration 77 started ======
+====== page-rank (apache-spark) [default], iteration 77 completed (4490.670 ms) ======
+====== page-rank (apache-spark) [default], iteration 78 started ======
+====== page-rank (apache-spark) [default], iteration 78 completed (4463.798 ms) ======
+====== page-rank (apache-spark) [default], iteration 79 started ======
+====== page-rank (apache-spark) [default], iteration 79 completed (4459.850 ms) ======
+====== page-rank (apache-spark) [default], iteration 80 started ======
+====== page-rank (apache-spark) [default], iteration 80 completed (4295.133 ms) ======
+====== page-rank (apache-spark) [default], iteration 81 started ======
+====== page-rank (apache-spark) [default], iteration 81 completed (4423.860 ms) ======
+====== page-rank (apache-spark) [default], iteration 82 started ======
+====== page-rank (apache-spark) [default], iteration 82 completed (4148.990 ms) ======
+====== page-rank (apache-spark) [default], iteration 83 started ======
+====== page-rank (apache-spark) [default], iteration 83 completed (4712.330 ms) ======
+====== page-rank (apache-spark) [default], iteration 84 started ======
+====== page-rank (apache-spark) [default], iteration 84 completed (4449.437 ms) ======
+====== page-rank (apache-spark) [default], iteration 85 started ======
+====== page-rank (apache-spark) [default], iteration 85 completed (4591.116 ms) ======
+====== page-rank (apache-spark) [default], iteration 86 started ======
+====== page-rank (apache-spark) [default], iteration 86 completed (4195.631 ms) ======
+====== page-rank (apache-spark) [default], iteration 87 started ======
+====== page-rank (apache-spark) [default], iteration 87 completed (4250.396 ms) ======
+====== page-rank (apache-spark) [default], iteration 88 started ======
+====== page-rank (apache-spark) [default], iteration 88 completed (4363.165 ms) ======
+OK: benchmark finished successfully
+CSV : G1GC-java21-2026-04-25/page-rank/page-rank.csv
+JSON: G1GC-java21-2026-04-25/page-rank/page-rank.json
+GC  : G1GC-java21-2026-04-25/page-rank/page-rank.gc.log

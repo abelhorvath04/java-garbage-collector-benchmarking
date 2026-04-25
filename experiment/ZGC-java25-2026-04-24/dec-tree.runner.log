@@ -1,0 +1,1532 @@
+>>> Starting benchmark: dec-tree
+>>> GC: ZGC
+>>> Duration: 600s
+>>> Base dir: ZGC-java25-2026-04-24
+>>> Output dir: ZGC-java25-2026-04-24/dec-tree
+WARNING: A terminally deprecated method in sun.misc.Unsafe has been called
+WARNING: sun.misc.Unsafe::objectFieldOffset has been called by scala.runtime.LazyVals$ (resource:/shared/scala3-library_3-3.3.4.jar)
+WARNING: Please consider reporting this to the maintainers of class scala.runtime.LazyVals$
+WARNING: sun.misc.Unsafe::objectFieldOffset will be removed in a future release
+[jmx-memory plugin] WARNING: Unknown garbage collector ZGC Minor Cycles.
+[jmx-memory plugin] WARNING: Unknown garbage collector ZGC Minor Pauses.
+[jmx-memory plugin] WARNING: Unknown garbage collector ZGC Major Cycles.
+[jmx-memory plugin] WARNING: Unknown garbage collector ZGC Major Pauses.
+[jmx-memory plugin] WARNING: MXBean for young generation not found, using mock.
+[jmx-memory plugin] WARNING: MXBean for old generation not found, using mock.
+NOTE: 'dec-tree' benchmark uses Spark local executor with 6 (out of 8) threads.
+====== dec-tree (apache-spark) [default], iteration 0 started ======
+====== dec-tree (apache-spark) [default], iteration 0 completed (8124.235 ms) ======
+====== dec-tree (apache-spark) [default], iteration 1 started ======
+====== dec-tree (apache-spark) [default], iteration 1 completed (1654.442 ms) ======
+====== dec-tree (apache-spark) [default], iteration 2 started ======
+====== dec-tree (apache-spark) [default], iteration 2 completed (1643.820 ms) ======
+====== dec-tree (apache-spark) [default], iteration 3 started ======
+====== dec-tree (apache-spark) [default], iteration 3 completed (1185.745 ms) ======
+====== dec-tree (apache-spark) [default], iteration 4 started ======
+====== dec-tree (apache-spark) [default], iteration 4 completed (1126.969 ms) ======
+====== dec-tree (apache-spark) [default], iteration 5 started ======
+====== dec-tree (apache-spark) [default], iteration 5 completed (1433.047 ms) ======
+====== dec-tree (apache-spark) [default], iteration 6 started ======
+====== dec-tree (apache-spark) [default], iteration 6 completed (1118.989 ms) ======
+====== dec-tree (apache-spark) [default], iteration 7 started ======
+====== dec-tree (apache-spark) [default], iteration 7 completed (961.906 ms) ======
+====== dec-tree (apache-spark) [default], iteration 8 started ======
+====== dec-tree (apache-spark) [default], iteration 8 completed (974.007 ms) ======
+====== dec-tree (apache-spark) [default], iteration 9 started ======
+====== dec-tree (apache-spark) [default], iteration 9 completed (1054.373 ms) ======
+====== dec-tree (apache-spark) [default], iteration 10 started ======
+====== dec-tree (apache-spark) [default], iteration 10 completed (1284.435 ms) ======
+====== dec-tree (apache-spark) [default], iteration 11 started ======
+====== dec-tree (apache-spark) [default], iteration 11 completed (1193.108 ms) ======
+====== dec-tree (apache-spark) [default], iteration 12 started ======
+====== dec-tree (apache-spark) [default], iteration 12 completed (1232.586 ms) ======
+====== dec-tree (apache-spark) [default], iteration 13 started ======
+====== dec-tree (apache-spark) [default], iteration 13 completed (1243.659 ms) ======
+====== dec-tree (apache-spark) [default], iteration 14 started ======
+====== dec-tree (apache-spark) [default], iteration 14 completed (888.221 ms) ======
+====== dec-tree (apache-spark) [default], iteration 15 started ======
+====== dec-tree (apache-spark) [default], iteration 15 completed (866.501 ms) ======
+====== dec-tree (apache-spark) [default], iteration 16 started ======
+====== dec-tree (apache-spark) [default], iteration 16 completed (861.132 ms) ======
+====== dec-tree (apache-spark) [default], iteration 17 started ======
+====== dec-tree (apache-spark) [default], iteration 17 completed (864.130 ms) ======
+====== dec-tree (apache-spark) [default], iteration 18 started ======
+====== dec-tree (apache-spark) [default], iteration 18 completed (865.273 ms) ======
+====== dec-tree (apache-spark) [default], iteration 19 started ======
+====== dec-tree (apache-spark) [default], iteration 19 completed (866.454 ms) ======
+====== dec-tree (apache-spark) [default], iteration 20 started ======
+====== dec-tree (apache-spark) [default], iteration 20 completed (846.528 ms) ======
+====== dec-tree (apache-spark) [default], iteration 21 started ======
+====== dec-tree (apache-spark) [default], iteration 21 completed (1115.781 ms) ======
+====== dec-tree (apache-spark) [default], iteration 22 started ======
+====== dec-tree (apache-spark) [default], iteration 22 completed (1218.389 ms) ======
+====== dec-tree (apache-spark) [default], iteration 23 started ======
+====== dec-tree (apache-spark) [default], iteration 23 completed (873.679 ms) ======
+====== dec-tree (apache-spark) [default], iteration 24 started ======
+====== dec-tree (apache-spark) [default], iteration 24 completed (849.290 ms) ======
+====== dec-tree (apache-spark) [default], iteration 25 started ======
+====== dec-tree (apache-spark) [default], iteration 25 completed (842.293 ms) ======
+====== dec-tree (apache-spark) [default], iteration 26 started ======
+====== dec-tree (apache-spark) [default], iteration 26 completed (848.264 ms) ======
+====== dec-tree (apache-spark) [default], iteration 27 started ======
+====== dec-tree (apache-spark) [default], iteration 27 completed (848.511 ms) ======
+====== dec-tree (apache-spark) [default], iteration 28 started ======
+====== dec-tree (apache-spark) [default], iteration 28 completed (882.922 ms) ======
+====== dec-tree (apache-spark) [default], iteration 29 started ======
+====== dec-tree (apache-spark) [default], iteration 29 completed (886.550 ms) ======
+====== dec-tree (apache-spark) [default], iteration 30 started ======
+====== dec-tree (apache-spark) [default], iteration 30 completed (801.366 ms) ======
+====== dec-tree (apache-spark) [default], iteration 31 started ======
+====== dec-tree (apache-spark) [default], iteration 31 completed (828.068 ms) ======
+====== dec-tree (apache-spark) [default], iteration 32 started ======
+====== dec-tree (apache-spark) [default], iteration 32 completed (1107.304 ms) ======
+====== dec-tree (apache-spark) [default], iteration 33 started ======
+====== dec-tree (apache-spark) [default], iteration 33 completed (868.621 ms) ======
+====== dec-tree (apache-spark) [default], iteration 34 started ======
+====== dec-tree (apache-spark) [default], iteration 34 completed (806.859 ms) ======
+====== dec-tree (apache-spark) [default], iteration 35 started ======
+====== dec-tree (apache-spark) [default], iteration 35 completed (820.605 ms) ======
+====== dec-tree (apache-spark) [default], iteration 36 started ======
+====== dec-tree (apache-spark) [default], iteration 36 completed (833.597 ms) ======
+====== dec-tree (apache-spark) [default], iteration 37 started ======
+====== dec-tree (apache-spark) [default], iteration 37 completed (831.928 ms) ======
+====== dec-tree (apache-spark) [default], iteration 38 started ======
+====== dec-tree (apache-spark) [default], iteration 38 completed (800.550 ms) ======
+====== dec-tree (apache-spark) [default], iteration 39 started ======
+====== dec-tree (apache-spark) [default], iteration 39 completed (814.034 ms) ======
+====== dec-tree (apache-spark) [default], iteration 40 started ======
+====== dec-tree (apache-spark) [default], iteration 40 completed (837.520 ms) ======
+====== dec-tree (apache-spark) [default], iteration 41 started ======
+====== dec-tree (apache-spark) [default], iteration 41 completed (969.391 ms) ======
+====== dec-tree (apache-spark) [default], iteration 42 started ======
+====== dec-tree (apache-spark) [default], iteration 42 completed (907.254 ms) ======
+====== dec-tree (apache-spark) [default], iteration 43 started ======
+====== dec-tree (apache-spark) [default], iteration 43 completed (825.343 ms) ======
+====== dec-tree (apache-spark) [default], iteration 44 started ======
+====== dec-tree (apache-spark) [default], iteration 44 completed (817.551 ms) ======
+====== dec-tree (apache-spark) [default], iteration 45 started ======
+====== dec-tree (apache-spark) [default], iteration 45 completed (797.220 ms) ======
+====== dec-tree (apache-spark) [default], iteration 46 started ======
+====== dec-tree (apache-spark) [default], iteration 46 completed (865.623 ms) ======
+====== dec-tree (apache-spark) [default], iteration 47 started ======
+====== dec-tree (apache-spark) [default], iteration 47 completed (803.960 ms) ======
+====== dec-tree (apache-spark) [default], iteration 48 started ======
+====== dec-tree (apache-spark) [default], iteration 48 completed (814.232 ms) ======
+====== dec-tree (apache-spark) [default], iteration 49 started ======
+====== dec-tree (apache-spark) [default], iteration 49 completed (810.078 ms) ======
+====== dec-tree (apache-spark) [default], iteration 50 started ======
+====== dec-tree (apache-spark) [default], iteration 50 completed (797.293 ms) ======
+====== dec-tree (apache-spark) [default], iteration 51 started ======
+====== dec-tree (apache-spark) [default], iteration 51 completed (988.582 ms) ======
+====== dec-tree (apache-spark) [default], iteration 52 started ======
+====== dec-tree (apache-spark) [default], iteration 52 completed (862.792 ms) ======
+====== dec-tree (apache-spark) [default], iteration 53 started ======
+====== dec-tree (apache-spark) [default], iteration 53 completed (808.572 ms) ======
+====== dec-tree (apache-spark) [default], iteration 54 started ======
+====== dec-tree (apache-spark) [default], iteration 54 completed (787.556 ms) ======
+====== dec-tree (apache-spark) [default], iteration 55 started ======
+====== dec-tree (apache-spark) [default], iteration 55 completed (781.021 ms) ======
+====== dec-tree (apache-spark) [default], iteration 56 started ======
+====== dec-tree (apache-spark) [default], iteration 56 completed (807.425 ms) ======
+====== dec-tree (apache-spark) [default], iteration 57 started ======
+====== dec-tree (apache-spark) [default], iteration 57 completed (851.001 ms) ======
+====== dec-tree (apache-spark) [default], iteration 58 started ======
+====== dec-tree (apache-spark) [default], iteration 58 completed (801.830 ms) ======
+====== dec-tree (apache-spark) [default], iteration 59 started ======
+====== dec-tree (apache-spark) [default], iteration 59 completed (755.262 ms) ======
+====== dec-tree (apache-spark) [default], iteration 60 started ======
+====== dec-tree (apache-spark) [default], iteration 60 completed (821.461 ms) ======
+====== dec-tree (apache-spark) [default], iteration 61 started ======
+====== dec-tree (apache-spark) [default], iteration 61 completed (959.059 ms) ======
+====== dec-tree (apache-spark) [default], iteration 62 started ======
+====== dec-tree (apache-spark) [default], iteration 62 completed (793.796 ms) ======
+====== dec-tree (apache-spark) [default], iteration 63 started ======
+====== dec-tree (apache-spark) [default], iteration 63 completed (782.241 ms) ======
+====== dec-tree (apache-spark) [default], iteration 64 started ======
+====== dec-tree (apache-spark) [default], iteration 64 completed (779.502 ms) ======
+====== dec-tree (apache-spark) [default], iteration 65 started ======
+====== dec-tree (apache-spark) [default], iteration 65 completed (767.485 ms) ======
+====== dec-tree (apache-spark) [default], iteration 66 started ======
+====== dec-tree (apache-spark) [default], iteration 66 completed (770.047 ms) ======
+====== dec-tree (apache-spark) [default], iteration 67 started ======
+====== dec-tree (apache-spark) [default], iteration 67 completed (779.864 ms) ======
+====== dec-tree (apache-spark) [default], iteration 68 started ======
+====== dec-tree (apache-spark) [default], iteration 68 completed (810.228 ms) ======
+====== dec-tree (apache-spark) [default], iteration 69 started ======
+====== dec-tree (apache-spark) [default], iteration 69 completed (770.824 ms) ======
+====== dec-tree (apache-spark) [default], iteration 70 started ======
+====== dec-tree (apache-spark) [default], iteration 70 completed (811.579 ms) ======
+====== dec-tree (apache-spark) [default], iteration 71 started ======
+====== dec-tree (apache-spark) [default], iteration 71 completed (961.505 ms) ======
+====== dec-tree (apache-spark) [default], iteration 72 started ======
+====== dec-tree (apache-spark) [default], iteration 72 completed (780.875 ms) ======
+====== dec-tree (apache-spark) [default], iteration 73 started ======
+====== dec-tree (apache-spark) [default], iteration 73 completed (757.818 ms) ======
+====== dec-tree (apache-spark) [default], iteration 74 started ======
+====== dec-tree (apache-spark) [default], iteration 74 completed (788.555 ms) ======
+====== dec-tree (apache-spark) [default], iteration 75 started ======
+====== dec-tree (apache-spark) [default], iteration 75 completed (783.012 ms) ======
+====== dec-tree (apache-spark) [default], iteration 76 started ======
+====== dec-tree (apache-spark) [default], iteration 76 completed (782.969 ms) ======
+====== dec-tree (apache-spark) [default], iteration 77 started ======
+====== dec-tree (apache-spark) [default], iteration 77 completed (779.462 ms) ======
+====== dec-tree (apache-spark) [default], iteration 78 started ======
+====== dec-tree (apache-spark) [default], iteration 78 completed (771.860 ms) ======
+====== dec-tree (apache-spark) [default], iteration 79 started ======
+====== dec-tree (apache-spark) [default], iteration 79 completed (796.660 ms) ======
+====== dec-tree (apache-spark) [default], iteration 80 started ======
+====== dec-tree (apache-spark) [default], iteration 80 completed (1012.617 ms) ======
+====== dec-tree (apache-spark) [default], iteration 81 started ======
+====== dec-tree (apache-spark) [default], iteration 81 completed (775.894 ms) ======
+====== dec-tree (apache-spark) [default], iteration 82 started ======
+====== dec-tree (apache-spark) [default], iteration 82 completed (774.705 ms) ======
+====== dec-tree (apache-spark) [default], iteration 83 started ======
+====== dec-tree (apache-spark) [default], iteration 83 completed (781.671 ms) ======
+====== dec-tree (apache-spark) [default], iteration 84 started ======
+====== dec-tree (apache-spark) [default], iteration 84 completed (807.636 ms) ======
+====== dec-tree (apache-spark) [default], iteration 85 started ======
+====== dec-tree (apache-spark) [default], iteration 85 completed (786.011 ms) ======
+====== dec-tree (apache-spark) [default], iteration 86 started ======
+====== dec-tree (apache-spark) [default], iteration 86 completed (775.688 ms) ======
+====== dec-tree (apache-spark) [default], iteration 87 started ======
+====== dec-tree (apache-spark) [default], iteration 87 completed (751.024 ms) ======
+====== dec-tree (apache-spark) [default], iteration 88 started ======
+====== dec-tree (apache-spark) [default], iteration 88 completed (883.610 ms) ======
+====== dec-tree (apache-spark) [default], iteration 89 started ======
+====== dec-tree (apache-spark) [default], iteration 89 completed (891.189 ms) ======
+====== dec-tree (apache-spark) [default], iteration 90 started ======
+====== dec-tree (apache-spark) [default], iteration 90 completed (782.890 ms) ======
+====== dec-tree (apache-spark) [default], iteration 91 started ======
+====== dec-tree (apache-spark) [default], iteration 91 completed (765.206 ms) ======
+====== dec-tree (apache-spark) [default], iteration 92 started ======
+====== dec-tree (apache-spark) [default], iteration 92 completed (810.507 ms) ======
+====== dec-tree (apache-spark) [default], iteration 93 started ======
+====== dec-tree (apache-spark) [default], iteration 93 completed (754.068 ms) ======
+====== dec-tree (apache-spark) [default], iteration 94 started ======
+====== dec-tree (apache-spark) [default], iteration 94 completed (764.841 ms) ======
+====== dec-tree (apache-spark) [default], iteration 95 started ======
+====== dec-tree (apache-spark) [default], iteration 95 completed (1003.820 ms) ======
+====== dec-tree (apache-spark) [default], iteration 96 started ======
+====== dec-tree (apache-spark) [default], iteration 96 completed (963.199 ms) ======
+====== dec-tree (apache-spark) [default], iteration 97 started ======
+====== dec-tree (apache-spark) [default], iteration 97 completed (1567.920 ms) ======
+====== dec-tree (apache-spark) [default], iteration 98 started ======
+====== dec-tree (apache-spark) [default], iteration 98 completed (817.200 ms) ======
+====== dec-tree (apache-spark) [default], iteration 99 started ======
+====== dec-tree (apache-spark) [default], iteration 99 completed (759.852 ms) ======
+====== dec-tree (apache-spark) [default], iteration 100 started ======
+====== dec-tree (apache-spark) [default], iteration 100 completed (756.888 ms) ======
+====== dec-tree (apache-spark) [default], iteration 101 started ======
+====== dec-tree (apache-spark) [default], iteration 101 completed (749.453 ms) ======
+====== dec-tree (apache-spark) [default], iteration 102 started ======
+====== dec-tree (apache-spark) [default], iteration 102 completed (751.453 ms) ======
+====== dec-tree (apache-spark) [default], iteration 103 started ======
+====== dec-tree (apache-spark) [default], iteration 103 completed (791.713 ms) ======
+====== dec-tree (apache-spark) [default], iteration 104 started ======
+====== dec-tree (apache-spark) [default], iteration 104 completed (941.170 ms) ======
+====== dec-tree (apache-spark) [default], iteration 105 started ======
+====== dec-tree (apache-spark) [default], iteration 105 completed (786.205 ms) ======
+====== dec-tree (apache-spark) [default], iteration 106 started ======
+====== dec-tree (apache-spark) [default], iteration 106 completed (774.200 ms) ======
+====== dec-tree (apache-spark) [default], iteration 107 started ======
+====== dec-tree (apache-spark) [default], iteration 107 completed (799.604 ms) ======
+====== dec-tree (apache-spark) [default], iteration 108 started ======
+====== dec-tree (apache-spark) [default], iteration 108 completed (760.277 ms) ======
+====== dec-tree (apache-spark) [default], iteration 109 started ======
+====== dec-tree (apache-spark) [default], iteration 109 completed (772.327 ms) ======
+====== dec-tree (apache-spark) [default], iteration 110 started ======
+====== dec-tree (apache-spark) [default], iteration 110 completed (795.376 ms) ======
+====== dec-tree (apache-spark) [default], iteration 111 started ======
+====== dec-tree (apache-spark) [default], iteration 111 completed (753.118 ms) ======
+====== dec-tree (apache-spark) [default], iteration 112 started ======
+====== dec-tree (apache-spark) [default], iteration 112 completed (843.426 ms) ======
+====== dec-tree (apache-spark) [default], iteration 113 started ======
+====== dec-tree (apache-spark) [default], iteration 113 completed (917.005 ms) ======
+====== dec-tree (apache-spark) [default], iteration 114 started ======
+====== dec-tree (apache-spark) [default], iteration 114 completed (766.884 ms) ======
+====== dec-tree (apache-spark) [default], iteration 115 started ======
+====== dec-tree (apache-spark) [default], iteration 115 completed (759.921 ms) ======
+====== dec-tree (apache-spark) [default], iteration 116 started ======
+====== dec-tree (apache-spark) [default], iteration 116 completed (768.663 ms) ======
+====== dec-tree (apache-spark) [default], iteration 117 started ======
+====== dec-tree (apache-spark) [default], iteration 117 completed (764.912 ms) ======
+====== dec-tree (apache-spark) [default], iteration 118 started ======
+====== dec-tree (apache-spark) [default], iteration 118 completed (783.133 ms) ======
+====== dec-tree (apache-spark) [default], iteration 119 started ======
+====== dec-tree (apache-spark) [default], iteration 119 completed (734.713 ms) ======
+====== dec-tree (apache-spark) [default], iteration 120 started ======
+====== dec-tree (apache-spark) [default], iteration 120 completed (756.120 ms) ======
+====== dec-tree (apache-spark) [default], iteration 121 started ======
+====== dec-tree (apache-spark) [default], iteration 121 completed (734.984 ms) ======
+====== dec-tree (apache-spark) [default], iteration 122 started ======
+====== dec-tree (apache-spark) [default], iteration 122 completed (977.019 ms) ======
+====== dec-tree (apache-spark) [default], iteration 123 started ======
+====== dec-tree (apache-spark) [default], iteration 123 completed (750.527 ms) ======
+====== dec-tree (apache-spark) [default], iteration 124 started ======
+====== dec-tree (apache-spark) [default], iteration 124 completed (746.913 ms) ======
+====== dec-tree (apache-spark) [default], iteration 125 started ======
+====== dec-tree (apache-spark) [default], iteration 125 completed (782.312 ms) ======
+====== dec-tree (apache-spark) [default], iteration 126 started ======
+====== dec-tree (apache-spark) [default], iteration 126 completed (735.071 ms) ======
+====== dec-tree (apache-spark) [default], iteration 127 started ======
+====== dec-tree (apache-spark) [default], iteration 127 completed (774.647 ms) ======
+====== dec-tree (apache-spark) [default], iteration 128 started ======
+====== dec-tree (apache-spark) [default], iteration 128 completed (743.368 ms) ======
+====== dec-tree (apache-spark) [default], iteration 129 started ======
+====== dec-tree (apache-spark) [default], iteration 129 completed (768.413 ms) ======
+====== dec-tree (apache-spark) [default], iteration 130 started ======
+====== dec-tree (apache-spark) [default], iteration 130 completed (850.370 ms) ======
+====== dec-tree (apache-spark) [default], iteration 131 started ======
+====== dec-tree (apache-spark) [default], iteration 131 completed (894.266 ms) ======
+====== dec-tree (apache-spark) [default], iteration 132 started ======
+====== dec-tree (apache-spark) [default], iteration 132 completed (867.446 ms) ======
+====== dec-tree (apache-spark) [default], iteration 133 started ======
+====== dec-tree (apache-spark) [default], iteration 133 completed (754.861 ms) ======
+====== dec-tree (apache-spark) [default], iteration 134 started ======
+====== dec-tree (apache-spark) [default], iteration 134 completed (759.147 ms) ======
+====== dec-tree (apache-spark) [default], iteration 135 started ======
+====== dec-tree (apache-spark) [default], iteration 135 completed (733.381 ms) ======
+====== dec-tree (apache-spark) [default], iteration 136 started ======
+====== dec-tree (apache-spark) [default], iteration 136 completed (723.491 ms) ======
+====== dec-tree (apache-spark) [default], iteration 137 started ======
+====== dec-tree (apache-spark) [default], iteration 137 completed (728.494 ms) ======
+====== dec-tree (apache-spark) [default], iteration 138 started ======
+====== dec-tree (apache-spark) [default], iteration 138 completed (753.551 ms) ======
+====== dec-tree (apache-spark) [default], iteration 139 started ======
+====== dec-tree (apache-spark) [default], iteration 139 completed (735.900 ms) ======
+====== dec-tree (apache-spark) [default], iteration 140 started ======
+====== dec-tree (apache-spark) [default], iteration 140 completed (942.001 ms) ======
+====== dec-tree (apache-spark) [default], iteration 141 started ======
+====== dec-tree (apache-spark) [default], iteration 141 completed (834.436 ms) ======
+====== dec-tree (apache-spark) [default], iteration 142 started ======
+====== dec-tree (apache-spark) [default], iteration 142 completed (741.490 ms) ======
+====== dec-tree (apache-spark) [default], iteration 143 started ======
+====== dec-tree (apache-spark) [default], iteration 143 completed (743.784 ms) ======
+====== dec-tree (apache-spark) [default], iteration 144 started ======
+====== dec-tree (apache-spark) [default], iteration 144 completed (740.330 ms) ======
+====== dec-tree (apache-spark) [default], iteration 145 started ======
+====== dec-tree (apache-spark) [default], iteration 145 completed (756.192 ms) ======
+====== dec-tree (apache-spark) [default], iteration 146 started ======
+====== dec-tree (apache-spark) [default], iteration 146 completed (766.481 ms) ======
+====== dec-tree (apache-spark) [default], iteration 147 started ======
+====== dec-tree (apache-spark) [default], iteration 147 completed (781.547 ms) ======
+====== dec-tree (apache-spark) [default], iteration 148 started ======
+====== dec-tree (apache-spark) [default], iteration 148 completed (738.079 ms) ======
+====== dec-tree (apache-spark) [default], iteration 149 started ======
+====== dec-tree (apache-spark) [default], iteration 149 completed (850.367 ms) ======
+====== dec-tree (apache-spark) [default], iteration 150 started ======
+====== dec-tree (apache-spark) [default], iteration 150 completed (844.681 ms) ======
+====== dec-tree (apache-spark) [default], iteration 151 started ======
+====== dec-tree (apache-spark) [default], iteration 151 completed (760.733 ms) ======
+====== dec-tree (apache-spark) [default], iteration 152 started ======
+====== dec-tree (apache-spark) [default], iteration 152 completed (738.746 ms) ======
+====== dec-tree (apache-spark) [default], iteration 153 started ======
+====== dec-tree (apache-spark) [default], iteration 153 completed (790.962 ms) ======
+====== dec-tree (apache-spark) [default], iteration 154 started ======
+====== dec-tree (apache-spark) [default], iteration 154 completed (733.133 ms) ======
+====== dec-tree (apache-spark) [default], iteration 155 started ======
+====== dec-tree (apache-spark) [default], iteration 155 completed (721.084 ms) ======
+====== dec-tree (apache-spark) [default], iteration 156 started ======
+====== dec-tree (apache-spark) [default], iteration 156 completed (731.183 ms) ======
+====== dec-tree (apache-spark) [default], iteration 157 started ======
+====== dec-tree (apache-spark) [default], iteration 157 completed (732.298 ms) ======
+====== dec-tree (apache-spark) [default], iteration 158 started ======
+====== dec-tree (apache-spark) [default], iteration 158 completed (855.963 ms) ======
+====== dec-tree (apache-spark) [default], iteration 159 started ======
+====== dec-tree (apache-spark) [default], iteration 159 completed (959.022 ms) ======
+====== dec-tree (apache-spark) [default], iteration 160 started ======
+====== dec-tree (apache-spark) [default], iteration 160 completed (743.375 ms) ======
+====== dec-tree (apache-spark) [default], iteration 161 started ======
+====== dec-tree (apache-spark) [default], iteration 161 completed (766.607 ms) ======
+====== dec-tree (apache-spark) [default], iteration 162 started ======
+====== dec-tree (apache-spark) [default], iteration 162 completed (787.834 ms) ======
+====== dec-tree (apache-spark) [default], iteration 163 started ======
+====== dec-tree (apache-spark) [default], iteration 163 completed (736.000 ms) ======
+====== dec-tree (apache-spark) [default], iteration 164 started ======
+====== dec-tree (apache-spark) [default], iteration 164 completed (749.645 ms) ======
+====== dec-tree (apache-spark) [default], iteration 165 started ======
+====== dec-tree (apache-spark) [default], iteration 165 completed (741.918 ms) ======
+====== dec-tree (apache-spark) [default], iteration 166 started ======
+====== dec-tree (apache-spark) [default], iteration 166 completed (720.246 ms) ======
+====== dec-tree (apache-spark) [default], iteration 167 started ======
+====== dec-tree (apache-spark) [default], iteration 167 completed (822.738 ms) ======
+====== dec-tree (apache-spark) [default], iteration 168 started ======
+====== dec-tree (apache-spark) [default], iteration 168 completed (913.702 ms) ======
+====== dec-tree (apache-spark) [default], iteration 169 started ======
+====== dec-tree (apache-spark) [default], iteration 169 completed (735.450 ms) ======
+====== dec-tree (apache-spark) [default], iteration 170 started ======
+====== dec-tree (apache-spark) [default], iteration 170 completed (788.654 ms) ======
+====== dec-tree (apache-spark) [default], iteration 171 started ======
+====== dec-tree (apache-spark) [default], iteration 171 completed (731.541 ms) ======
+====== dec-tree (apache-spark) [default], iteration 172 started ======
+====== dec-tree (apache-spark) [default], iteration 172 completed (730.502 ms) ======
+====== dec-tree (apache-spark) [default], iteration 173 started ======
+====== dec-tree (apache-spark) [default], iteration 173 completed (738.618 ms) ======
+====== dec-tree (apache-spark) [default], iteration 174 started ======
+====== dec-tree (apache-spark) [default], iteration 174 completed (732.685 ms) ======
+====== dec-tree (apache-spark) [default], iteration 175 started ======
+====== dec-tree (apache-spark) [default], iteration 175 completed (740.069 ms) ======
+====== dec-tree (apache-spark) [default], iteration 176 started ======
+====== dec-tree (apache-spark) [default], iteration 176 completed (856.329 ms) ======
+====== dec-tree (apache-spark) [default], iteration 177 started ======
+====== dec-tree (apache-spark) [default], iteration 177 completed (868.357 ms) ======
+====== dec-tree (apache-spark) [default], iteration 178 started ======
+====== dec-tree (apache-spark) [default], iteration 178 completed (776.512 ms) ======
+====== dec-tree (apache-spark) [default], iteration 179 started ======
+====== dec-tree (apache-spark) [default], iteration 179 completed (736.648 ms) ======
+====== dec-tree (apache-spark) [default], iteration 180 started ======
+====== dec-tree (apache-spark) [default], iteration 180 completed (734.309 ms) ======
+====== dec-tree (apache-spark) [default], iteration 181 started ======
+====== dec-tree (apache-spark) [default], iteration 181 completed (720.268 ms) ======
+====== dec-tree (apache-spark) [default], iteration 182 started ======
+====== dec-tree (apache-spark) [default], iteration 182 completed (752.563 ms) ======
+====== dec-tree (apache-spark) [default], iteration 183 started ======
+====== dec-tree (apache-spark) [default], iteration 183 completed (741.056 ms) ======
+====== dec-tree (apache-spark) [default], iteration 184 started ======
+====== dec-tree (apache-spark) [default], iteration 184 completed (763.855 ms) ======
+====== dec-tree (apache-spark) [default], iteration 185 started ======
+====== dec-tree (apache-spark) [default], iteration 185 completed (858.282 ms) ======
+====== dec-tree (apache-spark) [default], iteration 186 started ======
+====== dec-tree (apache-spark) [default], iteration 186 completed (871.431 ms) ======
+====== dec-tree (apache-spark) [default], iteration 187 started ======
+====== dec-tree (apache-spark) [default], iteration 187 completed (762.202 ms) ======
+====== dec-tree (apache-spark) [default], iteration 188 started ======
+====== dec-tree (apache-spark) [default], iteration 188 completed (778.280 ms) ======
+====== dec-tree (apache-spark) [default], iteration 189 started ======
+====== dec-tree (apache-spark) [default], iteration 189 completed (802.349 ms) ======
+====== dec-tree (apache-spark) [default], iteration 190 started ======
+====== dec-tree (apache-spark) [default], iteration 190 completed (734.970 ms) ======
+====== dec-tree (apache-spark) [default], iteration 191 started ======
+====== dec-tree (apache-spark) [default], iteration 191 completed (758.764 ms) ======
+====== dec-tree (apache-spark) [default], iteration 192 started ======
+====== dec-tree (apache-spark) [default], iteration 192 completed (739.482 ms) ======
+====== dec-tree (apache-spark) [default], iteration 193 started ======
+====== dec-tree (apache-spark) [default], iteration 193 completed (759.239 ms) ======
+====== dec-tree (apache-spark) [default], iteration 194 started ======
+====== dec-tree (apache-spark) [default], iteration 194 completed (984.527 ms) ======
+====== dec-tree (apache-spark) [default], iteration 195 started ======
+====== dec-tree (apache-spark) [default], iteration 195 completed (798.970 ms) ======
+====== dec-tree (apache-spark) [default], iteration 196 started ======
+====== dec-tree (apache-spark) [default], iteration 196 completed (765.439 ms) ======
+====== dec-tree (apache-spark) [default], iteration 197 started ======
+====== dec-tree (apache-spark) [default], iteration 197 completed (740.178 ms) ======
+====== dec-tree (apache-spark) [default], iteration 198 started ======
+====== dec-tree (apache-spark) [default], iteration 198 completed (806.021 ms) ======
+====== dec-tree (apache-spark) [default], iteration 199 started ======
+====== dec-tree (apache-spark) [default], iteration 199 completed (771.944 ms) ======
+====== dec-tree (apache-spark) [default], iteration 200 started ======
+====== dec-tree (apache-spark) [default], iteration 200 completed (730.279 ms) ======
+====== dec-tree (apache-spark) [default], iteration 201 started ======
+====== dec-tree (apache-spark) [default], iteration 201 completed (718.511 ms) ======
+====== dec-tree (apache-spark) [default], iteration 202 started ======
+====== dec-tree (apache-spark) [default], iteration 202 completed (739.321 ms) ======
+====== dec-tree (apache-spark) [default], iteration 203 started ======
+====== dec-tree (apache-spark) [default], iteration 203 completed (824.230 ms) ======
+====== dec-tree (apache-spark) [default], iteration 204 started ======
+====== dec-tree (apache-spark) [default], iteration 204 completed (897.238 ms) ======
+====== dec-tree (apache-spark) [default], iteration 205 started ======
+====== dec-tree (apache-spark) [default], iteration 205 completed (732.584 ms) ======
+====== dec-tree (apache-spark) [default], iteration 206 started ======
+====== dec-tree (apache-spark) [default], iteration 206 completed (750.919 ms) ======
+====== dec-tree (apache-spark) [default], iteration 207 started ======
+====== dec-tree (apache-spark) [default], iteration 207 completed (744.824 ms) ======
+====== dec-tree (apache-spark) [default], iteration 208 started ======
+====== dec-tree (apache-spark) [default], iteration 208 completed (727.933 ms) ======
+====== dec-tree (apache-spark) [default], iteration 209 started ======
+====== dec-tree (apache-spark) [default], iteration 209 completed (751.361 ms) ======
+====== dec-tree (apache-spark) [default], iteration 210 started ======
+====== dec-tree (apache-spark) [default], iteration 210 completed (760.227 ms) ======
+====== dec-tree (apache-spark) [default], iteration 211 started ======
+====== dec-tree (apache-spark) [default], iteration 211 completed (783.810 ms) ======
+====== dec-tree (apache-spark) [default], iteration 212 started ======
+====== dec-tree (apache-spark) [default], iteration 212 completed (741.407 ms) ======
+====== dec-tree (apache-spark) [default], iteration 213 started ======
+====== dec-tree (apache-spark) [default], iteration 213 completed (861.683 ms) ======
+====== dec-tree (apache-spark) [default], iteration 214 started ======
+====== dec-tree (apache-spark) [default], iteration 214 completed (745.090 ms) ======
+====== dec-tree (apache-spark) [default], iteration 215 started ======
+====== dec-tree (apache-spark) [default], iteration 215 completed (741.439 ms) ======
+====== dec-tree (apache-spark) [default], iteration 216 started ======
+====== dec-tree (apache-spark) [default], iteration 216 completed (745.164 ms) ======
+====== dec-tree (apache-spark) [default], iteration 217 started ======
+====== dec-tree (apache-spark) [default], iteration 217 completed (719.576 ms) ======
+====== dec-tree (apache-spark) [default], iteration 218 started ======
+====== dec-tree (apache-spark) [default], iteration 218 completed (726.295 ms) ======
+====== dec-tree (apache-spark) [default], iteration 219 started ======
+====== dec-tree (apache-spark) [default], iteration 219 completed (720.504 ms) ======
+====== dec-tree (apache-spark) [default], iteration 220 started ======
+====== dec-tree (apache-spark) [default], iteration 220 completed (728.624 ms) ======
+====== dec-tree (apache-spark) [default], iteration 221 started ======
+====== dec-tree (apache-spark) [default], iteration 221 completed (768.297 ms) ======
+====== dec-tree (apache-spark) [default], iteration 222 started ======
+====== dec-tree (apache-spark) [default], iteration 222 completed (941.833 ms) ======
+====== dec-tree (apache-spark) [default], iteration 223 started ======
+====== dec-tree (apache-spark) [default], iteration 223 completed (753.240 ms) ======
+====== dec-tree (apache-spark) [default], iteration 224 started ======
+====== dec-tree (apache-spark) [default], iteration 224 completed (759.614 ms) ======
+====== dec-tree (apache-spark) [default], iteration 225 started ======
+====== dec-tree (apache-spark) [default], iteration 225 completed (761.963 ms) ======
+====== dec-tree (apache-spark) [default], iteration 226 started ======
+====== dec-tree (apache-spark) [default], iteration 226 completed (724.882 ms) ======
+====== dec-tree (apache-spark) [default], iteration 227 started ======
+====== dec-tree (apache-spark) [default], iteration 227 completed (738.645 ms) ======
+====== dec-tree (apache-spark) [default], iteration 228 started ======
+====== dec-tree (apache-spark) [default], iteration 228 completed (772.012 ms) ======
+====== dec-tree (apache-spark) [default], iteration 229 started ======
+====== dec-tree (apache-spark) [default], iteration 229 completed (803.772 ms) ======
+====== dec-tree (apache-spark) [default], iteration 230 started ======
+====== dec-tree (apache-spark) [default], iteration 230 completed (749.588 ms) ======
+====== dec-tree (apache-spark) [default], iteration 231 started ======
+====== dec-tree (apache-spark) [default], iteration 231 completed (933.041 ms) ======
+====== dec-tree (apache-spark) [default], iteration 232 started ======
+====== dec-tree (apache-spark) [default], iteration 232 completed (736.100 ms) ======
+====== dec-tree (apache-spark) [default], iteration 233 started ======
+====== dec-tree (apache-spark) [default], iteration 233 completed (756.919 ms) ======
+====== dec-tree (apache-spark) [default], iteration 234 started ======
+====== dec-tree (apache-spark) [default], iteration 234 completed (733.078 ms) ======
+====== dec-tree (apache-spark) [default], iteration 235 started ======
+====== dec-tree (apache-spark) [default], iteration 235 completed (735.566 ms) ======
+====== dec-tree (apache-spark) [default], iteration 236 started ======
+====== dec-tree (apache-spark) [default], iteration 236 completed (741.654 ms) ======
+====== dec-tree (apache-spark) [default], iteration 237 started ======
+====== dec-tree (apache-spark) [default], iteration 237 completed (747.247 ms) ======
+====== dec-tree (apache-spark) [default], iteration 238 started ======
+====== dec-tree (apache-spark) [default], iteration 238 completed (741.829 ms) ======
+====== dec-tree (apache-spark) [default], iteration 239 started ======
+====== dec-tree (apache-spark) [default], iteration 239 completed (804.414 ms) ======
+====== dec-tree (apache-spark) [default], iteration 240 started ======
+====== dec-tree (apache-spark) [default], iteration 240 completed (905.703 ms) ======
+====== dec-tree (apache-spark) [default], iteration 241 started ======
+====== dec-tree (apache-spark) [default], iteration 241 completed (744.351 ms) ======
+====== dec-tree (apache-spark) [default], iteration 242 started ======
+====== dec-tree (apache-spark) [default], iteration 242 completed (727.789 ms) ======
+====== dec-tree (apache-spark) [default], iteration 243 started ======
+====== dec-tree (apache-spark) [default], iteration 243 completed (730.747 ms) ======
+====== dec-tree (apache-spark) [default], iteration 244 started ======
+====== dec-tree (apache-spark) [default], iteration 244 completed (716.726 ms) ======
+====== dec-tree (apache-spark) [default], iteration 245 started ======
+====== dec-tree (apache-spark) [default], iteration 245 completed (718.099 ms) ======
+====== dec-tree (apache-spark) [default], iteration 246 started ======
+====== dec-tree (apache-spark) [default], iteration 246 completed (719.309 ms) ======
+====== dec-tree (apache-spark) [default], iteration 247 started ======
+====== dec-tree (apache-spark) [default], iteration 247 completed (730.465 ms) ======
+====== dec-tree (apache-spark) [default], iteration 248 started ======
+====== dec-tree (apache-spark) [default], iteration 248 completed (886.707 ms) ======
+====== dec-tree (apache-spark) [default], iteration 249 started ======
+====== dec-tree (apache-spark) [default], iteration 249 completed (827.281 ms) ======
+====== dec-tree (apache-spark) [default], iteration 250 started ======
+====== dec-tree (apache-spark) [default], iteration 250 completed (748.107 ms) ======
+====== dec-tree (apache-spark) [default], iteration 251 started ======
+====== dec-tree (apache-spark) [default], iteration 251 completed (728.149 ms) ======
+====== dec-tree (apache-spark) [default], iteration 252 started ======
+====== dec-tree (apache-spark) [default], iteration 252 completed (740.411 ms) ======
+====== dec-tree (apache-spark) [default], iteration 253 started ======
+====== dec-tree (apache-spark) [default], iteration 253 completed (738.673 ms) ======
+====== dec-tree (apache-spark) [default], iteration 254 started ======
+====== dec-tree (apache-spark) [default], iteration 254 completed (724.685 ms) ======
+====== dec-tree (apache-spark) [default], iteration 255 started ======
+====== dec-tree (apache-spark) [default], iteration 255 completed (794.783 ms) ======
+====== dec-tree (apache-spark) [default], iteration 256 started ======
+====== dec-tree (apache-spark) [default], iteration 256 completed (731.607 ms) ======
+====== dec-tree (apache-spark) [default], iteration 257 started ======
+====== dec-tree (apache-spark) [default], iteration 257 completed (961.623 ms) ======
+====== dec-tree (apache-spark) [default], iteration 258 started ======
+====== dec-tree (apache-spark) [default], iteration 258 completed (771.539 ms) ======
+====== dec-tree (apache-spark) [default], iteration 259 started ======
+====== dec-tree (apache-spark) [default], iteration 259 completed (727.900 ms) ======
+====== dec-tree (apache-spark) [default], iteration 260 started ======
+====== dec-tree (apache-spark) [default], iteration 260 completed (711.100 ms) ======
+====== dec-tree (apache-spark) [default], iteration 261 started ======
+====== dec-tree (apache-spark) [default], iteration 261 completed (750.847 ms) ======
+====== dec-tree (apache-spark) [default], iteration 262 started ======
+====== dec-tree (apache-spark) [default], iteration 262 completed (724.150 ms) ======
+====== dec-tree (apache-spark) [default], iteration 263 started ======
+====== dec-tree (apache-spark) [default], iteration 263 completed (713.510 ms) ======
+====== dec-tree (apache-spark) [default], iteration 264 started ======
+====== dec-tree (apache-spark) [default], iteration 264 completed (721.143 ms) ======
+====== dec-tree (apache-spark) [default], iteration 265 started ======
+====== dec-tree (apache-spark) [default], iteration 265 completed (823.802 ms) ======
+====== dec-tree (apache-spark) [default], iteration 266 started ======
+====== dec-tree (apache-spark) [default], iteration 266 completed (889.209 ms) ======
+====== dec-tree (apache-spark) [default], iteration 267 started ======
+====== dec-tree (apache-spark) [default], iteration 267 completed (725.417 ms) ======
+====== dec-tree (apache-spark) [default], iteration 268 started ======
+====== dec-tree (apache-spark) [default], iteration 268 completed (722.179 ms) ======
+====== dec-tree (apache-spark) [default], iteration 269 started ======
+====== dec-tree (apache-spark) [default], iteration 269 completed (722.273 ms) ======
+====== dec-tree (apache-spark) [default], iteration 270 started ======
+====== dec-tree (apache-spark) [default], iteration 270 completed (714.540 ms) ======
+====== dec-tree (apache-spark) [default], iteration 271 started ======
+====== dec-tree (apache-spark) [default], iteration 271 completed (731.017 ms) ======
+====== dec-tree (apache-spark) [default], iteration 272 started ======
+====== dec-tree (apache-spark) [default], iteration 272 completed (733.671 ms) ======
+====== dec-tree (apache-spark) [default], iteration 273 started ======
+====== dec-tree (apache-spark) [default], iteration 273 completed (742.469 ms) ======
+====== dec-tree (apache-spark) [default], iteration 274 started ======
+====== dec-tree (apache-spark) [default], iteration 274 completed (913.740 ms) ======
+====== dec-tree (apache-spark) [default], iteration 275 started ======
+====== dec-tree (apache-spark) [default], iteration 275 completed (797.654 ms) ======
+====== dec-tree (apache-spark) [default], iteration 276 started ======
+====== dec-tree (apache-spark) [default], iteration 276 completed (725.009 ms) ======
+====== dec-tree (apache-spark) [default], iteration 277 started ======
+====== dec-tree (apache-spark) [default], iteration 277 completed (734.949 ms) ======
+====== dec-tree (apache-spark) [default], iteration 278 started ======
+====== dec-tree (apache-spark) [default], iteration 278 completed (736.441 ms) ======
+====== dec-tree (apache-spark) [default], iteration 279 started ======
+====== dec-tree (apache-spark) [default], iteration 279 completed (729.159 ms) ======
+====== dec-tree (apache-spark) [default], iteration 280 started ======
+====== dec-tree (apache-spark) [default], iteration 280 completed (734.358 ms) ======
+====== dec-tree (apache-spark) [default], iteration 281 started ======
+====== dec-tree (apache-spark) [default], iteration 281 completed (709.294 ms) ======
+====== dec-tree (apache-spark) [default], iteration 282 started ======
+====== dec-tree (apache-spark) [default], iteration 282 completed (737.351 ms) ======
+====== dec-tree (apache-spark) [default], iteration 283 started ======
+====== dec-tree (apache-spark) [default], iteration 283 completed (903.044 ms) ======
+====== dec-tree (apache-spark) [default], iteration 284 started ======
+====== dec-tree (apache-spark) [default], iteration 284 completed (786.862 ms) ======
+====== dec-tree (apache-spark) [default], iteration 285 started ======
+====== dec-tree (apache-spark) [default], iteration 285 completed (724.696 ms) ======
+====== dec-tree (apache-spark) [default], iteration 286 started ======
+====== dec-tree (apache-spark) [default], iteration 286 completed (721.315 ms) ======
+====== dec-tree (apache-spark) [default], iteration 287 started ======
+====== dec-tree (apache-spark) [default], iteration 287 completed (746.550 ms) ======
+====== dec-tree (apache-spark) [default], iteration 288 started ======
+====== dec-tree (apache-spark) [default], iteration 288 completed (717.160 ms) ======
+====== dec-tree (apache-spark) [default], iteration 289 started ======
+====== dec-tree (apache-spark) [default], iteration 289 completed (734.273 ms) ======
+====== dec-tree (apache-spark) [default], iteration 290 started ======
+====== dec-tree (apache-spark) [default], iteration 290 completed (732.670 ms) ======
+====== dec-tree (apache-spark) [default], iteration 291 started ======
+====== dec-tree (apache-spark) [default], iteration 291 completed (726.210 ms) ======
+====== dec-tree (apache-spark) [default], iteration 292 started ======
+====== dec-tree (apache-spark) [default], iteration 292 completed (965.705 ms) ======
+====== dec-tree (apache-spark) [default], iteration 293 started ======
+====== dec-tree (apache-spark) [default], iteration 293 completed (725.912 ms) ======
+====== dec-tree (apache-spark) [default], iteration 294 started ======
+====== dec-tree (apache-spark) [default], iteration 294 completed (713.726 ms) ======
+====== dec-tree (apache-spark) [default], iteration 295 started ======
+====== dec-tree (apache-spark) [default], iteration 295 completed (721.224 ms) ======
+====== dec-tree (apache-spark) [default], iteration 296 started ======
+====== dec-tree (apache-spark) [default], iteration 296 completed (738.306 ms) ======
+====== dec-tree (apache-spark) [default], iteration 297 started ======
+====== dec-tree (apache-spark) [default], iteration 297 completed (715.379 ms) ======
+====== dec-tree (apache-spark) [default], iteration 298 started ======
+====== dec-tree (apache-spark) [default], iteration 298 completed (736.928 ms) ======
+====== dec-tree (apache-spark) [default], iteration 299 started ======
+====== dec-tree (apache-spark) [default], iteration 299 completed (732.855 ms) ======
+====== dec-tree (apache-spark) [default], iteration 300 started ======
+====== dec-tree (apache-spark) [default], iteration 300 completed (891.005 ms) ======
+====== dec-tree (apache-spark) [default], iteration 301 started ======
+====== dec-tree (apache-spark) [default], iteration 301 completed (814.949 ms) ======
+====== dec-tree (apache-spark) [default], iteration 302 started ======
+====== dec-tree (apache-spark) [default], iteration 302 completed (741.463 ms) ======
+====== dec-tree (apache-spark) [default], iteration 303 started ======
+====== dec-tree (apache-spark) [default], iteration 303 completed (741.942 ms) ======
+====== dec-tree (apache-spark) [default], iteration 304 started ======
+====== dec-tree (apache-spark) [default], iteration 304 completed (714.314 ms) ======
+====== dec-tree (apache-spark) [default], iteration 305 started ======
+====== dec-tree (apache-spark) [default], iteration 305 completed (719.501 ms) ======
+====== dec-tree (apache-spark) [default], iteration 306 started ======
+====== dec-tree (apache-spark) [default], iteration 306 completed (718.011 ms) ======
+====== dec-tree (apache-spark) [default], iteration 307 started ======
+====== dec-tree (apache-spark) [default], iteration 307 completed (712.449 ms) ======
+====== dec-tree (apache-spark) [default], iteration 308 started ======
+====== dec-tree (apache-spark) [default], iteration 308 completed (713.990 ms) ======
+====== dec-tree (apache-spark) [default], iteration 309 started ======
+====== dec-tree (apache-spark) [default], iteration 309 completed (874.552 ms) ======
+====== dec-tree (apache-spark) [default], iteration 310 started ======
+====== dec-tree (apache-spark) [default], iteration 310 completed (876.376 ms) ======
+====== dec-tree (apache-spark) [default], iteration 311 started ======
+====== dec-tree (apache-spark) [default], iteration 311 completed (743.936 ms) ======
+====== dec-tree (apache-spark) [default], iteration 312 started ======
+====== dec-tree (apache-spark) [default], iteration 312 completed (728.868 ms) ======
+====== dec-tree (apache-spark) [default], iteration 313 started ======
+====== dec-tree (apache-spark) [default], iteration 313 completed (717.405 ms) ======
+====== dec-tree (apache-spark) [default], iteration 314 started ======
+====== dec-tree (apache-spark) [default], iteration 314 completed (721.550 ms) ======
+====== dec-tree (apache-spark) [default], iteration 315 started ======
+====== dec-tree (apache-spark) [default], iteration 315 completed (728.284 ms) ======
+====== dec-tree (apache-spark) [default], iteration 316 started ======
+====== dec-tree (apache-spark) [default], iteration 316 completed (717.728 ms) ======
+====== dec-tree (apache-spark) [default], iteration 317 started ======
+====== dec-tree (apache-spark) [default], iteration 317 completed (741.392 ms) ======
+====== dec-tree (apache-spark) [default], iteration 318 started ======
+====== dec-tree (apache-spark) [default], iteration 318 completed (917.772 ms) ======
+====== dec-tree (apache-spark) [default], iteration 319 started ======
+====== dec-tree (apache-spark) [default], iteration 319 completed (772.562 ms) ======
+====== dec-tree (apache-spark) [default], iteration 320 started ======
+====== dec-tree (apache-spark) [default], iteration 320 completed (729.254 ms) ======
+====== dec-tree (apache-spark) [default], iteration 321 started ======
+====== dec-tree (apache-spark) [default], iteration 321 completed (722.070 ms) ======
+====== dec-tree (apache-spark) [default], iteration 322 started ======
+====== dec-tree (apache-spark) [default], iteration 322 completed (730.146 ms) ======
+====== dec-tree (apache-spark) [default], iteration 323 started ======
+====== dec-tree (apache-spark) [default], iteration 323 completed (733.834 ms) ======
+====== dec-tree (apache-spark) [default], iteration 324 started ======
+====== dec-tree (apache-spark) [default], iteration 324 completed (734.190 ms) ======
+====== dec-tree (apache-spark) [default], iteration 325 started ======
+====== dec-tree (apache-spark) [default], iteration 325 completed (719.134 ms) ======
+====== dec-tree (apache-spark) [default], iteration 326 started ======
+====== dec-tree (apache-spark) [default], iteration 326 completed (905.637 ms) ======
+====== dec-tree (apache-spark) [default], iteration 327 started ======
+====== dec-tree (apache-spark) [default], iteration 327 completed (825.046 ms) ======
+====== dec-tree (apache-spark) [default], iteration 328 started ======
+====== dec-tree (apache-spark) [default], iteration 328 completed (740.973 ms) ======
+====== dec-tree (apache-spark) [default], iteration 329 started ======
+====== dec-tree (apache-spark) [default], iteration 329 completed (713.240 ms) ======
+====== dec-tree (apache-spark) [default], iteration 330 started ======
+====== dec-tree (apache-spark) [default], iteration 330 completed (717.632 ms) ======
+====== dec-tree (apache-spark) [default], iteration 331 started ======
+====== dec-tree (apache-spark) [default], iteration 331 completed (729.007 ms) ======
+====== dec-tree (apache-spark) [default], iteration 332 started ======
+====== dec-tree (apache-spark) [default], iteration 332 completed (718.468 ms) ======
+====== dec-tree (apache-spark) [default], iteration 333 started ======
+====== dec-tree (apache-spark) [default], iteration 333 completed (715.316 ms) ======
+====== dec-tree (apache-spark) [default], iteration 334 started ======
+====== dec-tree (apache-spark) [default], iteration 334 completed (760.614 ms) ======
+====== dec-tree (apache-spark) [default], iteration 335 started ======
+====== dec-tree (apache-spark) [default], iteration 335 completed (873.356 ms) ======
+====== dec-tree (apache-spark) [default], iteration 336 started ======
+====== dec-tree (apache-spark) [default], iteration 336 completed (728.004 ms) ======
+====== dec-tree (apache-spark) [default], iteration 337 started ======
+====== dec-tree (apache-spark) [default], iteration 337 completed (729.493 ms) ======
+====== dec-tree (apache-spark) [default], iteration 338 started ======
+====== dec-tree (apache-spark) [default], iteration 338 completed (720.559 ms) ======
+====== dec-tree (apache-spark) [default], iteration 339 started ======
+====== dec-tree (apache-spark) [default], iteration 339 completed (733.115 ms) ======
+====== dec-tree (apache-spark) [default], iteration 340 started ======
+====== dec-tree (apache-spark) [default], iteration 340 completed (722.502 ms) ======
+====== dec-tree (apache-spark) [default], iteration 341 started ======
+====== dec-tree (apache-spark) [default], iteration 341 completed (715.393 ms) ======
+====== dec-tree (apache-spark) [default], iteration 342 started ======
+====== dec-tree (apache-spark) [default], iteration 342 completed (708.031 ms) ======
+====== dec-tree (apache-spark) [default], iteration 343 started ======
+====== dec-tree (apache-spark) [default], iteration 343 completed (916.473 ms) ======
+====== dec-tree (apache-spark) [default], iteration 344 started ======
+====== dec-tree (apache-spark) [default], iteration 344 completed (760.827 ms) ======
+====== dec-tree (apache-spark) [default], iteration 345 started ======
+====== dec-tree (apache-spark) [default], iteration 345 completed (711.960 ms) ======
+====== dec-tree (apache-spark) [default], iteration 346 started ======
+====== dec-tree (apache-spark) [default], iteration 346 completed (732.406 ms) ======
+====== dec-tree (apache-spark) [default], iteration 347 started ======
+====== dec-tree (apache-spark) [default], iteration 347 completed (785.817 ms) ======
+====== dec-tree (apache-spark) [default], iteration 348 started ======
+====== dec-tree (apache-spark) [default], iteration 348 completed (739.626 ms) ======
+====== dec-tree (apache-spark) [default], iteration 349 started ======
+====== dec-tree (apache-spark) [default], iteration 349 completed (721.584 ms) ======
+====== dec-tree (apache-spark) [default], iteration 350 started ======
+====== dec-tree (apache-spark) [default], iteration 350 completed (715.996 ms) ======
+====== dec-tree (apache-spark) [default], iteration 351 started ======
+====== dec-tree (apache-spark) [default], iteration 351 completed (804.275 ms) ======
+====== dec-tree (apache-spark) [default], iteration 352 started ======
+====== dec-tree (apache-spark) [default], iteration 352 completed (871.921 ms) ======
+====== dec-tree (apache-spark) [default], iteration 353 started ======
+====== dec-tree (apache-spark) [default], iteration 353 completed (726.241 ms) ======
+====== dec-tree (apache-spark) [default], iteration 354 started ======
+====== dec-tree (apache-spark) [default], iteration 354 completed (723.922 ms) ======
+====== dec-tree (apache-spark) [default], iteration 355 started ======
+====== dec-tree (apache-spark) [default], iteration 355 completed (759.267 ms) ======
+====== dec-tree (apache-spark) [default], iteration 356 started ======
+====== dec-tree (apache-spark) [default], iteration 356 completed (741.317 ms) ======
+====== dec-tree (apache-spark) [default], iteration 357 started ======
+====== dec-tree (apache-spark) [default], iteration 357 completed (728.031 ms) ======
+====== dec-tree (apache-spark) [default], iteration 358 started ======
+====== dec-tree (apache-spark) [default], iteration 358 completed (741.653 ms) ======
+====== dec-tree (apache-spark) [default], iteration 359 started ======
+====== dec-tree (apache-spark) [default], iteration 359 completed (733.265 ms) ======
+====== dec-tree (apache-spark) [default], iteration 360 started ======
+====== dec-tree (apache-spark) [default], iteration 360 completed (956.431 ms) ======
+====== dec-tree (apache-spark) [default], iteration 361 started ======
+====== dec-tree (apache-spark) [default], iteration 361 completed (904.828 ms) ======
+====== dec-tree (apache-spark) [default], iteration 362 started ======
+====== dec-tree (apache-spark) [default], iteration 362 completed (753.866 ms) ======
+====== dec-tree (apache-spark) [default], iteration 363 started ======
+====== dec-tree (apache-spark) [default], iteration 363 completed (720.416 ms) ======
+====== dec-tree (apache-spark) [default], iteration 364 started ======
+====== dec-tree (apache-spark) [default], iteration 364 completed (710.666 ms) ======
+====== dec-tree (apache-spark) [default], iteration 365 started ======
+====== dec-tree (apache-spark) [default], iteration 365 completed (717.962 ms) ======
+====== dec-tree (apache-spark) [default], iteration 366 started ======
+====== dec-tree (apache-spark) [default], iteration 366 completed (727.322 ms) ======
+====== dec-tree (apache-spark) [default], iteration 367 started ======
+====== dec-tree (apache-spark) [default], iteration 367 completed (725.855 ms) ======
+====== dec-tree (apache-spark) [default], iteration 368 started ======
+====== dec-tree (apache-spark) [default], iteration 368 completed (977.576 ms) ======
+====== dec-tree (apache-spark) [default], iteration 369 started ======
+====== dec-tree (apache-spark) [default], iteration 369 completed (737.818 ms) ======
+====== dec-tree (apache-spark) [default], iteration 370 started ======
+====== dec-tree (apache-spark) [default], iteration 370 completed (717.407 ms) ======
+====== dec-tree (apache-spark) [default], iteration 371 started ======
+====== dec-tree (apache-spark) [default], iteration 371 completed (718.718 ms) ======
+====== dec-tree (apache-spark) [default], iteration 372 started ======
+====== dec-tree (apache-spark) [default], iteration 372 completed (724.915 ms) ======
+====== dec-tree (apache-spark) [default], iteration 373 started ======
+====== dec-tree (apache-spark) [default], iteration 373 completed (729.194 ms) ======
+====== dec-tree (apache-spark) [default], iteration 374 started ======
+====== dec-tree (apache-spark) [default], iteration 374 completed (721.151 ms) ======
+====== dec-tree (apache-spark) [default], iteration 375 started ======
+====== dec-tree (apache-spark) [default], iteration 375 completed (766.590 ms) ======
+====== dec-tree (apache-spark) [default], iteration 376 started ======
+====== dec-tree (apache-spark) [default], iteration 376 completed (917.146 ms) ======
+====== dec-tree (apache-spark) [default], iteration 377 started ======
+====== dec-tree (apache-spark) [default], iteration 377 completed (737.528 ms) ======
+====== dec-tree (apache-spark) [default], iteration 378 started ======
+====== dec-tree (apache-spark) [default], iteration 378 completed (730.320 ms) ======
+====== dec-tree (apache-spark) [default], iteration 379 started ======
+====== dec-tree (apache-spark) [default], iteration 379 completed (722.839 ms) ======
+====== dec-tree (apache-spark) [default], iteration 380 started ======
+====== dec-tree (apache-spark) [default], iteration 380 completed (745.054 ms) ======
+====== dec-tree (apache-spark) [default], iteration 381 started ======
+====== dec-tree (apache-spark) [default], iteration 381 completed (711.115 ms) ======
+====== dec-tree (apache-spark) [default], iteration 382 started ======
+====== dec-tree (apache-spark) [default], iteration 382 completed (735.975 ms) ======
+====== dec-tree (apache-spark) [default], iteration 383 started ======
+====== dec-tree (apache-spark) [default], iteration 383 completed (759.565 ms) ======
+====== dec-tree (apache-spark) [default], iteration 384 started ======
+====== dec-tree (apache-spark) [default], iteration 384 completed (1038.902 ms) ======
+====== dec-tree (apache-spark) [default], iteration 385 started ======
+====== dec-tree (apache-spark) [default], iteration 385 completed (727.703 ms) ======
+====== dec-tree (apache-spark) [default], iteration 386 started ======
+====== dec-tree (apache-spark) [default], iteration 386 completed (710.806 ms) ======
+====== dec-tree (apache-spark) [default], iteration 387 started ======
+====== dec-tree (apache-spark) [default], iteration 387 completed (765.138 ms) ======
+====== dec-tree (apache-spark) [default], iteration 388 started ======
+====== dec-tree (apache-spark) [default], iteration 388 completed (732.637 ms) ======
+====== dec-tree (apache-spark) [default], iteration 389 started ======
+====== dec-tree (apache-spark) [default], iteration 389 completed (711.868 ms) ======
+====== dec-tree (apache-spark) [default], iteration 390 started ======
+====== dec-tree (apache-spark) [default], iteration 390 completed (708.396 ms) ======
+====== dec-tree (apache-spark) [default], iteration 391 started ======
+====== dec-tree (apache-spark) [default], iteration 391 completed (725.964 ms) ======
+====== dec-tree (apache-spark) [default], iteration 392 started ======
+====== dec-tree (apache-spark) [default], iteration 392 completed (840.234 ms) ======
+====== dec-tree (apache-spark) [default], iteration 393 started ======
+====== dec-tree (apache-spark) [default], iteration 393 completed (826.488 ms) ======
+====== dec-tree (apache-spark) [default], iteration 394 started ======
+====== dec-tree (apache-spark) [default], iteration 394 completed (751.086 ms) ======
+====== dec-tree (apache-spark) [default], iteration 395 started ======
+====== dec-tree (apache-spark) [default], iteration 395 completed (729.514 ms) ======
+====== dec-tree (apache-spark) [default], iteration 396 started ======
+====== dec-tree (apache-spark) [default], iteration 396 completed (715.822 ms) ======
+====== dec-tree (apache-spark) [default], iteration 397 started ======
+====== dec-tree (apache-spark) [default], iteration 397 completed (730.203 ms) ======
+====== dec-tree (apache-spark) [default], iteration 398 started ======
+====== dec-tree (apache-spark) [default], iteration 398 completed (728.119 ms) ======
+====== dec-tree (apache-spark) [default], iteration 399 started ======
+====== dec-tree (apache-spark) [default], iteration 399 completed (720.847 ms) ======
+====== dec-tree (apache-spark) [default], iteration 400 started ======
+====== dec-tree (apache-spark) [default], iteration 400 completed (726.648 ms) ======
+====== dec-tree (apache-spark) [default], iteration 401 started ======
+====== dec-tree (apache-spark) [default], iteration 401 completed (911.102 ms) ======
+====== dec-tree (apache-spark) [default], iteration 402 started ======
+====== dec-tree (apache-spark) [default], iteration 402 completed (733.298 ms) ======
+====== dec-tree (apache-spark) [default], iteration 403 started ======
+====== dec-tree (apache-spark) [default], iteration 403 completed (725.111 ms) ======
+====== dec-tree (apache-spark) [default], iteration 404 started ======
+====== dec-tree (apache-spark) [default], iteration 404 completed (704.970 ms) ======
+====== dec-tree (apache-spark) [default], iteration 405 started ======
+====== dec-tree (apache-spark) [default], iteration 405 completed (748.264 ms) ======
+====== dec-tree (apache-spark) [default], iteration 406 started ======
+====== dec-tree (apache-spark) [default], iteration 406 completed (736.902 ms) ======
+====== dec-tree (apache-spark) [default], iteration 407 started ======
+====== dec-tree (apache-spark) [default], iteration 407 completed (759.406 ms) ======
+====== dec-tree (apache-spark) [default], iteration 408 started ======
+====== dec-tree (apache-spark) [default], iteration 408 completed (718.261 ms) ======
+====== dec-tree (apache-spark) [default], iteration 409 started ======
+====== dec-tree (apache-spark) [default], iteration 409 completed (839.266 ms) ======
+====== dec-tree (apache-spark) [default], iteration 410 started ======
+====== dec-tree (apache-spark) [default], iteration 410 completed (863.085 ms) ======
+====== dec-tree (apache-spark) [default], iteration 411 started ======
+====== dec-tree (apache-spark) [default], iteration 411 completed (759.192 ms) ======
+====== dec-tree (apache-spark) [default], iteration 412 started ======
+====== dec-tree (apache-spark) [default], iteration 412 completed (740.482 ms) ======
+====== dec-tree (apache-spark) [default], iteration 413 started ======
+====== dec-tree (apache-spark) [default], iteration 413 completed (739.408 ms) ======
+====== dec-tree (apache-spark) [default], iteration 414 started ======
+====== dec-tree (apache-spark) [default], iteration 414 completed (725.955 ms) ======
+====== dec-tree (apache-spark) [default], iteration 415 started ======
+====== dec-tree (apache-spark) [default], iteration 415 completed (752.559 ms) ======
+====== dec-tree (apache-spark) [default], iteration 416 started ======
+====== dec-tree (apache-spark) [default], iteration 416 completed (722.285 ms) ======
+====== dec-tree (apache-spark) [default], iteration 417 started ======
+====== dec-tree (apache-spark) [default], iteration 417 completed (883.306 ms) ======
+====== dec-tree (apache-spark) [default], iteration 418 started ======
+====== dec-tree (apache-spark) [default], iteration 418 completed (968.184 ms) ======
+====== dec-tree (apache-spark) [default], iteration 419 started ======
+====== dec-tree (apache-spark) [default], iteration 419 completed (727.682 ms) ======
+====== dec-tree (apache-spark) [default], iteration 420 started ======
+====== dec-tree (apache-spark) [default], iteration 420 completed (706.739 ms) ======
+====== dec-tree (apache-spark) [default], iteration 421 started ======
+====== dec-tree (apache-spark) [default], iteration 421 completed (727.126 ms) ======
+====== dec-tree (apache-spark) [default], iteration 422 started ======
+====== dec-tree (apache-spark) [default], iteration 422 completed (723.438 ms) ======
+====== dec-tree (apache-spark) [default], iteration 423 started ======
+====== dec-tree (apache-spark) [default], iteration 423 completed (721.932 ms) ======
+====== dec-tree (apache-spark) [default], iteration 424 started ======
+====== dec-tree (apache-spark) [default], iteration 424 completed (710.596 ms) ======
+====== dec-tree (apache-spark) [default], iteration 425 started ======
+====== dec-tree (apache-spark) [default], iteration 425 completed (810.036 ms) ======
+====== dec-tree (apache-spark) [default], iteration 426 started ======
+====== dec-tree (apache-spark) [default], iteration 426 completed (957.715 ms) ======
+====== dec-tree (apache-spark) [default], iteration 427 started ======
+====== dec-tree (apache-spark) [default], iteration 427 completed (1080.086 ms) ======
+====== dec-tree (apache-spark) [default], iteration 428 started ======
+====== dec-tree (apache-spark) [default], iteration 428 completed (1120.285 ms) ======
+====== dec-tree (apache-spark) [default], iteration 429 started ======
+====== dec-tree (apache-spark) [default], iteration 429 completed (1540.394 ms) ======
+====== dec-tree (apache-spark) [default], iteration 430 started ======
+====== dec-tree (apache-spark) [default], iteration 430 completed (1519.349 ms) ======
+====== dec-tree (apache-spark) [default], iteration 431 started ======
+====== dec-tree (apache-spark) [default], iteration 431 completed (2200.257 ms) ======
+====== dec-tree (apache-spark) [default], iteration 432 started ======
+====== dec-tree (apache-spark) [default], iteration 432 completed (2099.117 ms) ======
+====== dec-tree (apache-spark) [default], iteration 433 started ======
+====== dec-tree (apache-spark) [default], iteration 433 completed (1522.683 ms) ======
+====== dec-tree (apache-spark) [default], iteration 434 started ======
+====== dec-tree (apache-spark) [default], iteration 434 completed (1236.869 ms) ======
+====== dec-tree (apache-spark) [default], iteration 435 started ======
+====== dec-tree (apache-spark) [default], iteration 435 completed (1042.918 ms) ======
+====== dec-tree (apache-spark) [default], iteration 436 started ======
+====== dec-tree (apache-spark) [default], iteration 436 completed (985.367 ms) ======
+====== dec-tree (apache-spark) [default], iteration 437 started ======
+====== dec-tree (apache-spark) [default], iteration 437 completed (953.497 ms) ======
+====== dec-tree (apache-spark) [default], iteration 438 started ======
+====== dec-tree (apache-spark) [default], iteration 438 completed (998.852 ms) ======
+====== dec-tree (apache-spark) [default], iteration 439 started ======
+====== dec-tree (apache-spark) [default], iteration 439 completed (963.541 ms) ======
+====== dec-tree (apache-spark) [default], iteration 440 started ======
+====== dec-tree (apache-spark) [default], iteration 440 completed (1095.802 ms) ======
+====== dec-tree (apache-spark) [default], iteration 441 started ======
+====== dec-tree (apache-spark) [default], iteration 441 completed (1291.484 ms) ======
+====== dec-tree (apache-spark) [default], iteration 442 started ======
+====== dec-tree (apache-spark) [default], iteration 442 completed (1033.014 ms) ======
+====== dec-tree (apache-spark) [default], iteration 443 started ======
+====== dec-tree (apache-spark) [default], iteration 443 completed (726.773 ms) ======
+====== dec-tree (apache-spark) [default], iteration 444 started ======
+====== dec-tree (apache-spark) [default], iteration 444 completed (725.726 ms) ======
+====== dec-tree (apache-spark) [default], iteration 445 started ======
+====== dec-tree (apache-spark) [default], iteration 445 completed (709.410 ms) ======
+====== dec-tree (apache-spark) [default], iteration 446 started ======
+====== dec-tree (apache-spark) [default], iteration 446 completed (880.003 ms) ======
+====== dec-tree (apache-spark) [default], iteration 447 started ======
+====== dec-tree (apache-spark) [default], iteration 447 completed (755.738 ms) ======
+====== dec-tree (apache-spark) [default], iteration 448 started ======
+====== dec-tree (apache-spark) [default], iteration 448 completed (732.321 ms) ======
+====== dec-tree (apache-spark) [default], iteration 449 started ======
+====== dec-tree (apache-spark) [default], iteration 449 completed (715.963 ms) ======
+====== dec-tree (apache-spark) [default], iteration 450 started ======
+====== dec-tree (apache-spark) [default], iteration 450 completed (727.835 ms) ======
+====== dec-tree (apache-spark) [default], iteration 451 started ======
+====== dec-tree (apache-spark) [default], iteration 451 completed (717.962 ms) ======
+====== dec-tree (apache-spark) [default], iteration 452 started ======
+====== dec-tree (apache-spark) [default], iteration 452 completed (808.425 ms) ======
+====== dec-tree (apache-spark) [default], iteration 453 started ======
+====== dec-tree (apache-spark) [default], iteration 453 completed (793.591 ms) ======
+====== dec-tree (apache-spark) [default], iteration 454 started ======
+====== dec-tree (apache-spark) [default], iteration 454 completed (710.924 ms) ======
+====== dec-tree (apache-spark) [default], iteration 455 started ======
+====== dec-tree (apache-spark) [default], iteration 455 completed (717.433 ms) ======
+====== dec-tree (apache-spark) [default], iteration 456 started ======
+====== dec-tree (apache-spark) [default], iteration 456 completed (692.953 ms) ======
+====== dec-tree (apache-spark) [default], iteration 457 started ======
+====== dec-tree (apache-spark) [default], iteration 457 completed (709.350 ms) ======
+====== dec-tree (apache-spark) [default], iteration 458 started ======
+====== dec-tree (apache-spark) [default], iteration 458 completed (739.486 ms) ======
+====== dec-tree (apache-spark) [default], iteration 459 started ======
+====== dec-tree (apache-spark) [default], iteration 459 completed (697.771 ms) ======
+====== dec-tree (apache-spark) [default], iteration 460 started ======
+====== dec-tree (apache-spark) [default], iteration 460 completed (892.092 ms) ======
+====== dec-tree (apache-spark) [default], iteration 461 started ======
+====== dec-tree (apache-spark) [default], iteration 461 completed (771.537 ms) ======
+====== dec-tree (apache-spark) [default], iteration 462 started ======
+====== dec-tree (apache-spark) [default], iteration 462 completed (704.729 ms) ======
+====== dec-tree (apache-spark) [default], iteration 463 started ======
+====== dec-tree (apache-spark) [default], iteration 463 completed (707.294 ms) ======
+====== dec-tree (apache-spark) [default], iteration 464 started ======
+====== dec-tree (apache-spark) [default], iteration 464 completed (702.362 ms) ======
+====== dec-tree (apache-spark) [default], iteration 465 started ======
+====== dec-tree (apache-spark) [default], iteration 465 completed (702.076 ms) ======
+====== dec-tree (apache-spark) [default], iteration 466 started ======
+====== dec-tree (apache-spark) [default], iteration 466 completed (711.242 ms) ======
+====== dec-tree (apache-spark) [default], iteration 467 started ======
+====== dec-tree (apache-spark) [default], iteration 467 completed (724.603 ms) ======
+====== dec-tree (apache-spark) [default], iteration 468 started ======
+====== dec-tree (apache-spark) [default], iteration 468 completed (745.892 ms) ======
+====== dec-tree (apache-spark) [default], iteration 469 started ======
+====== dec-tree (apache-spark) [default], iteration 469 completed (893.031 ms) ======
+====== dec-tree (apache-spark) [default], iteration 470 started ======
+====== dec-tree (apache-spark) [default], iteration 470 completed (713.566 ms) ======
+====== dec-tree (apache-spark) [default], iteration 471 started ======
+====== dec-tree (apache-spark) [default], iteration 471 completed (768.412 ms) ======
+====== dec-tree (apache-spark) [default], iteration 472 started ======
+====== dec-tree (apache-spark) [default], iteration 472 completed (705.855 ms) ======
+====== dec-tree (apache-spark) [default], iteration 473 started ======
+====== dec-tree (apache-spark) [default], iteration 473 completed (700.888 ms) ======
+====== dec-tree (apache-spark) [default], iteration 474 started ======
+====== dec-tree (apache-spark) [default], iteration 474 completed (699.953 ms) ======
+====== dec-tree (apache-spark) [default], iteration 475 started ======
+====== dec-tree (apache-spark) [default], iteration 475 completed (707.782 ms) ======
+====== dec-tree (apache-spark) [default], iteration 476 started ======
+====== dec-tree (apache-spark) [default], iteration 476 completed (699.574 ms) ======
+====== dec-tree (apache-spark) [default], iteration 477 started ======
+====== dec-tree (apache-spark) [default], iteration 477 completed (753.671 ms) ======
+====== dec-tree (apache-spark) [default], iteration 478 started ======
+====== dec-tree (apache-spark) [default], iteration 478 completed (970.716 ms) ======
+====== dec-tree (apache-spark) [default], iteration 479 started ======
+====== dec-tree (apache-spark) [default], iteration 479 completed (716.244 ms) ======
+====== dec-tree (apache-spark) [default], iteration 480 started ======
+====== dec-tree (apache-spark) [default], iteration 480 completed (698.310 ms) ======
+====== dec-tree (apache-spark) [default], iteration 481 started ======
+====== dec-tree (apache-spark) [default], iteration 481 completed (705.929 ms) ======
+====== dec-tree (apache-spark) [default], iteration 482 started ======
+====== dec-tree (apache-spark) [default], iteration 482 completed (711.853 ms) ======
+====== dec-tree (apache-spark) [default], iteration 483 started ======
+====== dec-tree (apache-spark) [default], iteration 483 completed (721.088 ms) ======
+====== dec-tree (apache-spark) [default], iteration 484 started ======
+====== dec-tree (apache-spark) [default], iteration 484 completed (721.512 ms) ======
+====== dec-tree (apache-spark) [default], iteration 485 started ======
+====== dec-tree (apache-spark) [default], iteration 485 completed (694.855 ms) ======
+====== dec-tree (apache-spark) [default], iteration 486 started ======
+====== dec-tree (apache-spark) [default], iteration 486 completed (852.258 ms) ======
+====== dec-tree (apache-spark) [default], iteration 487 started ======
+====== dec-tree (apache-spark) [default], iteration 487 completed (782.482 ms) ======
+====== dec-tree (apache-spark) [default], iteration 488 started ======
+====== dec-tree (apache-spark) [default], iteration 488 completed (763.917 ms) ======
+====== dec-tree (apache-spark) [default], iteration 489 started ======
+====== dec-tree (apache-spark) [default], iteration 489 completed (710.658 ms) ======
+====== dec-tree (apache-spark) [default], iteration 490 started ======
+====== dec-tree (apache-spark) [default], iteration 490 completed (714.392 ms) ======
+====== dec-tree (apache-spark) [default], iteration 491 started ======
+====== dec-tree (apache-spark) [default], iteration 491 completed (696.500 ms) ======
+====== dec-tree (apache-spark) [default], iteration 492 started ======
+====== dec-tree (apache-spark) [default], iteration 492 completed (699.498 ms) ======
+====== dec-tree (apache-spark) [default], iteration 493 started ======
+====== dec-tree (apache-spark) [default], iteration 493 completed (700.682 ms) ======
+====== dec-tree (apache-spark) [default], iteration 494 started ======
+====== dec-tree (apache-spark) [default], iteration 494 completed (697.530 ms) ======
+====== dec-tree (apache-spark) [default], iteration 495 started ======
+====== dec-tree (apache-spark) [default], iteration 495 completed (934.359 ms) ======
+====== dec-tree (apache-spark) [default], iteration 496 started ======
+====== dec-tree (apache-spark) [default], iteration 496 completed (791.593 ms) ======
+====== dec-tree (apache-spark) [default], iteration 497 started ======
+====== dec-tree (apache-spark) [default], iteration 497 completed (741.436 ms) ======
+====== dec-tree (apache-spark) [default], iteration 498 started ======
+====== dec-tree (apache-spark) [default], iteration 498 completed (705.270 ms) ======
+====== dec-tree (apache-spark) [default], iteration 499 started ======
+====== dec-tree (apache-spark) [default], iteration 499 completed (713.522 ms) ======
+====== dec-tree (apache-spark) [default], iteration 500 started ======
+====== dec-tree (apache-spark) [default], iteration 500 completed (704.169 ms) ======
+====== dec-tree (apache-spark) [default], iteration 501 started ======
+====== dec-tree (apache-spark) [default], iteration 501 completed (693.428 ms) ======
+====== dec-tree (apache-spark) [default], iteration 502 started ======
+====== dec-tree (apache-spark) [default], iteration 502 completed (698.673 ms) ======
+====== dec-tree (apache-spark) [default], iteration 503 started ======
+====== dec-tree (apache-spark) [default], iteration 503 completed (709.946 ms) ======
+====== dec-tree (apache-spark) [default], iteration 504 started ======
+====== dec-tree (apache-spark) [default], iteration 504 completed (1027.975 ms) ======
+====== dec-tree (apache-spark) [default], iteration 505 started ======
+====== dec-tree (apache-spark) [default], iteration 505 completed (718.357 ms) ======
+====== dec-tree (apache-spark) [default], iteration 506 started ======
+====== dec-tree (apache-spark) [default], iteration 506 completed (701.896 ms) ======
+====== dec-tree (apache-spark) [default], iteration 507 started ======
+====== dec-tree (apache-spark) [default], iteration 507 completed (696.981 ms) ======
+====== dec-tree (apache-spark) [default], iteration 508 started ======
+====== dec-tree (apache-spark) [default], iteration 508 completed (693.435 ms) ======
+====== dec-tree (apache-spark) [default], iteration 509 started ======
+====== dec-tree (apache-spark) [default], iteration 509 completed (723.841 ms) ======
+====== dec-tree (apache-spark) [default], iteration 510 started ======
+====== dec-tree (apache-spark) [default], iteration 510 completed (725.180 ms) ======
+====== dec-tree (apache-spark) [default], iteration 511 started ======
+====== dec-tree (apache-spark) [default], iteration 511 completed (761.638 ms) ======
+====== dec-tree (apache-spark) [default], iteration 512 started ======
+====== dec-tree (apache-spark) [default], iteration 512 completed (895.795 ms) ======
+====== dec-tree (apache-spark) [default], iteration 513 started ======
+====== dec-tree (apache-spark) [default], iteration 513 completed (870.439 ms) ======
+====== dec-tree (apache-spark) [default], iteration 514 started ======
+====== dec-tree (apache-spark) [default], iteration 514 completed (708.810 ms) ======
+====== dec-tree (apache-spark) [default], iteration 515 started ======
+====== dec-tree (apache-spark) [default], iteration 515 completed (706.507 ms) ======
+====== dec-tree (apache-spark) [default], iteration 516 started ======
+====== dec-tree (apache-spark) [default], iteration 516 completed (706.049 ms) ======
+====== dec-tree (apache-spark) [default], iteration 517 started ======
+====== dec-tree (apache-spark) [default], iteration 517 completed (700.631 ms) ======
+====== dec-tree (apache-spark) [default], iteration 518 started ======
+====== dec-tree (apache-spark) [default], iteration 518 completed (721.215 ms) ======
+====== dec-tree (apache-spark) [default], iteration 519 started ======
+====== dec-tree (apache-spark) [default], iteration 519 completed (696.113 ms) ======
+====== dec-tree (apache-spark) [default], iteration 520 started ======
+====== dec-tree (apache-spark) [default], iteration 520 completed (694.420 ms) ======
+====== dec-tree (apache-spark) [default], iteration 521 started ======
+====== dec-tree (apache-spark) [default], iteration 521 completed (1028.569 ms) ======
+====== dec-tree (apache-spark) [default], iteration 522 started ======
+====== dec-tree (apache-spark) [default], iteration 522 completed (708.624 ms) ======
+====== dec-tree (apache-spark) [default], iteration 523 started ======
+====== dec-tree (apache-spark) [default], iteration 523 completed (727.601 ms) ======
+====== dec-tree (apache-spark) [default], iteration 524 started ======
+====== dec-tree (apache-spark) [default], iteration 524 completed (704.392 ms) ======
+====== dec-tree (apache-spark) [default], iteration 525 started ======
+====== dec-tree (apache-spark) [default], iteration 525 completed (709.882 ms) ======
+====== dec-tree (apache-spark) [default], iteration 526 started ======
+====== dec-tree (apache-spark) [default], iteration 526 completed (709.018 ms) ======
+====== dec-tree (apache-spark) [default], iteration 527 started ======
+====== dec-tree (apache-spark) [default], iteration 527 completed (721.063 ms) ======
+====== dec-tree (apache-spark) [default], iteration 528 started ======
+====== dec-tree (apache-spark) [default], iteration 528 completed (692.464 ms) ======
+====== dec-tree (apache-spark) [default], iteration 529 started ======
+====== dec-tree (apache-spark) [default], iteration 529 completed (833.657 ms) ======
+====== dec-tree (apache-spark) [default], iteration 530 started ======
+====== dec-tree (apache-spark) [default], iteration 530 completed (826.725 ms) ======
+====== dec-tree (apache-spark) [default], iteration 531 started ======
+====== dec-tree (apache-spark) [default], iteration 531 completed (709.706 ms) ======
+====== dec-tree (apache-spark) [default], iteration 532 started ======
+====== dec-tree (apache-spark) [default], iteration 532 completed (703.290 ms) ======
+====== dec-tree (apache-spark) [default], iteration 533 started ======
+====== dec-tree (apache-spark) [default], iteration 533 completed (740.570 ms) ======
+====== dec-tree (apache-spark) [default], iteration 534 started ======
+====== dec-tree (apache-spark) [default], iteration 534 completed (709.370 ms) ======
+====== dec-tree (apache-spark) [default], iteration 535 started ======
+====== dec-tree (apache-spark) [default], iteration 535 completed (705.200 ms) ======
+====== dec-tree (apache-spark) [default], iteration 536 started ======
+====== dec-tree (apache-spark) [default], iteration 536 completed (695.033 ms) ======
+====== dec-tree (apache-spark) [default], iteration 537 started ======
+====== dec-tree (apache-spark) [default], iteration 537 completed (759.648 ms) ======
+====== dec-tree (apache-spark) [default], iteration 538 started ======
+====== dec-tree (apache-spark) [default], iteration 538 completed (1046.984 ms) ======
+====== dec-tree (apache-spark) [default], iteration 539 started ======
+====== dec-tree (apache-spark) [default], iteration 539 completed (737.472 ms) ======
+====== dec-tree (apache-spark) [default], iteration 540 started ======
+====== dec-tree (apache-spark) [default], iteration 540 completed (695.860 ms) ======
+====== dec-tree (apache-spark) [default], iteration 541 started ======
+====== dec-tree (apache-spark) [default], iteration 541 completed (692.092 ms) ======
+====== dec-tree (apache-spark) [default], iteration 542 started ======
+====== dec-tree (apache-spark) [default], iteration 542 completed (697.293 ms) ======
+====== dec-tree (apache-spark) [default], iteration 543 started ======
+====== dec-tree (apache-spark) [default], iteration 543 completed (720.948 ms) ======
+====== dec-tree (apache-spark) [default], iteration 544 started ======
+====== dec-tree (apache-spark) [default], iteration 544 completed (700.026 ms) ======
+====== dec-tree (apache-spark) [default], iteration 545 started ======
+====== dec-tree (apache-spark) [default], iteration 545 completed (703.175 ms) ======
+====== dec-tree (apache-spark) [default], iteration 546 started ======
+====== dec-tree (apache-spark) [default], iteration 546 completed (766.571 ms) ======
+====== dec-tree (apache-spark) [default], iteration 547 started ======
+====== dec-tree (apache-spark) [default], iteration 547 completed (930.089 ms) ======
+====== dec-tree (apache-spark) [default], iteration 548 started ======
+====== dec-tree (apache-spark) [default], iteration 548 completed (729.311 ms) ======
+====== dec-tree (apache-spark) [default], iteration 549 started ======
+====== dec-tree (apache-spark) [default], iteration 549 completed (700.313 ms) ======
+====== dec-tree (apache-spark) [default], iteration 550 started ======
+====== dec-tree (apache-spark) [default], iteration 550 completed (716.518 ms) ======
+====== dec-tree (apache-spark) [default], iteration 551 started ======
+====== dec-tree (apache-spark) [default], iteration 551 completed (695.563 ms) ======
+====== dec-tree (apache-spark) [default], iteration 552 started ======
+====== dec-tree (apache-spark) [default], iteration 552 completed (713.778 ms) ======
+====== dec-tree (apache-spark) [default], iteration 553 started ======
+====== dec-tree (apache-spark) [default], iteration 553 completed (709.845 ms) ======
+====== dec-tree (apache-spark) [default], iteration 554 started ======
+====== dec-tree (apache-spark) [default], iteration 554 completed (713.889 ms) ======
+====== dec-tree (apache-spark) [default], iteration 555 started ======
+====== dec-tree (apache-spark) [default], iteration 555 completed (1000.094 ms) ======
+====== dec-tree (apache-spark) [default], iteration 556 started ======
+====== dec-tree (apache-spark) [default], iteration 556 completed (744.304 ms) ======
+====== dec-tree (apache-spark) [default], iteration 557 started ======
+====== dec-tree (apache-spark) [default], iteration 557 completed (722.772 ms) ======
+====== dec-tree (apache-spark) [default], iteration 558 started ======
+====== dec-tree (apache-spark) [default], iteration 558 completed (711.465 ms) ======
+====== dec-tree (apache-spark) [default], iteration 559 started ======
+====== dec-tree (apache-spark) [default], iteration 559 completed (720.477 ms) ======
+====== dec-tree (apache-spark) [default], iteration 560 started ======
+====== dec-tree (apache-spark) [default], iteration 560 completed (719.086 ms) ======
+====== dec-tree (apache-spark) [default], iteration 561 started ======
+====== dec-tree (apache-spark) [default], iteration 561 completed (722.933 ms) ======
+====== dec-tree (apache-spark) [default], iteration 562 started ======
+====== dec-tree (apache-spark) [default], iteration 562 completed (715.504 ms) ======
+====== dec-tree (apache-spark) [default], iteration 563 started ======
+====== dec-tree (apache-spark) [default], iteration 563 completed (764.512 ms) ======
+====== dec-tree (apache-spark) [default], iteration 564 started ======
+====== dec-tree (apache-spark) [default], iteration 564 completed (868.670 ms) ======
+====== dec-tree (apache-spark) [default], iteration 565 started ======
+====== dec-tree (apache-spark) [default], iteration 565 completed (723.387 ms) ======
+====== dec-tree (apache-spark) [default], iteration 566 started ======
+====== dec-tree (apache-spark) [default], iteration 566 completed (708.133 ms) ======
+====== dec-tree (apache-spark) [default], iteration 567 started ======
+====== dec-tree (apache-spark) [default], iteration 567 completed (708.330 ms) ======
+====== dec-tree (apache-spark) [default], iteration 568 started ======
+====== dec-tree (apache-spark) [default], iteration 568 completed (705.007 ms) ======
+====== dec-tree (apache-spark) [default], iteration 569 started ======
+====== dec-tree (apache-spark) [default], iteration 569 completed (706.068 ms) ======
+====== dec-tree (apache-spark) [default], iteration 570 started ======
+====== dec-tree (apache-spark) [default], iteration 570 completed (735.340 ms) ======
+====== dec-tree (apache-spark) [default], iteration 571 started ======
+====== dec-tree (apache-spark) [default], iteration 571 completed (706.875 ms) ======
+====== dec-tree (apache-spark) [default], iteration 572 started ======
+====== dec-tree (apache-spark) [default], iteration 572 completed (862.244 ms) ======
+====== dec-tree (apache-spark) [default], iteration 573 started ======
+====== dec-tree (apache-spark) [default], iteration 573 completed (739.381 ms) ======
+====== dec-tree (apache-spark) [default], iteration 574 started ======
+====== dec-tree (apache-spark) [default], iteration 574 completed (701.152 ms) ======
+====== dec-tree (apache-spark) [default], iteration 575 started ======
+====== dec-tree (apache-spark) [default], iteration 575 completed (714.300 ms) ======
+====== dec-tree (apache-spark) [default], iteration 576 started ======
+====== dec-tree (apache-spark) [default], iteration 576 completed (736.955 ms) ======
+====== dec-tree (apache-spark) [default], iteration 577 started ======
+====== dec-tree (apache-spark) [default], iteration 577 completed (713.506 ms) ======
+====== dec-tree (apache-spark) [default], iteration 578 started ======
+====== dec-tree (apache-spark) [default], iteration 578 completed (709.932 ms) ======
+====== dec-tree (apache-spark) [default], iteration 579 started ======
+====== dec-tree (apache-spark) [default], iteration 579 completed (737.732 ms) ======
+====== dec-tree (apache-spark) [default], iteration 580 started ======
+====== dec-tree (apache-spark) [default], iteration 580 completed (838.528 ms) ======
+====== dec-tree (apache-spark) [default], iteration 581 started ======
+====== dec-tree (apache-spark) [default], iteration 581 completed (836.329 ms) ======
+====== dec-tree (apache-spark) [default], iteration 582 started ======
+====== dec-tree (apache-spark) [default], iteration 582 completed (737.297 ms) ======
+====== dec-tree (apache-spark) [default], iteration 583 started ======
+====== dec-tree (apache-spark) [default], iteration 583 completed (715.946 ms) ======
+====== dec-tree (apache-spark) [default], iteration 584 started ======
+====== dec-tree (apache-spark) [default], iteration 584 completed (697.424 ms) ======
+====== dec-tree (apache-spark) [default], iteration 585 started ======
+====== dec-tree (apache-spark) [default], iteration 585 completed (717.917 ms) ======
+====== dec-tree (apache-spark) [default], iteration 586 started ======
+====== dec-tree (apache-spark) [default], iteration 586 completed (710.984 ms) ======
+====== dec-tree (apache-spark) [default], iteration 587 started ======
+====== dec-tree (apache-spark) [default], iteration 587 completed (707.388 ms) ======
+====== dec-tree (apache-spark) [default], iteration 588 started ======
+====== dec-tree (apache-spark) [default], iteration 588 completed (748.420 ms) ======
+====== dec-tree (apache-spark) [default], iteration 589 started ======
+====== dec-tree (apache-spark) [default], iteration 589 completed (970.529 ms) ======
+====== dec-tree (apache-spark) [default], iteration 590 started ======
+====== dec-tree (apache-spark) [default], iteration 590 completed (736.362 ms) ======
+====== dec-tree (apache-spark) [default], iteration 591 started ======
+====== dec-tree (apache-spark) [default], iteration 591 completed (714.153 ms) ======
+====== dec-tree (apache-spark) [default], iteration 592 started ======
+====== dec-tree (apache-spark) [default], iteration 592 completed (713.489 ms) ======
+====== dec-tree (apache-spark) [default], iteration 593 started ======
+====== dec-tree (apache-spark) [default], iteration 593 completed (794.481 ms) ======
+====== dec-tree (apache-spark) [default], iteration 594 started ======
+====== dec-tree (apache-spark) [default], iteration 594 completed (735.045 ms) ======
+====== dec-tree (apache-spark) [default], iteration 595 started ======
+====== dec-tree (apache-spark) [default], iteration 595 completed (690.376 ms) ======
+====== dec-tree (apache-spark) [default], iteration 596 started ======
+====== dec-tree (apache-spark) [default], iteration 596 completed (698.803 ms) ======
+====== dec-tree (apache-spark) [default], iteration 597 started ======
+====== dec-tree (apache-spark) [default], iteration 597 completed (760.685 ms) ======
+====== dec-tree (apache-spark) [default], iteration 598 started ======
+====== dec-tree (apache-spark) [default], iteration 598 completed (894.863 ms) ======
+====== dec-tree (apache-spark) [default], iteration 599 started ======
+====== dec-tree (apache-spark) [default], iteration 599 completed (730.858 ms) ======
+====== dec-tree (apache-spark) [default], iteration 600 started ======
+====== dec-tree (apache-spark) [default], iteration 600 completed (691.781 ms) ======
+====== dec-tree (apache-spark) [default], iteration 601 started ======
+====== dec-tree (apache-spark) [default], iteration 601 completed (696.835 ms) ======
+====== dec-tree (apache-spark) [default], iteration 602 started ======
+====== dec-tree (apache-spark) [default], iteration 602 completed (694.477 ms) ======
+====== dec-tree (apache-spark) [default], iteration 603 started ======
+====== dec-tree (apache-spark) [default], iteration 603 completed (712.966 ms) ======
+====== dec-tree (apache-spark) [default], iteration 604 started ======
+====== dec-tree (apache-spark) [default], iteration 604 completed (716.235 ms) ======
+====== dec-tree (apache-spark) [default], iteration 605 started ======
+====== dec-tree (apache-spark) [default], iteration 605 completed (702.234 ms) ======
+====== dec-tree (apache-spark) [default], iteration 606 started ======
+====== dec-tree (apache-spark) [default], iteration 606 completed (840.368 ms) ======
+====== dec-tree (apache-spark) [default], iteration 607 started ======
+====== dec-tree (apache-spark) [default], iteration 607 completed (764.864 ms) ======
+====== dec-tree (apache-spark) [default], iteration 608 started ======
+====== dec-tree (apache-spark) [default], iteration 608 completed (718.743 ms) ======
+====== dec-tree (apache-spark) [default], iteration 609 started ======
+====== dec-tree (apache-spark) [default], iteration 609 completed (702.723 ms) ======
+====== dec-tree (apache-spark) [default], iteration 610 started ======
+====== dec-tree (apache-spark) [default], iteration 610 completed (688.488 ms) ======
+====== dec-tree (apache-spark) [default], iteration 611 started ======
+====== dec-tree (apache-spark) [default], iteration 611 completed (717.367 ms) ======
+====== dec-tree (apache-spark) [default], iteration 612 started ======
+====== dec-tree (apache-spark) [default], iteration 612 completed (713.274 ms) ======
+====== dec-tree (apache-spark) [default], iteration 613 started ======
+====== dec-tree (apache-spark) [default], iteration 613 completed (694.623 ms) ======
+====== dec-tree (apache-spark) [default], iteration 614 started ======
+====== dec-tree (apache-spark) [default], iteration 614 completed (699.420 ms) ======
+====== dec-tree (apache-spark) [default], iteration 615 started ======
+====== dec-tree (apache-spark) [default], iteration 615 completed (883.631 ms) ======
+====== dec-tree (apache-spark) [default], iteration 616 started ======
+====== dec-tree (apache-spark) [default], iteration 616 completed (719.889 ms) ======
+====== dec-tree (apache-spark) [default], iteration 617 started ======
+====== dec-tree (apache-spark) [default], iteration 617 completed (706.310 ms) ======
+====== dec-tree (apache-spark) [default], iteration 618 started ======
+====== dec-tree (apache-spark) [default], iteration 618 completed (729.560 ms) ======
+====== dec-tree (apache-spark) [default], iteration 619 started ======
+====== dec-tree (apache-spark) [default], iteration 619 completed (727.883 ms) ======
+====== dec-tree (apache-spark) [default], iteration 620 started ======
+====== dec-tree (apache-spark) [default], iteration 620 completed (699.462 ms) ======
+====== dec-tree (apache-spark) [default], iteration 621 started ======
+====== dec-tree (apache-spark) [default], iteration 621 completed (696.423 ms) ======
+====== dec-tree (apache-spark) [default], iteration 622 started ======
+====== dec-tree (apache-spark) [default], iteration 622 completed (715.424 ms) ======
+====== dec-tree (apache-spark) [default], iteration 623 started ======
+====== dec-tree (apache-spark) [default], iteration 623 completed (763.438 ms) ======
+====== dec-tree (apache-spark) [default], iteration 624 started ======
+====== dec-tree (apache-spark) [default], iteration 624 completed (881.921 ms) ======
+====== dec-tree (apache-spark) [default], iteration 625 started ======
+====== dec-tree (apache-spark) [default], iteration 625 completed (743.977 ms) ======
+====== dec-tree (apache-spark) [default], iteration 626 started ======
+====== dec-tree (apache-spark) [default], iteration 626 completed (699.588 ms) ======
+====== dec-tree (apache-spark) [default], iteration 627 started ======
+====== dec-tree (apache-spark) [default], iteration 627 completed (707.350 ms) ======
+====== dec-tree (apache-spark) [default], iteration 628 started ======
+====== dec-tree (apache-spark) [default], iteration 628 completed (697.027 ms) ======
+====== dec-tree (apache-spark) [default], iteration 629 started ======
+====== dec-tree (apache-spark) [default], iteration 629 completed (713.188 ms) ======
+====== dec-tree (apache-spark) [default], iteration 630 started ======
+====== dec-tree (apache-spark) [default], iteration 630 completed (694.454 ms) ======
+====== dec-tree (apache-spark) [default], iteration 631 started ======
+====== dec-tree (apache-spark) [default], iteration 631 completed (688.962 ms) ======
+====== dec-tree (apache-spark) [default], iteration 632 started ======
+====== dec-tree (apache-spark) [default], iteration 632 completed (918.884 ms) ======
+====== dec-tree (apache-spark) [default], iteration 633 started ======
+====== dec-tree (apache-spark) [default], iteration 633 completed (783.629 ms) ======
+====== dec-tree (apache-spark) [default], iteration 634 started ======
+====== dec-tree (apache-spark) [default], iteration 634 completed (705.131 ms) ======
+====== dec-tree (apache-spark) [default], iteration 635 started ======
+====== dec-tree (apache-spark) [default], iteration 635 completed (689.607 ms) ======
+====== dec-tree (apache-spark) [default], iteration 636 started ======
+====== dec-tree (apache-spark) [default], iteration 636 completed (690.958 ms) ======
+====== dec-tree (apache-spark) [default], iteration 637 started ======
+====== dec-tree (apache-spark) [default], iteration 637 completed (704.635 ms) ======
+====== dec-tree (apache-spark) [default], iteration 638 started ======
+====== dec-tree (apache-spark) [default], iteration 638 completed (708.296 ms) ======
+====== dec-tree (apache-spark) [default], iteration 639 started ======
+====== dec-tree (apache-spark) [default], iteration 639 completed (728.784 ms) ======
+====== dec-tree (apache-spark) [default], iteration 640 started ======
+====== dec-tree (apache-spark) [default], iteration 640 completed (972.815 ms) ======
+====== dec-tree (apache-spark) [default], iteration 641 started ======
+====== dec-tree (apache-spark) [default], iteration 641 completed (772.140 ms) ======
+====== dec-tree (apache-spark) [default], iteration 642 started ======
+====== dec-tree (apache-spark) [default], iteration 642 completed (699.239 ms) ======
+====== dec-tree (apache-spark) [default], iteration 643 started ======
+====== dec-tree (apache-spark) [default], iteration 643 completed (704.902 ms) ======
+====== dec-tree (apache-spark) [default], iteration 644 started ======
+====== dec-tree (apache-spark) [default], iteration 644 completed (734.465 ms) ======
+====== dec-tree (apache-spark) [default], iteration 645 started ======
+====== dec-tree (apache-spark) [default], iteration 645 completed (697.102 ms) ======
+====== dec-tree (apache-spark) [default], iteration 646 started ======
+====== dec-tree (apache-spark) [default], iteration 646 completed (722.967 ms) ======
+====== dec-tree (apache-spark) [default], iteration 647 started ======
+====== dec-tree (apache-spark) [default], iteration 647 completed (700.101 ms) ======
+====== dec-tree (apache-spark) [default], iteration 648 started ======
+====== dec-tree (apache-spark) [default], iteration 648 completed (978.044 ms) ======
+====== dec-tree (apache-spark) [default], iteration 649 started ======
+====== dec-tree (apache-spark) [default], iteration 649 completed (762.102 ms) ======
+====== dec-tree (apache-spark) [default], iteration 650 started ======
+====== dec-tree (apache-spark) [default], iteration 650 completed (729.024 ms) ======
+====== dec-tree (apache-spark) [default], iteration 651 started ======
+====== dec-tree (apache-spark) [default], iteration 651 completed (693.243 ms) ======
+====== dec-tree (apache-spark) [default], iteration 652 started ======
+====== dec-tree (apache-spark) [default], iteration 652 completed (734.563 ms) ======
+====== dec-tree (apache-spark) [default], iteration 653 started ======
+====== dec-tree (apache-spark) [default], iteration 653 completed (703.681 ms) ======
+====== dec-tree (apache-spark) [default], iteration 654 started ======
+====== dec-tree (apache-spark) [default], iteration 654 completed (698.000 ms) ======
+====== dec-tree (apache-spark) [default], iteration 655 started ======
+====== dec-tree (apache-spark) [default], iteration 655 completed (702.526 ms) ======
+====== dec-tree (apache-spark) [default], iteration 656 started ======
+====== dec-tree (apache-spark) [default], iteration 656 completed (733.662 ms) ======
+====== dec-tree (apache-spark) [default], iteration 657 started ======
+====== dec-tree (apache-spark) [default], iteration 657 completed (888.454 ms) ======
+====== dec-tree (apache-spark) [default], iteration 658 started ======
+====== dec-tree (apache-spark) [default], iteration 658 completed (712.366 ms) ======
+====== dec-tree (apache-spark) [default], iteration 659 started ======
+====== dec-tree (apache-spark) [default], iteration 659 completed (701.666 ms) ======
+====== dec-tree (apache-spark) [default], iteration 660 started ======
+====== dec-tree (apache-spark) [default], iteration 660 completed (694.364 ms) ======
+====== dec-tree (apache-spark) [default], iteration 661 started ======
+====== dec-tree (apache-spark) [default], iteration 661 completed (694.333 ms) ======
+====== dec-tree (apache-spark) [default], iteration 662 started ======
+====== dec-tree (apache-spark) [default], iteration 662 completed (726.173 ms) ======
+====== dec-tree (apache-spark) [default], iteration 663 started ======
+====== dec-tree (apache-spark) [default], iteration 663 completed (756.300 ms) ======
+====== dec-tree (apache-spark) [default], iteration 664 started ======
+====== dec-tree (apache-spark) [default], iteration 664 completed (700.367 ms) ======
+====== dec-tree (apache-spark) [default], iteration 665 started ======
+====== dec-tree (apache-spark) [default], iteration 665 completed (917.051 ms) ======
+====== dec-tree (apache-spark) [default], iteration 666 started ======
+====== dec-tree (apache-spark) [default], iteration 666 completed (705.699 ms) ======
+====== dec-tree (apache-spark) [default], iteration 667 started ======
+====== dec-tree (apache-spark) [default], iteration 667 completed (704.874 ms) ======
+====== dec-tree (apache-spark) [default], iteration 668 started ======
+====== dec-tree (apache-spark) [default], iteration 668 completed (692.278 ms) ======
+====== dec-tree (apache-spark) [default], iteration 669 started ======
+====== dec-tree (apache-spark) [default], iteration 669 completed (714.606 ms) ======
+====== dec-tree (apache-spark) [default], iteration 670 started ======
+====== dec-tree (apache-spark) [default], iteration 670 completed (704.842 ms) ======
+====== dec-tree (apache-spark) [default], iteration 671 started ======
+====== dec-tree (apache-spark) [default], iteration 671 completed (723.142 ms) ======
+====== dec-tree (apache-spark) [default], iteration 672 started ======
+====== dec-tree (apache-spark) [default], iteration 672 completed (698.556 ms) ======
+====== dec-tree (apache-spark) [default], iteration 673 started ======
+====== dec-tree (apache-spark) [default], iteration 673 completed (903.700 ms) ======
+====== dec-tree (apache-spark) [default], iteration 674 started ======
+====== dec-tree (apache-spark) [default], iteration 674 completed (732.583 ms) ======
+====== dec-tree (apache-spark) [default], iteration 675 started ======
+====== dec-tree (apache-spark) [default], iteration 675 completed (710.676 ms) ======
+====== dec-tree (apache-spark) [default], iteration 676 started ======
+====== dec-tree (apache-spark) [default], iteration 676 completed (704.986 ms) ======
+====== dec-tree (apache-spark) [default], iteration 677 started ======
+====== dec-tree (apache-spark) [default], iteration 677 completed (701.707 ms) ======
+====== dec-tree (apache-spark) [default], iteration 678 started ======
+====== dec-tree (apache-spark) [default], iteration 678 completed (704.790 ms) ======
+====== dec-tree (apache-spark) [default], iteration 679 started ======
+====== dec-tree (apache-spark) [default], iteration 679 completed (724.674 ms) ======
+====== dec-tree (apache-spark) [default], iteration 680 started ======
+====== dec-tree (apache-spark) [default], iteration 680 completed (737.784 ms) ======
+====== dec-tree (apache-spark) [default], iteration 681 started ======
+====== dec-tree (apache-spark) [default], iteration 681 completed (877.784 ms) ======
+====== dec-tree (apache-spark) [default], iteration 682 started ======
+====== dec-tree (apache-spark) [default], iteration 682 completed (775.044 ms) ======
+====== dec-tree (apache-spark) [default], iteration 683 started ======
+====== dec-tree (apache-spark) [default], iteration 683 completed (709.762 ms) ======
+====== dec-tree (apache-spark) [default], iteration 684 started ======
+====== dec-tree (apache-spark) [default], iteration 684 completed (725.849 ms) ======
+====== dec-tree (apache-spark) [default], iteration 685 started ======
+====== dec-tree (apache-spark) [default], iteration 685 completed (700.070 ms) ======
+====== dec-tree (apache-spark) [default], iteration 686 started ======
+====== dec-tree (apache-spark) [default], iteration 686 completed (707.125 ms) ======
+====== dec-tree (apache-spark) [default], iteration 687 started ======
+====== dec-tree (apache-spark) [default], iteration 687 completed (731.743 ms) ======
+====== dec-tree (apache-spark) [default], iteration 688 started ======
+====== dec-tree (apache-spark) [default], iteration 688 completed (759.929 ms) ======
+====== dec-tree (apache-spark) [default], iteration 689 started ======
+====== dec-tree (apache-spark) [default], iteration 689 completed (707.460 ms) ======
+====== dec-tree (apache-spark) [default], iteration 690 started ======
+====== dec-tree (apache-spark) [default], iteration 690 completed (917.638 ms) ======
+====== dec-tree (apache-spark) [default], iteration 691 started ======
+====== dec-tree (apache-spark) [default], iteration 691 completed (708.675 ms) ======
+====== dec-tree (apache-spark) [default], iteration 692 started ======
+====== dec-tree (apache-spark) [default], iteration 692 completed (698.647 ms) ======
+====== dec-tree (apache-spark) [default], iteration 693 started ======
+====== dec-tree (apache-spark) [default], iteration 693 completed (710.109 ms) ======
+====== dec-tree (apache-spark) [default], iteration 694 started ======
+====== dec-tree (apache-spark) [default], iteration 694 completed (703.781 ms) ======
+====== dec-tree (apache-spark) [default], iteration 695 started ======
+====== dec-tree (apache-spark) [default], iteration 695 completed (715.385 ms) ======
+====== dec-tree (apache-spark) [default], iteration 696 started ======
+====== dec-tree (apache-spark) [default], iteration 696 completed (707.029 ms) ======
+====== dec-tree (apache-spark) [default], iteration 697 started ======
+====== dec-tree (apache-spark) [default], iteration 697 completed (713.846 ms) ======
+====== dec-tree (apache-spark) [default], iteration 698 started ======
+====== dec-tree (apache-spark) [default], iteration 698 completed (1017.441 ms) ======
+====== dec-tree (apache-spark) [default], iteration 699 started ======
+====== dec-tree (apache-spark) [default], iteration 699 completed (747.399 ms) ======
+====== dec-tree (apache-spark) [default], iteration 700 started ======
+====== dec-tree (apache-spark) [default], iteration 700 completed (709.489 ms) ======
+====== dec-tree (apache-spark) [default], iteration 701 started ======
+====== dec-tree (apache-spark) [default], iteration 701 completed (719.728 ms) ======
+====== dec-tree (apache-spark) [default], iteration 702 started ======
+====== dec-tree (apache-spark) [default], iteration 702 completed (711.060 ms) ======
+====== dec-tree (apache-spark) [default], iteration 703 started ======
+====== dec-tree (apache-spark) [default], iteration 703 completed (729.063 ms) ======
+====== dec-tree (apache-spark) [default], iteration 704 started ======
+====== dec-tree (apache-spark) [default], iteration 704 completed (698.018 ms) ======
+====== dec-tree (apache-spark) [default], iteration 705 started ======
+====== dec-tree (apache-spark) [default], iteration 705 completed (704.078 ms) ======
+====== dec-tree (apache-spark) [default], iteration 706 started ======
+====== dec-tree (apache-spark) [default], iteration 706 completed (898.308 ms) ======
+====== dec-tree (apache-spark) [default], iteration 707 started ======
+====== dec-tree (apache-spark) [default], iteration 707 completed (737.699 ms) ======
+====== dec-tree (apache-spark) [default], iteration 708 started ======
+====== dec-tree (apache-spark) [default], iteration 708 completed (723.554 ms) ======
+====== dec-tree (apache-spark) [default], iteration 709 started ======
+====== dec-tree (apache-spark) [default], iteration 709 completed (692.198 ms) ======
+====== dec-tree (apache-spark) [default], iteration 710 started ======
+====== dec-tree (apache-spark) [default], iteration 710 completed (721.429 ms) ======
+====== dec-tree (apache-spark) [default], iteration 711 started ======
+====== dec-tree (apache-spark) [default], iteration 711 completed (744.546 ms) ======
+====== dec-tree (apache-spark) [default], iteration 712 started ======
+====== dec-tree (apache-spark) [default], iteration 712 completed (699.705 ms) ======
+====== dec-tree (apache-spark) [default], iteration 713 started ======
+====== dec-tree (apache-spark) [default], iteration 713 completed (693.911 ms) ======
+====== dec-tree (apache-spark) [default], iteration 714 started ======
+====== dec-tree (apache-spark) [default], iteration 714 completed (919.475 ms) ======
+====== dec-tree (apache-spark) [default], iteration 715 started ======
+====== dec-tree (apache-spark) [default], iteration 715 completed (741.876 ms) ======
+====== dec-tree (apache-spark) [default], iteration 716 started ======
+====== dec-tree (apache-spark) [default], iteration 716 completed (709.557 ms) ======
+====== dec-tree (apache-spark) [default], iteration 717 started ======
+====== dec-tree (apache-spark) [default], iteration 717 completed (716.658 ms) ======
+====== dec-tree (apache-spark) [default], iteration 718 started ======
+====== dec-tree (apache-spark) [default], iteration 718 completed (725.886 ms) ======
+====== dec-tree (apache-spark) [default], iteration 719 started ======
+====== dec-tree (apache-spark) [default], iteration 719 completed (700.835 ms) ======
+====== dec-tree (apache-spark) [default], iteration 720 started ======
+====== dec-tree (apache-spark) [default], iteration 720 completed (693.219 ms) ======
+====== dec-tree (apache-spark) [default], iteration 721 started ======
+====== dec-tree (apache-spark) [default], iteration 721 completed (701.219 ms) ======
+====== dec-tree (apache-spark) [default], iteration 722 started ======
+====== dec-tree (apache-spark) [default], iteration 722 completed (851.666 ms) ======
+====== dec-tree (apache-spark) [default], iteration 723 started ======
+====== dec-tree (apache-spark) [default], iteration 723 completed (785.679 ms) ======
+====== dec-tree (apache-spark) [default], iteration 724 started ======
+====== dec-tree (apache-spark) [default], iteration 724 completed (715.351 ms) ======
+====== dec-tree (apache-spark) [default], iteration 725 started ======
+====== dec-tree (apache-spark) [default], iteration 725 completed (707.789 ms) ======
+====== dec-tree (apache-spark) [default], iteration 726 started ======
+====== dec-tree (apache-spark) [default], iteration 726 completed (694.606 ms) ======
+====== dec-tree (apache-spark) [default], iteration 727 started ======
+====== dec-tree (apache-spark) [default], iteration 727 completed (695.331 ms) ======
+====== dec-tree (apache-spark) [default], iteration 728 started ======
+====== dec-tree (apache-spark) [default], iteration 728 completed (712.766 ms) ======
+====== dec-tree (apache-spark) [default], iteration 729 started ======
+====== dec-tree (apache-spark) [default], iteration 729 completed (709.454 ms) ======
+====== dec-tree (apache-spark) [default], iteration 730 started ======
+====== dec-tree (apache-spark) [default], iteration 730 completed (818.496 ms) ======
+====== dec-tree (apache-spark) [default], iteration 731 started ======
+====== dec-tree (apache-spark) [default], iteration 731 completed (845.834 ms) ======
+====== dec-tree (apache-spark) [default], iteration 732 started ======
+====== dec-tree (apache-spark) [default], iteration 732 completed (724.190 ms) ======
+====== dec-tree (apache-spark) [default], iteration 733 started ======
+====== dec-tree (apache-spark) [default], iteration 733 completed (713.139 ms) ======
+====== dec-tree (apache-spark) [default], iteration 734 started ======
+====== dec-tree (apache-spark) [default], iteration 734 completed (695.286 ms) ======
+====== dec-tree (apache-spark) [default], iteration 735 started ======
+====== dec-tree (apache-spark) [default], iteration 735 completed (692.566 ms) ======
+====== dec-tree (apache-spark) [default], iteration 736 started ======
+====== dec-tree (apache-spark) [default], iteration 736 completed (703.470 ms) ======
+====== dec-tree (apache-spark) [default], iteration 737 started ======
+====== dec-tree (apache-spark) [default], iteration 737 completed (744.522 ms) ======
+====== dec-tree (apache-spark) [default], iteration 738 started ======
+====== dec-tree (apache-spark) [default], iteration 738 completed (742.549 ms) ======
+====== dec-tree (apache-spark) [default], iteration 739 started ======
+====== dec-tree (apache-spark) [default], iteration 739 completed (1052.780 ms) ======
+====== dec-tree (apache-spark) [default], iteration 740 started ======
+====== dec-tree (apache-spark) [default], iteration 740 completed (730.920 ms) ======
+====== dec-tree (apache-spark) [default], iteration 741 started ======
+====== dec-tree (apache-spark) [default], iteration 741 completed (713.029 ms) ======
+====== dec-tree (apache-spark) [default], iteration 742 started ======
+====== dec-tree (apache-spark) [default], iteration 742 completed (726.584 ms) ======
+====== dec-tree (apache-spark) [default], iteration 743 started ======
+====== dec-tree (apache-spark) [default], iteration 743 completed (686.050 ms) ======
+====== dec-tree (apache-spark) [default], iteration 744 started ======
+====== dec-tree (apache-spark) [default], iteration 744 completed (707.117 ms) ======
+====== dec-tree (apache-spark) [default], iteration 745 started ======
+====== dec-tree (apache-spark) [default], iteration 745 completed (734.490 ms) ======
+====== dec-tree (apache-spark) [default], iteration 746 started ======
+====== dec-tree (apache-spark) [default], iteration 746 completed (886.509 ms) ======
+====== dec-tree (apache-spark) [default], iteration 747 started ======
+====== dec-tree (apache-spark) [default], iteration 747 completed (746.185 ms) ======
+====== dec-tree (apache-spark) [default], iteration 748 started ======
+====== dec-tree (apache-spark) [default], iteration 748 completed (703.912 ms) ======
+====== dec-tree (apache-spark) [default], iteration 749 started ======
+====== dec-tree (apache-spark) [default], iteration 749 completed (703.504 ms) ======
+====== dec-tree (apache-spark) [default], iteration 750 started ======
+====== dec-tree (apache-spark) [default], iteration 750 completed (697.360 ms) ======
+====== dec-tree (apache-spark) [default], iteration 751 started ======
+====== dec-tree (apache-spark) [default], iteration 751 completed (700.007 ms) ======
+====== dec-tree (apache-spark) [default], iteration 752 started ======
+====== dec-tree (apache-spark) [default], iteration 752 completed (694.536 ms) ======
+====== dec-tree (apache-spark) [default], iteration 753 started ======
+====== dec-tree (apache-spark) [default], iteration 753 completed (742.778 ms) ======
+====== dec-tree (apache-spark) [default], iteration 754 started ======
+====== dec-tree (apache-spark) [default], iteration 754 completed (1002.526 ms) ======
+====== dec-tree (apache-spark) [default], iteration 755 started ======
+====== dec-tree (apache-spark) [default], iteration 755 completed (709.929 ms) ======
+OK: benchmark finished successfully
+CSV : ZGC-java25-2026-04-24/dec-tree/dec-tree.csv
+JSON: ZGC-java25-2026-04-24/dec-tree/dec-tree.json
+GC  : ZGC-java25-2026-04-24/dec-tree/dec-tree.gc.log

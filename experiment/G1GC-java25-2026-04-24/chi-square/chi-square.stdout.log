@@ -1,0 +1,2136 @@
+WARNING: A terminally deprecated method in sun.misc.Unsafe has been called
+WARNING: sun.misc.Unsafe::objectFieldOffset has been called by scala.runtime.LazyVals$ (resource:/shared/scala3-library_3-3.3.4.jar)
+WARNING: Please consider reporting this to the maintainers of class scala.runtime.LazyVals$
+WARNING: sun.misc.Unsafe::objectFieldOffset will be removed in a future release
+[jmx-memory plugin] WARNING: Unknown garbage collector G1 Concurrent GC.
+NOTE: 'chi-square' benchmark uses Spark local executor with 4 (out of 8) threads.
+====== chi-square (apache-spark) [default], iteration 0 started ======
+====== chi-square (apache-spark) [default], iteration 0 completed (4583.404 ms) ======
+====== chi-square (apache-spark) [default], iteration 1 started ======
+====== chi-square (apache-spark) [default], iteration 1 completed (1359.155 ms) ======
+====== chi-square (apache-spark) [default], iteration 2 started ======
+====== chi-square (apache-spark) [default], iteration 2 completed (1337.497 ms) ======
+====== chi-square (apache-spark) [default], iteration 3 started ======
+====== chi-square (apache-spark) [default], iteration 3 completed (1385.045 ms) ======
+====== chi-square (apache-spark) [default], iteration 4 started ======
+====== chi-square (apache-spark) [default], iteration 4 completed (597.613 ms) ======
+====== chi-square (apache-spark) [default], iteration 5 started ======
+====== chi-square (apache-spark) [default], iteration 5 completed (584.997 ms) ======
+====== chi-square (apache-spark) [default], iteration 6 started ======
+====== chi-square (apache-spark) [default], iteration 6 completed (799.941 ms) ======
+====== chi-square (apache-spark) [default], iteration 7 started ======
+====== chi-square (apache-spark) [default], iteration 7 completed (580.393 ms) ======
+====== chi-square (apache-spark) [default], iteration 8 started ======
+====== chi-square (apache-spark) [default], iteration 8 completed (565.592 ms) ======
+====== chi-square (apache-spark) [default], iteration 9 started ======
+====== chi-square (apache-spark) [default], iteration 9 completed (566.959 ms) ======
+====== chi-square (apache-spark) [default], iteration 10 started ======
+====== chi-square (apache-spark) [default], iteration 10 completed (795.105 ms) ======
+====== chi-square (apache-spark) [default], iteration 11 started ======
+====== chi-square (apache-spark) [default], iteration 11 completed (561.519 ms) ======
+====== chi-square (apache-spark) [default], iteration 12 started ======
+====== chi-square (apache-spark) [default], iteration 12 completed (560.570 ms) ======
+====== chi-square (apache-spark) [default], iteration 13 started ======
+====== chi-square (apache-spark) [default], iteration 13 completed (557.397 ms) ======
+====== chi-square (apache-spark) [default], iteration 14 started ======
+====== chi-square (apache-spark) [default], iteration 14 completed (771.896 ms) ======
+====== chi-square (apache-spark) [default], iteration 15 started ======
+====== chi-square (apache-spark) [default], iteration 15 completed (564.595 ms) ======
+====== chi-square (apache-spark) [default], iteration 16 started ======
+====== chi-square (apache-spark) [default], iteration 16 completed (570.475 ms) ======
+====== chi-square (apache-spark) [default], iteration 17 started ======
+====== chi-square (apache-spark) [default], iteration 17 completed (556.550 ms) ======
+====== chi-square (apache-spark) [default], iteration 18 started ======
+====== chi-square (apache-spark) [default], iteration 18 completed (780.703 ms) ======
+====== chi-square (apache-spark) [default], iteration 19 started ======
+====== chi-square (apache-spark) [default], iteration 19 completed (573.228 ms) ======
+====== chi-square (apache-spark) [default], iteration 20 started ======
+====== chi-square (apache-spark) [default], iteration 20 completed (555.844 ms) ======
+====== chi-square (apache-spark) [default], iteration 21 started ======
+====== chi-square (apache-spark) [default], iteration 21 completed (558.932 ms) ======
+====== chi-square (apache-spark) [default], iteration 22 started ======
+====== chi-square (apache-spark) [default], iteration 22 completed (555.022 ms) ======
+====== chi-square (apache-spark) [default], iteration 23 started ======
+====== chi-square (apache-spark) [default], iteration 23 completed (832.191 ms) ======
+====== chi-square (apache-spark) [default], iteration 24 started ======
+====== chi-square (apache-spark) [default], iteration 24 completed (553.912 ms) ======
+====== chi-square (apache-spark) [default], iteration 25 started ======
+====== chi-square (apache-spark) [default], iteration 25 completed (555.196 ms) ======
+====== chi-square (apache-spark) [default], iteration 26 started ======
+====== chi-square (apache-spark) [default], iteration 26 completed (552.078 ms) ======
+====== chi-square (apache-spark) [default], iteration 27 started ======
+====== chi-square (apache-spark) [default], iteration 27 completed (797.441 ms) ======
+====== chi-square (apache-spark) [default], iteration 28 started ======
+====== chi-square (apache-spark) [default], iteration 28 completed (551.472 ms) ======
+====== chi-square (apache-spark) [default], iteration 29 started ======
+====== chi-square (apache-spark) [default], iteration 29 completed (548.292 ms) ======
+====== chi-square (apache-spark) [default], iteration 30 started ======
+====== chi-square (apache-spark) [default], iteration 30 completed (559.664 ms) ======
+====== chi-square (apache-spark) [default], iteration 31 started ======
+====== chi-square (apache-spark) [default], iteration 31 completed (833.289 ms) ======
+====== chi-square (apache-spark) [default], iteration 32 started ======
+====== chi-square (apache-spark) [default], iteration 32 completed (555.329 ms) ======
+====== chi-square (apache-spark) [default], iteration 33 started ======
+====== chi-square (apache-spark) [default], iteration 33 completed (564.982 ms) ======
+====== chi-square (apache-spark) [default], iteration 34 started ======
+====== chi-square (apache-spark) [default], iteration 34 completed (563.286 ms) ======
+====== chi-square (apache-spark) [default], iteration 35 started ======
+====== chi-square (apache-spark) [default], iteration 35 completed (808.755 ms) ======
+====== chi-square (apache-spark) [default], iteration 36 started ======
+====== chi-square (apache-spark) [default], iteration 36 completed (556.788 ms) ======
+====== chi-square (apache-spark) [default], iteration 37 started ======
+====== chi-square (apache-spark) [default], iteration 37 completed (555.383 ms) ======
+====== chi-square (apache-spark) [default], iteration 38 started ======
+====== chi-square (apache-spark) [default], iteration 38 completed (550.971 ms) ======
+====== chi-square (apache-spark) [default], iteration 39 started ======
+====== chi-square (apache-spark) [default], iteration 39 completed (808.371 ms) ======
+====== chi-square (apache-spark) [default], iteration 40 started ======
+====== chi-square (apache-spark) [default], iteration 40 completed (556.327 ms) ======
+====== chi-square (apache-spark) [default], iteration 41 started ======
+====== chi-square (apache-spark) [default], iteration 41 completed (549.968 ms) ======
+====== chi-square (apache-spark) [default], iteration 42 started ======
+====== chi-square (apache-spark) [default], iteration 42 completed (552.523 ms) ======
+====== chi-square (apache-spark) [default], iteration 43 started ======
+====== chi-square (apache-spark) [default], iteration 43 completed (550.067 ms) ======
+====== chi-square (apache-spark) [default], iteration 44 started ======
+====== chi-square (apache-spark) [default], iteration 44 completed (818.451 ms) ======
+====== chi-square (apache-spark) [default], iteration 45 started ======
+====== chi-square (apache-spark) [default], iteration 45 completed (549.964 ms) ======
+====== chi-square (apache-spark) [default], iteration 46 started ======
+====== chi-square (apache-spark) [default], iteration 46 completed (549.925 ms) ======
+====== chi-square (apache-spark) [default], iteration 47 started ======
+====== chi-square (apache-spark) [default], iteration 47 completed (547.034 ms) ======
+====== chi-square (apache-spark) [default], iteration 48 started ======
+====== chi-square (apache-spark) [default], iteration 48 completed (676.251 ms) ======
+====== chi-square (apache-spark) [default], iteration 49 started ======
+====== chi-square (apache-spark) [default], iteration 49 completed (568.338 ms) ======
+====== chi-square (apache-spark) [default], iteration 50 started ======
+====== chi-square (apache-spark) [default], iteration 50 completed (547.087 ms) ======
+====== chi-square (apache-spark) [default], iteration 51 started ======
+====== chi-square (apache-spark) [default], iteration 51 completed (552.075 ms) ======
+====== chi-square (apache-spark) [default], iteration 52 started ======
+====== chi-square (apache-spark) [default], iteration 52 completed (687.254 ms) ======
+====== chi-square (apache-spark) [default], iteration 53 started ======
+====== chi-square (apache-spark) [default], iteration 53 completed (547.754 ms) ======
+====== chi-square (apache-spark) [default], iteration 54 started ======
+====== chi-square (apache-spark) [default], iteration 54 completed (547.225 ms) ======
+====== chi-square (apache-spark) [default], iteration 55 started ======
+====== chi-square (apache-spark) [default], iteration 55 completed (544.014 ms) ======
+====== chi-square (apache-spark) [default], iteration 56 started ======
+====== chi-square (apache-spark) [default], iteration 56 completed (674.954 ms) ======
+====== chi-square (apache-spark) [default], iteration 57 started ======
+====== chi-square (apache-spark) [default], iteration 57 completed (547.382 ms) ======
+====== chi-square (apache-spark) [default], iteration 58 started ======
+====== chi-square (apache-spark) [default], iteration 58 completed (549.312 ms) ======
+====== chi-square (apache-spark) [default], iteration 59 started ======
+====== chi-square (apache-spark) [default], iteration 59 completed (541.049 ms) ======
+====== chi-square (apache-spark) [default], iteration 60 started ======
+====== chi-square (apache-spark) [default], iteration 60 completed (545.587 ms) ======
+====== chi-square (apache-spark) [default], iteration 61 started ======
+====== chi-square (apache-spark) [default], iteration 61 completed (672.109 ms) ======
+====== chi-square (apache-spark) [default], iteration 62 started ======
+====== chi-square (apache-spark) [default], iteration 62 completed (545.520 ms) ======
+====== chi-square (apache-spark) [default], iteration 63 started ======
+====== chi-square (apache-spark) [default], iteration 63 completed (555.641 ms) ======
+====== chi-square (apache-spark) [default], iteration 64 started ======
+====== chi-square (apache-spark) [default], iteration 64 completed (555.118 ms) ======
+====== chi-square (apache-spark) [default], iteration 65 started ======
+====== chi-square (apache-spark) [default], iteration 65 completed (641.932 ms) ======
+====== chi-square (apache-spark) [default], iteration 66 started ======
+====== chi-square (apache-spark) [default], iteration 66 completed (551.999 ms) ======
+====== chi-square (apache-spark) [default], iteration 67 started ======
+====== chi-square (apache-spark) [default], iteration 67 completed (544.432 ms) ======
+====== chi-square (apache-spark) [default], iteration 68 started ======
+====== chi-square (apache-spark) [default], iteration 68 completed (551.683 ms) ======
+====== chi-square (apache-spark) [default], iteration 69 started ======
+====== chi-square (apache-spark) [default], iteration 69 completed (602.097 ms) ======
+====== chi-square (apache-spark) [default], iteration 70 started ======
+====== chi-square (apache-spark) [default], iteration 70 completed (547.916 ms) ======
+====== chi-square (apache-spark) [default], iteration 71 started ======
+====== chi-square (apache-spark) [default], iteration 71 completed (540.879 ms) ======
+====== chi-square (apache-spark) [default], iteration 72 started ======
+====== chi-square (apache-spark) [default], iteration 72 completed (546.294 ms) ======
+====== chi-square (apache-spark) [default], iteration 73 started ======
+====== chi-square (apache-spark) [default], iteration 73 completed (547.640 ms) ======
+====== chi-square (apache-spark) [default], iteration 74 started ======
+====== chi-square (apache-spark) [default], iteration 74 completed (595.227 ms) ======
+====== chi-square (apache-spark) [default], iteration 75 started ======
+====== chi-square (apache-spark) [default], iteration 75 completed (550.529 ms) ======
+====== chi-square (apache-spark) [default], iteration 76 started ======
+====== chi-square (apache-spark) [default], iteration 76 completed (569.855 ms) ======
+====== chi-square (apache-spark) [default], iteration 77 started ======
+====== chi-square (apache-spark) [default], iteration 77 completed (564.299 ms) ======
+====== chi-square (apache-spark) [default], iteration 78 started ======
+====== chi-square (apache-spark) [default], iteration 78 completed (608.196 ms) ======
+====== chi-square (apache-spark) [default], iteration 79 started ======
+====== chi-square (apache-spark) [default], iteration 79 completed (563.411 ms) ======
+====== chi-square (apache-spark) [default], iteration 80 started ======
+====== chi-square (apache-spark) [default], iteration 80 completed (542.450 ms) ======
+====== chi-square (apache-spark) [default], iteration 81 started ======
+====== chi-square (apache-spark) [default], iteration 81 completed (558.870 ms) ======
+====== chi-square (apache-spark) [default], iteration 82 started ======
+====== chi-square (apache-spark) [default], iteration 82 completed (604.204 ms) ======
+====== chi-square (apache-spark) [default], iteration 83 started ======
+====== chi-square (apache-spark) [default], iteration 83 completed (563.945 ms) ======
+====== chi-square (apache-spark) [default], iteration 84 started ======
+====== chi-square (apache-spark) [default], iteration 84 completed (552.009 ms) ======
+====== chi-square (apache-spark) [default], iteration 85 started ======
+====== chi-square (apache-spark) [default], iteration 85 completed (543.922 ms) ======
+====== chi-square (apache-spark) [default], iteration 86 started ======
+====== chi-square (apache-spark) [default], iteration 86 completed (545.490 ms) ======
+====== chi-square (apache-spark) [default], iteration 87 started ======
+====== chi-square (apache-spark) [default], iteration 87 completed (613.270 ms) ======
+====== chi-square (apache-spark) [default], iteration 88 started ======
+====== chi-square (apache-spark) [default], iteration 88 completed (550.540 ms) ======
+====== chi-square (apache-spark) [default], iteration 89 started ======
+====== chi-square (apache-spark) [default], iteration 89 completed (564.361 ms) ======
+====== chi-square (apache-spark) [default], iteration 90 started ======
+====== chi-square (apache-spark) [default], iteration 90 completed (547.131 ms) ======
+====== chi-square (apache-spark) [default], iteration 91 started ======
+====== chi-square (apache-spark) [default], iteration 91 completed (591.884 ms) ======
+====== chi-square (apache-spark) [default], iteration 92 started ======
+====== chi-square (apache-spark) [default], iteration 92 completed (547.668 ms) ======
+====== chi-square (apache-spark) [default], iteration 93 started ======
+====== chi-square (apache-spark) [default], iteration 93 completed (548.854 ms) ======
+====== chi-square (apache-spark) [default], iteration 94 started ======
+====== chi-square (apache-spark) [default], iteration 94 completed (548.643 ms) ======
+====== chi-square (apache-spark) [default], iteration 95 started ======
+====== chi-square (apache-spark) [default], iteration 95 completed (598.860 ms) ======
+====== chi-square (apache-spark) [default], iteration 96 started ======
+====== chi-square (apache-spark) [default], iteration 96 completed (551.511 ms) ======
+====== chi-square (apache-spark) [default], iteration 97 started ======
+====== chi-square (apache-spark) [default], iteration 97 completed (544.174 ms) ======
+====== chi-square (apache-spark) [default], iteration 98 started ======
+====== chi-square (apache-spark) [default], iteration 98 completed (546.703 ms) ======
+====== chi-square (apache-spark) [default], iteration 99 started ======
+====== chi-square (apache-spark) [default], iteration 99 completed (606.677 ms) ======
+====== chi-square (apache-spark) [default], iteration 100 started ======
+====== chi-square (apache-spark) [default], iteration 100 completed (555.416 ms) ======
+====== chi-square (apache-spark) [default], iteration 101 started ======
+====== chi-square (apache-spark) [default], iteration 101 completed (545.220 ms) ======
+====== chi-square (apache-spark) [default], iteration 102 started ======
+====== chi-square (apache-spark) [default], iteration 102 completed (543.406 ms) ======
+====== chi-square (apache-spark) [default], iteration 103 started ======
+====== chi-square (apache-spark) [default], iteration 103 completed (546.021 ms) ======
+====== chi-square (apache-spark) [default], iteration 104 started ======
+====== chi-square (apache-spark) [default], iteration 104 completed (597.054 ms) ======
+====== chi-square (apache-spark) [default], iteration 105 started ======
+====== chi-square (apache-spark) [default], iteration 105 completed (546.537 ms) ======
+====== chi-square (apache-spark) [default], iteration 106 started ======
+====== chi-square (apache-spark) [default], iteration 106 completed (552.897 ms) ======
+====== chi-square (apache-spark) [default], iteration 107 started ======
+====== chi-square (apache-spark) [default], iteration 107 completed (542.940 ms) ======
+====== chi-square (apache-spark) [default], iteration 108 started ======
+====== chi-square (apache-spark) [default], iteration 108 completed (592.427 ms) ======
+====== chi-square (apache-spark) [default], iteration 109 started ======
+====== chi-square (apache-spark) [default], iteration 109 completed (549.167 ms) ======
+====== chi-square (apache-spark) [default], iteration 110 started ======
+====== chi-square (apache-spark) [default], iteration 110 completed (541.695 ms) ======
+====== chi-square (apache-spark) [default], iteration 111 started ======
+====== chi-square (apache-spark) [default], iteration 111 completed (546.055 ms) ======
+====== chi-square (apache-spark) [default], iteration 112 started ======
+====== chi-square (apache-spark) [default], iteration 112 completed (597.485 ms) ======
+====== chi-square (apache-spark) [default], iteration 113 started ======
+====== chi-square (apache-spark) [default], iteration 113 completed (545.528 ms) ======
+====== chi-square (apache-spark) [default], iteration 114 started ======
+====== chi-square (apache-spark) [default], iteration 114 completed (542.290 ms) ======
+====== chi-square (apache-spark) [default], iteration 115 started ======
+====== chi-square (apache-spark) [default], iteration 115 completed (539.198 ms) ======
+====== chi-square (apache-spark) [default], iteration 116 started ======
+====== chi-square (apache-spark) [default], iteration 116 completed (544.136 ms) ======
+====== chi-square (apache-spark) [default], iteration 117 started ======
+====== chi-square (apache-spark) [default], iteration 117 completed (590.474 ms) ======
+====== chi-square (apache-spark) [default], iteration 118 started ======
+====== chi-square (apache-spark) [default], iteration 118 completed (543.486 ms) ======
+====== chi-square (apache-spark) [default], iteration 119 started ======
+====== chi-square (apache-spark) [default], iteration 119 completed (544.172 ms) ======
+====== chi-square (apache-spark) [default], iteration 120 started ======
+====== chi-square (apache-spark) [default], iteration 120 completed (543.651 ms) ======
+====== chi-square (apache-spark) [default], iteration 121 started ======
+====== chi-square (apache-spark) [default], iteration 121 completed (597.052 ms) ======
+====== chi-square (apache-spark) [default], iteration 122 started ======
+====== chi-square (apache-spark) [default], iteration 122 completed (553.281 ms) ======
+====== chi-square (apache-spark) [default], iteration 123 started ======
+====== chi-square (apache-spark) [default], iteration 123 completed (545.440 ms) ======
+====== chi-square (apache-spark) [default], iteration 124 started ======
+====== chi-square (apache-spark) [default], iteration 124 completed (538.916 ms) ======
+====== chi-square (apache-spark) [default], iteration 125 started ======
+====== chi-square (apache-spark) [default], iteration 125 completed (599.772 ms) ======
+====== chi-square (apache-spark) [default], iteration 126 started ======
+====== chi-square (apache-spark) [default], iteration 126 completed (554.648 ms) ======
+====== chi-square (apache-spark) [default], iteration 127 started ======
+====== chi-square (apache-spark) [default], iteration 127 completed (549.990 ms) ======
+====== chi-square (apache-spark) [default], iteration 128 started ======
+====== chi-square (apache-spark) [default], iteration 128 completed (542.798 ms) ======
+====== chi-square (apache-spark) [default], iteration 129 started ======
+====== chi-square (apache-spark) [default], iteration 129 completed (549.999 ms) ======
+====== chi-square (apache-spark) [default], iteration 130 started ======
+====== chi-square (apache-spark) [default], iteration 130 completed (623.145 ms) ======
+====== chi-square (apache-spark) [default], iteration 131 started ======
+====== chi-square (apache-spark) [default], iteration 131 completed (539.837 ms) ======
+====== chi-square (apache-spark) [default], iteration 132 started ======
+====== chi-square (apache-spark) [default], iteration 132 completed (547.248 ms) ======
+====== chi-square (apache-spark) [default], iteration 133 started ======
+====== chi-square (apache-spark) [default], iteration 133 completed (543.508 ms) ======
+====== chi-square (apache-spark) [default], iteration 134 started ======
+====== chi-square (apache-spark) [default], iteration 134 completed (620.642 ms) ======
+====== chi-square (apache-spark) [default], iteration 135 started ======
+====== chi-square (apache-spark) [default], iteration 135 completed (556.238 ms) ======
+====== chi-square (apache-spark) [default], iteration 136 started ======
+====== chi-square (apache-spark) [default], iteration 136 completed (556.909 ms) ======
+====== chi-square (apache-spark) [default], iteration 137 started ======
+====== chi-square (apache-spark) [default], iteration 137 completed (553.061 ms) ======
+====== chi-square (apache-spark) [default], iteration 138 started ======
+====== chi-square (apache-spark) [default], iteration 138 completed (612.848 ms) ======
+====== chi-square (apache-spark) [default], iteration 139 started ======
+====== chi-square (apache-spark) [default], iteration 139 completed (561.780 ms) ======
+====== chi-square (apache-spark) [default], iteration 140 started ======
+====== chi-square (apache-spark) [default], iteration 140 completed (559.543 ms) ======
+====== chi-square (apache-spark) [default], iteration 141 started ======
+====== chi-square (apache-spark) [default], iteration 141 completed (542.882 ms) ======
+====== chi-square (apache-spark) [default], iteration 142 started ======
+====== chi-square (apache-spark) [default], iteration 142 completed (546.047 ms) ======
+====== chi-square (apache-spark) [default], iteration 143 started ======
+====== chi-square (apache-spark) [default], iteration 143 completed (589.232 ms) ======
+====== chi-square (apache-spark) [default], iteration 144 started ======
+====== chi-square (apache-spark) [default], iteration 144 completed (543.106 ms) ======
+====== chi-square (apache-spark) [default], iteration 145 started ======
+====== chi-square (apache-spark) [default], iteration 145 completed (550.319 ms) ======
+====== chi-square (apache-spark) [default], iteration 146 started ======
+====== chi-square (apache-spark) [default], iteration 146 completed (544.062 ms) ======
+====== chi-square (apache-spark) [default], iteration 147 started ======
+====== chi-square (apache-spark) [default], iteration 147 completed (616.977 ms) ======
+====== chi-square (apache-spark) [default], iteration 148 started ======
+====== chi-square (apache-spark) [default], iteration 148 completed (542.725 ms) ======
+====== chi-square (apache-spark) [default], iteration 149 started ======
+====== chi-square (apache-spark) [default], iteration 149 completed (548.112 ms) ======
+====== chi-square (apache-spark) [default], iteration 150 started ======
+====== chi-square (apache-spark) [default], iteration 150 completed (543.354 ms) ======
+====== chi-square (apache-spark) [default], iteration 151 started ======
+====== chi-square (apache-spark) [default], iteration 151 completed (594.011 ms) ======
+====== chi-square (apache-spark) [default], iteration 152 started ======
+====== chi-square (apache-spark) [default], iteration 152 completed (547.003 ms) ======
+====== chi-square (apache-spark) [default], iteration 153 started ======
+====== chi-square (apache-spark) [default], iteration 153 completed (542.805 ms) ======
+====== chi-square (apache-spark) [default], iteration 154 started ======
+====== chi-square (apache-spark) [default], iteration 154 completed (553.188 ms) ======
+====== chi-square (apache-spark) [default], iteration 155 started ======
+====== chi-square (apache-spark) [default], iteration 155 completed (542.090 ms) ======
+====== chi-square (apache-spark) [default], iteration 156 started ======
+====== chi-square (apache-spark) [default], iteration 156 completed (585.861 ms) ======
+====== chi-square (apache-spark) [default], iteration 157 started ======
+====== chi-square (apache-spark) [default], iteration 157 completed (546.840 ms) ======
+====== chi-square (apache-spark) [default], iteration 158 started ======
+====== chi-square (apache-spark) [default], iteration 158 completed (544.215 ms) ======
+====== chi-square (apache-spark) [default], iteration 159 started ======
+====== chi-square (apache-spark) [default], iteration 159 completed (553.475 ms) ======
+====== chi-square (apache-spark) [default], iteration 160 started ======
+====== chi-square (apache-spark) [default], iteration 160 completed (594.820 ms) ======
+====== chi-square (apache-spark) [default], iteration 161 started ======
+====== chi-square (apache-spark) [default], iteration 161 completed (545.384 ms) ======
+====== chi-square (apache-spark) [default], iteration 162 started ======
+====== chi-square (apache-spark) [default], iteration 162 completed (541.312 ms) ======
+====== chi-square (apache-spark) [default], iteration 163 started ======
+====== chi-square (apache-spark) [default], iteration 163 completed (546.146 ms) ======
+====== chi-square (apache-spark) [default], iteration 164 started ======
+====== chi-square (apache-spark) [default], iteration 164 completed (589.929 ms) ======
+====== chi-square (apache-spark) [default], iteration 165 started ======
+====== chi-square (apache-spark) [default], iteration 165 completed (551.030 ms) ======
+====== chi-square (apache-spark) [default], iteration 166 started ======
+====== chi-square (apache-spark) [default], iteration 166 completed (548.141 ms) ======
+====== chi-square (apache-spark) [default], iteration 167 started ======
+====== chi-square (apache-spark) [default], iteration 167 completed (546.287 ms) ======
+====== chi-square (apache-spark) [default], iteration 168 started ======
+====== chi-square (apache-spark) [default], iteration 168 completed (538.757 ms) ======
+====== chi-square (apache-spark) [default], iteration 169 started ======
+====== chi-square (apache-spark) [default], iteration 169 completed (590.790 ms) ======
+====== chi-square (apache-spark) [default], iteration 170 started ======
+====== chi-square (apache-spark) [default], iteration 170 completed (557.275 ms) ======
+====== chi-square (apache-spark) [default], iteration 171 started ======
+====== chi-square (apache-spark) [default], iteration 171 completed (541.296 ms) ======
+====== chi-square (apache-spark) [default], iteration 172 started ======
+====== chi-square (apache-spark) [default], iteration 172 completed (553.307 ms) ======
+====== chi-square (apache-spark) [default], iteration 173 started ======
+====== chi-square (apache-spark) [default], iteration 173 completed (585.155 ms) ======
+====== chi-square (apache-spark) [default], iteration 174 started ======
+====== chi-square (apache-spark) [default], iteration 174 completed (545.139 ms) ======
+====== chi-square (apache-spark) [default], iteration 175 started ======
+====== chi-square (apache-spark) [default], iteration 175 completed (545.723 ms) ======
+====== chi-square (apache-spark) [default], iteration 176 started ======
+====== chi-square (apache-spark) [default], iteration 176 completed (544.841 ms) ======
+====== chi-square (apache-spark) [default], iteration 177 started ======
+====== chi-square (apache-spark) [default], iteration 177 completed (591.509 ms) ======
+====== chi-square (apache-spark) [default], iteration 178 started ======
+====== chi-square (apache-spark) [default], iteration 178 completed (541.756 ms) ======
+====== chi-square (apache-spark) [default], iteration 179 started ======
+====== chi-square (apache-spark) [default], iteration 179 completed (543.437 ms) ======
+====== chi-square (apache-spark) [default], iteration 180 started ======
+====== chi-square (apache-spark) [default], iteration 180 completed (550.172 ms) ======
+====== chi-square (apache-spark) [default], iteration 181 started ======
+====== chi-square (apache-spark) [default], iteration 181 completed (556.321 ms) ======
+====== chi-square (apache-spark) [default], iteration 182 started ======
+====== chi-square (apache-spark) [default], iteration 182 completed (586.780 ms) ======
+====== chi-square (apache-spark) [default], iteration 183 started ======
+====== chi-square (apache-spark) [default], iteration 183 completed (544.006 ms) ======
+====== chi-square (apache-spark) [default], iteration 184 started ======
+====== chi-square (apache-spark) [default], iteration 184 completed (541.577 ms) ======
+====== chi-square (apache-spark) [default], iteration 185 started ======
+====== chi-square (apache-spark) [default], iteration 185 completed (562.796 ms) ======
+====== chi-square (apache-spark) [default], iteration 186 started ======
+====== chi-square (apache-spark) [default], iteration 186 completed (624.006 ms) ======
+====== chi-square (apache-spark) [default], iteration 187 started ======
+====== chi-square (apache-spark) [default], iteration 187 completed (542.851 ms) ======
+====== chi-square (apache-spark) [default], iteration 188 started ======
+====== chi-square (apache-spark) [default], iteration 188 completed (543.127 ms) ======
+====== chi-square (apache-spark) [default], iteration 189 started ======
+====== chi-square (apache-spark) [default], iteration 189 completed (542.576 ms) ======
+====== chi-square (apache-spark) [default], iteration 190 started ======
+====== chi-square (apache-spark) [default], iteration 190 completed (590.463 ms) ======
+====== chi-square (apache-spark) [default], iteration 191 started ======
+====== chi-square (apache-spark) [default], iteration 191 completed (544.668 ms) ======
+====== chi-square (apache-spark) [default], iteration 192 started ======
+====== chi-square (apache-spark) [default], iteration 192 completed (562.188 ms) ======
+====== chi-square (apache-spark) [default], iteration 193 started ======
+====== chi-square (apache-spark) [default], iteration 193 completed (544.663 ms) ======
+====== chi-square (apache-spark) [default], iteration 194 started ======
+====== chi-square (apache-spark) [default], iteration 194 completed (544.773 ms) ======
+====== chi-square (apache-spark) [default], iteration 195 started ======
+====== chi-square (apache-spark) [default], iteration 195 completed (587.672 ms) ======
+====== chi-square (apache-spark) [default], iteration 196 started ======
+====== chi-square (apache-spark) [default], iteration 196 completed (553.403 ms) ======
+====== chi-square (apache-spark) [default], iteration 197 started ======
+====== chi-square (apache-spark) [default], iteration 197 completed (542.881 ms) ======
+====== chi-square (apache-spark) [default], iteration 198 started ======
+====== chi-square (apache-spark) [default], iteration 198 completed (541.337 ms) ======
+====== chi-square (apache-spark) [default], iteration 199 started ======
+====== chi-square (apache-spark) [default], iteration 199 completed (588.124 ms) ======
+====== chi-square (apache-spark) [default], iteration 200 started ======
+====== chi-square (apache-spark) [default], iteration 200 completed (552.651 ms) ======
+====== chi-square (apache-spark) [default], iteration 201 started ======
+====== chi-square (apache-spark) [default], iteration 201 completed (543.790 ms) ======
+====== chi-square (apache-spark) [default], iteration 202 started ======
+====== chi-square (apache-spark) [default], iteration 202 completed (542.709 ms) ======
+====== chi-square (apache-spark) [default], iteration 203 started ======
+====== chi-square (apache-spark) [default], iteration 203 completed (587.334 ms) ======
+====== chi-square (apache-spark) [default], iteration 204 started ======
+====== chi-square (apache-spark) [default], iteration 204 completed (541.815 ms) ======
+====== chi-square (apache-spark) [default], iteration 205 started ======
+====== chi-square (apache-spark) [default], iteration 205 completed (544.213 ms) ======
+====== chi-square (apache-spark) [default], iteration 206 started ======
+====== chi-square (apache-spark) [default], iteration 206 completed (542.080 ms) ======
+====== chi-square (apache-spark) [default], iteration 207 started ======
+====== chi-square (apache-spark) [default], iteration 207 completed (543.326 ms) ======
+====== chi-square (apache-spark) [default], iteration 208 started ======
+====== chi-square (apache-spark) [default], iteration 208 completed (585.065 ms) ======
+====== chi-square (apache-spark) [default], iteration 209 started ======
+====== chi-square (apache-spark) [default], iteration 209 completed (540.341 ms) ======
+====== chi-square (apache-spark) [default], iteration 210 started ======
+====== chi-square (apache-spark) [default], iteration 210 completed (543.330 ms) ======
+====== chi-square (apache-spark) [default], iteration 211 started ======
+====== chi-square (apache-spark) [default], iteration 211 completed (540.147 ms) ======
+====== chi-square (apache-spark) [default], iteration 212 started ======
+====== chi-square (apache-spark) [default], iteration 212 completed (599.843 ms) ======
+====== chi-square (apache-spark) [default], iteration 213 started ======
+====== chi-square (apache-spark) [default], iteration 213 completed (554.439 ms) ======
+====== chi-square (apache-spark) [default], iteration 214 started ======
+====== chi-square (apache-spark) [default], iteration 214 completed (547.737 ms) ======
+====== chi-square (apache-spark) [default], iteration 215 started ======
+====== chi-square (apache-spark) [default], iteration 215 completed (541.792 ms) ======
+====== chi-square (apache-spark) [default], iteration 216 started ======
+====== chi-square (apache-spark) [default], iteration 216 completed (602.987 ms) ======
+====== chi-square (apache-spark) [default], iteration 217 started ======
+====== chi-square (apache-spark) [default], iteration 217 completed (547.244 ms) ======
+====== chi-square (apache-spark) [default], iteration 218 started ======
+====== chi-square (apache-spark) [default], iteration 218 completed (541.998 ms) ======
+====== chi-square (apache-spark) [default], iteration 219 started ======
+====== chi-square (apache-spark) [default], iteration 219 completed (542.869 ms) ======
+====== chi-square (apache-spark) [default], iteration 220 started ======
+====== chi-square (apache-spark) [default], iteration 220 completed (542.187 ms) ======
+====== chi-square (apache-spark) [default], iteration 221 started ======
+====== chi-square (apache-spark) [default], iteration 221 completed (597.640 ms) ======
+====== chi-square (apache-spark) [default], iteration 222 started ======
+====== chi-square (apache-spark) [default], iteration 222 completed (543.145 ms) ======
+====== chi-square (apache-spark) [default], iteration 223 started ======
+====== chi-square (apache-spark) [default], iteration 223 completed (547.185 ms) ======
+====== chi-square (apache-spark) [default], iteration 224 started ======
+====== chi-square (apache-spark) [default], iteration 224 completed (552.884 ms) ======
+====== chi-square (apache-spark) [default], iteration 225 started ======
+====== chi-square (apache-spark) [default], iteration 225 completed (626.935 ms) ======
+====== chi-square (apache-spark) [default], iteration 226 started ======
+====== chi-square (apache-spark) [default], iteration 226 completed (546.997 ms) ======
+====== chi-square (apache-spark) [default], iteration 227 started ======
+====== chi-square (apache-spark) [default], iteration 227 completed (547.661 ms) ======
+====== chi-square (apache-spark) [default], iteration 228 started ======
+====== chi-square (apache-spark) [default], iteration 228 completed (543.700 ms) ======
+====== chi-square (apache-spark) [default], iteration 229 started ======
+====== chi-square (apache-spark) [default], iteration 229 completed (589.592 ms) ======
+====== chi-square (apache-spark) [default], iteration 230 started ======
+====== chi-square (apache-spark) [default], iteration 230 completed (546.251 ms) ======
+====== chi-square (apache-spark) [default], iteration 231 started ======
+====== chi-square (apache-spark) [default], iteration 231 completed (545.660 ms) ======
+====== chi-square (apache-spark) [default], iteration 232 started ======
+====== chi-square (apache-spark) [default], iteration 232 completed (546.549 ms) ======
+====== chi-square (apache-spark) [default], iteration 233 started ======
+====== chi-square (apache-spark) [default], iteration 233 completed (545.385 ms) ======
+====== chi-square (apache-spark) [default], iteration 234 started ======
+====== chi-square (apache-spark) [default], iteration 234 completed (580.922 ms) ======
+====== chi-square (apache-spark) [default], iteration 235 started ======
+====== chi-square (apache-spark) [default], iteration 235 completed (540.834 ms) ======
+====== chi-square (apache-spark) [default], iteration 236 started ======
+====== chi-square (apache-spark) [default], iteration 236 completed (543.350 ms) ======
+====== chi-square (apache-spark) [default], iteration 237 started ======
+====== chi-square (apache-spark) [default], iteration 237 completed (540.943 ms) ======
+====== chi-square (apache-spark) [default], iteration 238 started ======
+====== chi-square (apache-spark) [default], iteration 238 completed (584.900 ms) ======
+====== chi-square (apache-spark) [default], iteration 239 started ======
+====== chi-square (apache-spark) [default], iteration 239 completed (541.685 ms) ======
+====== chi-square (apache-spark) [default], iteration 240 started ======
+====== chi-square (apache-spark) [default], iteration 240 completed (548.483 ms) ======
+====== chi-square (apache-spark) [default], iteration 241 started ======
+====== chi-square (apache-spark) [default], iteration 241 completed (555.282 ms) ======
+====== chi-square (apache-spark) [default], iteration 242 started ======
+====== chi-square (apache-spark) [default], iteration 242 completed (590.710 ms) ======
+====== chi-square (apache-spark) [default], iteration 243 started ======
+====== chi-square (apache-spark) [default], iteration 243 completed (552.579 ms) ======
+====== chi-square (apache-spark) [default], iteration 244 started ======
+====== chi-square (apache-spark) [default], iteration 244 completed (565.579 ms) ======
+====== chi-square (apache-spark) [default], iteration 245 started ======
+====== chi-square (apache-spark) [default], iteration 245 completed (555.097 ms) ======
+====== chi-square (apache-spark) [default], iteration 246 started ======
+====== chi-square (apache-spark) [default], iteration 246 completed (565.791 ms) ======
+====== chi-square (apache-spark) [default], iteration 247 started ======
+====== chi-square (apache-spark) [default], iteration 247 completed (596.741 ms) ======
+====== chi-square (apache-spark) [default], iteration 248 started ======
+====== chi-square (apache-spark) [default], iteration 248 completed (555.266 ms) ======
+====== chi-square (apache-spark) [default], iteration 249 started ======
+====== chi-square (apache-spark) [default], iteration 249 completed (553.729 ms) ======
+====== chi-square (apache-spark) [default], iteration 250 started ======
+====== chi-square (apache-spark) [default], iteration 250 completed (557.381 ms) ======
+====== chi-square (apache-spark) [default], iteration 251 started ======
+====== chi-square (apache-spark) [default], iteration 251 completed (594.474 ms) ======
+====== chi-square (apache-spark) [default], iteration 252 started ======
+====== chi-square (apache-spark) [default], iteration 252 completed (541.631 ms) ======
+====== chi-square (apache-spark) [default], iteration 253 started ======
+====== chi-square (apache-spark) [default], iteration 253 completed (540.495 ms) ======
+====== chi-square (apache-spark) [default], iteration 254 started ======
+====== chi-square (apache-spark) [default], iteration 254 completed (536.937 ms) ======
+====== chi-square (apache-spark) [default], iteration 255 started ======
+====== chi-square (apache-spark) [default], iteration 255 completed (616.458 ms) ======
+====== chi-square (apache-spark) [default], iteration 256 started ======
+====== chi-square (apache-spark) [default], iteration 256 completed (546.663 ms) ======
+====== chi-square (apache-spark) [default], iteration 257 started ======
+====== chi-square (apache-spark) [default], iteration 257 completed (547.594 ms) ======
+====== chi-square (apache-spark) [default], iteration 258 started ======
+====== chi-square (apache-spark) [default], iteration 258 completed (545.804 ms) ======
+====== chi-square (apache-spark) [default], iteration 259 started ======
+====== chi-square (apache-spark) [default], iteration 259 completed (544.699 ms) ======
+====== chi-square (apache-spark) [default], iteration 260 started ======
+====== chi-square (apache-spark) [default], iteration 260 completed (590.052 ms) ======
+====== chi-square (apache-spark) [default], iteration 261 started ======
+====== chi-square (apache-spark) [default], iteration 261 completed (542.662 ms) ======
+====== chi-square (apache-spark) [default], iteration 262 started ======
+====== chi-square (apache-spark) [default], iteration 262 completed (541.111 ms) ======
+====== chi-square (apache-spark) [default], iteration 263 started ======
+====== chi-square (apache-spark) [default], iteration 263 completed (537.441 ms) ======
+====== chi-square (apache-spark) [default], iteration 264 started ======
+====== chi-square (apache-spark) [default], iteration 264 completed (592.079 ms) ======
+====== chi-square (apache-spark) [default], iteration 265 started ======
+====== chi-square (apache-spark) [default], iteration 265 completed (546.590 ms) ======
+====== chi-square (apache-spark) [default], iteration 266 started ======
+====== chi-square (apache-spark) [default], iteration 266 completed (539.824 ms) ======
+====== chi-square (apache-spark) [default], iteration 267 started ======
+====== chi-square (apache-spark) [default], iteration 267 completed (541.068 ms) ======
+====== chi-square (apache-spark) [default], iteration 268 started ======
+====== chi-square (apache-spark) [default], iteration 268 completed (593.188 ms) ======
+====== chi-square (apache-spark) [default], iteration 269 started ======
+====== chi-square (apache-spark) [default], iteration 269 completed (540.777 ms) ======
+====== chi-square (apache-spark) [default], iteration 270 started ======
+====== chi-square (apache-spark) [default], iteration 270 completed (541.083 ms) ======
+====== chi-square (apache-spark) [default], iteration 271 started ======
+====== chi-square (apache-spark) [default], iteration 271 completed (539.121 ms) ======
+====== chi-square (apache-spark) [default], iteration 272 started ======
+====== chi-square (apache-spark) [default], iteration 272 completed (539.508 ms) ======
+====== chi-square (apache-spark) [default], iteration 273 started ======
+====== chi-square (apache-spark) [default], iteration 273 completed (593.670 ms) ======
+====== chi-square (apache-spark) [default], iteration 274 started ======
+====== chi-square (apache-spark) [default], iteration 274 completed (541.250 ms) ======
+====== chi-square (apache-spark) [default], iteration 275 started ======
+====== chi-square (apache-spark) [default], iteration 275 completed (542.387 ms) ======
+====== chi-square (apache-spark) [default], iteration 276 started ======
+====== chi-square (apache-spark) [default], iteration 276 completed (561.633 ms) ======
+====== chi-square (apache-spark) [default], iteration 277 started ======
+====== chi-square (apache-spark) [default], iteration 277 completed (595.652 ms) ======
+====== chi-square (apache-spark) [default], iteration 278 started ======
+====== chi-square (apache-spark) [default], iteration 278 completed (549.736 ms) ======
+====== chi-square (apache-spark) [default], iteration 279 started ======
+====== chi-square (apache-spark) [default], iteration 279 completed (544.930 ms) ======
+====== chi-square (apache-spark) [default], iteration 280 started ======
+====== chi-square (apache-spark) [default], iteration 280 completed (536.763 ms) ======
+====== chi-square (apache-spark) [default], iteration 281 started ======
+====== chi-square (apache-spark) [default], iteration 281 completed (599.450 ms) ======
+====== chi-square (apache-spark) [default], iteration 282 started ======
+====== chi-square (apache-spark) [default], iteration 282 completed (555.576 ms) ======
+====== chi-square (apache-spark) [default], iteration 283 started ======
+====== chi-square (apache-spark) [default], iteration 283 completed (554.596 ms) ======
+====== chi-square (apache-spark) [default], iteration 284 started ======
+====== chi-square (apache-spark) [default], iteration 284 completed (554.211 ms) ======
+====== chi-square (apache-spark) [default], iteration 285 started ======
+====== chi-square (apache-spark) [default], iteration 285 completed (551.704 ms) ======
+====== chi-square (apache-spark) [default], iteration 286 started ======
+====== chi-square (apache-spark) [default], iteration 286 completed (592.527 ms) ======
+====== chi-square (apache-spark) [default], iteration 287 started ======
+====== chi-square (apache-spark) [default], iteration 287 completed (551.474 ms) ======
+====== chi-square (apache-spark) [default], iteration 288 started ======
+====== chi-square (apache-spark) [default], iteration 288 completed (558.150 ms) ======
+====== chi-square (apache-spark) [default], iteration 289 started ======
+====== chi-square (apache-spark) [default], iteration 289 completed (540.933 ms) ======
+====== chi-square (apache-spark) [default], iteration 290 started ======
+====== chi-square (apache-spark) [default], iteration 290 completed (589.209 ms) ======
+====== chi-square (apache-spark) [default], iteration 291 started ======
+====== chi-square (apache-spark) [default], iteration 291 completed (544.646 ms) ======
+====== chi-square (apache-spark) [default], iteration 292 started ======
+====== chi-square (apache-spark) [default], iteration 292 completed (544.537 ms) ======
+====== chi-square (apache-spark) [default], iteration 293 started ======
+====== chi-square (apache-spark) [default], iteration 293 completed (551.029 ms) ======
+====== chi-square (apache-spark) [default], iteration 294 started ======
+====== chi-square (apache-spark) [default], iteration 294 completed (584.730 ms) ======
+====== chi-square (apache-spark) [default], iteration 295 started ======
+====== chi-square (apache-spark) [default], iteration 295 completed (538.275 ms) ======
+====== chi-square (apache-spark) [default], iteration 296 started ======
+====== chi-square (apache-spark) [default], iteration 296 completed (539.154 ms) ======
+====== chi-square (apache-spark) [default], iteration 297 started ======
+====== chi-square (apache-spark) [default], iteration 297 completed (544.547 ms) ======
+====== chi-square (apache-spark) [default], iteration 298 started ======
+====== chi-square (apache-spark) [default], iteration 298 completed (542.034 ms) ======
+====== chi-square (apache-spark) [default], iteration 299 started ======
+====== chi-square (apache-spark) [default], iteration 299 completed (603.673 ms) ======
+====== chi-square (apache-spark) [default], iteration 300 started ======
+====== chi-square (apache-spark) [default], iteration 300 completed (556.571 ms) ======
+====== chi-square (apache-spark) [default], iteration 301 started ======
+====== chi-square (apache-spark) [default], iteration 301 completed (552.541 ms) ======
+====== chi-square (apache-spark) [default], iteration 302 started ======
+====== chi-square (apache-spark) [default], iteration 302 completed (539.366 ms) ======
+====== chi-square (apache-spark) [default], iteration 303 started ======
+====== chi-square (apache-spark) [default], iteration 303 completed (585.497 ms) ======
+====== chi-square (apache-spark) [default], iteration 304 started ======
+====== chi-square (apache-spark) [default], iteration 304 completed (544.637 ms) ======
+====== chi-square (apache-spark) [default], iteration 305 started ======
+====== chi-square (apache-spark) [default], iteration 305 completed (552.463 ms) ======
+====== chi-square (apache-spark) [default], iteration 306 started ======
+====== chi-square (apache-spark) [default], iteration 306 completed (562.058 ms) ======
+====== chi-square (apache-spark) [default], iteration 307 started ======
+====== chi-square (apache-spark) [default], iteration 307 completed (591.060 ms) ======
+====== chi-square (apache-spark) [default], iteration 308 started ======
+====== chi-square (apache-spark) [default], iteration 308 completed (556.025 ms) ======
+====== chi-square (apache-spark) [default], iteration 309 started ======
+====== chi-square (apache-spark) [default], iteration 309 completed (555.631 ms) ======
+====== chi-square (apache-spark) [default], iteration 310 started ======
+====== chi-square (apache-spark) [default], iteration 310 completed (552.564 ms) ======
+====== chi-square (apache-spark) [default], iteration 311 started ======
+====== chi-square (apache-spark) [default], iteration 311 completed (538.601 ms) ======
+====== chi-square (apache-spark) [default], iteration 312 started ======
+====== chi-square (apache-spark) [default], iteration 312 completed (591.275 ms) ======
+====== chi-square (apache-spark) [default], iteration 313 started ======
+====== chi-square (apache-spark) [default], iteration 313 completed (547.321 ms) ======
+====== chi-square (apache-spark) [default], iteration 314 started ======
+====== chi-square (apache-spark) [default], iteration 314 completed (552.244 ms) ======
+====== chi-square (apache-spark) [default], iteration 315 started ======
+====== chi-square (apache-spark) [default], iteration 315 completed (544.514 ms) ======
+====== chi-square (apache-spark) [default], iteration 316 started ======
+====== chi-square (apache-spark) [default], iteration 316 completed (589.352 ms) ======
+====== chi-square (apache-spark) [default], iteration 317 started ======
+====== chi-square (apache-spark) [default], iteration 317 completed (559.429 ms) ======
+====== chi-square (apache-spark) [default], iteration 318 started ======
+====== chi-square (apache-spark) [default], iteration 318 completed (539.075 ms) ======
+====== chi-square (apache-spark) [default], iteration 319 started ======
+====== chi-square (apache-spark) [default], iteration 319 completed (542.255 ms) ======
+====== chi-square (apache-spark) [default], iteration 320 started ======
+====== chi-square (apache-spark) [default], iteration 320 completed (596.120 ms) ======
+====== chi-square (apache-spark) [default], iteration 321 started ======
+====== chi-square (apache-spark) [default], iteration 321 completed (540.398 ms) ======
+====== chi-square (apache-spark) [default], iteration 322 started ======
+====== chi-square (apache-spark) [default], iteration 322 completed (538.591 ms) ======
+====== chi-square (apache-spark) [default], iteration 323 started ======
+====== chi-square (apache-spark) [default], iteration 323 completed (539.760 ms) ======
+====== chi-square (apache-spark) [default], iteration 324 started ======
+====== chi-square (apache-spark) [default], iteration 324 completed (539.712 ms) ======
+====== chi-square (apache-spark) [default], iteration 325 started ======
+====== chi-square (apache-spark) [default], iteration 325 completed (585.041 ms) ======
+====== chi-square (apache-spark) [default], iteration 326 started ======
+====== chi-square (apache-spark) [default], iteration 326 completed (539.482 ms) ======
+====== chi-square (apache-spark) [default], iteration 327 started ======
+====== chi-square (apache-spark) [default], iteration 327 completed (537.940 ms) ======
+====== chi-square (apache-spark) [default], iteration 328 started ======
+====== chi-square (apache-spark) [default], iteration 328 completed (538.395 ms) ======
+====== chi-square (apache-spark) [default], iteration 329 started ======
+====== chi-square (apache-spark) [default], iteration 329 completed (588.689 ms) ======
+====== chi-square (apache-spark) [default], iteration 330 started ======
+====== chi-square (apache-spark) [default], iteration 330 completed (539.919 ms) ======
+====== chi-square (apache-spark) [default], iteration 331 started ======
+====== chi-square (apache-spark) [default], iteration 331 completed (538.667 ms) ======
+====== chi-square (apache-spark) [default], iteration 332 started ======
+====== chi-square (apache-spark) [default], iteration 332 completed (543.435 ms) ======
+====== chi-square (apache-spark) [default], iteration 333 started ======
+====== chi-square (apache-spark) [default], iteration 333 completed (629.189 ms) ======
+====== chi-square (apache-spark) [default], iteration 334 started ======
+====== chi-square (apache-spark) [default], iteration 334 completed (540.401 ms) ======
+====== chi-square (apache-spark) [default], iteration 335 started ======
+====== chi-square (apache-spark) [default], iteration 335 completed (541.437 ms) ======
+====== chi-square (apache-spark) [default], iteration 336 started ======
+====== chi-square (apache-spark) [default], iteration 336 completed (539.835 ms) ======
+====== chi-square (apache-spark) [default], iteration 337 started ======
+====== chi-square (apache-spark) [default], iteration 337 completed (603.843 ms) ======
+====== chi-square (apache-spark) [default], iteration 338 started ======
+====== chi-square (apache-spark) [default], iteration 338 completed (543.496 ms) ======
+====== chi-square (apache-spark) [default], iteration 339 started ======
+====== chi-square (apache-spark) [default], iteration 339 completed (547.549 ms) ======
+====== chi-square (apache-spark) [default], iteration 340 started ======
+====== chi-square (apache-spark) [default], iteration 340 completed (546.154 ms) ======
+====== chi-square (apache-spark) [default], iteration 341 started ======
+====== chi-square (apache-spark) [default], iteration 341 completed (547.244 ms) ======
+====== chi-square (apache-spark) [default], iteration 342 started ======
+====== chi-square (apache-spark) [default], iteration 342 completed (605.142 ms) ======
+====== chi-square (apache-spark) [default], iteration 343 started ======
+====== chi-square (apache-spark) [default], iteration 343 completed (542.544 ms) ======
+====== chi-square (apache-spark) [default], iteration 344 started ======
+====== chi-square (apache-spark) [default], iteration 344 completed (538.702 ms) ======
+====== chi-square (apache-spark) [default], iteration 345 started ======
+====== chi-square (apache-spark) [default], iteration 345 completed (544.021 ms) ======
+====== chi-square (apache-spark) [default], iteration 346 started ======
+====== chi-square (apache-spark) [default], iteration 346 completed (588.806 ms) ======
+====== chi-square (apache-spark) [default], iteration 347 started ======
+====== chi-square (apache-spark) [default], iteration 347 completed (536.519 ms) ======
+====== chi-square (apache-spark) [default], iteration 348 started ======
+====== chi-square (apache-spark) [default], iteration 348 completed (540.763 ms) ======
+====== chi-square (apache-spark) [default], iteration 349 started ======
+====== chi-square (apache-spark) [default], iteration 349 completed (538.641 ms) ======
+====== chi-square (apache-spark) [default], iteration 350 started ======
+====== chi-square (apache-spark) [default], iteration 350 completed (591.923 ms) ======
+====== chi-square (apache-spark) [default], iteration 351 started ======
+====== chi-square (apache-spark) [default], iteration 351 completed (546.504 ms) ======
+====== chi-square (apache-spark) [default], iteration 352 started ======
+====== chi-square (apache-spark) [default], iteration 352 completed (538.456 ms) ======
+====== chi-square (apache-spark) [default], iteration 353 started ======
+====== chi-square (apache-spark) [default], iteration 353 completed (543.983 ms) ======
+====== chi-square (apache-spark) [default], iteration 354 started ======
+====== chi-square (apache-spark) [default], iteration 354 completed (539.993 ms) ======
+====== chi-square (apache-spark) [default], iteration 355 started ======
+====== chi-square (apache-spark) [default], iteration 355 completed (586.587 ms) ======
+====== chi-square (apache-spark) [default], iteration 356 started ======
+====== chi-square (apache-spark) [default], iteration 356 completed (560.555 ms) ======
+====== chi-square (apache-spark) [default], iteration 357 started ======
+====== chi-square (apache-spark) [default], iteration 357 completed (566.519 ms) ======
+====== chi-square (apache-spark) [default], iteration 358 started ======
+====== chi-square (apache-spark) [default], iteration 358 completed (553.107 ms) ======
+====== chi-square (apache-spark) [default], iteration 359 started ======
+====== chi-square (apache-spark) [default], iteration 359 completed (595.249 ms) ======
+====== chi-square (apache-spark) [default], iteration 360 started ======
+====== chi-square (apache-spark) [default], iteration 360 completed (539.795 ms) ======
+====== chi-square (apache-spark) [default], iteration 361 started ======
+====== chi-square (apache-spark) [default], iteration 361 completed (539.150 ms) ======
+====== chi-square (apache-spark) [default], iteration 362 started ======
+====== chi-square (apache-spark) [default], iteration 362 completed (539.140 ms) ======
+====== chi-square (apache-spark) [default], iteration 363 started ======
+====== chi-square (apache-spark) [default], iteration 363 completed (596.128 ms) ======
+====== chi-square (apache-spark) [default], iteration 364 started ======
+====== chi-square (apache-spark) [default], iteration 364 completed (540.351 ms) ======
+====== chi-square (apache-spark) [default], iteration 365 started ======
+====== chi-square (apache-spark) [default], iteration 365 completed (537.286 ms) ======
+====== chi-square (apache-spark) [default], iteration 366 started ======
+====== chi-square (apache-spark) [default], iteration 366 completed (541.597 ms) ======
+====== chi-square (apache-spark) [default], iteration 367 started ======
+====== chi-square (apache-spark) [default], iteration 367 completed (538.597 ms) ======
+====== chi-square (apache-spark) [default], iteration 368 started ======
+====== chi-square (apache-spark) [default], iteration 368 completed (591.229 ms) ======
+====== chi-square (apache-spark) [default], iteration 369 started ======
+====== chi-square (apache-spark) [default], iteration 369 completed (539.916 ms) ======
+====== chi-square (apache-spark) [default], iteration 370 started ======
+====== chi-square (apache-spark) [default], iteration 370 completed (538.095 ms) ======
+====== chi-square (apache-spark) [default], iteration 371 started ======
+====== chi-square (apache-spark) [default], iteration 371 completed (541.992 ms) ======
+====== chi-square (apache-spark) [default], iteration 372 started ======
+====== chi-square (apache-spark) [default], iteration 372 completed (590.302 ms) ======
+====== chi-square (apache-spark) [default], iteration 373 started ======
+====== chi-square (apache-spark) [default], iteration 373 completed (541.433 ms) ======
+====== chi-square (apache-spark) [default], iteration 374 started ======
+====== chi-square (apache-spark) [default], iteration 374 completed (549.693 ms) ======
+====== chi-square (apache-spark) [default], iteration 375 started ======
+====== chi-square (apache-spark) [default], iteration 375 completed (543.389 ms) ======
+====== chi-square (apache-spark) [default], iteration 376 started ======
+====== chi-square (apache-spark) [default], iteration 376 completed (594.337 ms) ======
+====== chi-square (apache-spark) [default], iteration 377 started ======
+====== chi-square (apache-spark) [default], iteration 377 completed (539.820 ms) ======
+====== chi-square (apache-spark) [default], iteration 378 started ======
+====== chi-square (apache-spark) [default], iteration 378 completed (542.683 ms) ======
+====== chi-square (apache-spark) [default], iteration 379 started ======
+====== chi-square (apache-spark) [default], iteration 379 completed (536.818 ms) ======
+====== chi-square (apache-spark) [default], iteration 380 started ======
+====== chi-square (apache-spark) [default], iteration 380 completed (555.350 ms) ======
+====== chi-square (apache-spark) [default], iteration 381 started ======
+====== chi-square (apache-spark) [default], iteration 381 completed (597.096 ms) ======
+====== chi-square (apache-spark) [default], iteration 382 started ======
+====== chi-square (apache-spark) [default], iteration 382 completed (540.716 ms) ======
+====== chi-square (apache-spark) [default], iteration 383 started ======
+====== chi-square (apache-spark) [default], iteration 383 completed (547.222 ms) ======
+====== chi-square (apache-spark) [default], iteration 384 started ======
+====== chi-square (apache-spark) [default], iteration 384 completed (545.656 ms) ======
+====== chi-square (apache-spark) [default], iteration 385 started ======
+====== chi-square (apache-spark) [default], iteration 385 completed (592.257 ms) ======
+====== chi-square (apache-spark) [default], iteration 386 started ======
+====== chi-square (apache-spark) [default], iteration 386 completed (540.452 ms) ======
+====== chi-square (apache-spark) [default], iteration 387 started ======
+====== chi-square (apache-spark) [default], iteration 387 completed (543.294 ms) ======
+====== chi-square (apache-spark) [default], iteration 388 started ======
+====== chi-square (apache-spark) [default], iteration 388 completed (544.017 ms) ======
+====== chi-square (apache-spark) [default], iteration 389 started ======
+====== chi-square (apache-spark) [default], iteration 389 completed (591.226 ms) ======
+====== chi-square (apache-spark) [default], iteration 390 started ======
+====== chi-square (apache-spark) [default], iteration 390 completed (553.068 ms) ======
+====== chi-square (apache-spark) [default], iteration 391 started ======
+====== chi-square (apache-spark) [default], iteration 391 completed (539.590 ms) ======
+====== chi-square (apache-spark) [default], iteration 392 started ======
+====== chi-square (apache-spark) [default], iteration 392 completed (540.221 ms) ======
+====== chi-square (apache-spark) [default], iteration 393 started ======
+====== chi-square (apache-spark) [default], iteration 393 completed (541.064 ms) ======
+====== chi-square (apache-spark) [default], iteration 394 started ======
+====== chi-square (apache-spark) [default], iteration 394 completed (586.747 ms) ======
+====== chi-square (apache-spark) [default], iteration 395 started ======
+====== chi-square (apache-spark) [default], iteration 395 completed (537.784 ms) ======
+====== chi-square (apache-spark) [default], iteration 396 started ======
+====== chi-square (apache-spark) [default], iteration 396 completed (537.040 ms) ======
+====== chi-square (apache-spark) [default], iteration 397 started ======
+====== chi-square (apache-spark) [default], iteration 397 completed (543.679 ms) ======
+====== chi-square (apache-spark) [default], iteration 398 started ======
+====== chi-square (apache-spark) [default], iteration 398 completed (594.366 ms) ======
+====== chi-square (apache-spark) [default], iteration 399 started ======
+====== chi-square (apache-spark) [default], iteration 399 completed (537.863 ms) ======
+====== chi-square (apache-spark) [default], iteration 400 started ======
+====== chi-square (apache-spark) [default], iteration 400 completed (541.558 ms) ======
+====== chi-square (apache-spark) [default], iteration 401 started ======
+====== chi-square (apache-spark) [default], iteration 401 completed (539.346 ms) ======
+====== chi-square (apache-spark) [default], iteration 402 started ======
+====== chi-square (apache-spark) [default], iteration 402 completed (590.605 ms) ======
+====== chi-square (apache-spark) [default], iteration 403 started ======
+====== chi-square (apache-spark) [default], iteration 403 completed (562.089 ms) ======
+====== chi-square (apache-spark) [default], iteration 404 started ======
+====== chi-square (apache-spark) [default], iteration 404 completed (558.084 ms) ======
+====== chi-square (apache-spark) [default], iteration 405 started ======
+====== chi-square (apache-spark) [default], iteration 405 completed (556.192 ms) ======
+====== chi-square (apache-spark) [default], iteration 406 started ======
+====== chi-square (apache-spark) [default], iteration 406 completed (539.186 ms) ======
+====== chi-square (apache-spark) [default], iteration 407 started ======
+====== chi-square (apache-spark) [default], iteration 407 completed (603.556 ms) ======
+====== chi-square (apache-spark) [default], iteration 408 started ======
+====== chi-square (apache-spark) [default], iteration 408 completed (553.449 ms) ======
+====== chi-square (apache-spark) [default], iteration 409 started ======
+====== chi-square (apache-spark) [default], iteration 409 completed (538.793 ms) ======
+====== chi-square (apache-spark) [default], iteration 410 started ======
+====== chi-square (apache-spark) [default], iteration 410 completed (538.830 ms) ======
+====== chi-square (apache-spark) [default], iteration 411 started ======
+====== chi-square (apache-spark) [default], iteration 411 completed (593.411 ms) ======
+====== chi-square (apache-spark) [default], iteration 412 started ======
+====== chi-square (apache-spark) [default], iteration 412 completed (544.288 ms) ======
+====== chi-square (apache-spark) [default], iteration 413 started ======
+====== chi-square (apache-spark) [default], iteration 413 completed (538.904 ms) ======
+====== chi-square (apache-spark) [default], iteration 414 started ======
+====== chi-square (apache-spark) [default], iteration 414 completed (539.425 ms) ======
+====== chi-square (apache-spark) [default], iteration 415 started ======
+====== chi-square (apache-spark) [default], iteration 415 completed (594.263 ms) ======
+====== chi-square (apache-spark) [default], iteration 416 started ======
+====== chi-square (apache-spark) [default], iteration 416 completed (539.625 ms) ======
+====== chi-square (apache-spark) [default], iteration 417 started ======
+====== chi-square (apache-spark) [default], iteration 417 completed (540.129 ms) ======
+====== chi-square (apache-spark) [default], iteration 418 started ======
+====== chi-square (apache-spark) [default], iteration 418 completed (538.182 ms) ======
+====== chi-square (apache-spark) [default], iteration 419 started ======
+====== chi-square (apache-spark) [default], iteration 419 completed (536.205 ms) ======
+====== chi-square (apache-spark) [default], iteration 420 started ======
+====== chi-square (apache-spark) [default], iteration 420 completed (598.046 ms) ======
+====== chi-square (apache-spark) [default], iteration 421 started ======
+====== chi-square (apache-spark) [default], iteration 421 completed (538.532 ms) ======
+====== chi-square (apache-spark) [default], iteration 422 started ======
+====== chi-square (apache-spark) [default], iteration 422 completed (540.047 ms) ======
+====== chi-square (apache-spark) [default], iteration 423 started ======
+====== chi-square (apache-spark) [default], iteration 423 completed (540.527 ms) ======
+====== chi-square (apache-spark) [default], iteration 424 started ======
+====== chi-square (apache-spark) [default], iteration 424 completed (597.487 ms) ======
+====== chi-square (apache-spark) [default], iteration 425 started ======
+====== chi-square (apache-spark) [default], iteration 425 completed (543.696 ms) ======
+====== chi-square (apache-spark) [default], iteration 426 started ======
+====== chi-square (apache-spark) [default], iteration 426 completed (543.196 ms) ======
+====== chi-square (apache-spark) [default], iteration 427 started ======
+====== chi-square (apache-spark) [default], iteration 427 completed (547.407 ms) ======
+====== chi-square (apache-spark) [default], iteration 428 started ======
+====== chi-square (apache-spark) [default], iteration 428 completed (592.892 ms) ======
+====== chi-square (apache-spark) [default], iteration 429 started ======
+====== chi-square (apache-spark) [default], iteration 429 completed (536.180 ms) ======
+====== chi-square (apache-spark) [default], iteration 430 started ======
+====== chi-square (apache-spark) [default], iteration 430 completed (538.595 ms) ======
+====== chi-square (apache-spark) [default], iteration 431 started ======
+====== chi-square (apache-spark) [default], iteration 431 completed (537.062 ms) ======
+====== chi-square (apache-spark) [default], iteration 432 started ======
+====== chi-square (apache-spark) [default], iteration 432 completed (548.076 ms) ======
+====== chi-square (apache-spark) [default], iteration 433 started ======
+====== chi-square (apache-spark) [default], iteration 433 completed (594.975 ms) ======
+====== chi-square (apache-spark) [default], iteration 434 started ======
+====== chi-square (apache-spark) [default], iteration 434 completed (559.905 ms) ======
+====== chi-square (apache-spark) [default], iteration 435 started ======
+====== chi-square (apache-spark) [default], iteration 435 completed (538.565 ms) ======
+====== chi-square (apache-spark) [default], iteration 436 started ======
+====== chi-square (apache-spark) [default], iteration 436 completed (541.082 ms) ======
+====== chi-square (apache-spark) [default], iteration 437 started ======
+====== chi-square (apache-spark) [default], iteration 437 completed (590.046 ms) ======
+====== chi-square (apache-spark) [default], iteration 438 started ======
+====== chi-square (apache-spark) [default], iteration 438 completed (537.770 ms) ======
+====== chi-square (apache-spark) [default], iteration 439 started ======
+====== chi-square (apache-spark) [default], iteration 439 completed (558.250 ms) ======
+====== chi-square (apache-spark) [default], iteration 440 started ======
+====== chi-square (apache-spark) [default], iteration 440 completed (544.574 ms) ======
+====== chi-square (apache-spark) [default], iteration 441 started ======
+====== chi-square (apache-spark) [default], iteration 441 completed (591.804 ms) ======
+====== chi-square (apache-spark) [default], iteration 442 started ======
+====== chi-square (apache-spark) [default], iteration 442 completed (553.006 ms) ======
+====== chi-square (apache-spark) [default], iteration 443 started ======
+====== chi-square (apache-spark) [default], iteration 443 completed (560.666 ms) ======
+====== chi-square (apache-spark) [default], iteration 444 started ======
+====== chi-square (apache-spark) [default], iteration 444 completed (538.752 ms) ======
+====== chi-square (apache-spark) [default], iteration 445 started ======
+====== chi-square (apache-spark) [default], iteration 445 completed (554.132 ms) ======
+====== chi-square (apache-spark) [default], iteration 446 started ======
+====== chi-square (apache-spark) [default], iteration 446 completed (583.126 ms) ======
+====== chi-square (apache-spark) [default], iteration 447 started ======
+====== chi-square (apache-spark) [default], iteration 447 completed (566.920 ms) ======
+====== chi-square (apache-spark) [default], iteration 448 started ======
+====== chi-square (apache-spark) [default], iteration 448 completed (538.051 ms) ======
+====== chi-square (apache-spark) [default], iteration 449 started ======
+====== chi-square (apache-spark) [default], iteration 449 completed (543.011 ms) ======
+====== chi-square (apache-spark) [default], iteration 450 started ======
+====== chi-square (apache-spark) [default], iteration 450 completed (595.543 ms) ======
+====== chi-square (apache-spark) [default], iteration 451 started ======
+====== chi-square (apache-spark) [default], iteration 451 completed (538.279 ms) ======
+====== chi-square (apache-spark) [default], iteration 452 started ======
+====== chi-square (apache-spark) [default], iteration 452 completed (543.192 ms) ======
+====== chi-square (apache-spark) [default], iteration 453 started ======
+====== chi-square (apache-spark) [default], iteration 453 completed (538.403 ms) ======
+====== chi-square (apache-spark) [default], iteration 454 started ======
+====== chi-square (apache-spark) [default], iteration 454 completed (605.732 ms) ======
+====== chi-square (apache-spark) [default], iteration 455 started ======
+====== chi-square (apache-spark) [default], iteration 455 completed (538.222 ms) ======
+====== chi-square (apache-spark) [default], iteration 456 started ======
+====== chi-square (apache-spark) [default], iteration 456 completed (554.900 ms) ======
+====== chi-square (apache-spark) [default], iteration 457 started ======
+====== chi-square (apache-spark) [default], iteration 457 completed (564.691 ms) ======
+====== chi-square (apache-spark) [default], iteration 458 started ======
+====== chi-square (apache-spark) [default], iteration 458 completed (542.667 ms) ======
+====== chi-square (apache-spark) [default], iteration 459 started ======
+====== chi-square (apache-spark) [default], iteration 459 completed (600.742 ms) ======
+====== chi-square (apache-spark) [default], iteration 460 started ======
+====== chi-square (apache-spark) [default], iteration 460 completed (538.298 ms) ======
+====== chi-square (apache-spark) [default], iteration 461 started ======
+====== chi-square (apache-spark) [default], iteration 461 completed (539.430 ms) ======
+====== chi-square (apache-spark) [default], iteration 462 started ======
+====== chi-square (apache-spark) [default], iteration 462 completed (536.384 ms) ======
+====== chi-square (apache-spark) [default], iteration 463 started ======
+====== chi-square (apache-spark) [default], iteration 463 completed (592.479 ms) ======
+====== chi-square (apache-spark) [default], iteration 464 started ======
+====== chi-square (apache-spark) [default], iteration 464 completed (535.994 ms) ======
+====== chi-square (apache-spark) [default], iteration 465 started ======
+====== chi-square (apache-spark) [default], iteration 465 completed (537.064 ms) ======
+====== chi-square (apache-spark) [default], iteration 466 started ======
+====== chi-square (apache-spark) [default], iteration 466 completed (559.781 ms) ======
+====== chi-square (apache-spark) [default], iteration 467 started ======
+====== chi-square (apache-spark) [default], iteration 467 completed (604.593 ms) ======
+====== chi-square (apache-spark) [default], iteration 468 started ======
+====== chi-square (apache-spark) [default], iteration 468 completed (554.282 ms) ======
+====== chi-square (apache-spark) [default], iteration 469 started ======
+====== chi-square (apache-spark) [default], iteration 469 completed (540.617 ms) ======
+====== chi-square (apache-spark) [default], iteration 470 started ======
+====== chi-square (apache-spark) [default], iteration 470 completed (557.539 ms) ======
+====== chi-square (apache-spark) [default], iteration 471 started ======
+====== chi-square (apache-spark) [default], iteration 471 completed (572.701 ms) ======
+====== chi-square (apache-spark) [default], iteration 472 started ======
+====== chi-square (apache-spark) [default], iteration 472 completed (603.899 ms) ======
+====== chi-square (apache-spark) [default], iteration 473 started ======
+====== chi-square (apache-spark) [default], iteration 473 completed (539.364 ms) ======
+====== chi-square (apache-spark) [default], iteration 474 started ======
+====== chi-square (apache-spark) [default], iteration 474 completed (537.858 ms) ======
+====== chi-square (apache-spark) [default], iteration 475 started ======
+====== chi-square (apache-spark) [default], iteration 475 completed (539.452 ms) ======
+====== chi-square (apache-spark) [default], iteration 476 started ======
+====== chi-square (apache-spark) [default], iteration 476 completed (583.662 ms) ======
+====== chi-square (apache-spark) [default], iteration 477 started ======
+====== chi-square (apache-spark) [default], iteration 477 completed (537.205 ms) ======
+====== chi-square (apache-spark) [default], iteration 478 started ======
+====== chi-square (apache-spark) [default], iteration 478 completed (538.015 ms) ======
+====== chi-square (apache-spark) [default], iteration 479 started ======
+====== chi-square (apache-spark) [default], iteration 479 completed (541.674 ms) ======
+====== chi-square (apache-spark) [default], iteration 480 started ======
+====== chi-square (apache-spark) [default], iteration 480 completed (589.361 ms) ======
+====== chi-square (apache-spark) [default], iteration 481 started ======
+====== chi-square (apache-spark) [default], iteration 481 completed (538.501 ms) ======
+====== chi-square (apache-spark) [default], iteration 482 started ======
+====== chi-square (apache-spark) [default], iteration 482 completed (542.682 ms) ======
+====== chi-square (apache-spark) [default], iteration 483 started ======
+====== chi-square (apache-spark) [default], iteration 483 completed (538.075 ms) ======
+====== chi-square (apache-spark) [default], iteration 484 started ======
+====== chi-square (apache-spark) [default], iteration 484 completed (539.867 ms) ======
+====== chi-square (apache-spark) [default], iteration 485 started ======
+====== chi-square (apache-spark) [default], iteration 485 completed (581.304 ms) ======
+====== chi-square (apache-spark) [default], iteration 486 started ======
+====== chi-square (apache-spark) [default], iteration 486 completed (536.178 ms) ======
+====== chi-square (apache-spark) [default], iteration 487 started ======
+====== chi-square (apache-spark) [default], iteration 487 completed (536.525 ms) ======
+====== chi-square (apache-spark) [default], iteration 488 started ======
+====== chi-square (apache-spark) [default], iteration 488 completed (558.408 ms) ======
+====== chi-square (apache-spark) [default], iteration 489 started ======
+====== chi-square (apache-spark) [default], iteration 489 completed (583.048 ms) ======
+====== chi-square (apache-spark) [default], iteration 490 started ======
+====== chi-square (apache-spark) [default], iteration 490 completed (540.062 ms) ======
+====== chi-square (apache-spark) [default], iteration 491 started ======
+====== chi-square (apache-spark) [default], iteration 491 completed (554.781 ms) ======
+====== chi-square (apache-spark) [default], iteration 492 started ======
+====== chi-square (apache-spark) [default], iteration 492 completed (540.060 ms) ======
+====== chi-square (apache-spark) [default], iteration 493 started ======
+====== chi-square (apache-spark) [default], iteration 493 completed (604.294 ms) ======
+====== chi-square (apache-spark) [default], iteration 494 started ======
+====== chi-square (apache-spark) [default], iteration 494 completed (538.170 ms) ======
+====== chi-square (apache-spark) [default], iteration 495 started ======
+====== chi-square (apache-spark) [default], iteration 495 completed (537.796 ms) ======
+====== chi-square (apache-spark) [default], iteration 496 started ======
+====== chi-square (apache-spark) [default], iteration 496 completed (534.711 ms) ======
+====== chi-square (apache-spark) [default], iteration 497 started ======
+====== chi-square (apache-spark) [default], iteration 497 completed (540.116 ms) ======
+====== chi-square (apache-spark) [default], iteration 498 started ======
+====== chi-square (apache-spark) [default], iteration 498 completed (596.552 ms) ======
+====== chi-square (apache-spark) [default], iteration 499 started ======
+====== chi-square (apache-spark) [default], iteration 499 completed (539.592 ms) ======
+====== chi-square (apache-spark) [default], iteration 500 started ======
+====== chi-square (apache-spark) [default], iteration 500 completed (557.275 ms) ======
+====== chi-square (apache-spark) [default], iteration 501 started ======
+====== chi-square (apache-spark) [default], iteration 501 completed (537.959 ms) ======
+====== chi-square (apache-spark) [default], iteration 502 started ======
+====== chi-square (apache-spark) [default], iteration 502 completed (590.410 ms) ======
+====== chi-square (apache-spark) [default], iteration 503 started ======
+====== chi-square (apache-spark) [default], iteration 503 completed (559.621 ms) ======
+====== chi-square (apache-spark) [default], iteration 504 started ======
+====== chi-square (apache-spark) [default], iteration 504 completed (558.688 ms) ======
+====== chi-square (apache-spark) [default], iteration 505 started ======
+====== chi-square (apache-spark) [default], iteration 505 completed (536.973 ms) ======
+====== chi-square (apache-spark) [default], iteration 506 started ======
+====== chi-square (apache-spark) [default], iteration 506 completed (591.726 ms) ======
+====== chi-square (apache-spark) [default], iteration 507 started ======
+====== chi-square (apache-spark) [default], iteration 507 completed (551.108 ms) ======
+====== chi-square (apache-spark) [default], iteration 508 started ======
+====== chi-square (apache-spark) [default], iteration 508 completed (539.913 ms) ======
+====== chi-square (apache-spark) [default], iteration 509 started ======
+====== chi-square (apache-spark) [default], iteration 509 completed (538.386 ms) ======
+====== chi-square (apache-spark) [default], iteration 510 started ======
+====== chi-square (apache-spark) [default], iteration 510 completed (534.905 ms) ======
+====== chi-square (apache-spark) [default], iteration 511 started ======
+====== chi-square (apache-spark) [default], iteration 511 completed (620.198 ms) ======
+====== chi-square (apache-spark) [default], iteration 512 started ======
+====== chi-square (apache-spark) [default], iteration 512 completed (543.018 ms) ======
+====== chi-square (apache-spark) [default], iteration 513 started ======
+====== chi-square (apache-spark) [default], iteration 513 completed (539.398 ms) ======
+====== chi-square (apache-spark) [default], iteration 514 started ======
+====== chi-square (apache-spark) [default], iteration 514 completed (539.443 ms) ======
+====== chi-square (apache-spark) [default], iteration 515 started ======
+====== chi-square (apache-spark) [default], iteration 515 completed (588.285 ms) ======
+====== chi-square (apache-spark) [default], iteration 516 started ======
+====== chi-square (apache-spark) [default], iteration 516 completed (558.303 ms) ======
+====== chi-square (apache-spark) [default], iteration 517 started ======
+====== chi-square (apache-spark) [default], iteration 517 completed (553.701 ms) ======
+====== chi-square (apache-spark) [default], iteration 518 started ======
+====== chi-square (apache-spark) [default], iteration 518 completed (539.456 ms) ======
+====== chi-square (apache-spark) [default], iteration 519 started ======
+====== chi-square (apache-spark) [default], iteration 519 completed (588.708 ms) ======
+====== chi-square (apache-spark) [default], iteration 520 started ======
+====== chi-square (apache-spark) [default], iteration 520 completed (536.645 ms) ======
+====== chi-square (apache-spark) [default], iteration 521 started ======
+====== chi-square (apache-spark) [default], iteration 521 completed (537.910 ms) ======
+====== chi-square (apache-spark) [default], iteration 522 started ======
+====== chi-square (apache-spark) [default], iteration 522 completed (536.522 ms) ======
+====== chi-square (apache-spark) [default], iteration 523 started ======
+====== chi-square (apache-spark) [default], iteration 523 completed (539.818 ms) ======
+====== chi-square (apache-spark) [default], iteration 524 started ======
+====== chi-square (apache-spark) [default], iteration 524 completed (584.163 ms) ======
+====== chi-square (apache-spark) [default], iteration 525 started ======
+====== chi-square (apache-spark) [default], iteration 525 completed (533.823 ms) ======
+====== chi-square (apache-spark) [default], iteration 526 started ======
+====== chi-square (apache-spark) [default], iteration 526 completed (536.830 ms) ======
+====== chi-square (apache-spark) [default], iteration 527 started ======
+====== chi-square (apache-spark) [default], iteration 527 completed (543.069 ms) ======
+====== chi-square (apache-spark) [default], iteration 528 started ======
+====== chi-square (apache-spark) [default], iteration 528 completed (604.277 ms) ======
+====== chi-square (apache-spark) [default], iteration 529 started ======
+====== chi-square (apache-spark) [default], iteration 529 completed (536.112 ms) ======
+====== chi-square (apache-spark) [default], iteration 530 started ======
+====== chi-square (apache-spark) [default], iteration 530 completed (539.187 ms) ======
+====== chi-square (apache-spark) [default], iteration 531 started ======
+====== chi-square (apache-spark) [default], iteration 531 completed (536.793 ms) ======
+====== chi-square (apache-spark) [default], iteration 532 started ======
+====== chi-square (apache-spark) [default], iteration 532 completed (589.978 ms) ======
+====== chi-square (apache-spark) [default], iteration 533 started ======
+====== chi-square (apache-spark) [default], iteration 533 completed (542.383 ms) ======
+====== chi-square (apache-spark) [default], iteration 534 started ======
+====== chi-square (apache-spark) [default], iteration 534 completed (539.876 ms) ======
+====== chi-square (apache-spark) [default], iteration 535 started ======
+====== chi-square (apache-spark) [default], iteration 535 completed (539.506 ms) ======
+====== chi-square (apache-spark) [default], iteration 536 started ======
+====== chi-square (apache-spark) [default], iteration 536 completed (542.035 ms) ======
+====== chi-square (apache-spark) [default], iteration 537 started ======
+====== chi-square (apache-spark) [default], iteration 537 completed (583.556 ms) ======
+====== chi-square (apache-spark) [default], iteration 538 started ======
+====== chi-square (apache-spark) [default], iteration 538 completed (541.740 ms) ======
+====== chi-square (apache-spark) [default], iteration 539 started ======
+====== chi-square (apache-spark) [default], iteration 539 completed (537.570 ms) ======
+====== chi-square (apache-spark) [default], iteration 540 started ======
+====== chi-square (apache-spark) [default], iteration 540 completed (545.661 ms) ======
+====== chi-square (apache-spark) [default], iteration 541 started ======
+====== chi-square (apache-spark) [default], iteration 541 completed (586.384 ms) ======
+====== chi-square (apache-spark) [default], iteration 542 started ======
+====== chi-square (apache-spark) [default], iteration 542 completed (538.769 ms) ======
+====== chi-square (apache-spark) [default], iteration 543 started ======
+====== chi-square (apache-spark) [default], iteration 543 completed (537.857 ms) ======
+====== chi-square (apache-spark) [default], iteration 544 started ======
+====== chi-square (apache-spark) [default], iteration 544 completed (539.683 ms) ======
+====== chi-square (apache-spark) [default], iteration 545 started ======
+====== chi-square (apache-spark) [default], iteration 545 completed (589.879 ms) ======
+====== chi-square (apache-spark) [default], iteration 546 started ======
+====== chi-square (apache-spark) [default], iteration 546 completed (539.033 ms) ======
+====== chi-square (apache-spark) [default], iteration 547 started ======
+====== chi-square (apache-spark) [default], iteration 547 completed (538.718 ms) ======
+====== chi-square (apache-spark) [default], iteration 548 started ======
+====== chi-square (apache-spark) [default], iteration 548 completed (536.502 ms) ======
+====== chi-square (apache-spark) [default], iteration 549 started ======
+====== chi-square (apache-spark) [default], iteration 549 completed (539.412 ms) ======
+====== chi-square (apache-spark) [default], iteration 550 started ======
+====== chi-square (apache-spark) [default], iteration 550 completed (622.171 ms) ======
+====== chi-square (apache-spark) [default], iteration 551 started ======
+====== chi-square (apache-spark) [default], iteration 551 completed (549.390 ms) ======
+====== chi-square (apache-spark) [default], iteration 552 started ======
+====== chi-square (apache-spark) [default], iteration 552 completed (538.924 ms) ======
+====== chi-square (apache-spark) [default], iteration 553 started ======
+====== chi-square (apache-spark) [default], iteration 553 completed (564.853 ms) ======
+====== chi-square (apache-spark) [default], iteration 554 started ======
+====== chi-square (apache-spark) [default], iteration 554 completed (586.999 ms) ======
+====== chi-square (apache-spark) [default], iteration 555 started ======
+====== chi-square (apache-spark) [default], iteration 555 completed (533.363 ms) ======
+====== chi-square (apache-spark) [default], iteration 556 started ======
+====== chi-square (apache-spark) [default], iteration 556 completed (538.633 ms) ======
+====== chi-square (apache-spark) [default], iteration 557 started ======
+====== chi-square (apache-spark) [default], iteration 557 completed (537.160 ms) ======
+====== chi-square (apache-spark) [default], iteration 558 started ======
+====== chi-square (apache-spark) [default], iteration 558 completed (605.252 ms) ======
+====== chi-square (apache-spark) [default], iteration 559 started ======
+====== chi-square (apache-spark) [default], iteration 559 completed (546.652 ms) ======
+====== chi-square (apache-spark) [default], iteration 560 started ======
+====== chi-square (apache-spark) [default], iteration 560 completed (539.659 ms) ======
+====== chi-square (apache-spark) [default], iteration 561 started ======
+====== chi-square (apache-spark) [default], iteration 561 completed (537.833 ms) ======
+====== chi-square (apache-spark) [default], iteration 562 started ======
+====== chi-square (apache-spark) [default], iteration 562 completed (540.956 ms) ======
+====== chi-square (apache-spark) [default], iteration 563 started ======
+====== chi-square (apache-spark) [default], iteration 563 completed (581.762 ms) ======
+====== chi-square (apache-spark) [default], iteration 564 started ======
+====== chi-square (apache-spark) [default], iteration 564 completed (537.391 ms) ======
+====== chi-square (apache-spark) [default], iteration 565 started ======
+====== chi-square (apache-spark) [default], iteration 565 completed (540.021 ms) ======
+====== chi-square (apache-spark) [default], iteration 566 started ======
+====== chi-square (apache-spark) [default], iteration 566 completed (539.609 ms) ======
+====== chi-square (apache-spark) [default], iteration 567 started ======
+====== chi-square (apache-spark) [default], iteration 567 completed (580.391 ms) ======
+====== chi-square (apache-spark) [default], iteration 568 started ======
+====== chi-square (apache-spark) [default], iteration 568 completed (540.631 ms) ======
+====== chi-square (apache-spark) [default], iteration 569 started ======
+====== chi-square (apache-spark) [default], iteration 569 completed (534.815 ms) ======
+====== chi-square (apache-spark) [default], iteration 570 started ======
+====== chi-square (apache-spark) [default], iteration 570 completed (537.490 ms) ======
+====== chi-square (apache-spark) [default], iteration 571 started ======
+====== chi-square (apache-spark) [default], iteration 571 completed (587.332 ms) ======
+====== chi-square (apache-spark) [default], iteration 572 started ======
+====== chi-square (apache-spark) [default], iteration 572 completed (548.689 ms) ======
+====== chi-square (apache-spark) [default], iteration 573 started ======
+====== chi-square (apache-spark) [default], iteration 573 completed (538.390 ms) ======
+====== chi-square (apache-spark) [default], iteration 574 started ======
+====== chi-square (apache-spark) [default], iteration 574 completed (538.976 ms) ======
+====== chi-square (apache-spark) [default], iteration 575 started ======
+====== chi-square (apache-spark) [default], iteration 575 completed (534.887 ms) ======
+====== chi-square (apache-spark) [default], iteration 576 started ======
+====== chi-square (apache-spark) [default], iteration 576 completed (598.149 ms) ======
+====== chi-square (apache-spark) [default], iteration 577 started ======
+====== chi-square (apache-spark) [default], iteration 577 completed (537.610 ms) ======
+====== chi-square (apache-spark) [default], iteration 578 started ======
+====== chi-square (apache-spark) [default], iteration 578 completed (534.946 ms) ======
+====== chi-square (apache-spark) [default], iteration 579 started ======
+====== chi-square (apache-spark) [default], iteration 579 completed (538.637 ms) ======
+====== chi-square (apache-spark) [default], iteration 580 started ======
+====== chi-square (apache-spark) [default], iteration 580 completed (583.812 ms) ======
+====== chi-square (apache-spark) [default], iteration 581 started ======
+====== chi-square (apache-spark) [default], iteration 581 completed (542.631 ms) ======
+====== chi-square (apache-spark) [default], iteration 582 started ======
+====== chi-square (apache-spark) [default], iteration 582 completed (542.257 ms) ======
+====== chi-square (apache-spark) [default], iteration 583 started ======
+====== chi-square (apache-spark) [default], iteration 583 completed (536.985 ms) ======
+====== chi-square (apache-spark) [default], iteration 584 started ======
+====== chi-square (apache-spark) [default], iteration 584 completed (592.739 ms) ======
+====== chi-square (apache-spark) [default], iteration 585 started ======
+====== chi-square (apache-spark) [default], iteration 585 completed (540.439 ms) ======
+====== chi-square (apache-spark) [default], iteration 586 started ======
+====== chi-square (apache-spark) [default], iteration 586 completed (538.411 ms) ======
+====== chi-square (apache-spark) [default], iteration 587 started ======
+====== chi-square (apache-spark) [default], iteration 587 completed (535.848 ms) ======
+====== chi-square (apache-spark) [default], iteration 588 started ======
+====== chi-square (apache-spark) [default], iteration 588 completed (539.967 ms) ======
+====== chi-square (apache-spark) [default], iteration 589 started ======
+====== chi-square (apache-spark) [default], iteration 589 completed (601.647 ms) ======
+====== chi-square (apache-spark) [default], iteration 590 started ======
+====== chi-square (apache-spark) [default], iteration 590 completed (559.709 ms) ======
+====== chi-square (apache-spark) [default], iteration 591 started ======
+====== chi-square (apache-spark) [default], iteration 591 completed (561.867 ms) ======
+====== chi-square (apache-spark) [default], iteration 592 started ======
+====== chi-square (apache-spark) [default], iteration 592 completed (537.227 ms) ======
+====== chi-square (apache-spark) [default], iteration 593 started ======
+====== chi-square (apache-spark) [default], iteration 593 completed (622.083 ms) ======
+====== chi-square (apache-spark) [default], iteration 594 started ======
+====== chi-square (apache-spark) [default], iteration 594 completed (542.272 ms) ======
+====== chi-square (apache-spark) [default], iteration 595 started ======
+====== chi-square (apache-spark) [default], iteration 595 completed (538.613 ms) ======
+====== chi-square (apache-spark) [default], iteration 596 started ======
+====== chi-square (apache-spark) [default], iteration 596 completed (540.419 ms) ======
+====== chi-square (apache-spark) [default], iteration 597 started ======
+====== chi-square (apache-spark) [default], iteration 597 completed (608.584 ms) ======
+====== chi-square (apache-spark) [default], iteration 598 started ======
+====== chi-square (apache-spark) [default], iteration 598 completed (538.422 ms) ======
+====== chi-square (apache-spark) [default], iteration 599 started ======
+====== chi-square (apache-spark) [default], iteration 599 completed (541.577 ms) ======
+====== chi-square (apache-spark) [default], iteration 600 started ======
+====== chi-square (apache-spark) [default], iteration 600 completed (548.277 ms) ======
+====== chi-square (apache-spark) [default], iteration 601 started ======
+====== chi-square (apache-spark) [default], iteration 601 completed (539.274 ms) ======
+====== chi-square (apache-spark) [default], iteration 602 started ======
+====== chi-square (apache-spark) [default], iteration 602 completed (584.676 ms) ======
+====== chi-square (apache-spark) [default], iteration 603 started ======
+====== chi-square (apache-spark) [default], iteration 603 completed (534.713 ms) ======
+====== chi-square (apache-spark) [default], iteration 604 started ======
+====== chi-square (apache-spark) [default], iteration 604 completed (540.556 ms) ======
+====== chi-square (apache-spark) [default], iteration 605 started ======
+====== chi-square (apache-spark) [default], iteration 605 completed (539.708 ms) ======
+====== chi-square (apache-spark) [default], iteration 606 started ======
+====== chi-square (apache-spark) [default], iteration 606 completed (596.719 ms) ======
+====== chi-square (apache-spark) [default], iteration 607 started ======
+====== chi-square (apache-spark) [default], iteration 607 completed (538.153 ms) ======
+====== chi-square (apache-spark) [default], iteration 608 started ======
+====== chi-square (apache-spark) [default], iteration 608 completed (538.117 ms) ======
+====== chi-square (apache-spark) [default], iteration 609 started ======
+====== chi-square (apache-spark) [default], iteration 609 completed (536.263 ms) ======
+====== chi-square (apache-spark) [default], iteration 610 started ======
+====== chi-square (apache-spark) [default], iteration 610 completed (584.152 ms) ======
+====== chi-square (apache-spark) [default], iteration 611 started ======
+====== chi-square (apache-spark) [default], iteration 611 completed (538.962 ms) ======
+====== chi-square (apache-spark) [default], iteration 612 started ======
+====== chi-square (apache-spark) [default], iteration 612 completed (536.780 ms) ======
+====== chi-square (apache-spark) [default], iteration 613 started ======
+====== chi-square (apache-spark) [default], iteration 613 completed (537.445 ms) ======
+====== chi-square (apache-spark) [default], iteration 614 started ======
+====== chi-square (apache-spark) [default], iteration 614 completed (536.413 ms) ======
+====== chi-square (apache-spark) [default], iteration 615 started ======
+====== chi-square (apache-spark) [default], iteration 615 completed (595.400 ms) ======
+====== chi-square (apache-spark) [default], iteration 616 started ======
+====== chi-square (apache-spark) [default], iteration 616 completed (540.114 ms) ======
+====== chi-square (apache-spark) [default], iteration 617 started ======
+====== chi-square (apache-spark) [default], iteration 617 completed (536.454 ms) ======
+====== chi-square (apache-spark) [default], iteration 618 started ======
+====== chi-square (apache-spark) [default], iteration 618 completed (567.535 ms) ======
+====== chi-square (apache-spark) [default], iteration 619 started ======
+====== chi-square (apache-spark) [default], iteration 619 completed (613.568 ms) ======
+====== chi-square (apache-spark) [default], iteration 620 started ======
+====== chi-square (apache-spark) [default], iteration 620 completed (561.043 ms) ======
+====== chi-square (apache-spark) [default], iteration 621 started ======
+====== chi-square (apache-spark) [default], iteration 621 completed (558.035 ms) ======
+====== chi-square (apache-spark) [default], iteration 622 started ======
+====== chi-square (apache-spark) [default], iteration 622 completed (557.587 ms) ======
+====== chi-square (apache-spark) [default], iteration 623 started ======
+====== chi-square (apache-spark) [default], iteration 623 completed (597.439 ms) ======
+====== chi-square (apache-spark) [default], iteration 624 started ======
+====== chi-square (apache-spark) [default], iteration 624 completed (534.099 ms) ======
+====== chi-square (apache-spark) [default], iteration 625 started ======
+====== chi-square (apache-spark) [default], iteration 625 completed (538.864 ms) ======
+====== chi-square (apache-spark) [default], iteration 626 started ======
+====== chi-square (apache-spark) [default], iteration 626 completed (538.572 ms) ======
+====== chi-square (apache-spark) [default], iteration 627 started ======
+====== chi-square (apache-spark) [default], iteration 627 completed (586.323 ms) ======
+====== chi-square (apache-spark) [default], iteration 628 started ======
+====== chi-square (apache-spark) [default], iteration 628 completed (556.751 ms) ======
+====== chi-square (apache-spark) [default], iteration 629 started ======
+====== chi-square (apache-spark) [default], iteration 629 completed (538.715 ms) ======
+====== chi-square (apache-spark) [default], iteration 630 started ======
+====== chi-square (apache-spark) [default], iteration 630 completed (552.036 ms) ======
+====== chi-square (apache-spark) [default], iteration 631 started ======
+====== chi-square (apache-spark) [default], iteration 631 completed (552.959 ms) ======
+====== chi-square (apache-spark) [default], iteration 632 started ======
+====== chi-square (apache-spark) [default], iteration 632 completed (602.560 ms) ======
+====== chi-square (apache-spark) [default], iteration 633 started ======
+====== chi-square (apache-spark) [default], iteration 633 completed (537.483 ms) ======
+====== chi-square (apache-spark) [default], iteration 634 started ======
+====== chi-square (apache-spark) [default], iteration 634 completed (544.271 ms) ======
+====== chi-square (apache-spark) [default], iteration 635 started ======
+====== chi-square (apache-spark) [default], iteration 635 completed (540.279 ms) ======
+====== chi-square (apache-spark) [default], iteration 636 started ======
+====== chi-square (apache-spark) [default], iteration 636 completed (609.899 ms) ======
+====== chi-square (apache-spark) [default], iteration 637 started ======
+====== chi-square (apache-spark) [default], iteration 637 completed (537.817 ms) ======
+====== chi-square (apache-spark) [default], iteration 638 started ======
+====== chi-square (apache-spark) [default], iteration 638 completed (534.536 ms) ======
+====== chi-square (apache-spark) [default], iteration 639 started ======
+====== chi-square (apache-spark) [default], iteration 639 completed (538.920 ms) ======
+====== chi-square (apache-spark) [default], iteration 640 started ======
+====== chi-square (apache-spark) [default], iteration 640 completed (604.527 ms) ======
+====== chi-square (apache-spark) [default], iteration 641 started ======
+====== chi-square (apache-spark) [default], iteration 641 completed (538.792 ms) ======
+====== chi-square (apache-spark) [default], iteration 642 started ======
+====== chi-square (apache-spark) [default], iteration 642 completed (554.152 ms) ======
+====== chi-square (apache-spark) [default], iteration 643 started ======
+====== chi-square (apache-spark) [default], iteration 643 completed (541.008 ms) ======
+====== chi-square (apache-spark) [default], iteration 644 started ======
+====== chi-square (apache-spark) [default], iteration 644 completed (537.553 ms) ======
+====== chi-square (apache-spark) [default], iteration 645 started ======
+====== chi-square (apache-spark) [default], iteration 645 completed (579.545 ms) ======
+====== chi-square (apache-spark) [default], iteration 646 started ======
+====== chi-square (apache-spark) [default], iteration 646 completed (540.074 ms) ======
+====== chi-square (apache-spark) [default], iteration 647 started ======
+====== chi-square (apache-spark) [default], iteration 647 completed (568.006 ms) ======
+====== chi-square (apache-spark) [default], iteration 648 started ======
+====== chi-square (apache-spark) [default], iteration 648 completed (534.663 ms) ======
+====== chi-square (apache-spark) [default], iteration 649 started ======
+====== chi-square (apache-spark) [default], iteration 649 completed (583.272 ms) ======
+====== chi-square (apache-spark) [default], iteration 650 started ======
+====== chi-square (apache-spark) [default], iteration 650 completed (535.247 ms) ======
+====== chi-square (apache-spark) [default], iteration 651 started ======
+====== chi-square (apache-spark) [default], iteration 651 completed (536.501 ms) ======
+====== chi-square (apache-spark) [default], iteration 652 started ======
+====== chi-square (apache-spark) [default], iteration 652 completed (535.770 ms) ======
+====== chi-square (apache-spark) [default], iteration 653 started ======
+====== chi-square (apache-spark) [default], iteration 653 completed (604.673 ms) ======
+====== chi-square (apache-spark) [default], iteration 654 started ======
+====== chi-square (apache-spark) [default], iteration 654 completed (560.759 ms) ======
+====== chi-square (apache-spark) [default], iteration 655 started ======
+====== chi-square (apache-spark) [default], iteration 655 completed (533.781 ms) ======
+====== chi-square (apache-spark) [default], iteration 656 started ======
+====== chi-square (apache-spark) [default], iteration 656 completed (536.760 ms) ======
+====== chi-square (apache-spark) [default], iteration 657 started ======
+====== chi-square (apache-spark) [default], iteration 657 completed (536.776 ms) ======
+====== chi-square (apache-spark) [default], iteration 658 started ======
+====== chi-square (apache-spark) [default], iteration 658 completed (593.899 ms) ======
+====== chi-square (apache-spark) [default], iteration 659 started ======
+====== chi-square (apache-spark) [default], iteration 659 completed (536.220 ms) ======
+====== chi-square (apache-spark) [default], iteration 660 started ======
+====== chi-square (apache-spark) [default], iteration 660 completed (539.238 ms) ======
+====== chi-square (apache-spark) [default], iteration 661 started ======
+====== chi-square (apache-spark) [default], iteration 661 completed (533.209 ms) ======
+====== chi-square (apache-spark) [default], iteration 662 started ======
+====== chi-square (apache-spark) [default], iteration 662 completed (588.672 ms) ======
+====== chi-square (apache-spark) [default], iteration 663 started ======
+====== chi-square (apache-spark) [default], iteration 663 completed (537.439 ms) ======
+====== chi-square (apache-spark) [default], iteration 664 started ======
+====== chi-square (apache-spark) [default], iteration 664 completed (536.606 ms) ======
+====== chi-square (apache-spark) [default], iteration 665 started ======
+====== chi-square (apache-spark) [default], iteration 665 completed (537.543 ms) ======
+====== chi-square (apache-spark) [default], iteration 666 started ======
+====== chi-square (apache-spark) [default], iteration 666 completed (606.763 ms) ======
+====== chi-square (apache-spark) [default], iteration 667 started ======
+====== chi-square (apache-spark) [default], iteration 667 completed (553.706 ms) ======
+====== chi-square (apache-spark) [default], iteration 668 started ======
+====== chi-square (apache-spark) [default], iteration 668 completed (556.818 ms) ======
+====== chi-square (apache-spark) [default], iteration 669 started ======
+====== chi-square (apache-spark) [default], iteration 669 completed (559.838 ms) ======
+====== chi-square (apache-spark) [default], iteration 670 started ======
+====== chi-square (apache-spark) [default], iteration 670 completed (559.560 ms) ======
+====== chi-square (apache-spark) [default], iteration 671 started ======
+====== chi-square (apache-spark) [default], iteration 671 completed (598.679 ms) ======
+====== chi-square (apache-spark) [default], iteration 672 started ======
+====== chi-square (apache-spark) [default], iteration 672 completed (557.182 ms) ======
+====== chi-square (apache-spark) [default], iteration 673 started ======
+====== chi-square (apache-spark) [default], iteration 673 completed (538.908 ms) ======
+====== chi-square (apache-spark) [default], iteration 674 started ======
+====== chi-square (apache-spark) [default], iteration 674 completed (548.085 ms) ======
+====== chi-square (apache-spark) [default], iteration 675 started ======
+====== chi-square (apache-spark) [default], iteration 675 completed (590.938 ms) ======
+====== chi-square (apache-spark) [default], iteration 676 started ======
+====== chi-square (apache-spark) [default], iteration 676 completed (540.228 ms) ======
+====== chi-square (apache-spark) [default], iteration 677 started ======
+====== chi-square (apache-spark) [default], iteration 677 completed (535.461 ms) ======
+====== chi-square (apache-spark) [default], iteration 678 started ======
+====== chi-square (apache-spark) [default], iteration 678 completed (555.273 ms) ======
+====== chi-square (apache-spark) [default], iteration 679 started ======
+====== chi-square (apache-spark) [default], iteration 679 completed (608.237 ms) ======
+====== chi-square (apache-spark) [default], iteration 680 started ======
+====== chi-square (apache-spark) [default], iteration 680 completed (537.170 ms) ======
+====== chi-square (apache-spark) [default], iteration 681 started ======
+====== chi-square (apache-spark) [default], iteration 681 completed (539.844 ms) ======
+====== chi-square (apache-spark) [default], iteration 682 started ======
+====== chi-square (apache-spark) [default], iteration 682 completed (538.133 ms) ======
+====== chi-square (apache-spark) [default], iteration 683 started ======
+====== chi-square (apache-spark) [default], iteration 683 completed (535.774 ms) ======
+====== chi-square (apache-spark) [default], iteration 684 started ======
+====== chi-square (apache-spark) [default], iteration 684 completed (581.324 ms) ======
+====== chi-square (apache-spark) [default], iteration 685 started ======
+====== chi-square (apache-spark) [default], iteration 685 completed (543.610 ms) ======
+====== chi-square (apache-spark) [default], iteration 686 started ======
+====== chi-square (apache-spark) [default], iteration 686 completed (537.636 ms) ======
+====== chi-square (apache-spark) [default], iteration 687 started ======
+====== chi-square (apache-spark) [default], iteration 687 completed (542.358 ms) ======
+====== chi-square (apache-spark) [default], iteration 688 started ======
+====== chi-square (apache-spark) [default], iteration 688 completed (584.077 ms) ======
+====== chi-square (apache-spark) [default], iteration 689 started ======
+====== chi-square (apache-spark) [default], iteration 689 completed (538.284 ms) ======
+====== chi-square (apache-spark) [default], iteration 690 started ======
+====== chi-square (apache-spark) [default], iteration 690 completed (534.960 ms) ======
+====== chi-square (apache-spark) [default], iteration 691 started ======
+====== chi-square (apache-spark) [default], iteration 691 completed (536.130 ms) ======
+====== chi-square (apache-spark) [default], iteration 692 started ======
+====== chi-square (apache-spark) [default], iteration 692 completed (584.447 ms) ======
+====== chi-square (apache-spark) [default], iteration 693 started ======
+====== chi-square (apache-spark) [default], iteration 693 completed (533.688 ms) ======
+====== chi-square (apache-spark) [default], iteration 694 started ======
+====== chi-square (apache-spark) [default], iteration 694 completed (537.470 ms) ======
+====== chi-square (apache-spark) [default], iteration 695 started ======
+====== chi-square (apache-spark) [default], iteration 695 completed (537.630 ms) ======
+====== chi-square (apache-spark) [default], iteration 696 started ======
+====== chi-square (apache-spark) [default], iteration 696 completed (537.794 ms) ======
+====== chi-square (apache-spark) [default], iteration 697 started ======
+====== chi-square (apache-spark) [default], iteration 697 completed (598.385 ms) ======
+====== chi-square (apache-spark) [default], iteration 698 started ======
+====== chi-square (apache-spark) [default], iteration 698 completed (554.197 ms) ======
+====== chi-square (apache-spark) [default], iteration 699 started ======
+====== chi-square (apache-spark) [default], iteration 699 completed (536.724 ms) ======
+====== chi-square (apache-spark) [default], iteration 700 started ======
+====== chi-square (apache-spark) [default], iteration 700 completed (538.762 ms) ======
+====== chi-square (apache-spark) [default], iteration 701 started ======
+====== chi-square (apache-spark) [default], iteration 701 completed (600.776 ms) ======
+====== chi-square (apache-spark) [default], iteration 702 started ======
+====== chi-square (apache-spark) [default], iteration 702 completed (540.869 ms) ======
+====== chi-square (apache-spark) [default], iteration 703 started ======
+====== chi-square (apache-spark) [default], iteration 703 completed (538.690 ms) ======
+====== chi-square (apache-spark) [default], iteration 704 started ======
+====== chi-square (apache-spark) [default], iteration 704 completed (537.379 ms) ======
+====== chi-square (apache-spark) [default], iteration 705 started ======
+====== chi-square (apache-spark) [default], iteration 705 completed (591.562 ms) ======
+====== chi-square (apache-spark) [default], iteration 706 started ======
+====== chi-square (apache-spark) [default], iteration 706 completed (537.279 ms) ======
+====== chi-square (apache-spark) [default], iteration 707 started ======
+====== chi-square (apache-spark) [default], iteration 707 completed (538.815 ms) ======
+====== chi-square (apache-spark) [default], iteration 708 started ======
+====== chi-square (apache-spark) [default], iteration 708 completed (535.212 ms) ======
+====== chi-square (apache-spark) [default], iteration 709 started ======
+====== chi-square (apache-spark) [default], iteration 709 completed (563.015 ms) ======
+====== chi-square (apache-spark) [default], iteration 710 started ======
+====== chi-square (apache-spark) [default], iteration 710 completed (598.587 ms) ======
+====== chi-square (apache-spark) [default], iteration 711 started ======
+====== chi-square (apache-spark) [default], iteration 711 completed (569.431 ms) ======
+====== chi-square (apache-spark) [default], iteration 712 started ======
+====== chi-square (apache-spark) [default], iteration 712 completed (558.941 ms) ======
+====== chi-square (apache-spark) [default], iteration 713 started ======
+====== chi-square (apache-spark) [default], iteration 713 completed (562.039 ms) ======
+====== chi-square (apache-spark) [default], iteration 714 started ======
+====== chi-square (apache-spark) [default], iteration 714 completed (589.450 ms) ======
+====== chi-square (apache-spark) [default], iteration 715 started ======
+====== chi-square (apache-spark) [default], iteration 715 completed (536.831 ms) ======
+====== chi-square (apache-spark) [default], iteration 716 started ======
+====== chi-square (apache-spark) [default], iteration 716 completed (536.718 ms) ======
+====== chi-square (apache-spark) [default], iteration 717 started ======
+====== chi-square (apache-spark) [default], iteration 717 completed (538.246 ms) ======
+====== chi-square (apache-spark) [default], iteration 718 started ======
+====== chi-square (apache-spark) [default], iteration 718 completed (599.422 ms) ======
+====== chi-square (apache-spark) [default], iteration 719 started ======
+====== chi-square (apache-spark) [default], iteration 719 completed (537.992 ms) ======
+====== chi-square (apache-spark) [default], iteration 720 started ======
+====== chi-square (apache-spark) [default], iteration 720 completed (538.561 ms) ======
+====== chi-square (apache-spark) [default], iteration 721 started ======
+====== chi-square (apache-spark) [default], iteration 721 completed (553.287 ms) ======
+====== chi-square (apache-spark) [default], iteration 722 started ======
+====== chi-square (apache-spark) [default], iteration 722 completed (539.517 ms) ======
+====== chi-square (apache-spark) [default], iteration 723 started ======
+====== chi-square (apache-spark) [default], iteration 723 completed (587.213 ms) ======
+====== chi-square (apache-spark) [default], iteration 724 started ======
+====== chi-square (apache-spark) [default], iteration 724 completed (536.779 ms) ======
+====== chi-square (apache-spark) [default], iteration 725 started ======
+====== chi-square (apache-spark) [default], iteration 725 completed (535.712 ms) ======
+====== chi-square (apache-spark) [default], iteration 726 started ======
+====== chi-square (apache-spark) [default], iteration 726 completed (534.822 ms) ======
+====== chi-square (apache-spark) [default], iteration 727 started ======
+====== chi-square (apache-spark) [default], iteration 727 completed (584.875 ms) ======
+====== chi-square (apache-spark) [default], iteration 728 started ======
+====== chi-square (apache-spark) [default], iteration 728 completed (552.261 ms) ======
+====== chi-square (apache-spark) [default], iteration 729 started ======
+====== chi-square (apache-spark) [default], iteration 729 completed (558.546 ms) ======
+====== chi-square (apache-spark) [default], iteration 730 started ======
+====== chi-square (apache-spark) [default], iteration 730 completed (536.139 ms) ======
+====== chi-square (apache-spark) [default], iteration 731 started ======
+====== chi-square (apache-spark) [default], iteration 731 completed (586.570 ms) ======
+====== chi-square (apache-spark) [default], iteration 732 started ======
+====== chi-square (apache-spark) [default], iteration 732 completed (537.067 ms) ======
+====== chi-square (apache-spark) [default], iteration 733 started ======
+====== chi-square (apache-spark) [default], iteration 733 completed (540.511 ms) ======
+====== chi-square (apache-spark) [default], iteration 734 started ======
+====== chi-square (apache-spark) [default], iteration 734 completed (543.075 ms) ======
+====== chi-square (apache-spark) [default], iteration 735 started ======
+====== chi-square (apache-spark) [default], iteration 735 completed (540.025 ms) ======
+====== chi-square (apache-spark) [default], iteration 736 started ======
+====== chi-square (apache-spark) [default], iteration 736 completed (587.992 ms) ======
+====== chi-square (apache-spark) [default], iteration 737 started ======
+====== chi-square (apache-spark) [default], iteration 737 completed (547.285 ms) ======
+====== chi-square (apache-spark) [default], iteration 738 started ======
+====== chi-square (apache-spark) [default], iteration 738 completed (538.007 ms) ======
+====== chi-square (apache-spark) [default], iteration 739 started ======
+====== chi-square (apache-spark) [default], iteration 739 completed (554.935 ms) ======
+====== chi-square (apache-spark) [default], iteration 740 started ======
+====== chi-square (apache-spark) [default], iteration 740 completed (599.137 ms) ======
+====== chi-square (apache-spark) [default], iteration 741 started ======
+====== chi-square (apache-spark) [default], iteration 741 completed (540.373 ms) ======
+====== chi-square (apache-spark) [default], iteration 742 started ======
+====== chi-square (apache-spark) [default], iteration 742 completed (559.334 ms) ======
+====== chi-square (apache-spark) [default], iteration 743 started ======
+====== chi-square (apache-spark) [default], iteration 743 completed (561.200 ms) ======
+====== chi-square (apache-spark) [default], iteration 744 started ======
+====== chi-square (apache-spark) [default], iteration 744 completed (605.874 ms) ======
+====== chi-square (apache-spark) [default], iteration 745 started ======
+====== chi-square (apache-spark) [default], iteration 745 completed (556.946 ms) ======
+====== chi-square (apache-spark) [default], iteration 746 started ======
+====== chi-square (apache-spark) [default], iteration 746 completed (534.176 ms) ======
+====== chi-square (apache-spark) [default], iteration 747 started ======
+====== chi-square (apache-spark) [default], iteration 747 completed (535.735 ms) ======
+====== chi-square (apache-spark) [default], iteration 748 started ======
+====== chi-square (apache-spark) [default], iteration 748 completed (537.601 ms) ======
+====== chi-square (apache-spark) [default], iteration 749 started ======
+====== chi-square (apache-spark) [default], iteration 749 completed (583.014 ms) ======
+====== chi-square (apache-spark) [default], iteration 750 started ======
+====== chi-square (apache-spark) [default], iteration 750 completed (539.287 ms) ======
+====== chi-square (apache-spark) [default], iteration 751 started ======
+====== chi-square (apache-spark) [default], iteration 751 completed (530.579 ms) ======
+====== chi-square (apache-spark) [default], iteration 752 started ======
+====== chi-square (apache-spark) [default], iteration 752 completed (539.697 ms) ======
+====== chi-square (apache-spark) [default], iteration 753 started ======
+====== chi-square (apache-spark) [default], iteration 753 completed (581.960 ms) ======
+====== chi-square (apache-spark) [default], iteration 754 started ======
+====== chi-square (apache-spark) [default], iteration 754 completed (536.021 ms) ======
+====== chi-square (apache-spark) [default], iteration 755 started ======
+====== chi-square (apache-spark) [default], iteration 755 completed (544.481 ms) ======
+====== chi-square (apache-spark) [default], iteration 756 started ======
+====== chi-square (apache-spark) [default], iteration 756 completed (536.373 ms) ======
+====== chi-square (apache-spark) [default], iteration 757 started ======
+====== chi-square (apache-spark) [default], iteration 757 completed (587.984 ms) ======
+====== chi-square (apache-spark) [default], iteration 758 started ======
+====== chi-square (apache-spark) [default], iteration 758 completed (557.058 ms) ======
+====== chi-square (apache-spark) [default], iteration 759 started ======
+====== chi-square (apache-spark) [default], iteration 759 completed (556.040 ms) ======
+====== chi-square (apache-spark) [default], iteration 760 started ======
+====== chi-square (apache-spark) [default], iteration 760 completed (558.303 ms) ======
+====== chi-square (apache-spark) [default], iteration 761 started ======
+====== chi-square (apache-spark) [default], iteration 761 completed (537.464 ms) ======
+====== chi-square (apache-spark) [default], iteration 762 started ======
+====== chi-square (apache-spark) [default], iteration 762 completed (597.659 ms) ======
+====== chi-square (apache-spark) [default], iteration 763 started ======
+====== chi-square (apache-spark) [default], iteration 763 completed (546.100 ms) ======
+====== chi-square (apache-spark) [default], iteration 764 started ======
+====== chi-square (apache-spark) [default], iteration 764 completed (555.234 ms) ======
+====== chi-square (apache-spark) [default], iteration 765 started ======
+====== chi-square (apache-spark) [default], iteration 765 completed (556.909 ms) ======
+====== chi-square (apache-spark) [default], iteration 766 started ======
+====== chi-square (apache-spark) [default], iteration 766 completed (602.095 ms) ======
+====== chi-square (apache-spark) [default], iteration 767 started ======
+====== chi-square (apache-spark) [default], iteration 767 completed (538.127 ms) ======
+====== chi-square (apache-spark) [default], iteration 768 started ======
+====== chi-square (apache-spark) [default], iteration 768 completed (540.296 ms) ======
+====== chi-square (apache-spark) [default], iteration 769 started ======
+====== chi-square (apache-spark) [default], iteration 769 completed (535.729 ms) ======
+====== chi-square (apache-spark) [default], iteration 770 started ======
+====== chi-square (apache-spark) [default], iteration 770 completed (585.702 ms) ======
+====== chi-square (apache-spark) [default], iteration 771 started ======
+====== chi-square (apache-spark) [default], iteration 771 completed (556.075 ms) ======
+====== chi-square (apache-spark) [default], iteration 772 started ======
+====== chi-square (apache-spark) [default], iteration 772 completed (558.574 ms) ======
+====== chi-square (apache-spark) [default], iteration 773 started ======
+====== chi-square (apache-spark) [default], iteration 773 completed (556.908 ms) ======
+====== chi-square (apache-spark) [default], iteration 774 started ======
+====== chi-square (apache-spark) [default], iteration 774 completed (554.261 ms) ======
+====== chi-square (apache-spark) [default], iteration 775 started ======
+====== chi-square (apache-spark) [default], iteration 775 completed (585.645 ms) ======
+====== chi-square (apache-spark) [default], iteration 776 started ======
+====== chi-square (apache-spark) [default], iteration 776 completed (537.818 ms) ======
+====== chi-square (apache-spark) [default], iteration 777 started ======
+====== chi-square (apache-spark) [default], iteration 777 completed (534.377 ms) ======
+====== chi-square (apache-spark) [default], iteration 778 started ======
+====== chi-square (apache-spark) [default], iteration 778 completed (535.660 ms) ======
+====== chi-square (apache-spark) [default], iteration 779 started ======
+====== chi-square (apache-spark) [default], iteration 779 completed (594.508 ms) ======
+====== chi-square (apache-spark) [default], iteration 780 started ======
+====== chi-square (apache-spark) [default], iteration 780 completed (556.702 ms) ======
+====== chi-square (apache-spark) [default], iteration 781 started ======
+====== chi-square (apache-spark) [default], iteration 781 completed (555.439 ms) ======
+====== chi-square (apache-spark) [default], iteration 782 started ======
+====== chi-square (apache-spark) [default], iteration 782 completed (559.746 ms) ======
+====== chi-square (apache-spark) [default], iteration 783 started ======
+====== chi-square (apache-spark) [default], iteration 783 completed (587.217 ms) ======
+====== chi-square (apache-spark) [default], iteration 784 started ======
+====== chi-square (apache-spark) [default], iteration 784 completed (531.414 ms) ======
+====== chi-square (apache-spark) [default], iteration 785 started ======
+====== chi-square (apache-spark) [default], iteration 785 completed (544.423 ms) ======
+====== chi-square (apache-spark) [default], iteration 786 started ======
+====== chi-square (apache-spark) [default], iteration 786 completed (545.429 ms) ======
+====== chi-square (apache-spark) [default], iteration 787 started ======
+====== chi-square (apache-spark) [default], iteration 787 completed (536.717 ms) ======
+====== chi-square (apache-spark) [default], iteration 788 started ======
+====== chi-square (apache-spark) [default], iteration 788 completed (583.006 ms) ======
+====== chi-square (apache-spark) [default], iteration 789 started ======
+====== chi-square (apache-spark) [default], iteration 789 completed (534.448 ms) ======
+====== chi-square (apache-spark) [default], iteration 790 started ======
+====== chi-square (apache-spark) [default], iteration 790 completed (533.573 ms) ======
+====== chi-square (apache-spark) [default], iteration 791 started ======
+====== chi-square (apache-spark) [default], iteration 791 completed (538.503 ms) ======
+====== chi-square (apache-spark) [default], iteration 792 started ======
+====== chi-square (apache-spark) [default], iteration 792 completed (583.793 ms) ======
+====== chi-square (apache-spark) [default], iteration 793 started ======
+====== chi-square (apache-spark) [default], iteration 793 completed (536.035 ms) ======
+====== chi-square (apache-spark) [default], iteration 794 started ======
+====== chi-square (apache-spark) [default], iteration 794 completed (537.966 ms) ======
+====== chi-square (apache-spark) [default], iteration 795 started ======
+====== chi-square (apache-spark) [default], iteration 795 completed (538.872 ms) ======
+====== chi-square (apache-spark) [default], iteration 796 started ======
+====== chi-square (apache-spark) [default], iteration 796 completed (584.913 ms) ======
+====== chi-square (apache-spark) [default], iteration 797 started ======
+====== chi-square (apache-spark) [default], iteration 797 completed (534.794 ms) ======
+====== chi-square (apache-spark) [default], iteration 798 started ======
+====== chi-square (apache-spark) [default], iteration 798 completed (535.815 ms) ======
+====== chi-square (apache-spark) [default], iteration 799 started ======
+====== chi-square (apache-spark) [default], iteration 799 completed (537.944 ms) ======
+====== chi-square (apache-spark) [default], iteration 800 started ======
+====== chi-square (apache-spark) [default], iteration 800 completed (535.715 ms) ======
+====== chi-square (apache-spark) [default], iteration 801 started ======
+====== chi-square (apache-spark) [default], iteration 801 completed (577.595 ms) ======
+====== chi-square (apache-spark) [default], iteration 802 started ======
+====== chi-square (apache-spark) [default], iteration 802 completed (536.079 ms) ======
+====== chi-square (apache-spark) [default], iteration 803 started ======
+====== chi-square (apache-spark) [default], iteration 803 completed (536.746 ms) ======
+====== chi-square (apache-spark) [default], iteration 804 started ======
+====== chi-square (apache-spark) [default], iteration 804 completed (555.341 ms) ======
+====== chi-square (apache-spark) [default], iteration 805 started ======
+====== chi-square (apache-spark) [default], iteration 805 completed (585.917 ms) ======
+====== chi-square (apache-spark) [default], iteration 806 started ======
+====== chi-square (apache-spark) [default], iteration 806 completed (538.125 ms) ======
+====== chi-square (apache-spark) [default], iteration 807 started ======
+====== chi-square (apache-spark) [default], iteration 807 completed (554.462 ms) ======
+====== chi-square (apache-spark) [default], iteration 808 started ======
+====== chi-square (apache-spark) [default], iteration 808 completed (556.866 ms) ======
+====== chi-square (apache-spark) [default], iteration 809 started ======
+====== chi-square (apache-spark) [default], iteration 809 completed (606.247 ms) ======
+====== chi-square (apache-spark) [default], iteration 810 started ======
+====== chi-square (apache-spark) [default], iteration 810 completed (557.250 ms) ======
+====== chi-square (apache-spark) [default], iteration 811 started ======
+====== chi-square (apache-spark) [default], iteration 811 completed (536.989 ms) ======
+====== chi-square (apache-spark) [default], iteration 812 started ======
+====== chi-square (apache-spark) [default], iteration 812 completed (535.128 ms) ======
+====== chi-square (apache-spark) [default], iteration 813 started ======
+====== chi-square (apache-spark) [default], iteration 813 completed (544.017 ms) ======
+====== chi-square (apache-spark) [default], iteration 814 started ======
+====== chi-square (apache-spark) [default], iteration 814 completed (580.682 ms) ======
+====== chi-square (apache-spark) [default], iteration 815 started ======
+====== chi-square (apache-spark) [default], iteration 815 completed (537.442 ms) ======
+====== chi-square (apache-spark) [default], iteration 816 started ======
+====== chi-square (apache-spark) [default], iteration 816 completed (538.529 ms) ======
+====== chi-square (apache-spark) [default], iteration 817 started ======
+====== chi-square (apache-spark) [default], iteration 817 completed (537.570 ms) ======
+====== chi-square (apache-spark) [default], iteration 818 started ======
+====== chi-square (apache-spark) [default], iteration 818 completed (585.187 ms) ======
+====== chi-square (apache-spark) [default], iteration 819 started ======
+====== chi-square (apache-spark) [default], iteration 819 completed (531.753 ms) ======
+====== chi-square (apache-spark) [default], iteration 820 started ======
+====== chi-square (apache-spark) [default], iteration 820 completed (534.675 ms) ======
+====== chi-square (apache-spark) [default], iteration 821 started ======
+====== chi-square (apache-spark) [default], iteration 821 completed (555.671 ms) ======
+====== chi-square (apache-spark) [default], iteration 822 started ======
+====== chi-square (apache-spark) [default], iteration 822 completed (591.994 ms) ======
+====== chi-square (apache-spark) [default], iteration 823 started ======
+====== chi-square (apache-spark) [default], iteration 823 completed (554.407 ms) ======
+====== chi-square (apache-spark) [default], iteration 824 started ======
+====== chi-square (apache-spark) [default], iteration 824 completed (555.633 ms) ======
+====== chi-square (apache-spark) [default], iteration 825 started ======
+====== chi-square (apache-spark) [default], iteration 825 completed (536.953 ms) ======
+====== chi-square (apache-spark) [default], iteration 826 started ======
+====== chi-square (apache-spark) [default], iteration 826 completed (535.932 ms) ======
+====== chi-square (apache-spark) [default], iteration 827 started ======
+====== chi-square (apache-spark) [default], iteration 827 completed (605.227 ms) ======
+====== chi-square (apache-spark) [default], iteration 828 started ======
+====== chi-square (apache-spark) [default], iteration 828 completed (535.509 ms) ======
+====== chi-square (apache-spark) [default], iteration 829 started ======
+====== chi-square (apache-spark) [default], iteration 829 completed (534.941 ms) ======
+====== chi-square (apache-spark) [default], iteration 830 started ======
+====== chi-square (apache-spark) [default], iteration 830 completed (539.313 ms) ======
+====== chi-square (apache-spark) [default], iteration 831 started ======
+====== chi-square (apache-spark) [default], iteration 831 completed (588.477 ms) ======
+====== chi-square (apache-spark) [default], iteration 832 started ======
+====== chi-square (apache-spark) [default], iteration 832 completed (540.495 ms) ======
+====== chi-square (apache-spark) [default], iteration 833 started ======
+====== chi-square (apache-spark) [default], iteration 833 completed (533.397 ms) ======
+====== chi-square (apache-spark) [default], iteration 834 started ======
+====== chi-square (apache-spark) [default], iteration 834 completed (536.979 ms) ======
+====== chi-square (apache-spark) [default], iteration 835 started ======
+====== chi-square (apache-spark) [default], iteration 835 completed (597.628 ms) ======
+====== chi-square (apache-spark) [default], iteration 836 started ======
+====== chi-square (apache-spark) [default], iteration 836 completed (533.527 ms) ======
+====== chi-square (apache-spark) [default], iteration 837 started ======
+====== chi-square (apache-spark) [default], iteration 837 completed (536.767 ms) ======
+====== chi-square (apache-spark) [default], iteration 838 started ======
+====== chi-square (apache-spark) [default], iteration 838 completed (535.666 ms) ======
+====== chi-square (apache-spark) [default], iteration 839 started ======
+====== chi-square (apache-spark) [default], iteration 839 completed (541.405 ms) ======
+====== chi-square (apache-spark) [default], iteration 840 started ======
+====== chi-square (apache-spark) [default], iteration 840 completed (602.586 ms) ======
+====== chi-square (apache-spark) [default], iteration 841 started ======
+====== chi-square (apache-spark) [default], iteration 841 completed (536.135 ms) ======
+====== chi-square (apache-spark) [default], iteration 842 started ======
+====== chi-square (apache-spark) [default], iteration 842 completed (536.824 ms) ======
+====== chi-square (apache-spark) [default], iteration 843 started ======
+====== chi-square (apache-spark) [default], iteration 843 completed (538.089 ms) ======
+====== chi-square (apache-spark) [default], iteration 844 started ======
+====== chi-square (apache-spark) [default], iteration 844 completed (579.420 ms) ======
+====== chi-square (apache-spark) [default], iteration 845 started ======
+====== chi-square (apache-spark) [default], iteration 845 completed (538.808 ms) ======
+====== chi-square (apache-spark) [default], iteration 846 started ======
+====== chi-square (apache-spark) [default], iteration 846 completed (532.596 ms) ======
+====== chi-square (apache-spark) [default], iteration 847 started ======
+====== chi-square (apache-spark) [default], iteration 847 completed (539.194 ms) ======
+====== chi-square (apache-spark) [default], iteration 848 started ======
+====== chi-square (apache-spark) [default], iteration 848 completed (588.568 ms) ======
+====== chi-square (apache-spark) [default], iteration 849 started ======
+====== chi-square (apache-spark) [default], iteration 849 completed (538.152 ms) ======
+====== chi-square (apache-spark) [default], iteration 850 started ======
+====== chi-square (apache-spark) [default], iteration 850 completed (540.571 ms) ======
+====== chi-square (apache-spark) [default], iteration 851 started ======
+====== chi-square (apache-spark) [default], iteration 851 completed (535.710 ms) ======
+====== chi-square (apache-spark) [default], iteration 852 started ======
+====== chi-square (apache-spark) [default], iteration 852 completed (538.756 ms) ======
+====== chi-square (apache-spark) [default], iteration 853 started ======
+====== chi-square (apache-spark) [default], iteration 853 completed (578.852 ms) ======
+====== chi-square (apache-spark) [default], iteration 854 started ======
+====== chi-square (apache-spark) [default], iteration 854 completed (537.245 ms) ======
+====== chi-square (apache-spark) [default], iteration 855 started ======
+====== chi-square (apache-spark) [default], iteration 855 completed (535.624 ms) ======
+====== chi-square (apache-spark) [default], iteration 856 started ======
+====== chi-square (apache-spark) [default], iteration 856 completed (538.130 ms) ======
+====== chi-square (apache-spark) [default], iteration 857 started ======
+====== chi-square (apache-spark) [default], iteration 857 completed (581.778 ms) ======
+====== chi-square (apache-spark) [default], iteration 858 started ======
+====== chi-square (apache-spark) [default], iteration 858 completed (536.042 ms) ======
+====== chi-square (apache-spark) [default], iteration 859 started ======
+====== chi-square (apache-spark) [default], iteration 859 completed (536.113 ms) ======
+====== chi-square (apache-spark) [default], iteration 860 started ======
+====== chi-square (apache-spark) [default], iteration 860 completed (536.940 ms) ======
+====== chi-square (apache-spark) [default], iteration 861 started ======
+====== chi-square (apache-spark) [default], iteration 861 completed (589.109 ms) ======
+====== chi-square (apache-spark) [default], iteration 862 started ======
+====== chi-square (apache-spark) [default], iteration 862 completed (535.252 ms) ======
+====== chi-square (apache-spark) [default], iteration 863 started ======
+====== chi-square (apache-spark) [default], iteration 863 completed (539.595 ms) ======
+====== chi-square (apache-spark) [default], iteration 864 started ======
+====== chi-square (apache-spark) [default], iteration 864 completed (536.369 ms) ======
+====== chi-square (apache-spark) [default], iteration 865 started ======
+====== chi-square (apache-spark) [default], iteration 865 completed (536.413 ms) ======
+====== chi-square (apache-spark) [default], iteration 866 started ======
+====== chi-square (apache-spark) [default], iteration 866 completed (577.811 ms) ======
+====== chi-square (apache-spark) [default], iteration 867 started ======
+====== chi-square (apache-spark) [default], iteration 867 completed (536.690 ms) ======
+====== chi-square (apache-spark) [default], iteration 868 started ======
+====== chi-square (apache-spark) [default], iteration 868 completed (536.921 ms) ======
+====== chi-square (apache-spark) [default], iteration 869 started ======
+====== chi-square (apache-spark) [default], iteration 869 completed (541.405 ms) ======
+====== chi-square (apache-spark) [default], iteration 870 started ======
+====== chi-square (apache-spark) [default], iteration 870 completed (582.285 ms) ======
+====== chi-square (apache-spark) [default], iteration 871 started ======
+====== chi-square (apache-spark) [default], iteration 871 completed (545.010 ms) ======
+====== chi-square (apache-spark) [default], iteration 872 started ======
+====== chi-square (apache-spark) [default], iteration 872 completed (533.193 ms) ======
+====== chi-square (apache-spark) [default], iteration 873 started ======
+====== chi-square (apache-spark) [default], iteration 873 completed (535.464 ms) ======
+====== chi-square (apache-spark) [default], iteration 874 started ======
+====== chi-square (apache-spark) [default], iteration 874 completed (587.829 ms) ======
+====== chi-square (apache-spark) [default], iteration 875 started ======
+====== chi-square (apache-spark) [default], iteration 875 completed (540.441 ms) ======
+====== chi-square (apache-spark) [default], iteration 876 started ======
+====== chi-square (apache-spark) [default], iteration 876 completed (538.434 ms) ======
+====== chi-square (apache-spark) [default], iteration 877 started ======
+====== chi-square (apache-spark) [default], iteration 877 completed (534.791 ms) ======
+====== chi-square (apache-spark) [default], iteration 878 started ======
+====== chi-square (apache-spark) [default], iteration 878 completed (537.888 ms) ======
+====== chi-square (apache-spark) [default], iteration 879 started ======
+====== chi-square (apache-spark) [default], iteration 879 completed (587.058 ms) ======
+====== chi-square (apache-spark) [default], iteration 880 started ======
+====== chi-square (apache-spark) [default], iteration 880 completed (537.677 ms) ======
+====== chi-square (apache-spark) [default], iteration 881 started ======
+====== chi-square (apache-spark) [default], iteration 881 completed (534.666 ms) ======
+====== chi-square (apache-spark) [default], iteration 882 started ======
+====== chi-square (apache-spark) [default], iteration 882 completed (538.925 ms) ======
+====== chi-square (apache-spark) [default], iteration 883 started ======
+====== chi-square (apache-spark) [default], iteration 883 completed (588.171 ms) ======
+====== chi-square (apache-spark) [default], iteration 884 started ======
+====== chi-square (apache-spark) [default], iteration 884 completed (536.366 ms) ======
+====== chi-square (apache-spark) [default], iteration 885 started ======
+====== chi-square (apache-spark) [default], iteration 885 completed (545.721 ms) ======
+====== chi-square (apache-spark) [default], iteration 886 started ======
+====== chi-square (apache-spark) [default], iteration 886 completed (534.671 ms) ======
+====== chi-square (apache-spark) [default], iteration 887 started ======
+====== chi-square (apache-spark) [default], iteration 887 completed (590.341 ms) ======
+====== chi-square (apache-spark) [default], iteration 888 started ======
+====== chi-square (apache-spark) [default], iteration 888 completed (537.118 ms) ======
+====== chi-square (apache-spark) [default], iteration 889 started ======
+====== chi-square (apache-spark) [default], iteration 889 completed (541.688 ms) ======
+====== chi-square (apache-spark) [default], iteration 890 started ======
+====== chi-square (apache-spark) [default], iteration 890 completed (548.665 ms) ======
+====== chi-square (apache-spark) [default], iteration 891 started ======
+====== chi-square (apache-spark) [default], iteration 891 completed (539.578 ms) ======
+====== chi-square (apache-spark) [default], iteration 892 started ======
+====== chi-square (apache-spark) [default], iteration 892 completed (580.568 ms) ======
+====== chi-square (apache-spark) [default], iteration 893 started ======
+====== chi-square (apache-spark) [default], iteration 893 completed (535.342 ms) ======
+====== chi-square (apache-spark) [default], iteration 894 started ======
+====== chi-square (apache-spark) [default], iteration 894 completed (554.010 ms) ======
+====== chi-square (apache-spark) [default], iteration 895 started ======
+====== chi-square (apache-spark) [default], iteration 895 completed (541.650 ms) ======
+====== chi-square (apache-spark) [default], iteration 896 started ======
+====== chi-square (apache-spark) [default], iteration 896 completed (610.206 ms) ======
+====== chi-square (apache-spark) [default], iteration 897 started ======
+====== chi-square (apache-spark) [default], iteration 897 completed (536.967 ms) ======
+====== chi-square (apache-spark) [default], iteration 898 started ======
+====== chi-square (apache-spark) [default], iteration 898 completed (535.129 ms) ======
+====== chi-square (apache-spark) [default], iteration 899 started ======
+====== chi-square (apache-spark) [default], iteration 899 completed (535.816 ms) ======
+====== chi-square (apache-spark) [default], iteration 900 started ======
+====== chi-square (apache-spark) [default], iteration 900 completed (584.881 ms) ======
+====== chi-square (apache-spark) [default], iteration 901 started ======
+====== chi-square (apache-spark) [default], iteration 901 completed (537.845 ms) ======
+====== chi-square (apache-spark) [default], iteration 902 started ======
+====== chi-square (apache-spark) [default], iteration 902 completed (533.919 ms) ======
+====== chi-square (apache-spark) [default], iteration 903 started ======
+====== chi-square (apache-spark) [default], iteration 903 completed (542.167 ms) ======
+====== chi-square (apache-spark) [default], iteration 904 started ======
+====== chi-square (apache-spark) [default], iteration 904 completed (592.903 ms) ======
+====== chi-square (apache-spark) [default], iteration 905 started ======
+====== chi-square (apache-spark) [default], iteration 905 completed (560.505 ms) ======
+====== chi-square (apache-spark) [default], iteration 906 started ======
+====== chi-square (apache-spark) [default], iteration 906 completed (561.079 ms) ======
+====== chi-square (apache-spark) [default], iteration 907 started ======
+====== chi-square (apache-spark) [default], iteration 907 completed (563.395 ms) ======
+====== chi-square (apache-spark) [default], iteration 908 started ======
+====== chi-square (apache-spark) [default], iteration 908 completed (562.195 ms) ======
+====== chi-square (apache-spark) [default], iteration 909 started ======
+====== chi-square (apache-spark) [default], iteration 909 completed (592.438 ms) ======
+====== chi-square (apache-spark) [default], iteration 910 started ======
+====== chi-square (apache-spark) [default], iteration 910 completed (564.796 ms) ======
+====== chi-square (apache-spark) [default], iteration 911 started ======
+====== chi-square (apache-spark) [default], iteration 911 completed (560.603 ms) ======
+====== chi-square (apache-spark) [default], iteration 912 started ======
+====== chi-square (apache-spark) [default], iteration 912 completed (541.493 ms) ======
+====== chi-square (apache-spark) [default], iteration 913 started ======
+====== chi-square (apache-spark) [default], iteration 913 completed (611.126 ms) ======
+====== chi-square (apache-spark) [default], iteration 914 started ======
+====== chi-square (apache-spark) [default], iteration 914 completed (562.638 ms) ======
+====== chi-square (apache-spark) [default], iteration 915 started ======
+====== chi-square (apache-spark) [default], iteration 915 completed (558.730 ms) ======
+====== chi-square (apache-spark) [default], iteration 916 started ======
+====== chi-square (apache-spark) [default], iteration 916 completed (542.180 ms) ======
+====== chi-square (apache-spark) [default], iteration 917 started ======
+====== chi-square (apache-spark) [default], iteration 917 completed (612.678 ms) ======
+====== chi-square (apache-spark) [default], iteration 918 started ======
+====== chi-square (apache-spark) [default], iteration 918 completed (545.391 ms) ======
+====== chi-square (apache-spark) [default], iteration 919 started ======
+====== chi-square (apache-spark) [default], iteration 919 completed (538.775 ms) ======
+====== chi-square (apache-spark) [default], iteration 920 started ======
+====== chi-square (apache-spark) [default], iteration 920 completed (537.273 ms) ======
+====== chi-square (apache-spark) [default], iteration 921 started ======
+====== chi-square (apache-spark) [default], iteration 921 completed (538.802 ms) ======
+====== chi-square (apache-spark) [default], iteration 922 started ======
+====== chi-square (apache-spark) [default], iteration 922 completed (610.117 ms) ======
+====== chi-square (apache-spark) [default], iteration 923 started ======
+====== chi-square (apache-spark) [default], iteration 923 completed (554.538 ms) ======
+====== chi-square (apache-spark) [default], iteration 924 started ======
+====== chi-square (apache-spark) [default], iteration 924 completed (542.631 ms) ======
+====== chi-square (apache-spark) [default], iteration 925 started ======
+====== chi-square (apache-spark) [default], iteration 925 completed (567.761 ms) ======
+====== chi-square (apache-spark) [default], iteration 926 started ======
+====== chi-square (apache-spark) [default], iteration 926 completed (622.743 ms) ======
+====== chi-square (apache-spark) [default], iteration 927 started ======
+====== chi-square (apache-spark) [default], iteration 927 completed (533.253 ms) ======
+====== chi-square (apache-spark) [default], iteration 928 started ======
+====== chi-square (apache-spark) [default], iteration 928 completed (535.021 ms) ======
+====== chi-square (apache-spark) [default], iteration 929 started ======
+====== chi-square (apache-spark) [default], iteration 929 completed (549.221 ms) ======
+====== chi-square (apache-spark) [default], iteration 930 started ======
+====== chi-square (apache-spark) [default], iteration 930 completed (591.161 ms) ======
+====== chi-square (apache-spark) [default], iteration 931 started ======
+====== chi-square (apache-spark) [default], iteration 931 completed (548.240 ms) ======
+====== chi-square (apache-spark) [default], iteration 932 started ======
+====== chi-square (apache-spark) [default], iteration 932 completed (540.119 ms) ======
+====== chi-square (apache-spark) [default], iteration 933 started ======
+====== chi-square (apache-spark) [default], iteration 933 completed (536.430 ms) ======
+====== chi-square (apache-spark) [default], iteration 934 started ======
+====== chi-square (apache-spark) [default], iteration 934 completed (536.931 ms) ======
+====== chi-square (apache-spark) [default], iteration 935 started ======
+====== chi-square (apache-spark) [default], iteration 935 completed (601.305 ms) ======
+====== chi-square (apache-spark) [default], iteration 936 started ======
+====== chi-square (apache-spark) [default], iteration 936 completed (536.367 ms) ======
+====== chi-square (apache-spark) [default], iteration 937 started ======
+====== chi-square (apache-spark) [default], iteration 937 completed (550.409 ms) ======
+====== chi-square (apache-spark) [default], iteration 938 started ======
+====== chi-square (apache-spark) [default], iteration 938 completed (542.159 ms) ======
+====== chi-square (apache-spark) [default], iteration 939 started ======
+====== chi-square (apache-spark) [default], iteration 939 completed (606.727 ms) ======
+====== chi-square (apache-spark) [default], iteration 940 started ======
+====== chi-square (apache-spark) [default], iteration 940 completed (540.747 ms) ======
+====== chi-square (apache-spark) [default], iteration 941 started ======
+====== chi-square (apache-spark) [default], iteration 941 completed (534.280 ms) ======
+====== chi-square (apache-spark) [default], iteration 942 started ======
+====== chi-square (apache-spark) [default], iteration 942 completed (534.120 ms) ======
+====== chi-square (apache-spark) [default], iteration 943 started ======
+====== chi-square (apache-spark) [default], iteration 943 completed (588.990 ms) ======
+====== chi-square (apache-spark) [default], iteration 944 started ======
+====== chi-square (apache-spark) [default], iteration 944 completed (536.878 ms) ======
+====== chi-square (apache-spark) [default], iteration 945 started ======
+====== chi-square (apache-spark) [default], iteration 945 completed (534.485 ms) ======
+====== chi-square (apache-spark) [default], iteration 946 started ======
+====== chi-square (apache-spark) [default], iteration 946 completed (535.429 ms) ======
+====== chi-square (apache-spark) [default], iteration 947 started ======
+====== chi-square (apache-spark) [default], iteration 947 completed (534.231 ms) ======
+====== chi-square (apache-spark) [default], iteration 948 started ======
+====== chi-square (apache-spark) [default], iteration 948 completed (581.778 ms) ======
+====== chi-square (apache-spark) [default], iteration 949 started ======
+====== chi-square (apache-spark) [default], iteration 949 completed (536.824 ms) ======
+====== chi-square (apache-spark) [default], iteration 950 started ======
+====== chi-square (apache-spark) [default], iteration 950 completed (539.693 ms) ======
+====== chi-square (apache-spark) [default], iteration 951 started ======
+====== chi-square (apache-spark) [default], iteration 951 completed (533.514 ms) ======
+====== chi-square (apache-spark) [default], iteration 952 started ======
+====== chi-square (apache-spark) [default], iteration 952 completed (585.721 ms) ======
+====== chi-square (apache-spark) [default], iteration 953 started ======
+====== chi-square (apache-spark) [default], iteration 953 completed (533.444 ms) ======
+====== chi-square (apache-spark) [default], iteration 954 started ======
+====== chi-square (apache-spark) [default], iteration 954 completed (539.258 ms) ======
+====== chi-square (apache-spark) [default], iteration 955 started ======
+====== chi-square (apache-spark) [default], iteration 955 completed (542.825 ms) ======
+====== chi-square (apache-spark) [default], iteration 956 started ======
+====== chi-square (apache-spark) [default], iteration 956 completed (588.160 ms) ======
+====== chi-square (apache-spark) [default], iteration 957 started ======
+====== chi-square (apache-spark) [default], iteration 957 completed (538.635 ms) ======
+====== chi-square (apache-spark) [default], iteration 958 started ======
+====== chi-square (apache-spark) [default], iteration 958 completed (536.642 ms) ======
+====== chi-square (apache-spark) [default], iteration 959 started ======
+====== chi-square (apache-spark) [default], iteration 959 completed (536.993 ms) ======
+====== chi-square (apache-spark) [default], iteration 960 started ======
+====== chi-square (apache-spark) [default], iteration 960 completed (535.945 ms) ======
+====== chi-square (apache-spark) [default], iteration 961 started ======
+====== chi-square (apache-spark) [default], iteration 961 completed (590.081 ms) ======
+====== chi-square (apache-spark) [default], iteration 962 started ======
+====== chi-square (apache-spark) [default], iteration 962 completed (540.262 ms) ======
+====== chi-square (apache-spark) [default], iteration 963 started ======
+====== chi-square (apache-spark) [default], iteration 963 completed (550.079 ms) ======
+====== chi-square (apache-spark) [default], iteration 964 started ======
+====== chi-square (apache-spark) [default], iteration 964 completed (554.496 ms) ======
+====== chi-square (apache-spark) [default], iteration 965 started ======
+====== chi-square (apache-spark) [default], iteration 965 completed (601.349 ms) ======
+====== chi-square (apache-spark) [default], iteration 966 started ======
+====== chi-square (apache-spark) [default], iteration 966 completed (532.797 ms) ======
+====== chi-square (apache-spark) [default], iteration 967 started ======
+====== chi-square (apache-spark) [default], iteration 967 completed (530.921 ms) ======
+====== chi-square (apache-spark) [default], iteration 968 started ======
+====== chi-square (apache-spark) [default], iteration 968 completed (535.385 ms) ======
+====== chi-square (apache-spark) [default], iteration 969 started ======
+====== chi-square (apache-spark) [default], iteration 969 completed (589.586 ms) ======
+====== chi-square (apache-spark) [default], iteration 970 started ======
+====== chi-square (apache-spark) [default], iteration 970 completed (537.253 ms) ======
+====== chi-square (apache-spark) [default], iteration 971 started ======
+====== chi-square (apache-spark) [default], iteration 971 completed (538.463 ms) ======
+====== chi-square (apache-spark) [default], iteration 972 started ======
+====== chi-square (apache-spark) [default], iteration 972 completed (535.977 ms) ======
+====== chi-square (apache-spark) [default], iteration 973 started ======
+====== chi-square (apache-spark) [default], iteration 973 completed (537.198 ms) ======
+====== chi-square (apache-spark) [default], iteration 974 started ======
+====== chi-square (apache-spark) [default], iteration 974 completed (604.429 ms) ======
+====== chi-square (apache-spark) [default], iteration 975 started ======
+====== chi-square (apache-spark) [default], iteration 975 completed (533.684 ms) ======
+====== chi-square (apache-spark) [default], iteration 976 started ======
+====== chi-square (apache-spark) [default], iteration 976 completed (534.983 ms) ======
+====== chi-square (apache-spark) [default], iteration 977 started ======
+====== chi-square (apache-spark) [default], iteration 977 completed (537.419 ms) ======
+====== chi-square (apache-spark) [default], iteration 978 started ======
+====== chi-square (apache-spark) [default], iteration 978 completed (582.058 ms) ======
+====== chi-square (apache-spark) [default], iteration 979 started ======
+====== chi-square (apache-spark) [default], iteration 979 completed (537.489 ms) ======
+====== chi-square (apache-spark) [default], iteration 980 started ======
+====== chi-square (apache-spark) [default], iteration 980 completed (533.122 ms) ======
+====== chi-square (apache-spark) [default], iteration 981 started ======
+====== chi-square (apache-spark) [default], iteration 981 completed (538.729 ms) ======
+====== chi-square (apache-spark) [default], iteration 982 started ======
+====== chi-square (apache-spark) [default], iteration 982 completed (596.276 ms) ======
+====== chi-square (apache-spark) [default], iteration 983 started ======
+====== chi-square (apache-spark) [default], iteration 983 completed (537.654 ms) ======
+====== chi-square (apache-spark) [default], iteration 984 started ======
+====== chi-square (apache-spark) [default], iteration 984 completed (534.731 ms) ======
+====== chi-square (apache-spark) [default], iteration 985 started ======
+====== chi-square (apache-spark) [default], iteration 985 completed (537.936 ms) ======
+====== chi-square (apache-spark) [default], iteration 986 started ======
+====== chi-square (apache-spark) [default], iteration 986 completed (540.561 ms) ======
+====== chi-square (apache-spark) [default], iteration 987 started ======
+====== chi-square (apache-spark) [default], iteration 987 completed (588.918 ms) ======
+====== chi-square (apache-spark) [default], iteration 988 started ======
+====== chi-square (apache-spark) [default], iteration 988 completed (534.303 ms) ======
+====== chi-square (apache-spark) [default], iteration 989 started ======
+====== chi-square (apache-spark) [default], iteration 989 completed (536.572 ms) ======
+====== chi-square (apache-spark) [default], iteration 990 started ======
+====== chi-square (apache-spark) [default], iteration 990 completed (538.981 ms) ======
+====== chi-square (apache-spark) [default], iteration 991 started ======
+====== chi-square (apache-spark) [default], iteration 991 completed (620.960 ms) ======
+====== chi-square (apache-spark) [default], iteration 992 started ======
+====== chi-square (apache-spark) [default], iteration 992 completed (536.601 ms) ======
+====== chi-square (apache-spark) [default], iteration 993 started ======
+====== chi-square (apache-spark) [default], iteration 993 completed (539.353 ms) ======
+====== chi-square (apache-spark) [default], iteration 994 started ======
+====== chi-square (apache-spark) [default], iteration 994 completed (542.743 ms) ======
+====== chi-square (apache-spark) [default], iteration 995 started ======
+====== chi-square (apache-spark) [default], iteration 995 completed (614.764 ms) ======
+====== chi-square (apache-spark) [default], iteration 996 started ======
+====== chi-square (apache-spark) [default], iteration 996 completed (537.156 ms) ======
+====== chi-square (apache-spark) [default], iteration 997 started ======
+====== chi-square (apache-spark) [default], iteration 997 completed (535.402 ms) ======
+====== chi-square (apache-spark) [default], iteration 998 started ======
+====== chi-square (apache-spark) [default], iteration 998 completed (539.731 ms) ======
+====== chi-square (apache-spark) [default], iteration 999 started ======
+====== chi-square (apache-spark) [default], iteration 999 completed (545.608 ms) ======
+====== chi-square (apache-spark) [default], iteration 1000 started ======
+====== chi-square (apache-spark) [default], iteration 1000 completed (585.552 ms) ======
+====== chi-square (apache-spark) [default], iteration 1001 started ======
+====== chi-square (apache-spark) [default], iteration 1001 completed (539.830 ms) ======
+====== chi-square (apache-spark) [default], iteration 1002 started ======
+====== chi-square (apache-spark) [default], iteration 1002 completed (539.411 ms) ======
+====== chi-square (apache-spark) [default], iteration 1003 started ======
+====== chi-square (apache-spark) [default], iteration 1003 completed (534.662 ms) ======
+====== chi-square (apache-spark) [default], iteration 1004 started ======
+====== chi-square (apache-spark) [default], iteration 1004 completed (584.683 ms) ======
+====== chi-square (apache-spark) [default], iteration 1005 started ======
+====== chi-square (apache-spark) [default], iteration 1005 completed (536.451 ms) ======
+====== chi-square (apache-spark) [default], iteration 1006 started ======
+====== chi-square (apache-spark) [default], iteration 1006 completed (538.965 ms) ======
+====== chi-square (apache-spark) [default], iteration 1007 started ======
+====== chi-square (apache-spark) [default], iteration 1007 completed (539.582 ms) ======
+====== chi-square (apache-spark) [default], iteration 1008 started ======
+====== chi-square (apache-spark) [default], iteration 1008 completed (586.618 ms) ======
+====== chi-square (apache-spark) [default], iteration 1009 started ======
+====== chi-square (apache-spark) [default], iteration 1009 completed (537.907 ms) ======
+====== chi-square (apache-spark) [default], iteration 1010 started ======
+====== chi-square (apache-spark) [default], iteration 1010 completed (541.124 ms) ======
+====== chi-square (apache-spark) [default], iteration 1011 started ======
+====== chi-square (apache-spark) [default], iteration 1011 completed (536.358 ms) ======
+====== chi-square (apache-spark) [default], iteration 1012 started ======
+====== chi-square (apache-spark) [default], iteration 1012 completed (539.850 ms) ======
+====== chi-square (apache-spark) [default], iteration 1013 started ======
+====== chi-square (apache-spark) [default], iteration 1013 completed (582.347 ms) ======
+====== chi-square (apache-spark) [default], iteration 1014 started ======
+====== chi-square (apache-spark) [default], iteration 1014 completed (535.648 ms) ======
+====== chi-square (apache-spark) [default], iteration 1015 started ======
+====== chi-square (apache-spark) [default], iteration 1015 completed (536.994 ms) ======
+====== chi-square (apache-spark) [default], iteration 1016 started ======
+====== chi-square (apache-spark) [default], iteration 1016 completed (538.445 ms) ======
+====== chi-square (apache-spark) [default], iteration 1017 started ======
+====== chi-square (apache-spark) [default], iteration 1017 completed (585.736 ms) ======
+====== chi-square (apache-spark) [default], iteration 1018 started ======
+====== chi-square (apache-spark) [default], iteration 1018 completed (537.928 ms) ======
+====== chi-square (apache-spark) [default], iteration 1019 started ======
+====== chi-square (apache-spark) [default], iteration 1019 completed (538.654 ms) ======
+====== chi-square (apache-spark) [default], iteration 1020 started ======
+====== chi-square (apache-spark) [default], iteration 1020 completed (546.201 ms) ======
+====== chi-square (apache-spark) [default], iteration 1021 started ======
+====== chi-square (apache-spark) [default], iteration 1021 completed (591.849 ms) ======
+====== chi-square (apache-spark) [default], iteration 1022 started ======
+====== chi-square (apache-spark) [default], iteration 1022 completed (559.349 ms) ======
+====== chi-square (apache-spark) [default], iteration 1023 started ======
+====== chi-square (apache-spark) [default], iteration 1023 completed (557.009 ms) ======
+====== chi-square (apache-spark) [default], iteration 1024 started ======
+====== chi-square (apache-spark) [default], iteration 1024 completed (561.301 ms) ======
+====== chi-square (apache-spark) [default], iteration 1025 started ======
+====== chi-square (apache-spark) [default], iteration 1025 completed (560.390 ms) ======
+====== chi-square (apache-spark) [default], iteration 1026 started ======
+====== chi-square (apache-spark) [default], iteration 1026 completed (601.663 ms) ======
+====== chi-square (apache-spark) [default], iteration 1027 started ======
+====== chi-square (apache-spark) [default], iteration 1027 completed (561.455 ms) ======
+====== chi-square (apache-spark) [default], iteration 1028 started ======
+====== chi-square (apache-spark) [default], iteration 1028 completed (531.033 ms) ======
+====== chi-square (apache-spark) [default], iteration 1029 started ======
+====== chi-square (apache-spark) [default], iteration 1029 completed (537.069 ms) ======
+====== chi-square (apache-spark) [default], iteration 1030 started ======
+====== chi-square (apache-spark) [default], iteration 1030 completed (592.061 ms) ======
+====== chi-square (apache-spark) [default], iteration 1031 started ======
+====== chi-square (apache-spark) [default], iteration 1031 completed (536.853 ms) ======
+====== chi-square (apache-spark) [default], iteration 1032 started ======
+====== chi-square (apache-spark) [default], iteration 1032 completed (536.494 ms) ======
+====== chi-square (apache-spark) [default], iteration 1033 started ======
+====== chi-square (apache-spark) [default], iteration 1033 completed (565.793 ms) ======
+====== chi-square (apache-spark) [default], iteration 1034 started ======
+====== chi-square (apache-spark) [default], iteration 1034 completed (592.494 ms) ======
+====== chi-square (apache-spark) [default], iteration 1035 started ======
+====== chi-square (apache-spark) [default], iteration 1035 completed (567.794 ms) ======
+====== chi-square (apache-spark) [default], iteration 1036 started ======
+====== chi-square (apache-spark) [default], iteration 1036 completed (560.557 ms) ======
+====== chi-square (apache-spark) [default], iteration 1037 started ======
+====== chi-square (apache-spark) [default], iteration 1037 completed (556.937 ms) ======
+====== chi-square (apache-spark) [default], iteration 1038 started ======
+====== chi-square (apache-spark) [default], iteration 1038 completed (556.305 ms) ======
+====== chi-square (apache-spark) [default], iteration 1039 started ======
+====== chi-square (apache-spark) [default], iteration 1039 completed (588.791 ms) ======
+====== chi-square (apache-spark) [default], iteration 1040 started ======
+====== chi-square (apache-spark) [default], iteration 1040 completed (533.348 ms) ======
+====== chi-square (apache-spark) [default], iteration 1041 started ======
+====== chi-square (apache-spark) [default], iteration 1041 completed (534.990 ms) ======
+====== chi-square (apache-spark) [default], iteration 1042 started ======
+====== chi-square (apache-spark) [default], iteration 1042 completed (536.711 ms) ======
+====== chi-square (apache-spark) [default], iteration 1043 started ======
+====== chi-square (apache-spark) [default], iteration 1043 completed (581.539 ms) ======
+====== chi-square (apache-spark) [default], iteration 1044 started ======
+====== chi-square (apache-spark) [default], iteration 1044 completed (545.693 ms) ======
+====== chi-square (apache-spark) [default], iteration 1045 started ======
+====== chi-square (apache-spark) [default], iteration 1045 completed (531.829 ms) ======
+====== chi-square (apache-spark) [default], iteration 1046 started ======
+====== chi-square (apache-spark) [default], iteration 1046 completed (538.584 ms) ======
+====== chi-square (apache-spark) [default], iteration 1047 started ======
+====== chi-square (apache-spark) [default], iteration 1047 completed (588.387 ms) ======
+====== chi-square (apache-spark) [default], iteration 1048 started ======
+====== chi-square (apache-spark) [default], iteration 1048 completed (549.797 ms) ======
+====== chi-square (apache-spark) [default], iteration 1049 started ======
+====== chi-square (apache-spark) [default], iteration 1049 completed (553.462 ms) ======
+====== chi-square (apache-spark) [default], iteration 1050 started ======
+====== chi-square (apache-spark) [default], iteration 1050 completed (535.277 ms) ======
+====== chi-square (apache-spark) [default], iteration 1051 started ======
+====== chi-square (apache-spark) [default], iteration 1051 completed (543.420 ms) ======
+====== chi-square (apache-spark) [default], iteration 1052 started ======
+====== chi-square (apache-spark) [default], iteration 1052 completed (599.257 ms) ======
+====== chi-square (apache-spark) [default], iteration 1053 started ======
+====== chi-square (apache-spark) [default], iteration 1053 completed (538.752 ms) ======
+====== chi-square (apache-spark) [default], iteration 1054 started ======
+====== chi-square (apache-spark) [default], iteration 1054 completed (536.349 ms) ======
+====== chi-square (apache-spark) [default], iteration 1055 started ======
+====== chi-square (apache-spark) [default], iteration 1055 completed (535.756 ms) ======
+====== chi-square (apache-spark) [default], iteration 1056 started ======
+====== chi-square (apache-spark) [default], iteration 1056 completed (581.950 ms) ======
+====== chi-square (apache-spark) [default], iteration 1057 started ======
+====== chi-square (apache-spark) [default], iteration 1057 completed (537.447 ms) ======
+====== chi-square (apache-spark) [default], iteration 1058 started ======
+====== chi-square (apache-spark) [default], iteration 1058 completed (541.895 ms) ======
+====== chi-square (apache-spark) [default], iteration 1059 started ======
+====== chi-square (apache-spark) [default], iteration 1059 completed (534.464 ms) ======
+====== chi-square (apache-spark) [default], iteration 1060 started ======
+====== chi-square (apache-spark) [default], iteration 1060 completed (586.321 ms) ======
+====== chi-square (apache-spark) [default], iteration 1061 started ======
+====== chi-square (apache-spark) [default], iteration 1061 completed (533.693 ms) ======
+====== chi-square (apache-spark) [default], iteration 1062 started ======
+====== chi-square (apache-spark) [default], iteration 1062 completed (557.220 ms) ======
+====== chi-square (apache-spark) [default], iteration 1063 started ======
+====== chi-square (apache-spark) [default], iteration 1063 completed (562.031 ms) ======
+====== chi-square (apache-spark) [default], iteration 1064 started ======
+====== chi-square (apache-spark) [default], iteration 1064 completed (560.247 ms) ======

@@ -1,0 +1,402 @@
+[jmx-memory plugin] WARNING: Unknown garbage collector ZGC Minor Cycles.
+[jmx-memory plugin] WARNING: Unknown garbage collector ZGC Minor Pauses.
+[jmx-memory plugin] WARNING: Unknown garbage collector ZGC Major Cycles.
+[jmx-memory plugin] WARNING: Unknown garbage collector ZGC Major Pauses.
+[jmx-memory plugin] WARNING: MXBean for young generation not found, using mock.
+[jmx-memory plugin] WARNING: MXBean for old generation not found, using mock.
+====== par-mnemonics (functional) [default], iteration 0 started ======
+====== par-mnemonics (functional) [default], iteration 0 completed (4216.044 ms) ======
+====== par-mnemonics (functional) [default], iteration 1 started ======
+====== par-mnemonics (functional) [default], iteration 1 completed (4369.686 ms) ======
+====== par-mnemonics (functional) [default], iteration 2 started ======
+====== par-mnemonics (functional) [default], iteration 2 completed (5258.534 ms) ======
+====== par-mnemonics (functional) [default], iteration 3 started ======
+====== par-mnemonics (functional) [default], iteration 3 completed (2738.920 ms) ======
+====== par-mnemonics (functional) [default], iteration 4 started ======
+====== par-mnemonics (functional) [default], iteration 4 completed (2745.256 ms) ======
+====== par-mnemonics (functional) [default], iteration 5 started ======
+====== par-mnemonics (functional) [default], iteration 5 completed (2789.464 ms) ======
+====== par-mnemonics (functional) [default], iteration 6 started ======
+====== par-mnemonics (functional) [default], iteration 6 completed (2744.443 ms) ======
+====== par-mnemonics (functional) [default], iteration 7 started ======
+====== par-mnemonics (functional) [default], iteration 7 completed (2768.530 ms) ======
+====== par-mnemonics (functional) [default], iteration 8 started ======
+====== par-mnemonics (functional) [default], iteration 8 completed (2804.731 ms) ======
+====== par-mnemonics (functional) [default], iteration 9 started ======
+====== par-mnemonics (functional) [default], iteration 9 completed (2733.141 ms) ======
+====== par-mnemonics (functional) [default], iteration 10 started ======
+====== par-mnemonics (functional) [default], iteration 10 completed (2790.358 ms) ======
+====== par-mnemonics (functional) [default], iteration 11 started ======
+====== par-mnemonics (functional) [default], iteration 11 completed (2732.187 ms) ======
+====== par-mnemonics (functional) [default], iteration 12 started ======
+====== par-mnemonics (functional) [default], iteration 12 completed (2749.352 ms) ======
+====== par-mnemonics (functional) [default], iteration 13 started ======
+====== par-mnemonics (functional) [default], iteration 13 completed (2782.344 ms) ======
+====== par-mnemonics (functional) [default], iteration 14 started ======
+====== par-mnemonics (functional) [default], iteration 14 completed (2743.803 ms) ======
+====== par-mnemonics (functional) [default], iteration 15 started ======
+====== par-mnemonics (functional) [default], iteration 15 completed (2842.639 ms) ======
+====== par-mnemonics (functional) [default], iteration 16 started ======
+====== par-mnemonics (functional) [default], iteration 16 completed (2738.007 ms) ======
+====== par-mnemonics (functional) [default], iteration 17 started ======
+====== par-mnemonics (functional) [default], iteration 17 completed (2769.189 ms) ======
+====== par-mnemonics (functional) [default], iteration 18 started ======
+====== par-mnemonics (functional) [default], iteration 18 completed (2736.672 ms) ======
+====== par-mnemonics (functional) [default], iteration 19 started ======
+====== par-mnemonics (functional) [default], iteration 19 completed (2823.921 ms) ======
+====== par-mnemonics (functional) [default], iteration 20 started ======
+====== par-mnemonics (functional) [default], iteration 20 completed (2730.436 ms) ======
+====== par-mnemonics (functional) [default], iteration 21 started ======
+====== par-mnemonics (functional) [default], iteration 21 completed (2784.896 ms) ======
+====== par-mnemonics (functional) [default], iteration 22 started ======
+====== par-mnemonics (functional) [default], iteration 22 completed (2730.665 ms) ======
+====== par-mnemonics (functional) [default], iteration 23 started ======
+====== par-mnemonics (functional) [default], iteration 23 completed (2804.827 ms) ======
+====== par-mnemonics (functional) [default], iteration 24 started ======
+====== par-mnemonics (functional) [default], iteration 24 completed (2772.592 ms) ======
+====== par-mnemonics (functional) [default], iteration 25 started ======
+====== par-mnemonics (functional) [default], iteration 25 completed (2731.955 ms) ======
+====== par-mnemonics (functional) [default], iteration 26 started ======
+====== par-mnemonics (functional) [default], iteration 26 completed (2768.923 ms) ======
+====== par-mnemonics (functional) [default], iteration 27 started ======
+====== par-mnemonics (functional) [default], iteration 27 completed (2811.271 ms) ======
+====== par-mnemonics (functional) [default], iteration 28 started ======
+====== par-mnemonics (functional) [default], iteration 28 completed (2728.121 ms) ======
+====== par-mnemonics (functional) [default], iteration 29 started ======
+====== par-mnemonics (functional) [default], iteration 29 completed (2787.340 ms) ======
+====== par-mnemonics (functional) [default], iteration 30 started ======
+====== par-mnemonics (functional) [default], iteration 30 completed (2720.650 ms) ======
+====== par-mnemonics (functional) [default], iteration 31 started ======
+====== par-mnemonics (functional) [default], iteration 31 completed (2798.829 ms) ======
+====== par-mnemonics (functional) [default], iteration 32 started ======
+====== par-mnemonics (functional) [default], iteration 32 completed (2725.919 ms) ======
+====== par-mnemonics (functional) [default], iteration 33 started ======
+====== par-mnemonics (functional) [default], iteration 33 completed (2776.320 ms) ======
+====== par-mnemonics (functional) [default], iteration 34 started ======
+====== par-mnemonics (functional) [default], iteration 34 completed (2788.758 ms) ======
+====== par-mnemonics (functional) [default], iteration 35 started ======
+====== par-mnemonics (functional) [default], iteration 35 completed (2797.895 ms) ======
+====== par-mnemonics (functional) [default], iteration 36 started ======
+====== par-mnemonics (functional) [default], iteration 36 completed (2720.606 ms) ======
+====== par-mnemonics (functional) [default], iteration 37 started ======
+====== par-mnemonics (functional) [default], iteration 37 completed (2769.078 ms) ======
+====== par-mnemonics (functional) [default], iteration 38 started ======
+====== par-mnemonics (functional) [default], iteration 38 completed (2774.961 ms) ======
+====== par-mnemonics (functional) [default], iteration 39 started ======
+====== par-mnemonics (functional) [default], iteration 39 completed (2765.951 ms) ======
+====== par-mnemonics (functional) [default], iteration 40 started ======
+====== par-mnemonics (functional) [default], iteration 40 completed (2732.857 ms) ======
+====== par-mnemonics (functional) [default], iteration 41 started ======
+====== par-mnemonics (functional) [default], iteration 41 completed (2782.619 ms) ======
+====== par-mnemonics (functional) [default], iteration 42 started ======
+====== par-mnemonics (functional) [default], iteration 42 completed (2787.110 ms) ======
+====== par-mnemonics (functional) [default], iteration 43 started ======
+====== par-mnemonics (functional) [default], iteration 43 completed (2777.952 ms) ======
+====== par-mnemonics (functional) [default], iteration 44 started ======
+====== par-mnemonics (functional) [default], iteration 44 completed (2749.096 ms) ======
+====== par-mnemonics (functional) [default], iteration 45 started ======
+====== par-mnemonics (functional) [default], iteration 45 completed (2784.327 ms) ======
+====== par-mnemonics (functional) [default], iteration 46 started ======
+====== par-mnemonics (functional) [default], iteration 46 completed (2772.729 ms) ======
+====== par-mnemonics (functional) [default], iteration 47 started ======
+====== par-mnemonics (functional) [default], iteration 47 completed (2793.845 ms) ======
+====== par-mnemonics (functional) [default], iteration 48 started ======
+====== par-mnemonics (functional) [default], iteration 48 completed (2726.193 ms) ======
+====== par-mnemonics (functional) [default], iteration 49 started ======
+====== par-mnemonics (functional) [default], iteration 49 completed (2757.547 ms) ======
+====== par-mnemonics (functional) [default], iteration 50 started ======
+====== par-mnemonics (functional) [default], iteration 50 completed (2741.575 ms) ======
+====== par-mnemonics (functional) [default], iteration 51 started ======
+====== par-mnemonics (functional) [default], iteration 51 completed (2800.363 ms) ======
+====== par-mnemonics (functional) [default], iteration 52 started ======
+====== par-mnemonics (functional) [default], iteration 52 completed (2730.187 ms) ======
+====== par-mnemonics (functional) [default], iteration 53 started ======
+====== par-mnemonics (functional) [default], iteration 53 completed (2758.332 ms) ======
+====== par-mnemonics (functional) [default], iteration 54 started ======
+====== par-mnemonics (functional) [default], iteration 54 completed (2777.555 ms) ======
+====== par-mnemonics (functional) [default], iteration 55 started ======
+====== par-mnemonics (functional) [default], iteration 55 completed (2831.468 ms) ======
+====== par-mnemonics (functional) [default], iteration 56 started ======
+====== par-mnemonics (functional) [default], iteration 56 completed (2722.119 ms) ======
+====== par-mnemonics (functional) [default], iteration 57 started ======
+====== par-mnemonics (functional) [default], iteration 57 completed (2775.077 ms) ======
+====== par-mnemonics (functional) [default], iteration 58 started ======
+====== par-mnemonics (functional) [default], iteration 58 completed (2751.090 ms) ======
+====== par-mnemonics (functional) [default], iteration 59 started ======
+====== par-mnemonics (functional) [default], iteration 59 completed (2800.545 ms) ======
+====== par-mnemonics (functional) [default], iteration 60 started ======
+====== par-mnemonics (functional) [default], iteration 60 completed (2818.977 ms) ======
+====== par-mnemonics (functional) [default], iteration 61 started ======
+====== par-mnemonics (functional) [default], iteration 61 completed (2732.034 ms) ======
+====== par-mnemonics (functional) [default], iteration 62 started ======
+====== par-mnemonics (functional) [default], iteration 62 completed (2758.599 ms) ======
+====== par-mnemonics (functional) [default], iteration 63 started ======
+====== par-mnemonics (functional) [default], iteration 63 completed (2727.292 ms) ======
+====== par-mnemonics (functional) [default], iteration 64 started ======
+====== par-mnemonics (functional) [default], iteration 64 completed (2793.506 ms) ======
+====== par-mnemonics (functional) [default], iteration 65 started ======
+====== par-mnemonics (functional) [default], iteration 65 completed (2787.574 ms) ======
+====== par-mnemonics (functional) [default], iteration 66 started ======
+====== par-mnemonics (functional) [default], iteration 66 completed (2807.810 ms) ======
+====== par-mnemonics (functional) [default], iteration 67 started ======
+====== par-mnemonics (functional) [default], iteration 67 completed (2735.682 ms) ======
+====== par-mnemonics (functional) [default], iteration 68 started ======
+====== par-mnemonics (functional) [default], iteration 68 completed (2775.059 ms) ======
+====== par-mnemonics (functional) [default], iteration 69 started ======
+====== par-mnemonics (functional) [default], iteration 69 completed (2749.559 ms) ======
+====== par-mnemonics (functional) [default], iteration 70 started ======
+====== par-mnemonics (functional) [default], iteration 70 completed (2794.390 ms) ======
+====== par-mnemonics (functional) [default], iteration 71 started ======
+====== par-mnemonics (functional) [default], iteration 71 completed (2750.063 ms) ======
+====== par-mnemonics (functional) [default], iteration 72 started ======
+====== par-mnemonics (functional) [default], iteration 72 completed (2779.119 ms) ======
+====== par-mnemonics (functional) [default], iteration 73 started ======
+====== par-mnemonics (functional) [default], iteration 73 completed (2786.024 ms) ======
+====== par-mnemonics (functional) [default], iteration 74 started ======
+====== par-mnemonics (functional) [default], iteration 74 completed (2731.435 ms) ======
+====== par-mnemonics (functional) [default], iteration 75 started ======
+====== par-mnemonics (functional) [default], iteration 75 completed (2791.986 ms) ======
+====== par-mnemonics (functional) [default], iteration 76 started ======
+====== par-mnemonics (functional) [default], iteration 76 completed (2793.597 ms) ======
+====== par-mnemonics (functional) [default], iteration 77 started ======
+====== par-mnemonics (functional) [default], iteration 77 completed (2805.250 ms) ======
+====== par-mnemonics (functional) [default], iteration 78 started ======
+====== par-mnemonics (functional) [default], iteration 78 completed (2726.359 ms) ======
+====== par-mnemonics (functional) [default], iteration 79 started ======
+====== par-mnemonics (functional) [default], iteration 79 completed (2789.995 ms) ======
+====== par-mnemonics (functional) [default], iteration 80 started ======
+====== par-mnemonics (functional) [default], iteration 80 completed (2719.167 ms) ======
+====== par-mnemonics (functional) [default], iteration 81 started ======
+====== par-mnemonics (functional) [default], iteration 81 completed (2810.542 ms) ======
+====== par-mnemonics (functional) [default], iteration 82 started ======
+====== par-mnemonics (functional) [default], iteration 82 completed (2723.965 ms) ======
+====== par-mnemonics (functional) [default], iteration 83 started ======
+====== par-mnemonics (functional) [default], iteration 83 completed (2785.326 ms) ======
+====== par-mnemonics (functional) [default], iteration 84 started ======
+====== par-mnemonics (functional) [default], iteration 84 completed (2790.721 ms) ======
+====== par-mnemonics (functional) [default], iteration 85 started ======
+====== par-mnemonics (functional) [default], iteration 85 completed (2743.799 ms) ======
+====== par-mnemonics (functional) [default], iteration 86 started ======
+====== par-mnemonics (functional) [default], iteration 86 completed (2739.730 ms) ======
+====== par-mnemonics (functional) [default], iteration 87 started ======
+====== par-mnemonics (functional) [default], iteration 87 completed (2770.004 ms) ======
+====== par-mnemonics (functional) [default], iteration 88 started ======
+====== par-mnemonics (functional) [default], iteration 88 completed (2735.263 ms) ======
+====== par-mnemonics (functional) [default], iteration 89 started ======
+====== par-mnemonics (functional) [default], iteration 89 completed (2787.605 ms) ======
+====== par-mnemonics (functional) [default], iteration 90 started ======
+====== par-mnemonics (functional) [default], iteration 90 completed (2800.108 ms) ======
+====== par-mnemonics (functional) [default], iteration 91 started ======
+====== par-mnemonics (functional) [default], iteration 91 completed (2749.724 ms) ======
+====== par-mnemonics (functional) [default], iteration 92 started ======
+====== par-mnemonics (functional) [default], iteration 92 completed (2787.766 ms) ======
+====== par-mnemonics (functional) [default], iteration 93 started ======
+====== par-mnemonics (functional) [default], iteration 93 completed (2776.545 ms) ======
+====== par-mnemonics (functional) [default], iteration 94 started ======
+====== par-mnemonics (functional) [default], iteration 94 completed (2757.502 ms) ======
+====== par-mnemonics (functional) [default], iteration 95 started ======
+====== par-mnemonics (functional) [default], iteration 95 completed (2723.061 ms) ======
+====== par-mnemonics (functional) [default], iteration 96 started ======
+====== par-mnemonics (functional) [default], iteration 96 completed (2783.933 ms) ======
+====== par-mnemonics (functional) [default], iteration 97 started ======
+====== par-mnemonics (functional) [default], iteration 97 completed (2788.696 ms) ======
+====== par-mnemonics (functional) [default], iteration 98 started ======
+====== par-mnemonics (functional) [default], iteration 98 completed (2727.166 ms) ======
+====== par-mnemonics (functional) [default], iteration 99 started ======
+====== par-mnemonics (functional) [default], iteration 99 completed (2795.366 ms) ======
+====== par-mnemonics (functional) [default], iteration 100 started ======
+====== par-mnemonics (functional) [default], iteration 100 completed (2781.671 ms) ======
+====== par-mnemonics (functional) [default], iteration 101 started ======
+====== par-mnemonics (functional) [default], iteration 101 completed (2752.315 ms) ======
+====== par-mnemonics (functional) [default], iteration 102 started ======
+====== par-mnemonics (functional) [default], iteration 102 completed (2783.570 ms) ======
+====== par-mnemonics (functional) [default], iteration 103 started ======
+====== par-mnemonics (functional) [default], iteration 103 completed (2781.659 ms) ======
+====== par-mnemonics (functional) [default], iteration 104 started ======
+====== par-mnemonics (functional) [default], iteration 104 completed (2737.685 ms) ======
+====== par-mnemonics (functional) [default], iteration 105 started ======
+====== par-mnemonics (functional) [default], iteration 105 completed (2769.722 ms) ======
+====== par-mnemonics (functional) [default], iteration 106 started ======
+====== par-mnemonics (functional) [default], iteration 106 completed (2781.240 ms) ======
+====== par-mnemonics (functional) [default], iteration 107 started ======
+====== par-mnemonics (functional) [default], iteration 107 completed (2805.223 ms) ======
+====== par-mnemonics (functional) [default], iteration 108 started ======
+====== par-mnemonics (functional) [default], iteration 108 completed (2729.898 ms) ======
+====== par-mnemonics (functional) [default], iteration 109 started ======
+====== par-mnemonics (functional) [default], iteration 109 completed (2797.337 ms) ======
+====== par-mnemonics (functional) [default], iteration 110 started ======
+====== par-mnemonics (functional) [default], iteration 110 completed (2729.849 ms) ======
+====== par-mnemonics (functional) [default], iteration 111 started ======
+====== par-mnemonics (functional) [default], iteration 111 completed (2833.139 ms) ======
+====== par-mnemonics (functional) [default], iteration 112 started ======
+====== par-mnemonics (functional) [default], iteration 112 completed (2670.171 ms) ======
+====== par-mnemonics (functional) [default], iteration 113 started ======
+====== par-mnemonics (functional) [default], iteration 113 completed (2785.276 ms) ======
+====== par-mnemonics (functional) [default], iteration 114 started ======
+====== par-mnemonics (functional) [default], iteration 114 completed (2740.175 ms) ======
+====== par-mnemonics (functional) [default], iteration 115 started ======
+====== par-mnemonics (functional) [default], iteration 115 completed (2731.119 ms) ======
+====== par-mnemonics (functional) [default], iteration 116 started ======
+====== par-mnemonics (functional) [default], iteration 116 completed (2835.260 ms) ======
+====== par-mnemonics (functional) [default], iteration 117 started ======
+====== par-mnemonics (functional) [default], iteration 117 completed (2741.274 ms) ======
+====== par-mnemonics (functional) [default], iteration 118 started ======
+====== par-mnemonics (functional) [default], iteration 118 completed (2789.717 ms) ======
+====== par-mnemonics (functional) [default], iteration 119 started ======
+====== par-mnemonics (functional) [default], iteration 119 completed (2729.144 ms) ======
+====== par-mnemonics (functional) [default], iteration 120 started ======
+====== par-mnemonics (functional) [default], iteration 120 completed (2832.786 ms) ======
+====== par-mnemonics (functional) [default], iteration 121 started ======
+====== par-mnemonics (functional) [default], iteration 121 completed (2739.232 ms) ======
+====== par-mnemonics (functional) [default], iteration 122 started ======
+====== par-mnemonics (functional) [default], iteration 122 completed (2789.114 ms) ======
+====== par-mnemonics (functional) [default], iteration 123 started ======
+====== par-mnemonics (functional) [default], iteration 123 completed (2739.442 ms) ======
+====== par-mnemonics (functional) [default], iteration 124 started ======
+====== par-mnemonics (functional) [default], iteration 124 completed (2793.074 ms) ======
+====== par-mnemonics (functional) [default], iteration 125 started ======
+====== par-mnemonics (functional) [default], iteration 125 completed (2739.034 ms) ======
+====== par-mnemonics (functional) [default], iteration 126 started ======
+====== par-mnemonics (functional) [default], iteration 126 completed (2772.282 ms) ======
+====== par-mnemonics (functional) [default], iteration 127 started ======
+====== par-mnemonics (functional) [default], iteration 127 completed (2775.592 ms) ======
+====== par-mnemonics (functional) [default], iteration 128 started ======
+====== par-mnemonics (functional) [default], iteration 128 completed (2790.143 ms) ======
+====== par-mnemonics (functional) [default], iteration 129 started ======
+====== par-mnemonics (functional) [default], iteration 129 completed (2730.638 ms) ======
+====== par-mnemonics (functional) [default], iteration 130 started ======
+====== par-mnemonics (functional) [default], iteration 130 completed (2762.868 ms) ======
+====== par-mnemonics (functional) [default], iteration 131 started ======
+====== par-mnemonics (functional) [default], iteration 131 completed (2796.126 ms) ======
+====== par-mnemonics (functional) [default], iteration 132 started ======
+====== par-mnemonics (functional) [default], iteration 132 completed (2739.043 ms) ======
+====== par-mnemonics (functional) [default], iteration 133 started ======
+====== par-mnemonics (functional) [default], iteration 133 completed (2765.594 ms) ======
+====== par-mnemonics (functional) [default], iteration 134 started ======
+====== par-mnemonics (functional) [default], iteration 134 completed (2814.013 ms) ======
+====== par-mnemonics (functional) [default], iteration 135 started ======
+====== par-mnemonics (functional) [default], iteration 135 completed (2723.501 ms) ======
+====== par-mnemonics (functional) [default], iteration 136 started ======
+====== par-mnemonics (functional) [default], iteration 136 completed (2776.410 ms) ======
+====== par-mnemonics (functional) [default], iteration 137 started ======
+====== par-mnemonics (functional) [default], iteration 137 completed (2737.697 ms) ======
+====== par-mnemonics (functional) [default], iteration 138 started ======
+====== par-mnemonics (functional) [default], iteration 138 completed (2834.310 ms) ======
+====== par-mnemonics (functional) [default], iteration 139 started ======
+====== par-mnemonics (functional) [default], iteration 139 completed (2733.424 ms) ======
+====== par-mnemonics (functional) [default], iteration 140 started ======
+====== par-mnemonics (functional) [default], iteration 140 completed (2767.421 ms) ======
+====== par-mnemonics (functional) [default], iteration 141 started ======
+====== par-mnemonics (functional) [default], iteration 141 completed (2724.786 ms) ======
+====== par-mnemonics (functional) [default], iteration 142 started ======
+====== par-mnemonics (functional) [default], iteration 142 completed (2847.710 ms) ======
+====== par-mnemonics (functional) [default], iteration 143 started ======
+====== par-mnemonics (functional) [default], iteration 143 completed (2727.152 ms) ======
+====== par-mnemonics (functional) [default], iteration 144 started ======
+====== par-mnemonics (functional) [default], iteration 144 completed (2793.892 ms) ======
+====== par-mnemonics (functional) [default], iteration 145 started ======
+====== par-mnemonics (functional) [default], iteration 145 completed (2731.762 ms) ======
+====== par-mnemonics (functional) [default], iteration 146 started ======
+====== par-mnemonics (functional) [default], iteration 146 completed (2750.133 ms) ======
+====== par-mnemonics (functional) [default], iteration 147 started ======
+====== par-mnemonics (functional) [default], iteration 147 completed (2785.085 ms) ======
+====== par-mnemonics (functional) [default], iteration 148 started ======
+====== par-mnemonics (functional) [default], iteration 148 completed (2751.836 ms) ======
+====== par-mnemonics (functional) [default], iteration 149 started ======
+====== par-mnemonics (functional) [default], iteration 149 completed (2758.270 ms) ======
+====== par-mnemonics (functional) [default], iteration 150 started ======
+====== par-mnemonics (functional) [default], iteration 150 completed (2796.095 ms) ======
+====== par-mnemonics (functional) [default], iteration 151 started ======
+====== par-mnemonics (functional) [default], iteration 151 completed (2742.998 ms) ======
+====== par-mnemonics (functional) [default], iteration 152 started ======
+====== par-mnemonics (functional) [default], iteration 152 completed (2779.157 ms) ======
+====== par-mnemonics (functional) [default], iteration 153 started ======
+====== par-mnemonics (functional) [default], iteration 153 completed (2717.814 ms) ======
+====== par-mnemonics (functional) [default], iteration 154 started ======
+====== par-mnemonics (functional) [default], iteration 154 completed (2807.581 ms) ======
+====== par-mnemonics (functional) [default], iteration 155 started ======
+====== par-mnemonics (functional) [default], iteration 155 completed (2730.992 ms) ======
+====== par-mnemonics (functional) [default], iteration 156 started ======
+====== par-mnemonics (functional) [default], iteration 156 completed (2786.289 ms) ======
+====== par-mnemonics (functional) [default], iteration 157 started ======
+====== par-mnemonics (functional) [default], iteration 157 completed (2796.383 ms) ======
+====== par-mnemonics (functional) [default], iteration 158 started ======
+====== par-mnemonics (functional) [default], iteration 158 completed (2805.509 ms) ======
+====== par-mnemonics (functional) [default], iteration 159 started ======
+====== par-mnemonics (functional) [default], iteration 159 completed (2723.920 ms) ======
+====== par-mnemonics (functional) [default], iteration 160 started ======
+====== par-mnemonics (functional) [default], iteration 160 completed (2784.080 ms) ======
+====== par-mnemonics (functional) [default], iteration 161 started ======
+====== par-mnemonics (functional) [default], iteration 161 completed (2727.530 ms) ======
+====== par-mnemonics (functional) [default], iteration 162 started ======
+====== par-mnemonics (functional) [default], iteration 162 completed (2833.453 ms) ======
+====== par-mnemonics (functional) [default], iteration 163 started ======
+====== par-mnemonics (functional) [default], iteration 163 completed (2729.076 ms) ======
+====== par-mnemonics (functional) [default], iteration 164 started ======
+====== par-mnemonics (functional) [default], iteration 164 completed (2766.065 ms) ======
+====== par-mnemonics (functional) [default], iteration 165 started ======
+====== par-mnemonics (functional) [default], iteration 165 completed (2740.054 ms) ======
+====== par-mnemonics (functional) [default], iteration 166 started ======
+====== par-mnemonics (functional) [default], iteration 166 completed (2824.054 ms) ======
+====== par-mnemonics (functional) [default], iteration 167 started ======
+====== par-mnemonics (functional) [default], iteration 167 completed (2746.114 ms) ======
+====== par-mnemonics (functional) [default], iteration 168 started ======
+====== par-mnemonics (functional) [default], iteration 168 completed (2757.396 ms) ======
+====== par-mnemonics (functional) [default], iteration 169 started ======
+====== par-mnemonics (functional) [default], iteration 169 completed (2822.387 ms) ======
+====== par-mnemonics (functional) [default], iteration 170 started ======
+====== par-mnemonics (functional) [default], iteration 170 completed (2736.206 ms) ======
+====== par-mnemonics (functional) [default], iteration 171 started ======
+====== par-mnemonics (functional) [default], iteration 171 completed (2797.475 ms) ======
+====== par-mnemonics (functional) [default], iteration 172 started ======
+====== par-mnemonics (functional) [default], iteration 172 completed (2747.113 ms) ======
+====== par-mnemonics (functional) [default], iteration 173 started ======
+====== par-mnemonics (functional) [default], iteration 173 completed (2795.826 ms) ======
+====== par-mnemonics (functional) [default], iteration 174 started ======
+====== par-mnemonics (functional) [default], iteration 174 completed (2751.891 ms) ======
+====== par-mnemonics (functional) [default], iteration 175 started ======
+====== par-mnemonics (functional) [default], iteration 175 completed (2802.967 ms) ======
+====== par-mnemonics (functional) [default], iteration 176 started ======
+====== par-mnemonics (functional) [default], iteration 176 completed (2729.204 ms) ======
+====== par-mnemonics (functional) [default], iteration 177 started ======
+====== par-mnemonics (functional) [default], iteration 177 completed (2786.042 ms) ======
+====== par-mnemonics (functional) [default], iteration 178 started ======
+====== par-mnemonics (functional) [default], iteration 178 completed (2728.456 ms) ======
+====== par-mnemonics (functional) [default], iteration 179 started ======
+====== par-mnemonics (functional) [default], iteration 179 completed (2763.940 ms) ======
+====== par-mnemonics (functional) [default], iteration 180 started ======
+====== par-mnemonics (functional) [default], iteration 180 completed (2776.349 ms) ======
+====== par-mnemonics (functional) [default], iteration 181 started ======
+====== par-mnemonics (functional) [default], iteration 181 completed (2776.496 ms) ======
+====== par-mnemonics (functional) [default], iteration 182 started ======
+====== par-mnemonics (functional) [default], iteration 182 completed (2724.221 ms) ======
+====== par-mnemonics (functional) [default], iteration 183 started ======
+====== par-mnemonics (functional) [default], iteration 183 completed (2787.348 ms) ======
+====== par-mnemonics (functional) [default], iteration 184 started ======
+====== par-mnemonics (functional) [default], iteration 184 completed (2797.388 ms) ======
+====== par-mnemonics (functional) [default], iteration 185 started ======
+====== par-mnemonics (functional) [default], iteration 185 completed (2732.170 ms) ======
+====== par-mnemonics (functional) [default], iteration 186 started ======
+====== par-mnemonics (functional) [default], iteration 186 completed (2753.780 ms) ======
+====== par-mnemonics (functional) [default], iteration 187 started ======
+====== par-mnemonics (functional) [default], iteration 187 completed (2730.542 ms) ======
+====== par-mnemonics (functional) [default], iteration 188 started ======
+====== par-mnemonics (functional) [default], iteration 188 completed (2782.435 ms) ======
+====== par-mnemonics (functional) [default], iteration 189 started ======
+====== par-mnemonics (functional) [default], iteration 189 completed (2740.439 ms) ======
+====== par-mnemonics (functional) [default], iteration 190 started ======
+====== par-mnemonics (functional) [default], iteration 190 completed (2769.744 ms) ======
+====== par-mnemonics (functional) [default], iteration 191 started ======
+====== par-mnemonics (functional) [default], iteration 191 completed (2728.843 ms) ======
+====== par-mnemonics (functional) [default], iteration 192 started ======
+====== par-mnemonics (functional) [default], iteration 192 completed (2778.978 ms) ======
+====== par-mnemonics (functional) [default], iteration 193 started ======
+====== par-mnemonics (functional) [default], iteration 193 completed (2808.166 ms) ======
+====== par-mnemonics (functional) [default], iteration 194 started ======
+====== par-mnemonics (functional) [default], iteration 194 completed (2731.582 ms) ======
+====== par-mnemonics (functional) [default], iteration 195 started ======
+====== par-mnemonics (functional) [default], iteration 195 completed (2764.733 ms) ======
+====== par-mnemonics (functional) [default], iteration 196 started ======
+====== par-mnemonics (functional) [default], iteration 196 completed (2720.313 ms) ======
+====== par-mnemonics (functional) [default], iteration 197 started ======
+====== par-mnemonics (functional) [default], iteration 197 completed (2873.997 ms) ======

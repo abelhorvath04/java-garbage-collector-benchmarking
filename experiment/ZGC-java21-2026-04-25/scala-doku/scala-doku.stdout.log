@@ -1,0 +1,416 @@
+[jmx-memory plugin] WARNING: Unknown garbage collector ZGC Minor Cycles.
+[jmx-memory plugin] WARNING: Unknown garbage collector ZGC Minor Pauses.
+[jmx-memory plugin] WARNING: Unknown garbage collector ZGC Major Cycles.
+[jmx-memory plugin] WARNING: Unknown garbage collector ZGC Major Pauses.
+[jmx-memory plugin] WARNING: MXBean for young generation not found, using mock.
+[jmx-memory plugin] WARNING: MXBean for old generation not found, using mock.
+====== scala-doku (scala) [default], iteration 0 started ======
+====== scala-doku (scala) [default], iteration 0 completed (3697.555 ms) ======
+====== scala-doku (scala) [default], iteration 1 started ======
+====== scala-doku (scala) [default], iteration 1 completed (2788.621 ms) ======
+====== scala-doku (scala) [default], iteration 2 started ======
+====== scala-doku (scala) [default], iteration 2 completed (2754.601 ms) ======
+====== scala-doku (scala) [default], iteration 3 started ======
+====== scala-doku (scala) [default], iteration 3 completed (2757.459 ms) ======
+====== scala-doku (scala) [default], iteration 4 started ======
+====== scala-doku (scala) [default], iteration 4 completed (2772.617 ms) ======
+====== scala-doku (scala) [default], iteration 5 started ======
+====== scala-doku (scala) [default], iteration 5 completed (2807.469 ms) ======
+====== scala-doku (scala) [default], iteration 6 started ======
+====== scala-doku (scala) [default], iteration 6 completed (2735.468 ms) ======
+====== scala-doku (scala) [default], iteration 7 started ======
+====== scala-doku (scala) [default], iteration 7 completed (2755.548 ms) ======
+====== scala-doku (scala) [default], iteration 8 started ======
+====== scala-doku (scala) [default], iteration 8 completed (2743.632 ms) ======
+====== scala-doku (scala) [default], iteration 9 started ======
+====== scala-doku (scala) [default], iteration 9 completed (2739.541 ms) ======
+====== scala-doku (scala) [default], iteration 10 started ======
+====== scala-doku (scala) [default], iteration 10 completed (2727.829 ms) ======
+====== scala-doku (scala) [default], iteration 11 started ======
+====== scala-doku (scala) [default], iteration 11 completed (2736.330 ms) ======
+====== scala-doku (scala) [default], iteration 12 started ======
+====== scala-doku (scala) [default], iteration 12 completed (2734.039 ms) ======
+====== scala-doku (scala) [default], iteration 13 started ======
+====== scala-doku (scala) [default], iteration 13 completed (2815.392 ms) ======
+====== scala-doku (scala) [default], iteration 14 started ======
+====== scala-doku (scala) [default], iteration 14 completed (2833.954 ms) ======
+====== scala-doku (scala) [default], iteration 15 started ======
+====== scala-doku (scala) [default], iteration 15 completed (2830.211 ms) ======
+====== scala-doku (scala) [default], iteration 16 started ======
+====== scala-doku (scala) [default], iteration 16 completed (2833.707 ms) ======
+====== scala-doku (scala) [default], iteration 17 started ======
+====== scala-doku (scala) [default], iteration 17 completed (2891.896 ms) ======
+====== scala-doku (scala) [default], iteration 18 started ======
+====== scala-doku (scala) [default], iteration 18 completed (2828.648 ms) ======
+====== scala-doku (scala) [default], iteration 19 started ======
+====== scala-doku (scala) [default], iteration 19 completed (2820.508 ms) ======
+====== scala-doku (scala) [default], iteration 20 started ======
+====== scala-doku (scala) [default], iteration 20 completed (2825.910 ms) ======
+====== scala-doku (scala) [default], iteration 21 started ======
+====== scala-doku (scala) [default], iteration 21 completed (2670.914 ms) ======
+====== scala-doku (scala) [default], iteration 22 started ======
+====== scala-doku (scala) [default], iteration 22 completed (2666.860 ms) ======
+====== scala-doku (scala) [default], iteration 23 started ======
+====== scala-doku (scala) [default], iteration 23 completed (2661.697 ms) ======
+====== scala-doku (scala) [default], iteration 24 started ======
+====== scala-doku (scala) [default], iteration 24 completed (2659.337 ms) ======
+====== scala-doku (scala) [default], iteration 25 started ======
+====== scala-doku (scala) [default], iteration 25 completed (2662.314 ms) ======
+====== scala-doku (scala) [default], iteration 26 started ======
+====== scala-doku (scala) [default], iteration 26 completed (2665.005 ms) ======
+====== scala-doku (scala) [default], iteration 27 started ======
+====== scala-doku (scala) [default], iteration 27 completed (2663.521 ms) ======
+====== scala-doku (scala) [default], iteration 28 started ======
+====== scala-doku (scala) [default], iteration 28 completed (2676.839 ms) ======
+====== scala-doku (scala) [default], iteration 29 started ======
+====== scala-doku (scala) [default], iteration 29 completed (2660.684 ms) ======
+====== scala-doku (scala) [default], iteration 30 started ======
+====== scala-doku (scala) [default], iteration 30 completed (2657.563 ms) ======
+====== scala-doku (scala) [default], iteration 31 started ======
+====== scala-doku (scala) [default], iteration 31 completed (2683.199 ms) ======
+====== scala-doku (scala) [default], iteration 32 started ======
+====== scala-doku (scala) [default], iteration 32 completed (2676.121 ms) ======
+====== scala-doku (scala) [default], iteration 33 started ======
+====== scala-doku (scala) [default], iteration 33 completed (2858.317 ms) ======
+====== scala-doku (scala) [default], iteration 34 started ======
+====== scala-doku (scala) [default], iteration 34 completed (2968.471 ms) ======
+====== scala-doku (scala) [default], iteration 35 started ======
+====== scala-doku (scala) [default], iteration 35 completed (2967.665 ms) ======
+====== scala-doku (scala) [default], iteration 36 started ======
+====== scala-doku (scala) [default], iteration 36 completed (3021.414 ms) ======
+====== scala-doku (scala) [default], iteration 37 started ======
+====== scala-doku (scala) [default], iteration 37 completed (3069.399 ms) ======
+====== scala-doku (scala) [default], iteration 38 started ======
+====== scala-doku (scala) [default], iteration 38 completed (3064.548 ms) ======
+====== scala-doku (scala) [default], iteration 39 started ======
+====== scala-doku (scala) [default], iteration 39 completed (3054.218 ms) ======
+====== scala-doku (scala) [default], iteration 40 started ======
+====== scala-doku (scala) [default], iteration 40 completed (3058.312 ms) ======
+====== scala-doku (scala) [default], iteration 41 started ======
+====== scala-doku (scala) [default], iteration 41 completed (3054.723 ms) ======
+====== scala-doku (scala) [default], iteration 42 started ======
+====== scala-doku (scala) [default], iteration 42 completed (3047.022 ms) ======
+====== scala-doku (scala) [default], iteration 43 started ======
+====== scala-doku (scala) [default], iteration 43 completed (3045.251 ms) ======
+====== scala-doku (scala) [default], iteration 44 started ======
+====== scala-doku (scala) [default], iteration 44 completed (3114.986 ms) ======
+====== scala-doku (scala) [default], iteration 45 started ======
+====== scala-doku (scala) [default], iteration 45 completed (3052.714 ms) ======
+====== scala-doku (scala) [default], iteration 46 started ======
+====== scala-doku (scala) [default], iteration 46 completed (3042.292 ms) ======
+====== scala-doku (scala) [default], iteration 47 started ======
+====== scala-doku (scala) [default], iteration 47 completed (3058.194 ms) ======
+====== scala-doku (scala) [default], iteration 48 started ======
+====== scala-doku (scala) [default], iteration 48 completed (3043.230 ms) ======
+====== scala-doku (scala) [default], iteration 49 started ======
+====== scala-doku (scala) [default], iteration 49 completed (3042.126 ms) ======
+====== scala-doku (scala) [default], iteration 50 started ======
+====== scala-doku (scala) [default], iteration 50 completed (3040.495 ms) ======
+====== scala-doku (scala) [default], iteration 51 started ======
+====== scala-doku (scala) [default], iteration 51 completed (3043.886 ms) ======
+====== scala-doku (scala) [default], iteration 52 started ======
+====== scala-doku (scala) [default], iteration 52 completed (2986.087 ms) ======
+====== scala-doku (scala) [default], iteration 53 started ======
+====== scala-doku (scala) [default], iteration 53 completed (2946.734 ms) ======
+====== scala-doku (scala) [default], iteration 54 started ======
+====== scala-doku (scala) [default], iteration 54 completed (2954.975 ms) ======
+====== scala-doku (scala) [default], iteration 55 started ======
+====== scala-doku (scala) [default], iteration 55 completed (2941.189 ms) ======
+====== scala-doku (scala) [default], iteration 56 started ======
+====== scala-doku (scala) [default], iteration 56 completed (2947.437 ms) ======
+====== scala-doku (scala) [default], iteration 57 started ======
+====== scala-doku (scala) [default], iteration 57 completed (2941.397 ms) ======
+====== scala-doku (scala) [default], iteration 58 started ======
+====== scala-doku (scala) [default], iteration 58 completed (2937.783 ms) ======
+====== scala-doku (scala) [default], iteration 59 started ======
+====== scala-doku (scala) [default], iteration 59 completed (2947.517 ms) ======
+====== scala-doku (scala) [default], iteration 60 started ======
+====== scala-doku (scala) [default], iteration 60 completed (3040.754 ms) ======
+====== scala-doku (scala) [default], iteration 61 started ======
+====== scala-doku (scala) [default], iteration 61 completed (3020.593 ms) ======
+====== scala-doku (scala) [default], iteration 62 started ======
+====== scala-doku (scala) [default], iteration 62 completed (3026.698 ms) ======
+====== scala-doku (scala) [default], iteration 63 started ======
+====== scala-doku (scala) [default], iteration 63 completed (3024.878 ms) ======
+====== scala-doku (scala) [default], iteration 64 started ======
+====== scala-doku (scala) [default], iteration 64 completed (3023.252 ms) ======
+====== scala-doku (scala) [default], iteration 65 started ======
+====== scala-doku (scala) [default], iteration 65 completed (3023.556 ms) ======
+====== scala-doku (scala) [default], iteration 66 started ======
+====== scala-doku (scala) [default], iteration 66 completed (3033.524 ms) ======
+====== scala-doku (scala) [default], iteration 67 started ======
+====== scala-doku (scala) [default], iteration 67 completed (3026.999 ms) ======
+====== scala-doku (scala) [default], iteration 68 started ======
+====== scala-doku (scala) [default], iteration 68 completed (3020.129 ms) ======
+====== scala-doku (scala) [default], iteration 69 started ======
+====== scala-doku (scala) [default], iteration 69 completed (2940.982 ms) ======
+====== scala-doku (scala) [default], iteration 70 started ======
+====== scala-doku (scala) [default], iteration 70 completed (2943.624 ms) ======
+====== scala-doku (scala) [default], iteration 71 started ======
+====== scala-doku (scala) [default], iteration 71 completed (2941.140 ms) ======
+====== scala-doku (scala) [default], iteration 72 started ======
+====== scala-doku (scala) [default], iteration 72 completed (2941.241 ms) ======
+====== scala-doku (scala) [default], iteration 73 started ======
+====== scala-doku (scala) [default], iteration 73 completed (2941.981 ms) ======
+====== scala-doku (scala) [default], iteration 74 started ======
+====== scala-doku (scala) [default], iteration 74 completed (2939.890 ms) ======
+====== scala-doku (scala) [default], iteration 75 started ======
+====== scala-doku (scala) [default], iteration 75 completed (2939.583 ms) ======
+====== scala-doku (scala) [default], iteration 76 started ======
+====== scala-doku (scala) [default], iteration 76 completed (3009.575 ms) ======
+====== scala-doku (scala) [default], iteration 77 started ======
+====== scala-doku (scala) [default], iteration 77 completed (3030.654 ms) ======
+====== scala-doku (scala) [default], iteration 78 started ======
+====== scala-doku (scala) [default], iteration 78 completed (3024.818 ms) ======
+====== scala-doku (scala) [default], iteration 79 started ======
+====== scala-doku (scala) [default], iteration 79 completed (3024.462 ms) ======
+====== scala-doku (scala) [default], iteration 80 started ======
+====== scala-doku (scala) [default], iteration 80 completed (3024.105 ms) ======
+====== scala-doku (scala) [default], iteration 81 started ======
+====== scala-doku (scala) [default], iteration 81 completed (3022.556 ms) ======
+====== scala-doku (scala) [default], iteration 82 started ======
+====== scala-doku (scala) [default], iteration 82 completed (3024.227 ms) ======
+====== scala-doku (scala) [default], iteration 83 started ======
+====== scala-doku (scala) [default], iteration 83 completed (3027.593 ms) ======
+====== scala-doku (scala) [default], iteration 84 started ======
+====== scala-doku (scala) [default], iteration 84 completed (3003.674 ms) ======
+====== scala-doku (scala) [default], iteration 85 started ======
+====== scala-doku (scala) [default], iteration 85 completed (2936.600 ms) ======
+====== scala-doku (scala) [default], iteration 86 started ======
+====== scala-doku (scala) [default], iteration 86 completed (2940.669 ms) ======
+====== scala-doku (scala) [default], iteration 87 started ======
+====== scala-doku (scala) [default], iteration 87 completed (2941.480 ms) ======
+====== scala-doku (scala) [default], iteration 88 started ======
+====== scala-doku (scala) [default], iteration 88 completed (2948.287 ms) ======
+====== scala-doku (scala) [default], iteration 89 started ======
+====== scala-doku (scala) [default], iteration 89 completed (2939.871 ms) ======
+====== scala-doku (scala) [default], iteration 90 started ======
+====== scala-doku (scala) [default], iteration 90 completed (2945.325 ms) ======
+====== scala-doku (scala) [default], iteration 91 started ======
+====== scala-doku (scala) [default], iteration 91 completed (2940.953 ms) ======
+====== scala-doku (scala) [default], iteration 92 started ======
+====== scala-doku (scala) [default], iteration 92 completed (2967.130 ms) ======
+====== scala-doku (scala) [default], iteration 93 started ======
+====== scala-doku (scala) [default], iteration 93 completed (3023.847 ms) ======
+====== scala-doku (scala) [default], iteration 94 started ======
+====== scala-doku (scala) [default], iteration 94 completed (3021.943 ms) ======
+====== scala-doku (scala) [default], iteration 95 started ======
+====== scala-doku (scala) [default], iteration 95 completed (3029.203 ms) ======
+====== scala-doku (scala) [default], iteration 96 started ======
+====== scala-doku (scala) [default], iteration 96 completed (3025.412 ms) ======
+====== scala-doku (scala) [default], iteration 97 started ======
+====== scala-doku (scala) [default], iteration 97 completed (3021.126 ms) ======
+====== scala-doku (scala) [default], iteration 98 started ======
+====== scala-doku (scala) [default], iteration 98 completed (3030.778 ms) ======
+====== scala-doku (scala) [default], iteration 99 started ======
+====== scala-doku (scala) [default], iteration 99 completed (3021.072 ms) ======
+====== scala-doku (scala) [default], iteration 100 started ======
+====== scala-doku (scala) [default], iteration 100 completed (3036.371 ms) ======
+====== scala-doku (scala) [default], iteration 101 started ======
+====== scala-doku (scala) [default], iteration 101 completed (2936.869 ms) ======
+====== scala-doku (scala) [default], iteration 102 started ======
+====== scala-doku (scala) [default], iteration 102 completed (2939.268 ms) ======
+====== scala-doku (scala) [default], iteration 103 started ======
+====== scala-doku (scala) [default], iteration 103 completed (2937.239 ms) ======
+====== scala-doku (scala) [default], iteration 104 started ======
+====== scala-doku (scala) [default], iteration 104 completed (2937.946 ms) ======
+====== scala-doku (scala) [default], iteration 105 started ======
+====== scala-doku (scala) [default], iteration 105 completed (2948.668 ms) ======
+====== scala-doku (scala) [default], iteration 106 started ======
+====== scala-doku (scala) [default], iteration 106 completed (2938.202 ms) ======
+====== scala-doku (scala) [default], iteration 107 started ======
+====== scala-doku (scala) [default], iteration 107 completed (2938.031 ms) ======
+====== scala-doku (scala) [default], iteration 108 started ======
+====== scala-doku (scala) [default], iteration 108 completed (3020.923 ms) ======
+====== scala-doku (scala) [default], iteration 109 started ======
+====== scala-doku (scala) [default], iteration 109 completed (3019.175 ms) ======
+====== scala-doku (scala) [default], iteration 110 started ======
+====== scala-doku (scala) [default], iteration 110 completed (3021.812 ms) ======
+====== scala-doku (scala) [default], iteration 111 started ======
+====== scala-doku (scala) [default], iteration 111 completed (3023.261 ms) ======
+====== scala-doku (scala) [default], iteration 112 started ======
+====== scala-doku (scala) [default], iteration 112 completed (3022.657 ms) ======
+====== scala-doku (scala) [default], iteration 113 started ======
+====== scala-doku (scala) [default], iteration 113 completed (3022.906 ms) ======
+====== scala-doku (scala) [default], iteration 114 started ======
+====== scala-doku (scala) [default], iteration 114 completed (3023.228 ms) ======
+====== scala-doku (scala) [default], iteration 115 started ======
+====== scala-doku (scala) [default], iteration 115 completed (3021.334 ms) ======
+====== scala-doku (scala) [default], iteration 116 started ======
+====== scala-doku (scala) [default], iteration 116 completed (3004.349 ms) ======
+====== scala-doku (scala) [default], iteration 117 started ======
+====== scala-doku (scala) [default], iteration 117 completed (2936.485 ms) ======
+====== scala-doku (scala) [default], iteration 118 started ======
+====== scala-doku (scala) [default], iteration 118 completed (2941.908 ms) ======
+====== scala-doku (scala) [default], iteration 119 started ======
+====== scala-doku (scala) [default], iteration 119 completed (2951.108 ms) ======
+====== scala-doku (scala) [default], iteration 120 started ======
+====== scala-doku (scala) [default], iteration 120 completed (2935.725 ms) ======
+====== scala-doku (scala) [default], iteration 121 started ======
+====== scala-doku (scala) [default], iteration 121 completed (2944.528 ms) ======
+====== scala-doku (scala) [default], iteration 122 started ======
+====== scala-doku (scala) [default], iteration 122 completed (2953.621 ms) ======
+====== scala-doku (scala) [default], iteration 123 started ======
+====== scala-doku (scala) [default], iteration 123 completed (2941.049 ms) ======
+====== scala-doku (scala) [default], iteration 124 started ======
+====== scala-doku (scala) [default], iteration 124 completed (3013.083 ms) ======
+====== scala-doku (scala) [default], iteration 125 started ======
+====== scala-doku (scala) [default], iteration 125 completed (3020.720 ms) ======
+====== scala-doku (scala) [default], iteration 126 started ======
+====== scala-doku (scala) [default], iteration 126 completed (3022.868 ms) ======
+====== scala-doku (scala) [default], iteration 127 started ======
+====== scala-doku (scala) [default], iteration 127 completed (3023.724 ms) ======
+====== scala-doku (scala) [default], iteration 128 started ======
+====== scala-doku (scala) [default], iteration 128 completed (3021.688 ms) ======
+====== scala-doku (scala) [default], iteration 129 started ======
+====== scala-doku (scala) [default], iteration 129 completed (3023.440 ms) ======
+====== scala-doku (scala) [default], iteration 130 started ======
+====== scala-doku (scala) [default], iteration 130 completed (3022.186 ms) ======
+====== scala-doku (scala) [default], iteration 131 started ======
+====== scala-doku (scala) [default], iteration 131 completed (3026.521 ms) ======
+====== scala-doku (scala) [default], iteration 132 started ======
+====== scala-doku (scala) [default], iteration 132 completed (3017.787 ms) ======
+====== scala-doku (scala) [default], iteration 133 started ======
+====== scala-doku (scala) [default], iteration 133 completed (2947.007 ms) ======
+====== scala-doku (scala) [default], iteration 134 started ======
+====== scala-doku (scala) [default], iteration 134 completed (2934.174 ms) ======
+====== scala-doku (scala) [default], iteration 135 started ======
+====== scala-doku (scala) [default], iteration 135 completed (2940.254 ms) ======
+====== scala-doku (scala) [default], iteration 136 started ======
+====== scala-doku (scala) [default], iteration 136 completed (2937.215 ms) ======
+====== scala-doku (scala) [default], iteration 137 started ======
+====== scala-doku (scala) [default], iteration 137 completed (2942.530 ms) ======
+====== scala-doku (scala) [default], iteration 138 started ======
+====== scala-doku (scala) [default], iteration 138 completed (2951.548 ms) ======
+====== scala-doku (scala) [default], iteration 139 started ======
+====== scala-doku (scala) [default], iteration 139 completed (2943.021 ms) ======
+====== scala-doku (scala) [default], iteration 140 started ======
+====== scala-doku (scala) [default], iteration 140 completed (3007.697 ms) ======
+====== scala-doku (scala) [default], iteration 141 started ======
+====== scala-doku (scala) [default], iteration 141 completed (3023.309 ms) ======
+====== scala-doku (scala) [default], iteration 142 started ======
+====== scala-doku (scala) [default], iteration 142 completed (3020.436 ms) ======
+====== scala-doku (scala) [default], iteration 143 started ======
+====== scala-doku (scala) [default], iteration 143 completed (3021.762 ms) ======
+====== scala-doku (scala) [default], iteration 144 started ======
+====== scala-doku (scala) [default], iteration 144 completed (3021.263 ms) ======
+====== scala-doku (scala) [default], iteration 145 started ======
+====== scala-doku (scala) [default], iteration 145 completed (3026.432 ms) ======
+====== scala-doku (scala) [default], iteration 146 started ======
+====== scala-doku (scala) [default], iteration 146 completed (3030.369 ms) ======
+====== scala-doku (scala) [default], iteration 147 started ======
+====== scala-doku (scala) [default], iteration 147 completed (3024.577 ms) ======
+====== scala-doku (scala) [default], iteration 148 started ======
+====== scala-doku (scala) [default], iteration 148 completed (3005.400 ms) ======
+====== scala-doku (scala) [default], iteration 149 started ======
+====== scala-doku (scala) [default], iteration 149 completed (2938.953 ms) ======
+====== scala-doku (scala) [default], iteration 150 started ======
+====== scala-doku (scala) [default], iteration 150 completed (2939.905 ms) ======
+====== scala-doku (scala) [default], iteration 151 started ======
+====== scala-doku (scala) [default], iteration 151 completed (2943.028 ms) ======
+====== scala-doku (scala) [default], iteration 152 started ======
+====== scala-doku (scala) [default], iteration 152 completed (2940.582 ms) ======
+====== scala-doku (scala) [default], iteration 153 started ======
+====== scala-doku (scala) [default], iteration 153 completed (2941.186 ms) ======
+====== scala-doku (scala) [default], iteration 154 started ======
+====== scala-doku (scala) [default], iteration 154 completed (2940.672 ms) ======
+====== scala-doku (scala) [default], iteration 155 started ======
+====== scala-doku (scala) [default], iteration 155 completed (2944.134 ms) ======
+====== scala-doku (scala) [default], iteration 156 started ======
+====== scala-doku (scala) [default], iteration 156 completed (3020.679 ms) ======
+====== scala-doku (scala) [default], iteration 157 started ======
+====== scala-doku (scala) [default], iteration 157 completed (3024.143 ms) ======
+====== scala-doku (scala) [default], iteration 158 started ======
+====== scala-doku (scala) [default], iteration 158 completed (3021.947 ms) ======
+====== scala-doku (scala) [default], iteration 159 started ======
+====== scala-doku (scala) [default], iteration 159 completed (3022.327 ms) ======
+====== scala-doku (scala) [default], iteration 160 started ======
+====== scala-doku (scala) [default], iteration 160 completed (3022.441 ms) ======
+====== scala-doku (scala) [default], iteration 161 started ======
+====== scala-doku (scala) [default], iteration 161 completed (3025.127 ms) ======
+====== scala-doku (scala) [default], iteration 162 started ======
+====== scala-doku (scala) [default], iteration 162 completed (3022.741 ms) ======
+====== scala-doku (scala) [default], iteration 163 started ======
+====== scala-doku (scala) [default], iteration 163 completed (3024.314 ms) ======
+====== scala-doku (scala) [default], iteration 164 started ======
+====== scala-doku (scala) [default], iteration 164 completed (3001.435 ms) ======
+====== scala-doku (scala) [default], iteration 165 started ======
+====== scala-doku (scala) [default], iteration 165 completed (2939.930 ms) ======
+====== scala-doku (scala) [default], iteration 166 started ======
+====== scala-doku (scala) [default], iteration 166 completed (2958.373 ms) ======
+====== scala-doku (scala) [default], iteration 167 started ======
+====== scala-doku (scala) [default], iteration 167 completed (2941.596 ms) ======
+====== scala-doku (scala) [default], iteration 168 started ======
+====== scala-doku (scala) [default], iteration 168 completed (2938.336 ms) ======
+====== scala-doku (scala) [default], iteration 169 started ======
+====== scala-doku (scala) [default], iteration 169 completed (2946.819 ms) ======
+====== scala-doku (scala) [default], iteration 170 started ======
+====== scala-doku (scala) [default], iteration 170 completed (2945.588 ms) ======
+====== scala-doku (scala) [default], iteration 171 started ======
+====== scala-doku (scala) [default], iteration 171 completed (2940.297 ms) ======
+====== scala-doku (scala) [default], iteration 172 started ======
+====== scala-doku (scala) [default], iteration 172 completed (3030.561 ms) ======
+====== scala-doku (scala) [default], iteration 173 started ======
+====== scala-doku (scala) [default], iteration 173 completed (3021.548 ms) ======
+====== scala-doku (scala) [default], iteration 174 started ======
+====== scala-doku (scala) [default], iteration 174 completed (3026.163 ms) ======
+====== scala-doku (scala) [default], iteration 175 started ======
+====== scala-doku (scala) [default], iteration 175 completed (3022.198 ms) ======
+====== scala-doku (scala) [default], iteration 176 started ======
+====== scala-doku (scala) [default], iteration 176 completed (3023.032 ms) ======
+====== scala-doku (scala) [default], iteration 177 started ======
+====== scala-doku (scala) [default], iteration 177 completed (3031.426 ms) ======
+====== scala-doku (scala) [default], iteration 178 started ======
+====== scala-doku (scala) [default], iteration 178 completed (3021.324 ms) ======
+====== scala-doku (scala) [default], iteration 179 started ======
+====== scala-doku (scala) [default], iteration 179 completed (3028.300 ms) ======
+====== scala-doku (scala) [default], iteration 180 started ======
+====== scala-doku (scala) [default], iteration 180 completed (3009.283 ms) ======
+====== scala-doku (scala) [default], iteration 181 started ======
+====== scala-doku (scala) [default], iteration 181 completed (2939.401 ms) ======
+====== scala-doku (scala) [default], iteration 182 started ======
+====== scala-doku (scala) [default], iteration 182 completed (2936.225 ms) ======
+====== scala-doku (scala) [default], iteration 183 started ======
+====== scala-doku (scala) [default], iteration 183 completed (2940.939 ms) ======
+====== scala-doku (scala) [default], iteration 184 started ======
+====== scala-doku (scala) [default], iteration 184 completed (2942.666 ms) ======
+====== scala-doku (scala) [default], iteration 185 started ======
+====== scala-doku (scala) [default], iteration 185 completed (2939.893 ms) ======
+====== scala-doku (scala) [default], iteration 186 started ======
+====== scala-doku (scala) [default], iteration 186 completed (2937.062 ms) ======
+====== scala-doku (scala) [default], iteration 187 started ======
+====== scala-doku (scala) [default], iteration 187 completed (2937.055 ms) ======
+====== scala-doku (scala) [default], iteration 188 started ======
+====== scala-doku (scala) [default], iteration 188 completed (2953.518 ms) ======
+====== scala-doku (scala) [default], iteration 189 started ======
+====== scala-doku (scala) [default], iteration 189 completed (3041.733 ms) ======
+====== scala-doku (scala) [default], iteration 190 started ======
+====== scala-doku (scala) [default], iteration 190 completed (3022.185 ms) ======
+====== scala-doku (scala) [default], iteration 191 started ======
+====== scala-doku (scala) [default], iteration 191 completed (3031.594 ms) ======
+====== scala-doku (scala) [default], iteration 192 started ======
+====== scala-doku (scala) [default], iteration 192 completed (3026.222 ms) ======
+====== scala-doku (scala) [default], iteration 193 started ======
+====== scala-doku (scala) [default], iteration 193 completed (3022.972 ms) ======
+====== scala-doku (scala) [default], iteration 194 started ======
+====== scala-doku (scala) [default], iteration 194 completed (3022.982 ms) ======
+====== scala-doku (scala) [default], iteration 195 started ======
+====== scala-doku (scala) [default], iteration 195 completed (3023.724 ms) ======
+====== scala-doku (scala) [default], iteration 196 started ======
+====== scala-doku (scala) [default], iteration 196 completed (3025.512 ms) ======
+====== scala-doku (scala) [default], iteration 197 started ======
+====== scala-doku (scala) [default], iteration 197 completed (2958.374 ms) ======
+====== scala-doku (scala) [default], iteration 198 started ======
+====== scala-doku (scala) [default], iteration 198 completed (2947.749 ms) ======
+====== scala-doku (scala) [default], iteration 199 started ======
+====== scala-doku (scala) [default], iteration 199 completed (2937.516 ms) ======
+====== scala-doku (scala) [default], iteration 200 started ======
+====== scala-doku (scala) [default], iteration 200 completed (2940.228 ms) ======
+====== scala-doku (scala) [default], iteration 201 started ======
+====== scala-doku (scala) [default], iteration 201 completed (2945.917 ms) ======
+====== scala-doku (scala) [default], iteration 202 started ======
+====== scala-doku (scala) [default], iteration 202 completed (2943.468 ms) ======
+====== scala-doku (scala) [default], iteration 203 started ======
+====== scala-doku (scala) [default], iteration 203 completed (2950.902 ms) ======
+====== scala-doku (scala) [default], iteration 204 started ======
+====== scala-doku (scala) [default], iteration 204 completed (2940.499 ms) ======

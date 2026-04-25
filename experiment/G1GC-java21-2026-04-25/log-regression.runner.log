@@ -1,0 +1,1247 @@
+>>> Starting benchmark: log-regression
+>>> GC: G1GC
+>>> Duration: 600s
+>>> Base dir: G1GC-java21-2026-04-25
+>>> Output dir: G1GC-java21-2026-04-25/log-regression
+[jmx-memory plugin] WARNING: Unknown garbage collector G1 Concurrent GC.
+NOTE: 'log-regression' benchmark uses Spark local executor with 8 (out of 8) threads.
+====== log-regression (apache-spark) [default], iteration 0 started ======
+====== log-regression (apache-spark) [default], iteration 0 completed (10289.724 ms) ======
+====== log-regression (apache-spark) [default], iteration 1 started ======
+====== log-regression (apache-spark) [default], iteration 1 completed (2079.210 ms) ======
+====== log-regression (apache-spark) [default], iteration 2 started ======
+====== log-regression (apache-spark) [default], iteration 2 completed (1627.360 ms) ======
+====== log-regression (apache-spark) [default], iteration 3 started ======
+====== log-regression (apache-spark) [default], iteration 3 completed (1492.862 ms) ======
+====== log-regression (apache-spark) [default], iteration 4 started ======
+====== log-regression (apache-spark) [default], iteration 4 completed (1547.356 ms) ======
+====== log-regression (apache-spark) [default], iteration 5 started ======
+====== log-regression (apache-spark) [default], iteration 5 completed (1757.014 ms) ======
+====== log-regression (apache-spark) [default], iteration 6 started ======
+====== log-regression (apache-spark) [default], iteration 6 completed (1757.332 ms) ======
+====== log-regression (apache-spark) [default], iteration 7 started ======
+====== log-regression (apache-spark) [default], iteration 7 completed (1246.390 ms) ======
+====== log-regression (apache-spark) [default], iteration 8 started ======
+====== log-regression (apache-spark) [default], iteration 8 completed (1139.861 ms) ======
+====== log-regression (apache-spark) [default], iteration 9 started ======
+====== log-regression (apache-spark) [default], iteration 9 completed (1134.902 ms) ======
+====== log-regression (apache-spark) [default], iteration 10 started ======
+====== log-regression (apache-spark) [default], iteration 10 completed (1277.161 ms) ======
+====== log-regression (apache-spark) [default], iteration 11 started ======
+====== log-regression (apache-spark) [default], iteration 11 completed (1103.882 ms) ======
+====== log-regression (apache-spark) [default], iteration 12 started ======
+====== log-regression (apache-spark) [default], iteration 12 completed (1115.374 ms) ======
+====== log-regression (apache-spark) [default], iteration 13 started ======
+====== log-regression (apache-spark) [default], iteration 13 completed (1115.149 ms) ======
+====== log-regression (apache-spark) [default], iteration 14 started ======
+====== log-regression (apache-spark) [default], iteration 14 completed (1268.859 ms) ======
+====== log-regression (apache-spark) [default], iteration 15 started ======
+====== log-regression (apache-spark) [default], iteration 15 completed (1137.598 ms) ======
+====== log-regression (apache-spark) [default], iteration 16 started ======
+====== log-regression (apache-spark) [default], iteration 16 completed (1106.427 ms) ======
+====== log-regression (apache-spark) [default], iteration 17 started ======
+====== log-regression (apache-spark) [default], iteration 17 completed (1073.758 ms) ======
+====== log-regression (apache-spark) [default], iteration 18 started ======
+====== log-regression (apache-spark) [default], iteration 18 completed (1090.887 ms) ======
+====== log-regression (apache-spark) [default], iteration 19 started ======
+====== log-regression (apache-spark) [default], iteration 19 completed (1185.656 ms) ======
+====== log-regression (apache-spark) [default], iteration 20 started ======
+====== log-regression (apache-spark) [default], iteration 20 completed (1046.731 ms) ======
+====== log-regression (apache-spark) [default], iteration 21 started ======
+====== log-regression (apache-spark) [default], iteration 21 completed (1057.550 ms) ======
+====== log-regression (apache-spark) [default], iteration 22 started ======
+====== log-regression (apache-spark) [default], iteration 22 completed (1091.582 ms) ======
+====== log-regression (apache-spark) [default], iteration 23 started ======
+====== log-regression (apache-spark) [default], iteration 23 completed (1215.723 ms) ======
+====== log-regression (apache-spark) [default], iteration 24 started ======
+====== log-regression (apache-spark) [default], iteration 24 completed (1161.618 ms) ======
+====== log-regression (apache-spark) [default], iteration 25 started ======
+====== log-regression (apache-spark) [default], iteration 25 completed (1097.980 ms) ======
+====== log-regression (apache-spark) [default], iteration 26 started ======
+====== log-regression (apache-spark) [default], iteration 26 completed (1093.284 ms) ======
+====== log-regression (apache-spark) [default], iteration 27 started ======
+====== log-regression (apache-spark) [default], iteration 27 completed (1225.959 ms) ======
+====== log-regression (apache-spark) [default], iteration 28 started ======
+====== log-regression (apache-spark) [default], iteration 28 completed (1095.816 ms) ======
+====== log-regression (apache-spark) [default], iteration 29 started ======
+====== log-regression (apache-spark) [default], iteration 29 completed (1099.868 ms) ======
+====== log-regression (apache-spark) [default], iteration 30 started ======
+====== log-regression (apache-spark) [default], iteration 30 completed (1100.758 ms) ======
+====== log-regression (apache-spark) [default], iteration 31 started ======
+====== log-regression (apache-spark) [default], iteration 31 completed (1168.818 ms) ======
+====== log-regression (apache-spark) [default], iteration 32 started ======
+====== log-regression (apache-spark) [default], iteration 32 completed (1012.025 ms) ======
+====== log-regression (apache-spark) [default], iteration 33 started ======
+====== log-regression (apache-spark) [default], iteration 33 completed (1062.427 ms) ======
+====== log-regression (apache-spark) [default], iteration 34 started ======
+====== log-regression (apache-spark) [default], iteration 34 completed (1038.346 ms) ======
+====== log-regression (apache-spark) [default], iteration 35 started ======
+====== log-regression (apache-spark) [default], iteration 35 completed (1138.085 ms) ======
+====== log-regression (apache-spark) [default], iteration 36 started ======
+====== log-regression (apache-spark) [default], iteration 36 completed (1244.230 ms) ======
+====== log-regression (apache-spark) [default], iteration 37 started ======
+====== log-regression (apache-spark) [default], iteration 37 completed (971.113 ms) ======
+====== log-regression (apache-spark) [default], iteration 38 started ======
+====== log-regression (apache-spark) [default], iteration 38 completed (973.093 ms) ======
+====== log-regression (apache-spark) [default], iteration 39 started ======
+====== log-regression (apache-spark) [default], iteration 39 completed (971.262 ms) ======
+====== log-regression (apache-spark) [default], iteration 40 started ======
+====== log-regression (apache-spark) [default], iteration 40 completed (1151.388 ms) ======
+====== log-regression (apache-spark) [default], iteration 41 started ======
+====== log-regression (apache-spark) [default], iteration 41 completed (979.240 ms) ======
+====== log-regression (apache-spark) [default], iteration 42 started ======
+====== log-regression (apache-spark) [default], iteration 42 completed (959.633 ms) ======
+====== log-regression (apache-spark) [default], iteration 43 started ======
+====== log-regression (apache-spark) [default], iteration 43 completed (996.185 ms) ======
+====== log-regression (apache-spark) [default], iteration 44 started ======
+====== log-regression (apache-spark) [default], iteration 44 completed (971.319 ms) ======
+====== log-regression (apache-spark) [default], iteration 45 started ======
+====== log-regression (apache-spark) [default], iteration 45 completed (1123.469 ms) ======
+====== log-regression (apache-spark) [default], iteration 46 started ======
+====== log-regression (apache-spark) [default], iteration 46 completed (947.430 ms) ======
+====== log-regression (apache-spark) [default], iteration 47 started ======
+====== log-regression (apache-spark) [default], iteration 47 completed (963.811 ms) ======
+====== log-regression (apache-spark) [default], iteration 48 started ======
+====== log-regression (apache-spark) [default], iteration 48 completed (958.701 ms) ======
+====== log-regression (apache-spark) [default], iteration 49 started ======
+====== log-regression (apache-spark) [default], iteration 49 completed (1083.440 ms) ======
+====== log-regression (apache-spark) [default], iteration 50 started ======
+====== log-regression (apache-spark) [default], iteration 50 completed (960.020 ms) ======
+====== log-regression (apache-spark) [default], iteration 51 started ======
+====== log-regression (apache-spark) [default], iteration 51 completed (957.151 ms) ======
+====== log-regression (apache-spark) [default], iteration 52 started ======
+====== log-regression (apache-spark) [default], iteration 52 completed (967.070 ms) ======
+====== log-regression (apache-spark) [default], iteration 53 started ======
+====== log-regression (apache-spark) [default], iteration 53 completed (1069.168 ms) ======
+====== log-regression (apache-spark) [default], iteration 54 started ======
+====== log-regression (apache-spark) [default], iteration 54 completed (955.998 ms) ======
+====== log-regression (apache-spark) [default], iteration 55 started ======
+====== log-regression (apache-spark) [default], iteration 55 completed (959.305 ms) ======
+====== log-regression (apache-spark) [default], iteration 56 started ======
+====== log-regression (apache-spark) [default], iteration 56 completed (958.741 ms) ======
+====== log-regression (apache-spark) [default], iteration 57 started ======
+====== log-regression (apache-spark) [default], iteration 57 completed (1095.909 ms) ======
+====== log-regression (apache-spark) [default], iteration 58 started ======
+====== log-regression (apache-spark) [default], iteration 58 completed (957.078 ms) ======
+====== log-regression (apache-spark) [default], iteration 59 started ======
+====== log-regression (apache-spark) [default], iteration 59 completed (968.729 ms) ======
+====== log-regression (apache-spark) [default], iteration 60 started ======
+====== log-regression (apache-spark) [default], iteration 60 completed (946.914 ms) ======
+====== log-regression (apache-spark) [default], iteration 61 started ======
+====== log-regression (apache-spark) [default], iteration 61 completed (1070.248 ms) ======
+====== log-regression (apache-spark) [default], iteration 62 started ======
+====== log-regression (apache-spark) [default], iteration 62 completed (946.612 ms) ======
+====== log-regression (apache-spark) [default], iteration 63 started ======
+====== log-regression (apache-spark) [default], iteration 63 completed (958.505 ms) ======
+====== log-regression (apache-spark) [default], iteration 64 started ======
+====== log-regression (apache-spark) [default], iteration 64 completed (947.706 ms) ======
+====== log-regression (apache-spark) [default], iteration 65 started ======
+====== log-regression (apache-spark) [default], iteration 65 completed (1075.362 ms) ======
+====== log-regression (apache-spark) [default], iteration 66 started ======
+====== log-regression (apache-spark) [default], iteration 66 completed (948.856 ms) ======
+====== log-regression (apache-spark) [default], iteration 67 started ======
+====== log-regression (apache-spark) [default], iteration 67 completed (963.892 ms) ======
+====== log-regression (apache-spark) [default], iteration 68 started ======
+====== log-regression (apache-spark) [default], iteration 68 completed (936.881 ms) ======
+====== log-regression (apache-spark) [default], iteration 69 started ======
+====== log-regression (apache-spark) [default], iteration 69 completed (1059.225 ms) ======
+====== log-regression (apache-spark) [default], iteration 70 started ======
+====== log-regression (apache-spark) [default], iteration 70 completed (955.296 ms) ======
+====== log-regression (apache-spark) [default], iteration 71 started ======
+====== log-regression (apache-spark) [default], iteration 71 completed (1070.460 ms) ======
+====== log-regression (apache-spark) [default], iteration 72 started ======
+====== log-regression (apache-spark) [default], iteration 72 completed (997.021 ms) ======
+====== log-regression (apache-spark) [default], iteration 73 started ======
+====== log-regression (apache-spark) [default], iteration 73 completed (939.556 ms) ======
+====== log-regression (apache-spark) [default], iteration 74 started ======
+====== log-regression (apache-spark) [default], iteration 74 completed (1062.808 ms) ======
+====== log-regression (apache-spark) [default], iteration 75 started ======
+====== log-regression (apache-spark) [default], iteration 75 completed (943.127 ms) ======
+====== log-regression (apache-spark) [default], iteration 76 started ======
+====== log-regression (apache-spark) [default], iteration 76 completed (986.238 ms) ======
+====== log-regression (apache-spark) [default], iteration 77 started ======
+====== log-regression (apache-spark) [default], iteration 77 completed (955.209 ms) ======
+====== log-regression (apache-spark) [default], iteration 78 started ======
+====== log-regression (apache-spark) [default], iteration 78 completed (1036.216 ms) ======
+====== log-regression (apache-spark) [default], iteration 79 started ======
+====== log-regression (apache-spark) [default], iteration 79 completed (975.499 ms) ======
+====== log-regression (apache-spark) [default], iteration 80 started ======
+====== log-regression (apache-spark) [default], iteration 80 completed (949.560 ms) ======
+====== log-regression (apache-spark) [default], iteration 81 started ======
+====== log-regression (apache-spark) [default], iteration 81 completed (966.550 ms) ======
+====== log-regression (apache-spark) [default], iteration 82 started ======
+====== log-regression (apache-spark) [default], iteration 82 completed (1040.170 ms) ======
+====== log-regression (apache-spark) [default], iteration 83 started ======
+====== log-regression (apache-spark) [default], iteration 83 completed (947.321 ms) ======
+====== log-regression (apache-spark) [default], iteration 84 started ======
+====== log-regression (apache-spark) [default], iteration 84 completed (937.297 ms) ======
+====== log-regression (apache-spark) [default], iteration 85 started ======
+====== log-regression (apache-spark) [default], iteration 85 completed (948.449 ms) ======
+====== log-regression (apache-spark) [default], iteration 86 started ======
+====== log-regression (apache-spark) [default], iteration 86 completed (1074.377 ms) ======
+====== log-regression (apache-spark) [default], iteration 87 started ======
+====== log-regression (apache-spark) [default], iteration 87 completed (976.191 ms) ======
+====== log-regression (apache-spark) [default], iteration 88 started ======
+====== log-regression (apache-spark) [default], iteration 88 completed (936.528 ms) ======
+====== log-regression (apache-spark) [default], iteration 89 started ======
+====== log-regression (apache-spark) [default], iteration 89 completed (949.520 ms) ======
+====== log-regression (apache-spark) [default], iteration 90 started ======
+====== log-regression (apache-spark) [default], iteration 90 completed (1070.207 ms) ======
+====== log-regression (apache-spark) [default], iteration 91 started ======
+====== log-regression (apache-spark) [default], iteration 91 completed (965.877 ms) ======
+====== log-regression (apache-spark) [default], iteration 92 started ======
+====== log-regression (apache-spark) [default], iteration 92 completed (929.533 ms) ======
+====== log-regression (apache-spark) [default], iteration 93 started ======
+====== log-regression (apache-spark) [default], iteration 93 completed (937.399 ms) ======
+====== log-regression (apache-spark) [default], iteration 94 started ======
+====== log-regression (apache-spark) [default], iteration 94 completed (1073.169 ms) ======
+====== log-regression (apache-spark) [default], iteration 95 started ======
+====== log-regression (apache-spark) [default], iteration 95 completed (935.324 ms) ======
+====== log-regression (apache-spark) [default], iteration 96 started ======
+====== log-regression (apache-spark) [default], iteration 96 completed (939.443 ms) ======
+====== log-regression (apache-spark) [default], iteration 97 started ======
+====== log-regression (apache-spark) [default], iteration 97 completed (944.683 ms) ======
+====== log-regression (apache-spark) [default], iteration 98 started ======
+====== log-regression (apache-spark) [default], iteration 98 completed (1034.450 ms) ======
+====== log-regression (apache-spark) [default], iteration 99 started ======
+====== log-regression (apache-spark) [default], iteration 99 completed (928.068 ms) ======
+====== log-regression (apache-spark) [default], iteration 100 started ======
+====== log-regression (apache-spark) [default], iteration 100 completed (926.042 ms) ======
+====== log-regression (apache-spark) [default], iteration 101 started ======
+====== log-regression (apache-spark) [default], iteration 101 completed (953.786 ms) ======
+====== log-regression (apache-spark) [default], iteration 102 started ======
+====== log-regression (apache-spark) [default], iteration 102 completed (939.217 ms) ======
+====== log-regression (apache-spark) [default], iteration 103 started ======
+====== log-regression (apache-spark) [default], iteration 103 completed (1018.338 ms) ======
+====== log-regression (apache-spark) [default], iteration 104 started ======
+====== log-regression (apache-spark) [default], iteration 104 completed (929.714 ms) ======
+====== log-regression (apache-spark) [default], iteration 105 started ======
+====== log-regression (apache-spark) [default], iteration 105 completed (927.455 ms) ======
+====== log-regression (apache-spark) [default], iteration 106 started ======
+====== log-regression (apache-spark) [default], iteration 106 completed (929.650 ms) ======
+====== log-regression (apache-spark) [default], iteration 107 started ======
+====== log-regression (apache-spark) [default], iteration 107 completed (1011.727 ms) ======
+====== log-regression (apache-spark) [default], iteration 108 started ======
+====== log-regression (apache-spark) [default], iteration 108 completed (937.247 ms) ======
+====== log-regression (apache-spark) [default], iteration 109 started ======
+====== log-regression (apache-spark) [default], iteration 109 completed (924.878 ms) ======
+====== log-regression (apache-spark) [default], iteration 110 started ======
+====== log-regression (apache-spark) [default], iteration 110 completed (941.560 ms) ======
+====== log-regression (apache-spark) [default], iteration 111 started ======
+====== log-regression (apache-spark) [default], iteration 111 completed (1031.715 ms) ======
+====== log-regression (apache-spark) [default], iteration 112 started ======
+====== log-regression (apache-spark) [default], iteration 112 completed (955.025 ms) ======
+====== log-regression (apache-spark) [default], iteration 113 started ======
+====== log-regression (apache-spark) [default], iteration 113 completed (922.124 ms) ======
+====== log-regression (apache-spark) [default], iteration 114 started ======
+====== log-regression (apache-spark) [default], iteration 114 completed (951.123 ms) ======
+====== log-regression (apache-spark) [default], iteration 115 started ======
+====== log-regression (apache-spark) [default], iteration 115 completed (1098.392 ms) ======
+====== log-regression (apache-spark) [default], iteration 116 started ======
+====== log-regression (apache-spark) [default], iteration 116 completed (942.092 ms) ======
+====== log-regression (apache-spark) [default], iteration 117 started ======
+====== log-regression (apache-spark) [default], iteration 117 completed (939.021 ms) ======
+====== log-regression (apache-spark) [default], iteration 118 started ======
+====== log-regression (apache-spark) [default], iteration 118 completed (926.565 ms) ======
+====== log-regression (apache-spark) [default], iteration 119 started ======
+====== log-regression (apache-spark) [default], iteration 119 completed (1046.964 ms) ======
+====== log-regression (apache-spark) [default], iteration 120 started ======
+====== log-regression (apache-spark) [default], iteration 120 completed (929.349 ms) ======
+====== log-regression (apache-spark) [default], iteration 121 started ======
+====== log-regression (apache-spark) [default], iteration 121 completed (927.524 ms) ======
+====== log-regression (apache-spark) [default], iteration 122 started ======
+====== log-regression (apache-spark) [default], iteration 122 completed (934.995 ms) ======
+====== log-regression (apache-spark) [default], iteration 123 started ======
+====== log-regression (apache-spark) [default], iteration 123 completed (1023.758 ms) ======
+====== log-regression (apache-spark) [default], iteration 124 started ======
+====== log-regression (apache-spark) [default], iteration 124 completed (944.702 ms) ======
+====== log-regression (apache-spark) [default], iteration 125 started ======
+====== log-regression (apache-spark) [default], iteration 125 completed (921.184 ms) ======
+====== log-regression (apache-spark) [default], iteration 126 started ======
+====== log-regression (apache-spark) [default], iteration 126 completed (925.779 ms) ======
+====== log-regression (apache-spark) [default], iteration 127 started ======
+====== log-regression (apache-spark) [default], iteration 127 completed (1065.666 ms) ======
+====== log-regression (apache-spark) [default], iteration 128 started ======
+====== log-regression (apache-spark) [default], iteration 128 completed (948.956 ms) ======
+====== log-regression (apache-spark) [default], iteration 129 started ======
+====== log-regression (apache-spark) [default], iteration 129 completed (933.706 ms) ======
+====== log-regression (apache-spark) [default], iteration 130 started ======
+====== log-regression (apache-spark) [default], iteration 130 completed (926.695 ms) ======
+====== log-regression (apache-spark) [default], iteration 131 started ======
+====== log-regression (apache-spark) [default], iteration 131 completed (918.835 ms) ======
+====== log-regression (apache-spark) [default], iteration 132 started ======
+====== log-regression (apache-spark) [default], iteration 132 completed (1022.860 ms) ======
+====== log-regression (apache-spark) [default], iteration 133 started ======
+====== log-regression (apache-spark) [default], iteration 133 completed (915.046 ms) ======
+====== log-regression (apache-spark) [default], iteration 134 started ======
+====== log-regression (apache-spark) [default], iteration 134 completed (951.270 ms) ======
+====== log-regression (apache-spark) [default], iteration 135 started ======
+====== log-regression (apache-spark) [default], iteration 135 completed (917.179 ms) ======
+====== log-regression (apache-spark) [default], iteration 136 started ======
+====== log-regression (apache-spark) [default], iteration 136 completed (1019.293 ms) ======
+====== log-regression (apache-spark) [default], iteration 137 started ======
+====== log-regression (apache-spark) [default], iteration 137 completed (912.135 ms) ======
+====== log-regression (apache-spark) [default], iteration 138 started ======
+====== log-regression (apache-spark) [default], iteration 138 completed (914.952 ms) ======
+====== log-regression (apache-spark) [default], iteration 139 started ======
+====== log-regression (apache-spark) [default], iteration 139 completed (929.491 ms) ======
+====== log-regression (apache-spark) [default], iteration 140 started ======
+====== log-regression (apache-spark) [default], iteration 140 completed (1030.550 ms) ======
+====== log-regression (apache-spark) [default], iteration 141 started ======
+====== log-regression (apache-spark) [default], iteration 141 completed (950.186 ms) ======
+====== log-regression (apache-spark) [default], iteration 142 started ======
+====== log-regression (apache-spark) [default], iteration 142 completed (945.916 ms) ======
+====== log-regression (apache-spark) [default], iteration 143 started ======
+====== log-regression (apache-spark) [default], iteration 143 completed (936.473 ms) ======
+====== log-regression (apache-spark) [default], iteration 144 started ======
+====== log-regression (apache-spark) [default], iteration 144 completed (1060.490 ms) ======
+====== log-regression (apache-spark) [default], iteration 145 started ======
+====== log-regression (apache-spark) [default], iteration 145 completed (953.712 ms) ======
+====== log-regression (apache-spark) [default], iteration 146 started ======
+====== log-regression (apache-spark) [default], iteration 146 completed (918.037 ms) ======
+====== log-regression (apache-spark) [default], iteration 147 started ======
+====== log-regression (apache-spark) [default], iteration 147 completed (917.420 ms) ======
+====== log-regression (apache-spark) [default], iteration 148 started ======
+====== log-regression (apache-spark) [default], iteration 148 completed (1083.408 ms) ======
+====== log-regression (apache-spark) [default], iteration 149 started ======
+====== log-regression (apache-spark) [default], iteration 149 completed (911.068 ms) ======
+====== log-regression (apache-spark) [default], iteration 150 started ======
+====== log-regression (apache-spark) [default], iteration 150 completed (909.125 ms) ======
+====== log-regression (apache-spark) [default], iteration 151 started ======
+====== log-regression (apache-spark) [default], iteration 151 completed (913.033 ms) ======
+====== log-regression (apache-spark) [default], iteration 152 started ======
+====== log-regression (apache-spark) [default], iteration 152 completed (1030.354 ms) ======
+====== log-regression (apache-spark) [default], iteration 153 started ======
+====== log-regression (apache-spark) [default], iteration 153 completed (934.571 ms) ======
+====== log-regression (apache-spark) [default], iteration 154 started ======
+====== log-regression (apache-spark) [default], iteration 154 completed (951.263 ms) ======
+====== log-regression (apache-spark) [default], iteration 155 started ======
+====== log-regression (apache-spark) [default], iteration 155 completed (915.282 ms) ======
+====== log-regression (apache-spark) [default], iteration 156 started ======
+====== log-regression (apache-spark) [default], iteration 156 completed (1013.081 ms) ======
+====== log-regression (apache-spark) [default], iteration 157 started ======
+====== log-regression (apache-spark) [default], iteration 157 completed (934.433 ms) ======
+====== log-regression (apache-spark) [default], iteration 158 started ======
+====== log-regression (apache-spark) [default], iteration 158 completed (914.231 ms) ======
+====== log-regression (apache-spark) [default], iteration 159 started ======
+====== log-regression (apache-spark) [default], iteration 159 completed (931.401 ms) ======
+====== log-regression (apache-spark) [default], iteration 160 started ======
+====== log-regression (apache-spark) [default], iteration 160 completed (924.570 ms) ======
+====== log-regression (apache-spark) [default], iteration 161 started ======
+====== log-regression (apache-spark) [default], iteration 161 completed (996.651 ms) ======
+====== log-regression (apache-spark) [default], iteration 162 started ======
+====== log-regression (apache-spark) [default], iteration 162 completed (926.071 ms) ======
+====== log-regression (apache-spark) [default], iteration 163 started ======
+====== log-regression (apache-spark) [default], iteration 163 completed (918.209 ms) ======
+====== log-regression (apache-spark) [default], iteration 164 started ======
+====== log-regression (apache-spark) [default], iteration 164 completed (971.724 ms) ======
+====== log-regression (apache-spark) [default], iteration 165 started ======
+====== log-regression (apache-spark) [default], iteration 165 completed (1064.110 ms) ======
+====== log-regression (apache-spark) [default], iteration 166 started ======
+====== log-regression (apache-spark) [default], iteration 166 completed (926.095 ms) ======
+====== log-regression (apache-spark) [default], iteration 167 started ======
+====== log-regression (apache-spark) [default], iteration 167 completed (911.235 ms) ======
+====== log-regression (apache-spark) [default], iteration 168 started ======
+====== log-regression (apache-spark) [default], iteration 168 completed (913.084 ms) ======
+====== log-regression (apache-spark) [default], iteration 169 started ======
+====== log-regression (apache-spark) [default], iteration 169 completed (1032.478 ms) ======
+====== log-regression (apache-spark) [default], iteration 170 started ======
+====== log-regression (apache-spark) [default], iteration 170 completed (920.152 ms) ======
+====== log-regression (apache-spark) [default], iteration 171 started ======
+====== log-regression (apache-spark) [default], iteration 171 completed (921.864 ms) ======
+====== log-regression (apache-spark) [default], iteration 172 started ======
+====== log-regression (apache-spark) [default], iteration 172 completed (935.331 ms) ======
+====== log-regression (apache-spark) [default], iteration 173 started ======
+====== log-regression (apache-spark) [default], iteration 173 completed (1024.825 ms) ======
+====== log-regression (apache-spark) [default], iteration 174 started ======
+====== log-regression (apache-spark) [default], iteration 174 completed (903.808 ms) ======
+====== log-regression (apache-spark) [default], iteration 175 started ======
+====== log-regression (apache-spark) [default], iteration 175 completed (928.535 ms) ======
+====== log-regression (apache-spark) [default], iteration 176 started ======
+====== log-regression (apache-spark) [default], iteration 176 completed (921.367 ms) ======
+====== log-regression (apache-spark) [default], iteration 177 started ======
+====== log-regression (apache-spark) [default], iteration 177 completed (1042.531 ms) ======
+====== log-regression (apache-spark) [default], iteration 178 started ======
+====== log-regression (apache-spark) [default], iteration 178 completed (910.653 ms) ======
+====== log-regression (apache-spark) [default], iteration 179 started ======
+====== log-regression (apache-spark) [default], iteration 179 completed (1022.000 ms) ======
+====== log-regression (apache-spark) [default], iteration 180 started ======
+====== log-regression (apache-spark) [default], iteration 180 completed (1004.430 ms) ======
+====== log-regression (apache-spark) [default], iteration 181 started ======
+====== log-regression (apache-spark) [default], iteration 181 completed (1023.072 ms) ======
+====== log-regression (apache-spark) [default], iteration 182 started ======
+====== log-regression (apache-spark) [default], iteration 182 completed (916.205 ms) ======
+====== log-regression (apache-spark) [default], iteration 183 started ======
+====== log-regression (apache-spark) [default], iteration 183 completed (907.726 ms) ======
+====== log-regression (apache-spark) [default], iteration 184 started ======
+====== log-regression (apache-spark) [default], iteration 184 completed (913.009 ms) ======
+====== log-regression (apache-spark) [default], iteration 185 started ======
+====== log-regression (apache-spark) [default], iteration 185 completed (918.351 ms) ======
+====== log-regression (apache-spark) [default], iteration 186 started ======
+====== log-regression (apache-spark) [default], iteration 186 completed (1018.143 ms) ======
+====== log-regression (apache-spark) [default], iteration 187 started ======
+====== log-regression (apache-spark) [default], iteration 187 completed (938.203 ms) ======
+====== log-regression (apache-spark) [default], iteration 188 started ======
+====== log-regression (apache-spark) [default], iteration 188 completed (909.756 ms) ======
+====== log-regression (apache-spark) [default], iteration 189 started ======
+====== log-regression (apache-spark) [default], iteration 189 completed (978.006 ms) ======
+====== log-regression (apache-spark) [default], iteration 190 started ======
+====== log-regression (apache-spark) [default], iteration 190 completed (1014.179 ms) ======
+====== log-regression (apache-spark) [default], iteration 191 started ======
+====== log-regression (apache-spark) [default], iteration 191 completed (915.100 ms) ======
+====== log-regression (apache-spark) [default], iteration 192 started ======
+====== log-regression (apache-spark) [default], iteration 192 completed (903.394 ms) ======
+====== log-regression (apache-spark) [default], iteration 193 started ======
+====== log-regression (apache-spark) [default], iteration 193 completed (907.357 ms) ======
+====== log-regression (apache-spark) [default], iteration 194 started ======
+====== log-regression (apache-spark) [default], iteration 194 completed (1016.497 ms) ======
+====== log-regression (apache-spark) [default], iteration 195 started ======
+====== log-regression (apache-spark) [default], iteration 195 completed (917.584 ms) ======
+====== log-regression (apache-spark) [default], iteration 196 started ======
+====== log-regression (apache-spark) [default], iteration 196 completed (954.186 ms) ======
+====== log-regression (apache-spark) [default], iteration 197 started ======
+====== log-regression (apache-spark) [default], iteration 197 completed (917.938 ms) ======
+====== log-regression (apache-spark) [default], iteration 198 started ======
+====== log-regression (apache-spark) [default], iteration 198 completed (1010.807 ms) ======
+====== log-regression (apache-spark) [default], iteration 199 started ======
+====== log-regression (apache-spark) [default], iteration 199 completed (911.449 ms) ======
+====== log-regression (apache-spark) [default], iteration 200 started ======
+====== log-regression (apache-spark) [default], iteration 200 completed (907.772 ms) ======
+====== log-regression (apache-spark) [default], iteration 201 started ======
+====== log-regression (apache-spark) [default], iteration 201 completed (912.407 ms) ======
+====== log-regression (apache-spark) [default], iteration 202 started ======
+====== log-regression (apache-spark) [default], iteration 202 completed (1057.170 ms) ======
+====== log-regression (apache-spark) [default], iteration 203 started ======
+====== log-regression (apache-spark) [default], iteration 203 completed (914.955 ms) ======
+====== log-regression (apache-spark) [default], iteration 204 started ======
+====== log-regression (apache-spark) [default], iteration 204 completed (919.543 ms) ======
+====== log-regression (apache-spark) [default], iteration 205 started ======
+====== log-regression (apache-spark) [default], iteration 205 completed (913.993 ms) ======
+====== log-regression (apache-spark) [default], iteration 206 started ======
+====== log-regression (apache-spark) [default], iteration 206 completed (1065.717 ms) ======
+====== log-regression (apache-spark) [default], iteration 207 started ======
+====== log-regression (apache-spark) [default], iteration 207 completed (906.220 ms) ======
+====== log-regression (apache-spark) [default], iteration 208 started ======
+====== log-regression (apache-spark) [default], iteration 208 completed (966.572 ms) ======
+====== log-regression (apache-spark) [default], iteration 209 started ======
+====== log-regression (apache-spark) [default], iteration 209 completed (918.331 ms) ======
+====== log-regression (apache-spark) [default], iteration 210 started ======
+====== log-regression (apache-spark) [default], iteration 210 completed (1024.249 ms) ======
+====== log-regression (apache-spark) [default], iteration 211 started ======
+====== log-regression (apache-spark) [default], iteration 211 completed (959.419 ms) ======
+====== log-regression (apache-spark) [default], iteration 212 started ======
+====== log-regression (apache-spark) [default], iteration 212 completed (922.997 ms) ======
+====== log-regression (apache-spark) [default], iteration 213 started ======
+====== log-regression (apache-spark) [default], iteration 213 completed (910.730 ms) ======
+====== log-regression (apache-spark) [default], iteration 214 started ======
+====== log-regression (apache-spark) [default], iteration 214 completed (1026.254 ms) ======
+====== log-regression (apache-spark) [default], iteration 215 started ======
+====== log-regression (apache-spark) [default], iteration 215 completed (1014.004 ms) ======
+====== log-regression (apache-spark) [default], iteration 216 started ======
+====== log-regression (apache-spark) [default], iteration 216 completed (906.991 ms) ======
+====== log-regression (apache-spark) [default], iteration 217 started ======
+====== log-regression (apache-spark) [default], iteration 217 completed (914.668 ms) ======
+====== log-regression (apache-spark) [default], iteration 218 started ======
+====== log-regression (apache-spark) [default], iteration 218 completed (911.887 ms) ======
+====== log-regression (apache-spark) [default], iteration 219 started ======
+====== log-regression (apache-spark) [default], iteration 219 completed (1020.091 ms) ======
+====== log-regression (apache-spark) [default], iteration 220 started ======
+====== log-regression (apache-spark) [default], iteration 220 completed (921.469 ms) ======
+====== log-regression (apache-spark) [default], iteration 221 started ======
+====== log-regression (apache-spark) [default], iteration 221 completed (909.690 ms) ======
+====== log-regression (apache-spark) [default], iteration 222 started ======
+====== log-regression (apache-spark) [default], iteration 222 completed (908.025 ms) ======
+====== log-regression (apache-spark) [default], iteration 223 started ======
+====== log-regression (apache-spark) [default], iteration 223 completed (1045.381 ms) ======
+====== log-regression (apache-spark) [default], iteration 224 started ======
+====== log-regression (apache-spark) [default], iteration 224 completed (950.435 ms) ======
+====== log-regression (apache-spark) [default], iteration 225 started ======
+====== log-regression (apache-spark) [default], iteration 225 completed (940.142 ms) ======
+====== log-regression (apache-spark) [default], iteration 226 started ======
+====== log-regression (apache-spark) [default], iteration 226 completed (910.174 ms) ======
+====== log-regression (apache-spark) [default], iteration 227 started ======
+====== log-regression (apache-spark) [default], iteration 227 completed (1024.403 ms) ======
+====== log-regression (apache-spark) [default], iteration 228 started ======
+====== log-regression (apache-spark) [default], iteration 228 completed (947.689 ms) ======
+====== log-regression (apache-spark) [default], iteration 229 started ======
+====== log-regression (apache-spark) [default], iteration 229 completed (934.934 ms) ======
+====== log-regression (apache-spark) [default], iteration 230 started ======
+====== log-regression (apache-spark) [default], iteration 230 completed (914.366 ms) ======
+====== log-regression (apache-spark) [default], iteration 231 started ======
+====== log-regression (apache-spark) [default], iteration 231 completed (1061.540 ms) ======
+====== log-regression (apache-spark) [default], iteration 232 started ======
+====== log-regression (apache-spark) [default], iteration 232 completed (910.966 ms) ======
+====== log-regression (apache-spark) [default], iteration 233 started ======
+====== log-regression (apache-spark) [default], iteration 233 completed (921.373 ms) ======
+====== log-regression (apache-spark) [default], iteration 234 started ======
+====== log-regression (apache-spark) [default], iteration 234 completed (913.822 ms) ======
+====== log-regression (apache-spark) [default], iteration 235 started ======
+====== log-regression (apache-spark) [default], iteration 235 completed (1020.993 ms) ======
+====== log-regression (apache-spark) [default], iteration 236 started ======
+====== log-regression (apache-spark) [default], iteration 236 completed (909.767 ms) ======
+====== log-regression (apache-spark) [default], iteration 237 started ======
+====== log-regression (apache-spark) [default], iteration 237 completed (919.064 ms) ======
+====== log-regression (apache-spark) [default], iteration 238 started ======
+====== log-regression (apache-spark) [default], iteration 238 completed (903.750 ms) ======
+====== log-regression (apache-spark) [default], iteration 239 started ======
+====== log-regression (apache-spark) [default], iteration 239 completed (1060.687 ms) ======
+====== log-regression (apache-spark) [default], iteration 240 started ======
+====== log-regression (apache-spark) [default], iteration 240 completed (918.956 ms) ======
+====== log-regression (apache-spark) [default], iteration 241 started ======
+====== log-regression (apache-spark) [default], iteration 241 completed (906.521 ms) ======
+====== log-regression (apache-spark) [default], iteration 242 started ======
+====== log-regression (apache-spark) [default], iteration 242 completed (923.161 ms) ======
+====== log-regression (apache-spark) [default], iteration 243 started ======
+====== log-regression (apache-spark) [default], iteration 243 completed (909.943 ms) ======
+====== log-regression (apache-spark) [default], iteration 244 started ======
+====== log-regression (apache-spark) [default], iteration 244 completed (1029.010 ms) ======
+====== log-regression (apache-spark) [default], iteration 245 started ======
+====== log-regression (apache-spark) [default], iteration 245 completed (916.037 ms) ======
+====== log-regression (apache-spark) [default], iteration 246 started ======
+====== log-regression (apache-spark) [default], iteration 246 completed (916.606 ms) ======
+====== log-regression (apache-spark) [default], iteration 247 started ======
+====== log-regression (apache-spark) [default], iteration 247 completed (911.960 ms) ======
+====== log-regression (apache-spark) [default], iteration 248 started ======
+====== log-regression (apache-spark) [default], iteration 248 completed (999.727 ms) ======
+====== log-regression (apache-spark) [default], iteration 249 started ======
+====== log-regression (apache-spark) [default], iteration 249 completed (919.022 ms) ======
+====== log-regression (apache-spark) [default], iteration 250 started ======
+====== log-regression (apache-spark) [default], iteration 250 completed (913.160 ms) ======
+====== log-regression (apache-spark) [default], iteration 251 started ======
+====== log-regression (apache-spark) [default], iteration 251 completed (902.284 ms) ======
+====== log-regression (apache-spark) [default], iteration 252 started ======
+====== log-regression (apache-spark) [default], iteration 252 completed (1006.741 ms) ======
+====== log-regression (apache-spark) [default], iteration 253 started ======
+====== log-regression (apache-spark) [default], iteration 253 completed (908.400 ms) ======
+====== log-regression (apache-spark) [default], iteration 254 started ======
+====== log-regression (apache-spark) [default], iteration 254 completed (908.446 ms) ======
+====== log-regression (apache-spark) [default], iteration 255 started ======
+====== log-regression (apache-spark) [default], iteration 255 completed (919.594 ms) ======
+====== log-regression (apache-spark) [default], iteration 256 started ======
+====== log-regression (apache-spark) [default], iteration 256 completed (1028.397 ms) ======
+====== log-regression (apache-spark) [default], iteration 257 started ======
+====== log-regression (apache-spark) [default], iteration 257 completed (916.142 ms) ======
+====== log-regression (apache-spark) [default], iteration 258 started ======
+====== log-regression (apache-spark) [default], iteration 258 completed (906.207 ms) ======
+====== log-regression (apache-spark) [default], iteration 259 started ======
+====== log-regression (apache-spark) [default], iteration 259 completed (905.760 ms) ======
+====== log-regression (apache-spark) [default], iteration 260 started ======
+====== log-regression (apache-spark) [default], iteration 260 completed (1036.012 ms) ======
+====== log-regression (apache-spark) [default], iteration 261 started ======
+====== log-regression (apache-spark) [default], iteration 261 completed (910.486 ms) ======
+====== log-regression (apache-spark) [default], iteration 262 started ======
+====== log-regression (apache-spark) [default], iteration 262 completed (912.022 ms) ======
+====== log-regression (apache-spark) [default], iteration 263 started ======
+====== log-regression (apache-spark) [default], iteration 263 completed (903.918 ms) ======
+====== log-regression (apache-spark) [default], iteration 264 started ======
+====== log-regression (apache-spark) [default], iteration 264 completed (1009.855 ms) ======
+====== log-regression (apache-spark) [default], iteration 265 started ======
+====== log-regression (apache-spark) [default], iteration 265 completed (910.845 ms) ======
+====== log-regression (apache-spark) [default], iteration 266 started ======
+====== log-regression (apache-spark) [default], iteration 266 completed (902.880 ms) ======
+====== log-regression (apache-spark) [default], iteration 267 started ======
+====== log-regression (apache-spark) [default], iteration 267 completed (920.827 ms) ======
+====== log-regression (apache-spark) [default], iteration 268 started ======
+====== log-regression (apache-spark) [default], iteration 268 completed (1037.794 ms) ======
+====== log-regression (apache-spark) [default], iteration 269 started ======
+====== log-regression (apache-spark) [default], iteration 269 completed (929.983 ms) ======
+====== log-regression (apache-spark) [default], iteration 270 started ======
+====== log-regression (apache-spark) [default], iteration 270 completed (905.789 ms) ======
+====== log-regression (apache-spark) [default], iteration 271 started ======
+====== log-regression (apache-spark) [default], iteration 271 completed (909.603 ms) ======
+====== log-regression (apache-spark) [default], iteration 272 started ======
+====== log-regression (apache-spark) [default], iteration 272 completed (912.009 ms) ======
+====== log-regression (apache-spark) [default], iteration 273 started ======
+====== log-regression (apache-spark) [default], iteration 273 completed (995.347 ms) ======
+====== log-regression (apache-spark) [default], iteration 274 started ======
+====== log-regression (apache-spark) [default], iteration 274 completed (909.435 ms) ======
+====== log-regression (apache-spark) [default], iteration 275 started ======
+====== log-regression (apache-spark) [default], iteration 275 completed (921.972 ms) ======
+====== log-regression (apache-spark) [default], iteration 276 started ======
+====== log-regression (apache-spark) [default], iteration 276 completed (907.658 ms) ======
+====== log-regression (apache-spark) [default], iteration 277 started ======
+====== log-regression (apache-spark) [default], iteration 277 completed (1006.367 ms) ======
+====== log-regression (apache-spark) [default], iteration 278 started ======
+====== log-regression (apache-spark) [default], iteration 278 completed (934.721 ms) ======
+====== log-regression (apache-spark) [default], iteration 279 started ======
+====== log-regression (apache-spark) [default], iteration 279 completed (905.929 ms) ======
+====== log-regression (apache-spark) [default], iteration 280 started ======
+====== log-regression (apache-spark) [default], iteration 280 completed (901.131 ms) ======
+====== log-regression (apache-spark) [default], iteration 281 started ======
+====== log-regression (apache-spark) [default], iteration 281 completed (1005.211 ms) ======
+====== log-regression (apache-spark) [default], iteration 282 started ======
+====== log-regression (apache-spark) [default], iteration 282 completed (907.342 ms) ======
+====== log-regression (apache-spark) [default], iteration 283 started ======
+====== log-regression (apache-spark) [default], iteration 283 completed (938.112 ms) ======
+====== log-regression (apache-spark) [default], iteration 284 started ======
+====== log-regression (apache-spark) [default], iteration 284 completed (928.510 ms) ======
+====== log-regression (apache-spark) [default], iteration 285 started ======
+====== log-regression (apache-spark) [default], iteration 285 completed (1042.746 ms) ======
+====== log-regression (apache-spark) [default], iteration 286 started ======
+====== log-regression (apache-spark) [default], iteration 286 completed (903.680 ms) ======
+====== log-regression (apache-spark) [default], iteration 287 started ======
+====== log-regression (apache-spark) [default], iteration 287 completed (907.390 ms) ======
+====== log-regression (apache-spark) [default], iteration 288 started ======
+====== log-regression (apache-spark) [default], iteration 288 completed (900.583 ms) ======
+====== log-regression (apache-spark) [default], iteration 289 started ======
+====== log-regression (apache-spark) [default], iteration 289 completed (1043.600 ms) ======
+====== log-regression (apache-spark) [default], iteration 290 started ======
+====== log-regression (apache-spark) [default], iteration 290 completed (925.984 ms) ======
+====== log-regression (apache-spark) [default], iteration 291 started ======
+====== log-regression (apache-spark) [default], iteration 291 completed (907.060 ms) ======
+====== log-regression (apache-spark) [default], iteration 292 started ======
+====== log-regression (apache-spark) [default], iteration 292 completed (910.949 ms) ======
+====== log-regression (apache-spark) [default], iteration 293 started ======
+====== log-regression (apache-spark) [default], iteration 293 completed (1014.582 ms) ======
+====== log-regression (apache-spark) [default], iteration 294 started ======
+====== log-regression (apache-spark) [default], iteration 294 completed (908.408 ms) ======
+====== log-regression (apache-spark) [default], iteration 295 started ======
+====== log-regression (apache-spark) [default], iteration 295 completed (904.001 ms) ======
+====== log-regression (apache-spark) [default], iteration 296 started ======
+====== log-regression (apache-spark) [default], iteration 296 completed (908.776 ms) ======
+====== log-regression (apache-spark) [default], iteration 297 started ======
+====== log-regression (apache-spark) [default], iteration 297 completed (984.812 ms) ======
+====== log-regression (apache-spark) [default], iteration 298 started ======
+====== log-regression (apache-spark) [default], iteration 298 completed (924.874 ms) ======
+====== log-regression (apache-spark) [default], iteration 299 started ======
+====== log-regression (apache-spark) [default], iteration 299 completed (901.289 ms) ======
+====== log-regression (apache-spark) [default], iteration 300 started ======
+====== log-regression (apache-spark) [default], iteration 300 completed (906.679 ms) ======
+====== log-regression (apache-spark) [default], iteration 301 started ======
+====== log-regression (apache-spark) [default], iteration 301 completed (904.347 ms) ======
+====== log-regression (apache-spark) [default], iteration 302 started ======
+====== log-regression (apache-spark) [default], iteration 302 completed (991.263 ms) ======
+====== log-regression (apache-spark) [default], iteration 303 started ======
+====== log-regression (apache-spark) [default], iteration 303 completed (901.821 ms) ======
+====== log-regression (apache-spark) [default], iteration 304 started ======
+====== log-regression (apache-spark) [default], iteration 304 completed (900.996 ms) ======
+====== log-regression (apache-spark) [default], iteration 305 started ======
+====== log-regression (apache-spark) [default], iteration 305 completed (939.429 ms) ======
+====== log-regression (apache-spark) [default], iteration 306 started ======
+====== log-regression (apache-spark) [default], iteration 306 completed (1006.720 ms) ======
+====== log-regression (apache-spark) [default], iteration 307 started ======
+====== log-regression (apache-spark) [default], iteration 307 completed (902.495 ms) ======
+====== log-regression (apache-spark) [default], iteration 308 started ======
+====== log-regression (apache-spark) [default], iteration 308 completed (910.573 ms) ======
+====== log-regression (apache-spark) [default], iteration 309 started ======
+====== log-regression (apache-spark) [default], iteration 309 completed (908.460 ms) ======
+====== log-regression (apache-spark) [default], iteration 310 started ======
+====== log-regression (apache-spark) [default], iteration 310 completed (1011.780 ms) ======
+====== log-regression (apache-spark) [default], iteration 311 started ======
+====== log-regression (apache-spark) [default], iteration 311 completed (902.462 ms) ======
+====== log-regression (apache-spark) [default], iteration 312 started ======
+====== log-regression (apache-spark) [default], iteration 312 completed (906.185 ms) ======
+====== log-regression (apache-spark) [default], iteration 313 started ======
+====== log-regression (apache-spark) [default], iteration 313 completed (911.675 ms) ======
+====== log-regression (apache-spark) [default], iteration 314 started ======
+====== log-regression (apache-spark) [default], iteration 314 completed (1005.922 ms) ======
+====== log-regression (apache-spark) [default], iteration 315 started ======
+====== log-regression (apache-spark) [default], iteration 315 completed (932.559 ms) ======
+====== log-regression (apache-spark) [default], iteration 316 started ======
+====== log-regression (apache-spark) [default], iteration 316 completed (912.789 ms) ======
+====== log-regression (apache-spark) [default], iteration 317 started ======
+====== log-regression (apache-spark) [default], iteration 317 completed (901.820 ms) ======
+====== log-regression (apache-spark) [default], iteration 318 started ======
+====== log-regression (apache-spark) [default], iteration 318 completed (1007.191 ms) ======
+====== log-regression (apache-spark) [default], iteration 319 started ======
+====== log-regression (apache-spark) [default], iteration 319 completed (910.785 ms) ======
+====== log-regression (apache-spark) [default], iteration 320 started ======
+====== log-regression (apache-spark) [default], iteration 320 completed (905.321 ms) ======
+====== log-regression (apache-spark) [default], iteration 321 started ======
+====== log-regression (apache-spark) [default], iteration 321 completed (901.153 ms) ======
+====== log-regression (apache-spark) [default], iteration 322 started ======
+====== log-regression (apache-spark) [default], iteration 322 completed (1013.130 ms) ======
+====== log-regression (apache-spark) [default], iteration 323 started ======
+====== log-regression (apache-spark) [default], iteration 323 completed (907.339 ms) ======
+====== log-regression (apache-spark) [default], iteration 324 started ======
+====== log-regression (apache-spark) [default], iteration 324 completed (906.253 ms) ======
+====== log-regression (apache-spark) [default], iteration 325 started ======
+====== log-regression (apache-spark) [default], iteration 325 completed (917.817 ms) ======
+====== log-regression (apache-spark) [default], iteration 326 started ======
+====== log-regression (apache-spark) [default], iteration 326 completed (921.861 ms) ======
+====== log-regression (apache-spark) [default], iteration 327 started ======
+====== log-regression (apache-spark) [default], iteration 327 completed (991.443 ms) ======
+====== log-regression (apache-spark) [default], iteration 328 started ======
+====== log-regression (apache-spark) [default], iteration 328 completed (898.417 ms) ======
+====== log-regression (apache-spark) [default], iteration 329 started ======
+====== log-regression (apache-spark) [default], iteration 329 completed (901.389 ms) ======
+====== log-regression (apache-spark) [default], iteration 330 started ======
+====== log-regression (apache-spark) [default], iteration 330 completed (907.784 ms) ======
+====== log-regression (apache-spark) [default], iteration 331 started ======
+====== log-regression (apache-spark) [default], iteration 331 completed (997.624 ms) ======
+====== log-regression (apache-spark) [default], iteration 332 started ======
+====== log-regression (apache-spark) [default], iteration 332 completed (896.910 ms) ======
+====== log-regression (apache-spark) [default], iteration 333 started ======
+====== log-regression (apache-spark) [default], iteration 333 completed (923.184 ms) ======
+====== log-regression (apache-spark) [default], iteration 334 started ======
+====== log-regression (apache-spark) [default], iteration 334 completed (913.842 ms) ======
+====== log-regression (apache-spark) [default], iteration 335 started ======
+====== log-regression (apache-spark) [default], iteration 335 completed (1007.463 ms) ======
+====== log-regression (apache-spark) [default], iteration 336 started ======
+====== log-regression (apache-spark) [default], iteration 336 completed (912.465 ms) ======
+====== log-regression (apache-spark) [default], iteration 337 started ======
+====== log-regression (apache-spark) [default], iteration 337 completed (911.207 ms) ======
+====== log-regression (apache-spark) [default], iteration 338 started ======
+====== log-regression (apache-spark) [default], iteration 338 completed (906.067 ms) ======
+====== log-regression (apache-spark) [default], iteration 339 started ======
+====== log-regression (apache-spark) [default], iteration 339 completed (1026.963 ms) ======
+====== log-regression (apache-spark) [default], iteration 340 started ======
+====== log-regression (apache-spark) [default], iteration 340 completed (902.868 ms) ======
+====== log-regression (apache-spark) [default], iteration 341 started ======
+====== log-regression (apache-spark) [default], iteration 341 completed (901.154 ms) ======
+====== log-regression (apache-spark) [default], iteration 342 started ======
+====== log-regression (apache-spark) [default], iteration 342 completed (919.985 ms) ======
+====== log-regression (apache-spark) [default], iteration 343 started ======
+====== log-regression (apache-spark) [default], iteration 343 completed (1048.861 ms) ======
+====== log-regression (apache-spark) [default], iteration 344 started ======
+====== log-regression (apache-spark) [default], iteration 344 completed (911.106 ms) ======
+====== log-regression (apache-spark) [default], iteration 345 started ======
+====== log-regression (apache-spark) [default], iteration 345 completed (901.165 ms) ======
+====== log-regression (apache-spark) [default], iteration 346 started ======
+====== log-regression (apache-spark) [default], iteration 346 completed (905.232 ms) ======
+====== log-regression (apache-spark) [default], iteration 347 started ======
+====== log-regression (apache-spark) [default], iteration 347 completed (1007.495 ms) ======
+====== log-regression (apache-spark) [default], iteration 348 started ======
+====== log-regression (apache-spark) [default], iteration 348 completed (895.849 ms) ======
+====== log-regression (apache-spark) [default], iteration 349 started ======
+====== log-regression (apache-spark) [default], iteration 349 completed (919.066 ms) ======
+====== log-regression (apache-spark) [default], iteration 350 started ======
+====== log-regression (apache-spark) [default], iteration 350 completed (904.539 ms) ======
+====== log-regression (apache-spark) [default], iteration 351 started ======
+====== log-regression (apache-spark) [default], iteration 351 completed (1035.584 ms) ======
+====== log-regression (apache-spark) [default], iteration 352 started ======
+====== log-regression (apache-spark) [default], iteration 352 completed (898.182 ms) ======
+====== log-regression (apache-spark) [default], iteration 353 started ======
+====== log-regression (apache-spark) [default], iteration 353 completed (898.506 ms) ======
+====== log-regression (apache-spark) [default], iteration 354 started ======
+====== log-regression (apache-spark) [default], iteration 354 completed (898.306 ms) ======
+====== log-regression (apache-spark) [default], iteration 355 started ======
+====== log-regression (apache-spark) [default], iteration 355 completed (901.951 ms) ======
+====== log-regression (apache-spark) [default], iteration 356 started ======
+====== log-regression (apache-spark) [default], iteration 356 completed (984.660 ms) ======
+====== log-regression (apache-spark) [default], iteration 357 started ======
+====== log-regression (apache-spark) [default], iteration 357 completed (898.900 ms) ======
+====== log-regression (apache-spark) [default], iteration 358 started ======
+====== log-regression (apache-spark) [default], iteration 358 completed (914.830 ms) ======
+====== log-regression (apache-spark) [default], iteration 359 started ======
+====== log-regression (apache-spark) [default], iteration 359 completed (901.730 ms) ======
+====== log-regression (apache-spark) [default], iteration 360 started ======
+====== log-regression (apache-spark) [default], iteration 360 completed (984.125 ms) ======
+====== log-regression (apache-spark) [default], iteration 361 started ======
+====== log-regression (apache-spark) [default], iteration 361 completed (900.455 ms) ======
+====== log-regression (apache-spark) [default], iteration 362 started ======
+====== log-regression (apache-spark) [default], iteration 362 completed (896.063 ms) ======
+====== log-regression (apache-spark) [default], iteration 363 started ======
+====== log-regression (apache-spark) [default], iteration 363 completed (907.506 ms) ======
+====== log-regression (apache-spark) [default], iteration 364 started ======
+====== log-regression (apache-spark) [default], iteration 364 completed (1001.342 ms) ======
+====== log-regression (apache-spark) [default], iteration 365 started ======
+====== log-regression (apache-spark) [default], iteration 365 completed (918.240 ms) ======
+====== log-regression (apache-spark) [default], iteration 366 started ======
+====== log-regression (apache-spark) [default], iteration 366 completed (896.417 ms) ======
+====== log-regression (apache-spark) [default], iteration 367 started ======
+====== log-regression (apache-spark) [default], iteration 367 completed (913.850 ms) ======
+====== log-regression (apache-spark) [default], iteration 368 started ======
+====== log-regression (apache-spark) [default], iteration 368 completed (1029.621 ms) ======
+====== log-regression (apache-spark) [default], iteration 369 started ======
+====== log-regression (apache-spark) [default], iteration 369 completed (944.623 ms) ======
+====== log-regression (apache-spark) [default], iteration 370 started ======
+====== log-regression (apache-spark) [default], iteration 370 completed (903.224 ms) ======
+====== log-regression (apache-spark) [default], iteration 371 started ======
+====== log-regression (apache-spark) [default], iteration 371 completed (898.317 ms) ======
+====== log-regression (apache-spark) [default], iteration 372 started ======
+====== log-regression (apache-spark) [default], iteration 372 completed (1031.419 ms) ======
+====== log-regression (apache-spark) [default], iteration 373 started ======
+====== log-regression (apache-spark) [default], iteration 373 completed (912.435 ms) ======
+====== log-regression (apache-spark) [default], iteration 374 started ======
+====== log-regression (apache-spark) [default], iteration 374 completed (910.409 ms) ======
+====== log-regression (apache-spark) [default], iteration 375 started ======
+====== log-regression (apache-spark) [default], iteration 375 completed (899.394 ms) ======
+====== log-regression (apache-spark) [default], iteration 376 started ======
+====== log-regression (apache-spark) [default], iteration 376 completed (999.402 ms) ======
+====== log-regression (apache-spark) [default], iteration 377 started ======
+====== log-regression (apache-spark) [default], iteration 377 completed (916.879 ms) ======
+====== log-regression (apache-spark) [default], iteration 378 started ======
+====== log-regression (apache-spark) [default], iteration 378 completed (899.647 ms) ======
+====== log-regression (apache-spark) [default], iteration 379 started ======
+====== log-regression (apache-spark) [default], iteration 379 completed (906.607 ms) ======
+====== log-regression (apache-spark) [default], iteration 380 started ======
+====== log-regression (apache-spark) [default], iteration 380 completed (1007.980 ms) ======
+====== log-regression (apache-spark) [default], iteration 381 started ======
+====== log-regression (apache-spark) [default], iteration 381 completed (905.167 ms) ======
+====== log-regression (apache-spark) [default], iteration 382 started ======
+====== log-regression (apache-spark) [default], iteration 382 completed (892.324 ms) ======
+====== log-regression (apache-spark) [default], iteration 383 started ======
+====== log-regression (apache-spark) [default], iteration 383 completed (907.173 ms) ======
+====== log-regression (apache-spark) [default], iteration 384 started ======
+====== log-regression (apache-spark) [default], iteration 384 completed (996.586 ms) ======
+====== log-regression (apache-spark) [default], iteration 385 started ======
+====== log-regression (apache-spark) [default], iteration 385 completed (985.303 ms) ======
+====== log-regression (apache-spark) [default], iteration 386 started ======
+====== log-regression (apache-spark) [default], iteration 386 completed (904.077 ms) ======
+====== log-regression (apache-spark) [default], iteration 387 started ======
+====== log-regression (apache-spark) [default], iteration 387 completed (895.154 ms) ======
+====== log-regression (apache-spark) [default], iteration 388 started ======
+====== log-regression (apache-spark) [default], iteration 388 completed (905.471 ms) ======
+====== log-regression (apache-spark) [default], iteration 389 started ======
+====== log-regression (apache-spark) [default], iteration 389 completed (1016.702 ms) ======
+====== log-regression (apache-spark) [default], iteration 390 started ======
+====== log-regression (apache-spark) [default], iteration 390 completed (901.802 ms) ======
+====== log-regression (apache-spark) [default], iteration 391 started ======
+====== log-regression (apache-spark) [default], iteration 391 completed (906.068 ms) ======
+====== log-regression (apache-spark) [default], iteration 392 started ======
+====== log-regression (apache-spark) [default], iteration 392 completed (908.675 ms) ======
+====== log-regression (apache-spark) [default], iteration 393 started ======
+====== log-regression (apache-spark) [default], iteration 393 completed (1002.416 ms) ======
+====== log-regression (apache-spark) [default], iteration 394 started ======
+====== log-regression (apache-spark) [default], iteration 394 completed (898.597 ms) ======
+====== log-regression (apache-spark) [default], iteration 395 started ======
+====== log-regression (apache-spark) [default], iteration 395 completed (904.792 ms) ======
+====== log-regression (apache-spark) [default], iteration 396 started ======
+====== log-regression (apache-spark) [default], iteration 396 completed (904.921 ms) ======
+====== log-regression (apache-spark) [default], iteration 397 started ======
+====== log-regression (apache-spark) [default], iteration 397 completed (1008.990 ms) ======
+====== log-regression (apache-spark) [default], iteration 398 started ======
+====== log-regression (apache-spark) [default], iteration 398 completed (908.275 ms) ======
+====== log-regression (apache-spark) [default], iteration 399 started ======
+====== log-regression (apache-spark) [default], iteration 399 completed (899.319 ms) ======
+====== log-regression (apache-spark) [default], iteration 400 started ======
+====== log-regression (apache-spark) [default], iteration 400 completed (923.632 ms) ======
+====== log-regression (apache-spark) [default], iteration 401 started ======
+====== log-regression (apache-spark) [default], iteration 401 completed (1030.128 ms) ======
+====== log-regression (apache-spark) [default], iteration 402 started ======
+====== log-regression (apache-spark) [default], iteration 402 completed (902.725 ms) ======
+====== log-regression (apache-spark) [default], iteration 403 started ======
+====== log-regression (apache-spark) [default], iteration 403 completed (901.749 ms) ======
+====== log-regression (apache-spark) [default], iteration 404 started ======
+====== log-regression (apache-spark) [default], iteration 404 completed (898.598 ms) ======
+====== log-regression (apache-spark) [default], iteration 405 started ======
+====== log-regression (apache-spark) [default], iteration 405 completed (1010.841 ms) ======
+====== log-regression (apache-spark) [default], iteration 406 started ======
+====== log-regression (apache-spark) [default], iteration 406 completed (902.287 ms) ======
+====== log-regression (apache-spark) [default], iteration 407 started ======
+====== log-regression (apache-spark) [default], iteration 407 completed (895.908 ms) ======
+====== log-regression (apache-spark) [default], iteration 408 started ======
+====== log-regression (apache-spark) [default], iteration 408 completed (908.118 ms) ======
+====== log-regression (apache-spark) [default], iteration 409 started ======
+====== log-regression (apache-spark) [default], iteration 409 completed (900.018 ms) ======
+====== log-regression (apache-spark) [default], iteration 410 started ======
+====== log-regression (apache-spark) [default], iteration 410 completed (996.994 ms) ======
+====== log-regression (apache-spark) [default], iteration 411 started ======
+====== log-regression (apache-spark) [default], iteration 411 completed (903.635 ms) ======
+====== log-regression (apache-spark) [default], iteration 412 started ======
+====== log-regression (apache-spark) [default], iteration 412 completed (919.343 ms) ======
+====== log-regression (apache-spark) [default], iteration 413 started ======
+====== log-regression (apache-spark) [default], iteration 413 completed (932.360 ms) ======
+====== log-regression (apache-spark) [default], iteration 414 started ======
+====== log-regression (apache-spark) [default], iteration 414 completed (987.641 ms) ======
+====== log-regression (apache-spark) [default], iteration 415 started ======
+====== log-regression (apache-spark) [default], iteration 415 completed (907.823 ms) ======
+====== log-regression (apache-spark) [default], iteration 416 started ======
+====== log-regression (apache-spark) [default], iteration 416 completed (900.780 ms) ======
+====== log-regression (apache-spark) [default], iteration 417 started ======
+====== log-regression (apache-spark) [default], iteration 417 completed (906.733 ms) ======
+====== log-regression (apache-spark) [default], iteration 418 started ======
+====== log-regression (apache-spark) [default], iteration 418 completed (993.287 ms) ======
+====== log-regression (apache-spark) [default], iteration 419 started ======
+====== log-regression (apache-spark) [default], iteration 419 completed (898.173 ms) ======
+====== log-regression (apache-spark) [default], iteration 420 started ======
+====== log-regression (apache-spark) [default], iteration 420 completed (897.183 ms) ======
+====== log-regression (apache-spark) [default], iteration 421 started ======
+====== log-regression (apache-spark) [default], iteration 421 completed (902.964 ms) ======
+====== log-regression (apache-spark) [default], iteration 422 started ======
+====== log-regression (apache-spark) [default], iteration 422 completed (1026.213 ms) ======
+====== log-regression (apache-spark) [default], iteration 423 started ======
+====== log-regression (apache-spark) [default], iteration 423 completed (910.468 ms) ======
+====== log-regression (apache-spark) [default], iteration 424 started ======
+====== log-regression (apache-spark) [default], iteration 424 completed (899.342 ms) ======
+====== log-regression (apache-spark) [default], iteration 425 started ======
+====== log-regression (apache-spark) [default], iteration 425 completed (922.447 ms) ======
+====== log-regression (apache-spark) [default], iteration 426 started ======
+====== log-regression (apache-spark) [default], iteration 426 completed (1033.178 ms) ======
+====== log-regression (apache-spark) [default], iteration 427 started ======
+====== log-regression (apache-spark) [default], iteration 427 completed (900.410 ms) ======
+====== log-regression (apache-spark) [default], iteration 428 started ======
+====== log-regression (apache-spark) [default], iteration 428 completed (898.030 ms) ======
+====== log-regression (apache-spark) [default], iteration 429 started ======
+====== log-regression (apache-spark) [default], iteration 429 completed (900.719 ms) ======
+====== log-regression (apache-spark) [default], iteration 430 started ======
+====== log-regression (apache-spark) [default], iteration 430 completed (1004.534 ms) ======
+====== log-regression (apache-spark) [default], iteration 431 started ======
+====== log-regression (apache-spark) [default], iteration 431 completed (896.537 ms) ======
+====== log-regression (apache-spark) [default], iteration 432 started ======
+====== log-regression (apache-spark) [default], iteration 432 completed (894.103 ms) ======
+====== log-regression (apache-spark) [default], iteration 433 started ======
+====== log-regression (apache-spark) [default], iteration 433 completed (895.733 ms) ======
+====== log-regression (apache-spark) [default], iteration 434 started ======
+====== log-regression (apache-spark) [default], iteration 434 completed (1013.826 ms) ======
+====== log-regression (apache-spark) [default], iteration 435 started ======
+====== log-regression (apache-spark) [default], iteration 435 completed (901.593 ms) ======
+====== log-regression (apache-spark) [default], iteration 436 started ======
+====== log-regression (apache-spark) [default], iteration 436 completed (905.955 ms) ======
+====== log-regression (apache-spark) [default], iteration 437 started ======
+====== log-regression (apache-spark) [default], iteration 437 completed (900.529 ms) ======
+====== log-regression (apache-spark) [default], iteration 438 started ======
+====== log-regression (apache-spark) [default], iteration 438 completed (899.021 ms) ======
+====== log-regression (apache-spark) [default], iteration 439 started ======
+====== log-regression (apache-spark) [default], iteration 439 completed (982.913 ms) ======
+====== log-regression (apache-spark) [default], iteration 440 started ======
+====== log-regression (apache-spark) [default], iteration 440 completed (890.273 ms) ======
+====== log-regression (apache-spark) [default], iteration 441 started ======
+====== log-regression (apache-spark) [default], iteration 441 completed (902.027 ms) ======
+====== log-regression (apache-spark) [default], iteration 442 started ======
+====== log-regression (apache-spark) [default], iteration 442 completed (895.767 ms) ======
+====== log-regression (apache-spark) [default], iteration 443 started ======
+====== log-regression (apache-spark) [default], iteration 443 completed (979.188 ms) ======
+====== log-regression (apache-spark) [default], iteration 444 started ======
+====== log-regression (apache-spark) [default], iteration 444 completed (891.702 ms) ======
+====== log-regression (apache-spark) [default], iteration 445 started ======
+====== log-regression (apache-spark) [default], iteration 445 completed (900.274 ms) ======
+====== log-regression (apache-spark) [default], iteration 446 started ======
+====== log-regression (apache-spark) [default], iteration 446 completed (908.920 ms) ======
+====== log-regression (apache-spark) [default], iteration 447 started ======
+====== log-regression (apache-spark) [default], iteration 447 completed (999.580 ms) ======
+====== log-regression (apache-spark) [default], iteration 448 started ======
+====== log-regression (apache-spark) [default], iteration 448 completed (899.540 ms) ======
+====== log-regression (apache-spark) [default], iteration 449 started ======
+====== log-regression (apache-spark) [default], iteration 449 completed (904.508 ms) ======
+====== log-regression (apache-spark) [default], iteration 450 started ======
+====== log-regression (apache-spark) [default], iteration 450 completed (906.676 ms) ======
+====== log-regression (apache-spark) [default], iteration 451 started ======
+====== log-regression (apache-spark) [default], iteration 451 completed (1028.790 ms) ======
+====== log-regression (apache-spark) [default], iteration 452 started ======
+====== log-regression (apache-spark) [default], iteration 452 completed (899.181 ms) ======
+====== log-regression (apache-spark) [default], iteration 453 started ======
+====== log-regression (apache-spark) [default], iteration 453 completed (895.963 ms) ======
+====== log-regression (apache-spark) [default], iteration 454 started ======
+====== log-regression (apache-spark) [default], iteration 454 completed (907.072 ms) ======
+====== log-regression (apache-spark) [default], iteration 455 started ======
+====== log-regression (apache-spark) [default], iteration 455 completed (1058.007 ms) ======
+====== log-regression (apache-spark) [default], iteration 456 started ======
+====== log-regression (apache-spark) [default], iteration 456 completed (899.892 ms) ======
+====== log-regression (apache-spark) [default], iteration 457 started ======
+====== log-regression (apache-spark) [default], iteration 457 completed (898.817 ms) ======
+====== log-regression (apache-spark) [default], iteration 458 started ======
+====== log-regression (apache-spark) [default], iteration 458 completed (905.573 ms) ======
+====== log-regression (apache-spark) [default], iteration 459 started ======
+====== log-regression (apache-spark) [default], iteration 459 completed (1006.226 ms) ======
+====== log-regression (apache-spark) [default], iteration 460 started ======
+====== log-regression (apache-spark) [default], iteration 460 completed (892.045 ms) ======
+====== log-regression (apache-spark) [default], iteration 461 started ======
+====== log-regression (apache-spark) [default], iteration 461 completed (902.059 ms) ======
+====== log-regression (apache-spark) [default], iteration 462 started ======
+====== log-regression (apache-spark) [default], iteration 462 completed (905.451 ms) ======
+====== log-regression (apache-spark) [default], iteration 463 started ======
+====== log-regression (apache-spark) [default], iteration 463 completed (996.944 ms) ======
+====== log-regression (apache-spark) [default], iteration 464 started ======
+====== log-regression (apache-spark) [default], iteration 464 completed (895.565 ms) ======
+====== log-regression (apache-spark) [default], iteration 465 started ======
+====== log-regression (apache-spark) [default], iteration 465 completed (893.790 ms) ======
+====== log-regression (apache-spark) [default], iteration 466 started ======
+====== log-regression (apache-spark) [default], iteration 466 completed (895.762 ms) ======
+====== log-regression (apache-spark) [default], iteration 467 started ======
+====== log-regression (apache-spark) [default], iteration 467 completed (892.477 ms) ======
+====== log-regression (apache-spark) [default], iteration 468 started ======
+====== log-regression (apache-spark) [default], iteration 468 completed (983.441 ms) ======
+====== log-regression (apache-spark) [default], iteration 469 started ======
+====== log-regression (apache-spark) [default], iteration 469 completed (898.572 ms) ======
+====== log-regression (apache-spark) [default], iteration 470 started ======
+====== log-regression (apache-spark) [default], iteration 470 completed (890.693 ms) ======
+====== log-regression (apache-spark) [default], iteration 471 started ======
+====== log-regression (apache-spark) [default], iteration 471 completed (890.649 ms) ======
+====== log-regression (apache-spark) [default], iteration 472 started ======
+====== log-regression (apache-spark) [default], iteration 472 completed (1000.895 ms) ======
+====== log-regression (apache-spark) [default], iteration 473 started ======
+====== log-regression (apache-spark) [default], iteration 473 completed (941.129 ms) ======
+====== log-regression (apache-spark) [default], iteration 474 started ======
+====== log-regression (apache-spark) [default], iteration 474 completed (901.837 ms) ======
+====== log-regression (apache-spark) [default], iteration 475 started ======
+====== log-regression (apache-spark) [default], iteration 475 completed (895.319 ms) ======
+====== log-regression (apache-spark) [default], iteration 476 started ======
+====== log-regression (apache-spark) [default], iteration 476 completed (1000.863 ms) ======
+====== log-regression (apache-spark) [default], iteration 477 started ======
+====== log-regression (apache-spark) [default], iteration 477 completed (904.528 ms) ======
+====== log-regression (apache-spark) [default], iteration 478 started ======
+====== log-regression (apache-spark) [default], iteration 478 completed (896.100 ms) ======
+====== log-regression (apache-spark) [default], iteration 479 started ======
+====== log-regression (apache-spark) [default], iteration 479 completed (903.176 ms) ======
+====== log-regression (apache-spark) [default], iteration 480 started ======
+====== log-regression (apache-spark) [default], iteration 480 completed (1035.092 ms) ======
+====== log-regression (apache-spark) [default], iteration 481 started ======
+====== log-regression (apache-spark) [default], iteration 481 completed (898.453 ms) ======
+====== log-regression (apache-spark) [default], iteration 482 started ======
+====== log-regression (apache-spark) [default], iteration 482 completed (897.578 ms) ======
+====== log-regression (apache-spark) [default], iteration 483 started ======
+====== log-regression (apache-spark) [default], iteration 483 completed (898.584 ms) ======
+====== log-regression (apache-spark) [default], iteration 484 started ======
+====== log-regression (apache-spark) [default], iteration 484 completed (1043.272 ms) ======
+====== log-regression (apache-spark) [default], iteration 485 started ======
+====== log-regression (apache-spark) [default], iteration 485 completed (898.420 ms) ======
+====== log-regression (apache-spark) [default], iteration 486 started ======
+====== log-regression (apache-spark) [default], iteration 486 completed (903.690 ms) ======
+====== log-regression (apache-spark) [default], iteration 487 started ======
+====== log-regression (apache-spark) [default], iteration 487 completed (894.758 ms) ======
+====== log-regression (apache-spark) [default], iteration 488 started ======
+====== log-regression (apache-spark) [default], iteration 488 completed (1004.396 ms) ======
+====== log-regression (apache-spark) [default], iteration 489 started ======
+====== log-regression (apache-spark) [default], iteration 489 completed (944.451 ms) ======
+====== log-regression (apache-spark) [default], iteration 490 started ======
+====== log-regression (apache-spark) [default], iteration 490 completed (894.095 ms) ======
+====== log-regression (apache-spark) [default], iteration 491 started ======
+====== log-regression (apache-spark) [default], iteration 491 completed (894.096 ms) ======
+====== log-regression (apache-spark) [default], iteration 492 started ======
+====== log-regression (apache-spark) [default], iteration 492 completed (1016.600 ms) ======
+====== log-regression (apache-spark) [default], iteration 493 started ======
+====== log-regression (apache-spark) [default], iteration 493 completed (929.132 ms) ======
+====== log-regression (apache-spark) [default], iteration 494 started ======
+====== log-regression (apache-spark) [default], iteration 494 completed (893.106 ms) ======
+====== log-regression (apache-spark) [default], iteration 495 started ======
+====== log-regression (apache-spark) [default], iteration 495 completed (902.402 ms) ======
+====== log-regression (apache-spark) [default], iteration 496 started ======
+====== log-regression (apache-spark) [default], iteration 496 completed (899.821 ms) ======
+====== log-regression (apache-spark) [default], iteration 497 started ======
+====== log-regression (apache-spark) [default], iteration 497 completed (979.218 ms) ======
+====== log-regression (apache-spark) [default], iteration 498 started ======
+====== log-regression (apache-spark) [default], iteration 498 completed (891.905 ms) ======
+====== log-regression (apache-spark) [default], iteration 499 started ======
+====== log-regression (apache-spark) [default], iteration 499 completed (900.657 ms) ======
+====== log-regression (apache-spark) [default], iteration 500 started ======
+====== log-regression (apache-spark) [default], iteration 500 completed (898.916 ms) ======
+====== log-regression (apache-spark) [default], iteration 501 started ======
+====== log-regression (apache-spark) [default], iteration 501 completed (989.845 ms) ======
+====== log-regression (apache-spark) [default], iteration 502 started ======
+====== log-regression (apache-spark) [default], iteration 502 completed (917.438 ms) ======
+====== log-regression (apache-spark) [default], iteration 503 started ======
+====== log-regression (apache-spark) [default], iteration 503 completed (898.088 ms) ======
+====== log-regression (apache-spark) [default], iteration 504 started ======
+====== log-regression (apache-spark) [default], iteration 504 completed (897.252 ms) ======
+====== log-regression (apache-spark) [default], iteration 505 started ======
+====== log-regression (apache-spark) [default], iteration 505 completed (988.693 ms) ======
+====== log-regression (apache-spark) [default], iteration 506 started ======
+====== log-regression (apache-spark) [default], iteration 506 completed (906.933 ms) ======
+====== log-regression (apache-spark) [default], iteration 507 started ======
+====== log-regression (apache-spark) [default], iteration 507 completed (895.510 ms) ======
+====== log-regression (apache-spark) [default], iteration 508 started ======
+====== log-regression (apache-spark) [default], iteration 508 completed (900.458 ms) ======
+====== log-regression (apache-spark) [default], iteration 509 started ======
+====== log-regression (apache-spark) [default], iteration 509 completed (998.758 ms) ======
+====== log-regression (apache-spark) [default], iteration 510 started ======
+====== log-regression (apache-spark) [default], iteration 510 completed (900.174 ms) ======
+====== log-regression (apache-spark) [default], iteration 511 started ======
+====== log-regression (apache-spark) [default], iteration 511 completed (901.654 ms) ======
+====== log-regression (apache-spark) [default], iteration 512 started ======
+====== log-regression (apache-spark) [default], iteration 512 completed (900.335 ms) ======
+====== log-regression (apache-spark) [default], iteration 513 started ======
+====== log-regression (apache-spark) [default], iteration 513 completed (998.702 ms) ======
+====== log-regression (apache-spark) [default], iteration 514 started ======
+====== log-regression (apache-spark) [default], iteration 514 completed (894.402 ms) ======
+====== log-regression (apache-spark) [default], iteration 515 started ======
+====== log-regression (apache-spark) [default], iteration 515 completed (895.448 ms) ======
+====== log-regression (apache-spark) [default], iteration 516 started ======
+====== log-regression (apache-spark) [default], iteration 516 completed (900.433 ms) ======
+====== log-regression (apache-spark) [default], iteration 517 started ======
+====== log-regression (apache-spark) [default], iteration 517 completed (1008.659 ms) ======
+====== log-regression (apache-spark) [default], iteration 518 started ======
+====== log-regression (apache-spark) [default], iteration 518 completed (902.174 ms) ======
+====== log-regression (apache-spark) [default], iteration 519 started ======
+====== log-regression (apache-spark) [default], iteration 519 completed (892.397 ms) ======
+====== log-regression (apache-spark) [default], iteration 520 started ======
+====== log-regression (apache-spark) [default], iteration 520 completed (900.669 ms) ======
+====== log-regression (apache-spark) [default], iteration 521 started ======
+====== log-regression (apache-spark) [default], iteration 521 completed (898.514 ms) ======
+====== log-regression (apache-spark) [default], iteration 522 started ======
+====== log-regression (apache-spark) [default], iteration 522 completed (984.228 ms) ======
+====== log-regression (apache-spark) [default], iteration 523 started ======
+====== log-regression (apache-spark) [default], iteration 523 completed (897.841 ms) ======
+====== log-regression (apache-spark) [default], iteration 524 started ======
+====== log-regression (apache-spark) [default], iteration 524 completed (901.602 ms) ======
+====== log-regression (apache-spark) [default], iteration 525 started ======
+====== log-regression (apache-spark) [default], iteration 525 completed (889.468 ms) ======
+====== log-regression (apache-spark) [default], iteration 526 started ======
+====== log-regression (apache-spark) [default], iteration 526 completed (984.814 ms) ======
+====== log-regression (apache-spark) [default], iteration 527 started ======
+====== log-regression (apache-spark) [default], iteration 527 completed (896.635 ms) ======
+====== log-regression (apache-spark) [default], iteration 528 started ======
+====== log-regression (apache-spark) [default], iteration 528 completed (904.777 ms) ======
+====== log-regression (apache-spark) [default], iteration 529 started ======
+====== log-regression (apache-spark) [default], iteration 529 completed (904.079 ms) ======
+====== log-regression (apache-spark) [default], iteration 530 started ======
+====== log-regression (apache-spark) [default], iteration 530 completed (990.734 ms) ======
+====== log-regression (apache-spark) [default], iteration 531 started ======
+====== log-regression (apache-spark) [default], iteration 531 completed (893.625 ms) ======
+====== log-regression (apache-spark) [default], iteration 532 started ======
+====== log-regression (apache-spark) [default], iteration 532 completed (901.757 ms) ======
+====== log-regression (apache-spark) [default], iteration 533 started ======
+====== log-regression (apache-spark) [default], iteration 533 completed (895.996 ms) ======
+====== log-regression (apache-spark) [default], iteration 534 started ======
+====== log-regression (apache-spark) [default], iteration 534 completed (996.011 ms) ======
+====== log-regression (apache-spark) [default], iteration 535 started ======
+====== log-regression (apache-spark) [default], iteration 535 completed (891.469 ms) ======
+====== log-regression (apache-spark) [default], iteration 536 started ======
+====== log-regression (apache-spark) [default], iteration 536 completed (897.029 ms) ======
+====== log-regression (apache-spark) [default], iteration 537 started ======
+====== log-regression (apache-spark) [default], iteration 537 completed (970.651 ms) ======
+====== log-regression (apache-spark) [default], iteration 538 started ======
+====== log-regression (apache-spark) [default], iteration 538 completed (1032.117 ms) ======
+====== log-regression (apache-spark) [default], iteration 539 started ======
+====== log-regression (apache-spark) [default], iteration 539 completed (905.775 ms) ======
+====== log-regression (apache-spark) [default], iteration 540 started ======
+====== log-regression (apache-spark) [default], iteration 540 completed (899.294 ms) ======
+====== log-regression (apache-spark) [default], iteration 541 started ======
+====== log-regression (apache-spark) [default], iteration 541 completed (896.670 ms) ======
+====== log-regression (apache-spark) [default], iteration 542 started ======
+====== log-regression (apache-spark) [default], iteration 542 completed (981.221 ms) ======
+====== log-regression (apache-spark) [default], iteration 543 started ======
+====== log-regression (apache-spark) [default], iteration 543 completed (893.028 ms) ======
+====== log-regression (apache-spark) [default], iteration 544 started ======
+====== log-regression (apache-spark) [default], iteration 544 completed (890.353 ms) ======
+====== log-regression (apache-spark) [default], iteration 545 started ======
+====== log-regression (apache-spark) [default], iteration 545 completed (893.793 ms) ======
+====== log-regression (apache-spark) [default], iteration 546 started ======
+====== log-regression (apache-spark) [default], iteration 546 completed (1010.649 ms) ======
+====== log-regression (apache-spark) [default], iteration 547 started ======
+====== log-regression (apache-spark) [default], iteration 547 completed (890.047 ms) ======
+====== log-regression (apache-spark) [default], iteration 548 started ======
+====== log-regression (apache-spark) [default], iteration 548 completed (904.713 ms) ======
+====== log-regression (apache-spark) [default], iteration 549 started ======
+====== log-regression (apache-spark) [default], iteration 549 completed (900.043 ms) ======
+====== log-regression (apache-spark) [default], iteration 550 started ======
+====== log-regression (apache-spark) [default], iteration 550 completed (1001.317 ms) ======
+====== log-regression (apache-spark) [default], iteration 551 started ======
+====== log-regression (apache-spark) [default], iteration 551 completed (889.800 ms) ======
+====== log-regression (apache-spark) [default], iteration 552 started ======
+====== log-regression (apache-spark) [default], iteration 552 completed (893.938 ms) ======
+====== log-regression (apache-spark) [default], iteration 553 started ======
+====== log-regression (apache-spark) [default], iteration 553 completed (903.966 ms) ======
+====== log-regression (apache-spark) [default], iteration 554 started ======
+====== log-regression (apache-spark) [default], iteration 554 completed (1047.150 ms) ======
+====== log-regression (apache-spark) [default], iteration 555 started ======
+====== log-regression (apache-spark) [default], iteration 555 completed (952.475 ms) ======
+====== log-regression (apache-spark) [default], iteration 556 started ======
+====== log-regression (apache-spark) [default], iteration 556 completed (896.833 ms) ======
+====== log-regression (apache-spark) [default], iteration 557 started ======
+====== log-regression (apache-spark) [default], iteration 557 completed (896.688 ms) ======
+====== log-regression (apache-spark) [default], iteration 558 started ======
+====== log-regression (apache-spark) [default], iteration 558 completed (1005.035 ms) ======
+====== log-regression (apache-spark) [default], iteration 559 started ======
+====== log-regression (apache-spark) [default], iteration 559 completed (897.863 ms) ======
+====== log-regression (apache-spark) [default], iteration 560 started ======
+====== log-regression (apache-spark) [default], iteration 560 completed (894.666 ms) ======
+====== log-regression (apache-spark) [default], iteration 561 started ======
+====== log-regression (apache-spark) [default], iteration 561 completed (900.886 ms) ======
+====== log-regression (apache-spark) [default], iteration 562 started ======
+====== log-regression (apache-spark) [default], iteration 562 completed (1020.152 ms) ======
+====== log-regression (apache-spark) [default], iteration 563 started ======
+====== log-regression (apache-spark) [default], iteration 563 completed (928.094 ms) ======
+====== log-regression (apache-spark) [default], iteration 564 started ======
+====== log-regression (apache-spark) [default], iteration 564 completed (888.085 ms) ======
+====== log-regression (apache-spark) [default], iteration 565 started ======
+====== log-regression (apache-spark) [default], iteration 565 completed (893.200 ms) ======
+====== log-regression (apache-spark) [default], iteration 566 started ======
+====== log-regression (apache-spark) [default], iteration 566 completed (904.045 ms) ======
+====== log-regression (apache-spark) [default], iteration 567 started ======
+====== log-regression (apache-spark) [default], iteration 567 completed (979.521 ms) ======
+====== log-regression (apache-spark) [default], iteration 568 started ======
+====== log-regression (apache-spark) [default], iteration 568 completed (887.032 ms) ======
+====== log-regression (apache-spark) [default], iteration 569 started ======
+====== log-regression (apache-spark) [default], iteration 569 completed (893.247 ms) ======
+====== log-regression (apache-spark) [default], iteration 570 started ======
+====== log-regression (apache-spark) [default], iteration 570 completed (899.248 ms) ======
+====== log-regression (apache-spark) [default], iteration 571 started ======
+====== log-regression (apache-spark) [default], iteration 571 completed (978.721 ms) ======
+====== log-regression (apache-spark) [default], iteration 572 started ======
+====== log-regression (apache-spark) [default], iteration 572 completed (896.364 ms) ======
+====== log-regression (apache-spark) [default], iteration 573 started ======
+====== log-regression (apache-spark) [default], iteration 573 completed (903.607 ms) ======
+====== log-regression (apache-spark) [default], iteration 574 started ======
+====== log-regression (apache-spark) [default], iteration 574 completed (898.801 ms) ======
+====== log-regression (apache-spark) [default], iteration 575 started ======
+====== log-regression (apache-spark) [default], iteration 575 completed (991.332 ms) ======
+====== log-regression (apache-spark) [default], iteration 576 started ======
+====== log-regression (apache-spark) [default], iteration 576 completed (894.316 ms) ======
+====== log-regression (apache-spark) [default], iteration 577 started ======
+====== log-regression (apache-spark) [default], iteration 577 completed (889.126 ms) ======
+====== log-regression (apache-spark) [default], iteration 578 started ======
+====== log-regression (apache-spark) [default], iteration 578 completed (896.625 ms) ======
+====== log-regression (apache-spark) [default], iteration 579 started ======
+====== log-regression (apache-spark) [default], iteration 579 completed (992.725 ms) ======
+====== log-regression (apache-spark) [default], iteration 580 started ======
+====== log-regression (apache-spark) [default], iteration 580 completed (906.013 ms) ======
+====== log-regression (apache-spark) [default], iteration 581 started ======
+====== log-regression (apache-spark) [default], iteration 581 completed (901.058 ms) ======
+====== log-regression (apache-spark) [default], iteration 582 started ======
+====== log-regression (apache-spark) [default], iteration 582 completed (913.592 ms) ======
+====== log-regression (apache-spark) [default], iteration 583 started ======
+====== log-regression (apache-spark) [default], iteration 583 completed (1064.974 ms) ======
+====== log-regression (apache-spark) [default], iteration 584 started ======
+====== log-regression (apache-spark) [default], iteration 584 completed (894.013 ms) ======
+====== log-regression (apache-spark) [default], iteration 585 started ======
+====== log-regression (apache-spark) [default], iteration 585 completed (903.092 ms) ======
+====== log-regression (apache-spark) [default], iteration 586 started ======
+====== log-regression (apache-spark) [default], iteration 586 completed (907.450 ms) ======
+====== log-regression (apache-spark) [default], iteration 587 started ======
+====== log-regression (apache-spark) [default], iteration 587 completed (1006.942 ms) ======
+====== log-regression (apache-spark) [default], iteration 588 started ======
+====== log-regression (apache-spark) [default], iteration 588 completed (893.701 ms) ======
+====== log-regression (apache-spark) [default], iteration 589 started ======
+====== log-regression (apache-spark) [default], iteration 589 completed (898.298 ms) ======
+====== log-regression (apache-spark) [default], iteration 590 started ======
+====== log-regression (apache-spark) [default], iteration 590 completed (897.768 ms) ======
+====== log-regression (apache-spark) [default], iteration 591 started ======
+====== log-regression (apache-spark) [default], iteration 591 completed (999.429 ms) ======
+====== log-regression (apache-spark) [default], iteration 592 started ======
+====== log-regression (apache-spark) [default], iteration 592 completed (908.064 ms) ======
+====== log-regression (apache-spark) [default], iteration 593 started ======
+====== log-regression (apache-spark) [default], iteration 593 completed (891.413 ms) ======
+====== log-regression (apache-spark) [default], iteration 594 started ======
+====== log-regression (apache-spark) [default], iteration 594 completed (892.964 ms) ======
+====== log-regression (apache-spark) [default], iteration 595 started ======
+====== log-regression (apache-spark) [default], iteration 595 completed (892.334 ms) ======
+====== log-regression (apache-spark) [default], iteration 596 started ======
+====== log-regression (apache-spark) [default], iteration 596 completed (987.976 ms) ======
+====== log-regression (apache-spark) [default], iteration 597 started ======
+====== log-regression (apache-spark) [default], iteration 597 completed (904.721 ms) ======
+====== log-regression (apache-spark) [default], iteration 598 started ======
+====== log-regression (apache-spark) [default], iteration 598 completed (894.553 ms) ======
+====== log-regression (apache-spark) [default], iteration 599 started ======
+====== log-regression (apache-spark) [default], iteration 599 completed (902.826 ms) ======
+====== log-regression (apache-spark) [default], iteration 600 started ======
+====== log-regression (apache-spark) [default], iteration 600 completed (985.436 ms) ======
+====== log-regression (apache-spark) [default], iteration 601 started ======
+====== log-regression (apache-spark) [default], iteration 601 completed (900.455 ms) ======
+====== log-regression (apache-spark) [default], iteration 602 started ======
+====== log-regression (apache-spark) [default], iteration 602 completed (900.859 ms) ======
+====== log-regression (apache-spark) [default], iteration 603 started ======
+====== log-regression (apache-spark) [default], iteration 603 completed (895.586 ms) ======
+====== log-regression (apache-spark) [default], iteration 604 started ======
+====== log-regression (apache-spark) [default], iteration 604 completed (989.631 ms) ======
+====== log-regression (apache-spark) [default], iteration 605 started ======
+====== log-regression (apache-spark) [default], iteration 605 completed (903.302 ms) ======
+====== log-regression (apache-spark) [default], iteration 606 started ======
+====== log-regression (apache-spark) [default], iteration 606 completed (895.386 ms) ======
+====== log-regression (apache-spark) [default], iteration 607 started ======
+====== log-regression (apache-spark) [default], iteration 607 completed (897.032 ms) ======
+====== log-regression (apache-spark) [default], iteration 608 started ======
+====== log-regression (apache-spark) [default], iteration 608 completed (1046.639 ms) ======
+====== log-regression (apache-spark) [default], iteration 609 started ======
+====== log-regression (apache-spark) [default], iteration 609 completed (896.183 ms) ======
+====== log-regression (apache-spark) [default], iteration 610 started ======
+====== log-regression (apache-spark) [default], iteration 610 completed (890.171 ms) ======
+====== log-regression (apache-spark) [default], iteration 611 started ======
+====== log-regression (apache-spark) [default], iteration 611 completed (901.913 ms) ======
+====== log-regression (apache-spark) [default], iteration 612 started ======
+====== log-regression (apache-spark) [default], iteration 612 completed (1011.189 ms) ======
+====== log-regression (apache-spark) [default], iteration 613 started ======
+====== log-regression (apache-spark) [default], iteration 613 completed (893.601 ms) ======
+====== log-regression (apache-spark) [default], iteration 614 started ======
+====== log-regression (apache-spark) [default], iteration 614 completed (904.554 ms) ======
+====== log-regression (apache-spark) [default], iteration 615 started ======
+====== log-regression (apache-spark) [default], iteration 615 completed (897.683 ms) ======
+====== log-regression (apache-spark) [default], iteration 616 started ======
+====== log-regression (apache-spark) [default], iteration 616 completed (1006.373 ms) ======
+====== log-regression (apache-spark) [default], iteration 617 started ======
+====== log-regression (apache-spark) [default], iteration 617 completed (901.881 ms) ======
+OK: benchmark finished successfully
+CSV : G1GC-java21-2026-04-25/log-regression/log-regression.csv
+JSON: G1GC-java21-2026-04-25/log-regression/log-regression.json
+GC  : G1GC-java21-2026-04-25/log-regression/log-regression.gc.log
