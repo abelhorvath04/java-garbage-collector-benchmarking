@@ -7,10 +7,10 @@ import matplotlib.pyplot as plt
 
 
 ENV_DIRS = [
-    ("G1GC-Java-21", "../experiment/G1GC-java21-2026-04-25"),
     ("G1GC-Java-25", "../experiment/G1GC-java25-2026-04-24"),
-    ("ZGC-Java-21", "../experiment/ZGC-java21-2026-04-25"),
-    ("ZGC-Java-25", "../experiment/ZGC-java25-2026-04-24")
+    ("G1GC-Java-21", "../experiment/G1GC-java21-2026-04-25"),
+    ("ZGC-Java-25", "../experiment/ZGC-java25-2026-04-24"),
+    ("ZGC-Java-21", "../experiment/ZGC-java21-2026-04-25")
 ]
 
 BENCHMARKS = [
@@ -25,7 +25,7 @@ BENCHMARKS = [
 FIVE_MINUTES_NS = 5 * 60 * 1_000_000_000
 
 SCRIPT_DIR = Path(__file__).resolve().parent
-OUTPUT_FILE = SCRIPT_DIR / "benchmarking-g1gc-zgc.png"
+OUTPUT_FILE = SCRIPT_DIR / "benchmarking-g1gc-zgc-no-fliers.png"
 
 
 def load_benchmark_data(env_path: str, benchmark: str) -> list[float]:
@@ -101,7 +101,7 @@ def main() -> None:
             data,
             tick_labels=labels,
             patch_artist=True,
-            showfliers=True,
+            showfliers=False,
         )
 
         for patch, color in zip(bp["boxes"], colors[:len(bp["boxes"])]):
