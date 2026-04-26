@@ -41,7 +41,7 @@ def plot_collector(collector: str):
     ax.set_xticklabels(benchmarks, rotation=90, fontsize=8)
 
     ax.set_ylabel("STW overhead [%]")
-    ax.set_title(f"{collector} STW overhead by benchmark\n16 GB heap, post-warmup")
+    ax.set_title(f"{collector} STW overhead")
     ax.legend(frameon=False)
 
     ax.grid(axis="y", linestyle=":", linewidth=0.6)

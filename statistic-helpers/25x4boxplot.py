@@ -25,7 +25,7 @@ BENCHMARKS = [
 FIVE_MINUTES_NS = 5 * 60 * 1_000_000_000
 
 SCRIPT_DIR = Path(__file__).resolve().parent
-OUTPUT_FILE = SCRIPT_DIR / "16gb_renaissance_25bench_4env_iteration_duration_after_5min_boxplots_no_fliers.png"
+OUTPUT_FILE = SCRIPT_DIR / "benchmarking-g1gc-zgc.png"
 
 
 def load_benchmark_data(env_path: str, benchmark: str) -> list[float]:
@@ -101,7 +101,7 @@ def main() -> None:
             data,
             tick_labels=labels,
             patch_artist=True,
-            showfliers=False,
+            showfliers=True,
         )
 
         for patch, color in zip(bp["boxes"], colors[:len(bp["boxes"])]):
@@ -117,8 +117,7 @@ def main() -> None:
         axes[j].axis("off")
 
     fig.suptitle(
-        "16 GB heap - Renaissance benchmarks - iteration duration after 5 min warmup\n"
-        "Throughput-oriented comparison; lower duration means better performance",
+        "Durchsatz",
         fontsize=15,
     )
 

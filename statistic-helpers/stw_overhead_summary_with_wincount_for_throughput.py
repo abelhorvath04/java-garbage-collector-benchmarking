@@ -58,7 +58,6 @@ GC_PAUSE_RE = re.compile(
     re.VERBOSE,
 )
 
-# These are the ZGC pause categories that are strict STW pause events in your logs.
 ZGC_STRICT_STW_CATEGORIES = {
     "Pause Mark Start",
     "Pause Mark End",
@@ -174,7 +173,7 @@ def is_strict_stw_pause(tags_raw: str, category: str) -> bool:
         return True
 
     # ZGC emits the strict short STW handshakes/phases as [gc,phases] in your trace logs.
-    # We accept only the concrete pause categories, not arbitrary gc,phases internals.
+    # It accepts only the concrete pause categories, not arbitrary gc,phases internals.
     if tags == ["gc", "phases"] and normalized in ZGC_STRICT_STW_CATEGORIES:
         return True
 
