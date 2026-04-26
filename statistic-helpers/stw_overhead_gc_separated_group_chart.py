@@ -50,7 +50,7 @@ def plot_collector(collector: str):
 
     plt.tight_layout()
 
-    out = OUTPUT_DIR / f"{collector.lower()}_stw_overhead_grouped_bar.png"
+    out = OUTPUT_DIR / f"{collector.lower()}-stw-overhead-grouped-bar.png"
     plt.savefig(out, dpi=300, bbox_inches="tight")
     plt.close()
 
