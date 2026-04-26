@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 from pathlib import Path
-import math
 
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -10,7 +9,7 @@ ENV_DIRS = [
     ("G1GC-Java-25", "../experiment/G1GC-java25-2026-04-24"),
     ("G1GC-Java-21", "../experiment/G1GC-java21-2026-04-25"),
     ("ZGC-Java-25", "../experiment/ZGC-java25-2026-04-24"),
-    ("ZGC-Java-21", "../experiment/ZGC-java21-2026-04-25")
+    ("ZGC-Java-21", "../experiment/ZGC-java21-2026-04-25"),
 ]
 
 BENCHMARKS = [
@@ -25,7 +24,8 @@ BENCHMARKS = [
 FIVE_MINUTES_NS = 5 * 60 * 1_000_000_000
 
 SCRIPT_DIR = Path(__file__).resolve().parent
-OUTPUT_FILE = SCRIPT_DIR / "benchmarking-g1gc-zgc-no-fliers.png"
+OUTPUT_DIR = SCRIPT_DIR / "throughput"
+OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
 
 def load_benchmark_data(env_path: str, benchmark: str) -> list[float]:
@@ -60,43 +60,36 @@ def load_benchmark_data(env_path: str, benchmark: str) -> list[float]:
     return duration_ms.tolist()
 
 
-def main() -> None:
-    n_benchmarks = len(BENCHMARKS)
-    ncols = 5
-    nrows = math.ceil(n_benchmarks / ncols)
-
-    loaded_combinations = 0
+def save_benchmark_plot(benchmark: str) -> tuple[bool, int, int]:
+    data = []
+    labels = []
+    measurement_count = 0
     missing_or_empty = 0
-    total_measurements = 0
 
-    fig, axes = plt.subplots(nrows=nrows, ncols=ncols, figsize=(24, 17))
-    axes = axes.flatten()
+    for env_name, env_path in ENV_DIRS:
+        values = load_benchmark_data(env_path, benchmark)
 
-    colors = ["lightblue", "lightgreen", "salmon", "plum"]
+        if values:
+            data.append(values)
+            labels.append(env_name)
+            measurement_count += len(values)
+        else:
+            missing_or_empty += 1
 
-    for i, benchmark in enumerate(BENCHMARKS):
-        ax = axes[i]
+    fig, ax = plt.subplots(figsize=(8, 5))
 
-        data = []
-        labels = []
-
-        for env_name, env_path in ENV_DIRS:
-            values = load_benchmark_data(env_path, benchmark)
-
-            if values:
-                data.append(values)
-                labels.append(env_name)
-                loaded_combinations += 1
-                total_measurements += len(values)
-            else:
-                missing_or_empty += 1
-
-        if not data:
-            ax.set_title(benchmark, fontsize=10)
-            ax.text(0.5, 0.5, "No data", ha="center", va="center", transform=ax.transAxes)
-            ax.set_xticks([])
-            continue
-
+    if not data:
+        ax.set_title(benchmark, fontsize=12)
+        ax.text(
+            0.5,
+            0.5,
+            "No data",
+            ha="center",
+            va="center",
+            transform=ax.transAxes,
+        )
+        ax.set_xticks([])
+    else:
         bp = ax.boxplot(
             data,
             tick_labels=labels,
@@ -104,35 +97,48 @@ def main() -> None:
             showfliers=False,
         )
 
+        colors = ["lightblue", "lightgreen", "salmon", "plum"]
         for patch, color in zip(bp["boxes"], colors[:len(bp["boxes"])]):
             patch.set_facecolor(color)
 
-        ax.set_title(benchmark, fontsize=10)
-        ax.set_ylabel("Iteration duration [ms]", fontsize=8)
-        ax.tick_params(axis="x", rotation=25, labelsize=7)
-        ax.tick_params(axis="y", labelsize=8)
+        ax.set_title(f"Durchsatz - {benchmark}", fontsize=12)
+        ax.set_ylabel("Iteration duration [ms]", fontsize=10)
+        ax.tick_params(axis="x", rotation=25, labelsize=9)
+        ax.tick_params(axis="y", labelsize=9)
         ax.grid(axis="y", linestyle=":", linewidth=0.5)
 
-    for j in range(n_benchmarks, len(axes)):
-        axes[j].axis("off")
+    plt.tight_layout()
 
-    fig.suptitle(
-        "Durchsatz",
-        fontsize=15,
-    )
-
-    plt.tight_layout(rect=[0, 0, 1, 0.94])
-    plt.savefig(OUTPUT_FILE, dpi=300, bbox_inches="tight")
+    output_file = OUTPUT_DIR / f"{benchmark}.png"
+    plt.savefig(output_file, dpi=300, bbox_inches="tight")
     plt.close(fig)
+
+    print(f"Saved: {output_file}")
+    return bool(data), measurement_count, missing_or_empty
+
+
+def main() -> None:
+    successful_benchmarks = 0
+    total_measurements = 0
+    total_missing_or_empty = 0
+
+    for benchmark in BENCHMARKS:
+        has_data, measurement_count, missing_or_empty = save_benchmark_plot(benchmark)
+
+        if has_data:
+            successful_benchmarks += 1
+
+        total_measurements += measurement_count
+        total_missing_or_empty += missing_or_empty
 
     print("Validation summary")
     print(f"  benchmarks: {len(BENCHMARKS)}")
     print(f"  environments: {len(ENV_DIRS)}")
     print(f"  expected combinations: {len(BENCHMARKS) * len(ENV_DIRS)}")
-    print(f"  loaded combinations: {loaded_combinations}")
-    print(f"  missing/empty combinations: {missing_or_empty}")
+    print(f"  successful benchmark plots: {successful_benchmarks}")
+    print(f"  missing/empty combinations: {total_missing_or_empty}")
     print(f"  total post-warmup measurements: {total_measurements}")
-    print(f"  saved output: {OUTPUT_FILE}")
+    print(f"  output directory: {OUTPUT_DIR}")
 
 
 if __name__ == "__main__":
