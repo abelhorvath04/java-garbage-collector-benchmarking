@@ -1,0 +1,13 @@
+$ for env in ../experiment/G1GC-java25-2026-04-24 ../experiment/G1GC-java21-2026-04-25 ../experiment/ZGC-java25-2026-04-24 ../experiment/ZGC-java21-2026-04-25; do
+  for b in "$env"/*; do
+    [ -d "$b" ] || continue
+    count=$(find "$b" -maxdepth 1 -type f \( -name "*.gc.log" -o -name "*.gc.log.[0-4]" \) | wc -l)
+    [ "$count" -ne 6 ] && echo "$env/$(basename "$b"): $count"
+  done
+done
+
+output: 
+../experiment/G1GC-java25-2026-04-24/scala-doku: 2
+../experiment/G1GC-java25-2026-04-24/scala-kmeans: 2
+../experiment/G1GC-java21-2026-04-25/scala-doku: 1
+../experiment/G1GC-java21-2026-04-25/scala-kmeans: 2
