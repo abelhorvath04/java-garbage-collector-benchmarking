@@ -1,0 +1,4783 @@
+{
+  "warmup_cutoff_ns": 300000000000,
+  "throughput_summary": [
+    {
+      "benchmark": "akka-uct",
+      "environment": "G1GC-Java-21",
+      "measurement_file": "..\\experiment\\G1GC-java21-2026-04-25\\akka-uct\\akka-uct.json",
+      "measurement_count": 35,
+      "total_duration_ms": 310273.18387,
+      "avg_duration_ms": 8864.948110571428,
+      "steady_state_start_s": 306.106214745,
+      "steady_state_end_s": 616.388414419,
+      "steady_state_wall_clock_span_ms": 310282.199674,
+      "fastest_environment": "G1GC-Java-21",
+      "fastest_avg_duration_ms": 8864.948110571428,
+      "is_fastest_environment": true
+    },
+    {
+      "benchmark": "akka-uct",
+      "environment": "G1GC-Java-25",
+      "measurement_file": "..\\experiment\\G1GC-java25-2026-04-24\\akka-uct\\akka-uct.json",
+      "measurement_count": 33,
+      "total_duration_ms": 303508.994546,
+      "avg_duration_ms": 9197.242258969696,
+      "steady_state_start_s": 308.104605599,
+      "steady_state_end_s": 611.621932775,
+      "steady_state_wall_clock_span_ms": 303517.327176,
+      "fastest_environment": "",
+      "fastest_avg_duration_ms": "",
+      "is_fastest_environment": false
+    },
+    {
+      "benchmark": "akka-uct",
+      "environment": "ZGC-Java-21",
+      "measurement_file": "..\\experiment\\ZGC-java21-2026-04-25\\akka-uct\\akka-uct.json",
+      "measurement_count": 28,
+      "total_duration_ms": 312841.91775,
+      "avg_duration_ms": 11172.925633928571,
+      "steady_state_start_s": 308.227544107,
+      "steady_state_end_s": 621.079524821,
+      "steady_state_wall_clock_span_ms": 312851.980714,
+      "fastest_environment": "",
+      "fastest_avg_duration_ms": "",
+      "is_fastest_environment": false
+    },
+    {
+      "benchmark": "akka-uct",
+      "environment": "ZGC-Java-25",
+      "measurement_file": "..\\experiment\\ZGC-java25-2026-04-24\\akka-uct\\akka-uct.json",
+      "measurement_count": 29,
+      "total_duration_ms": 316951.059083,
+      "avg_duration_ms": 10929.346864931034,
+      "steady_state_start_s": 302.050611513,
+      "steady_state_end_s": 619.011908583,
+      "steady_state_wall_clock_span_ms": 316961.29707,
+      "fastest_environment": "",
+      "fastest_avg_duration_ms": "",
+      "is_fastest_environment": false
+    },
+    {
+      "benchmark": "als",
+      "environment": "G1GC-Java-21",
+      "measurement_file": "..\\experiment\\G1GC-java21-2026-04-25\\als\\als.json",
+      "measurement_count": 83,
+      "total_duration_ms": 307579.573531,
+      "avg_duration_ms": 3705.777994349398,
+      "steady_state_start_s": 300.377130798,
+      "steady_state_end_s": 615.113712353,
+      "steady_state_wall_clock_span_ms": 314736.581555,
+      "fastest_environment": "G1GC-Java-21",
+      "fastest_avg_duration_ms": 3705.777994349398,
+      "is_fastest_environment": true
+    },
+    {
+      "benchmark": "als",
+      "environment": "G1GC-Java-25",
+      "measurement_file": "..\\experiment\\G1GC-java25-2026-04-24\\als\\als.json",
+      "measurement_count": 79,
+      "total_duration_ms": 308209.477054,
+      "avg_duration_ms": 3901.385785493671,
+      "steady_state_start_s": 301.057457455,
+      "steady_state_end_s": 615.674668689,
+      "steady_state_wall_clock_span_ms": 314617.211234,
+      "fastest_environment": "",
+      "fastest_avg_duration_ms": "",
+      "is_fastest_environment": false
+    },
+    {
+      "benchmark": "als",
+      "environment": "ZGC-Java-21",
+      "measurement_file": "..\\experiment\\ZGC-java21-2026-04-25\\als\\als.json",
+      "measurement_count": 76,
+      "total_duration_ms": 305484.172644,
+      "avg_duration_ms": 4019.5285874210526,
+      "steady_state_start_s": 301.470738672,
+      "steady_state_end_s": 614.259142266,
+      "steady_state_wall_clock_span_ms": 312788.403594,
+      "fastest_environment": "",
+      "fastest_avg_duration_ms": "",
+      "is_fastest_environment": false
+    },
+    {
+      "benchmark": "als",
+      "environment": "ZGC-Java-25",
+      "measurement_file": "..\\experiment\\ZGC-java25-2026-04-24\\als\\als.json",
+      "measurement_count": 78,
+      "total_duration_ms": 304505.09309,
+      "avg_duration_ms": 3903.9114498717945,
+      "steady_state_start_s": 302.225777029,
+      "steady_state_end_s": 614.104670806,
+      "steady_state_wall_clock_span_ms": 311878.893777,
+      "fastest_environment": "",
+      "fastest_avg_duration_ms": "",
+      "is_fastest_environment": false
+    },
+    {
+      "benchmark": "chi-square",
+      "environment": "G1GC-Java-21",
+      "measurement_file": "..\\experiment\\G1GC-java21-2026-04-25\\chi-square\\chi-square.json",
+      "measurement_count": 581,
+      "total_duration_ms": 308890.4142,
+      "avg_duration_ms": 531.6530364888124,
+      "steady_state_start_s": 300.117566014,
+      "steady_state_end_s": 609.038367657,
+      "steady_state_wall_clock_span_ms": 308920.801643,
+      "fastest_environment": "G1GC-Java-21",
+      "fastest_avg_duration_ms": 531.6530364888124,
+      "is_fastest_environment": true
+    },
+    {
+      "benchmark": "chi-square",
+      "environment": "G1GC-Java-25",
+      "measurement_file": "..\\experiment\\G1GC-java25-2026-04-24\\chi-square\\chi-square.json",
+      "measurement_count": 558,
+      "total_duration_ms": 308925.023683,
+      "avg_duration_ms": 553.6290747007168,
+      "steady_state_start_s": 300.445439306,
+      "steady_state_end_s": 609.398896678,
+      "steady_state_wall_clock_span_ms": 308953.457372,
+      "fastest_environment": "",
+      "fastest_avg_duration_ms": "",
+      "is_fastest_environment": false
+    },
+    {
+      "benchmark": "chi-square",
+      "environment": "ZGC-Java-21",
+      "measurement_file": "..\\experiment\\ZGC-java21-2026-04-25\\chi-square\\chi-square.json",
+      "measurement_count": 515,
+      "total_duration_ms": 309044.956342,
+      "avg_duration_ms": 600.0872938679612,
+      "steady_state_start_s": 300.238715415,
+      "steady_state_end_s": 609.316301361,
+      "steady_state_wall_clock_span_ms": 309077.585946,
+      "fastest_environment": "",
+      "fastest_avg_duration_ms": "",
+      "is_fastest_environment": false
+    },
+    {
+      "benchmark": "chi-square",
+      "environment": "ZGC-Java-25",
+      "measurement_file": "..\\experiment\\ZGC-java25-2026-04-24\\chi-square\\chi-square.json",
+      "measurement_count": 490,
+      "total_duration_ms": 308834.17932,
+      "avg_duration_ms": 630.2738353469388,
+      "steady_state_start_s": 300.439542693,
+      "steady_state_end_s": 609.304961724,
+      "steady_state_wall_clock_span_ms": 308865.419031,
+      "fastest_environment": "",
+      "fastest_avg_duration_ms": "",
+      "is_fastest_environment": false
+    },
+    {
+      "benchmark": "db-shootout",
+      "environment": "G1GC-Java-21",
+      "measurement_file": "..\\experiment\\G1GC-java21-2026-04-25\\db-shootout\\db-shootout.json",
+      "measurement_count": 60,
+      "total_duration_ms": 321244.158646,
+      "avg_duration_ms": 5354.069310766667,
+      "steady_state_start_s": 300.530673151,
+      "steady_state_end_s": 621.791756466,
+      "steady_state_wall_clock_span_ms": 321261.083315,
+      "fastest_environment": "",
+      "fastest_avg_duration_ms": "",
+      "is_fastest_environment": false
+    },
+    {
+      "benchmark": "db-shootout",
+      "environment": "G1GC-Java-25",
+      "measurement_file": "..\\experiment\\G1GC-java25-2026-04-24\\db-shootout\\db-shootout.json",
+      "measurement_count": 64,
+      "total_duration_ms": 314734.263654,
+      "avg_duration_ms": 4917.72286959375,
+      "steady_state_start_s": 304.164494423,
+      "steady_state_end_s": 618.914972107,
+      "steady_state_wall_clock_span_ms": 314750.477684,
+      "fastest_environment": "G1GC-Java-25",
+      "fastest_avg_duration_ms": 4917.72286959375,
+      "is_fastest_environment": true
+    },
+    {
+      "benchmark": "db-shootout",
+      "environment": "ZGC-Java-21",
+      "measurement_file": "..\\experiment\\ZGC-java21-2026-04-25\\db-shootout\\db-shootout.json",
+      "measurement_count": 52,
+      "total_duration_ms": 319853.643398,
+      "avg_duration_ms": 6151.031603807693,
+      "steady_state_start_s": 300.523845974,
+      "steady_state_end_s": 620.398869939,
+      "steady_state_wall_clock_span_ms": 319875.023965,
+      "fastest_environment": "",
+      "fastest_avg_duration_ms": "",
+      "is_fastest_environment": false
+    },
+    {
+      "benchmark": "db-shootout",
+      "environment": "ZGC-Java-25",
+      "measurement_file": "..\\experiment\\ZGC-java25-2026-04-24\\db-shootout\\db-shootout.json",
+      "measurement_count": 55,
+      "total_duration_ms": 314634.106061,
+      "avg_duration_ms": 5720.6201101999995,
+      "steady_state_start_s": 304.534270286,
+      "steady_state_end_s": 619.191595162,
+      "steady_state_wall_clock_span_ms": 314657.324876,
+      "fastest_environment": "",
+      "fastest_avg_duration_ms": "",
+      "is_fastest_environment": false
+    },
+    {
+      "benchmark": "dec-tree",
+      "environment": "G1GC-Java-21",
+      "measurement_file": "..\\experiment\\G1GC-java21-2026-04-25\\dec-tree\\dec-tree.json",
+      "measurement_count": 434,
+      "total_duration_ms": 309392.433014,
+      "avg_duration_ms": 712.8857903548387,
+      "steady_state_start_s": 300.389921111,
+      "steady_state_end_s": 609.817004266,
+      "steady_state_wall_clock_span_ms": 309427.083155,
+      "fastest_environment": "",
+      "fastest_avg_duration_ms": "",
+      "is_fastest_environment": false
+    },
+    {
+      "benchmark": "dec-tree",
+      "environment": "G1GC-Java-25",
+      "measurement_file": "..\\experiment\\G1GC-java25-2026-04-24\\dec-tree\\dec-tree.json",
+      "measurement_count": 468,
+      "total_duration_ms": 308402.801112,
+      "avg_duration_ms": 658.9803442564103,
+      "steady_state_start_s": 300.603550841,
+      "steady_state_end_s": 609.04008125,
+      "steady_state_wall_clock_span_ms": 308436.530409,
+      "fastest_environment": "G1GC-Java-25",
+      "fastest_avg_duration_ms": 658.9803442564103,
+      "is_fastest_environment": true
+    },
+    {
+      "benchmark": "dec-tree",
+      "environment": "ZGC-Java-21",
+      "measurement_file": "..\\experiment\\ZGC-java21-2026-04-25\\dec-tree\\dec-tree.json",
+      "measurement_count": 386,
+      "total_duration_ms": 308592.477546,
+      "avg_duration_ms": 799.4623770621761,
+      "steady_state_start_s": 300.508308716,
+      "steady_state_end_s": 609.137405248,
+      "steady_state_wall_clock_span_ms": 308629.096532,
+      "fastest_environment": "",
+      "fastest_avg_duration_ms": "",
+      "is_fastest_environment": false
+    },
+    {
+      "benchmark": "dec-tree",
+      "environment": "ZGC-Java-25",
+      "measurement_file": "..\\experiment\\ZGC-java25-2026-04-24\\dec-tree\\dec-tree.json",
+      "measurement_count": 403,
+      "total_duration_ms": 309647.533333,
+      "avg_duration_ms": 768.3561621166253,
+      "steady_state_start_s": 300.034294607,
+      "steady_state_end_s": 609.717332094,
+      "steady_state_wall_clock_span_ms": 309683.037487,
+      "fastest_environment": "",
+      "fastest_avg_duration_ms": "",
+      "is_fastest_environment": false
+    },
+    {
+      "benchmark": "dotty",
+      "environment": "G1GC-Java-21",
+      "measurement_file": "..\\experiment\\G1GC-java21-2026-04-25\\dotty\\dotty.json",
+      "measurement_count": 196,
+      "total_duration_ms": 164340.900338,
+      "avg_duration_ms": 838.4739813163264,
+      "steady_state_start_s": 300.916152105,
+      "steady_state_end_s": 603.436587719,
+      "steady_state_wall_clock_span_ms": 302520.435614,
+      "fastest_environment": "",
+      "fastest_avg_duration_ms": "",
+      "is_fastest_environment": false
+    },
+    {
+      "benchmark": "dotty",
+      "environment": "G1GC-Java-25",
+      "measurement_file": "..\\experiment\\G1GC-java25-2026-04-24\\dotty\\dotty.json",
+      "measurement_count": 199,
+      "total_duration_ms": 163460.61557,
+      "avg_duration_ms": 821.4101284924623,
+      "steady_state_start_s": 300.242422945,
+      "steady_state_end_s": 604.206419299,
+      "steady_state_wall_clock_span_ms": 303963.996354,
+      "fastest_environment": "G1GC-Java-25",
+      "fastest_avg_duration_ms": 821.4101284924623,
+      "is_fastest_environment": true
+    },
+    {
+      "benchmark": "dotty",
+      "environment": "ZGC-Java-21",
+      "measurement_file": "..\\experiment\\ZGC-java21-2026-04-25\\dotty\\dotty.json",
+      "measurement_count": 183,
+      "total_duration_ms": 172348.800328,
+      "avg_duration_ms": 941.7967231038251,
+      "steady_state_start_s": 301.428206669,
+      "steady_state_end_s": 603.555271,
+      "steady_state_wall_clock_span_ms": 302127.064331,
+      "fastest_environment": "",
+      "fastest_avg_duration_ms": "",
+      "is_fastest_environment": false
+    },
+    {
+      "benchmark": "dotty",
+      "environment": "ZGC-Java-25",
+      "measurement_file": "..\\experiment\\ZGC-java25-2026-04-24\\dotty\\dotty.json",
+      "measurement_count": 186,
+      "total_duration_ms": 172034.899211,
+      "avg_duration_ms": 924.9188129623657,
+      "steady_state_start_s": 300.101605805,
+      "steady_state_end_s": 603.703876467,
+      "steady_state_wall_clock_span_ms": 303602.270662,
+      "fastest_environment": "",
+      "fastest_avg_duration_ms": "",
+      "is_fastest_environment": false
+    },
+    {
+      "benchmark": "finagle-chirper",
+      "environment": "G1GC-Java-21",
+      "measurement_file": "..\\experiment\\G1GC-java21-2026-04-25\\finagle-chirper\\finagle-chirper.json",
+      "measurement_count": 105,
+      "total_duration_ms": 304396.744225,
+      "avg_duration_ms": 2899.0166116666664,
+      "steady_state_start_s": 301.435089549,
+      "steady_state_end_s": 606.428649575,
+      "steady_state_wall_clock_span_ms": 304993.560026,
+      "fastest_environment": "",
+      "fastest_avg_duration_ms": "",
+      "is_fastest_environment": false
+    },
+    {
+      "benchmark": "finagle-chirper",
+      "environment": "G1GC-Java-25",
+      "measurement_file": "..\\experiment\\G1GC-java25-2026-04-24\\finagle-chirper\\finagle-chirper.json",
+      "measurement_count": 109,
+      "total_duration_ms": 305951.443383,
+      "avg_duration_ms": 2806.8939759908258,
+      "steady_state_start_s": 300.917958192,
+      "steady_state_end_s": 607.603180136,
+      "steady_state_wall_clock_span_ms": 306685.221944,
+      "fastest_environment": "G1GC-Java-25",
+      "fastest_avg_duration_ms": 2806.8939759908258,
+      "is_fastest_environment": true
+    },
+    {
+      "benchmark": "finagle-chirper",
+      "environment": "ZGC-Java-21",
+      "measurement_file": "..\\experiment\\ZGC-java21-2026-04-25\\finagle-chirper\\finagle-chirper.json",
+      "measurement_count": 99,
+      "total_duration_ms": 307000.364069,
+      "avg_duration_ms": 3101.0137784747476,
+      "steady_state_start_s": 300.346836857,
+      "steady_state_end_s": 607.933492606,
+      "steady_state_wall_clock_span_ms": 307586.655749,
+      "fastest_environment": "",
+      "fastest_avg_duration_ms": "",
+      "is_fastest_environment": false
+    },
+    {
+      "benchmark": "finagle-chirper",
+      "environment": "ZGC-Java-25",
+      "measurement_file": "..\\experiment\\ZGC-java25-2026-04-24\\finagle-chirper\\finagle-chirper.json",
+      "measurement_count": 99,
+      "total_duration_ms": 306418.353422,
+      "avg_duration_ms": 3095.1348830505053,
+      "steady_state_start_s": 301.372661837,
+      "steady_state_end_s": 608.419520407,
+      "steady_state_wall_clock_span_ms": 307046.85857,
+      "fastest_environment": "",
+      "fastest_avg_duration_ms": "",
+      "is_fastest_environment": false
+    },
+    {
+      "benchmark": "finagle-http",
+      "environment": "G1GC-Java-21",
+      "measurement_file": "..\\experiment\\G1GC-java21-2026-04-25\\finagle-http\\finagle-http.json",
+      "measurement_count": 71,
+      "total_duration_ms": 309232.825167,
+      "avg_duration_ms": 4355.391903760564,
+      "steady_state_start_s": 301.735259336,
+      "steady_state_end_s": 611.078555121,
+      "steady_state_wall_clock_span_ms": 309343.295785,
+      "fastest_environment": "",
+      "fastest_avg_duration_ms": "",
+      "is_fastest_environment": false
+    },
+    {
+      "benchmark": "finagle-http",
+      "environment": "G1GC-Java-25",
+      "measurement_file": "..\\experiment\\G1GC-java25-2026-04-24\\finagle-http\\finagle-http.json",
+      "measurement_count": 72,
+      "total_duration_ms": 307108.969797,
+      "avg_duration_ms": 4265.402358291666,
+      "steady_state_start_s": 300.360248972,
+      "steady_state_end_s": 607.557304499,
+      "steady_state_wall_clock_span_ms": 307197.055527,
+      "fastest_environment": "G1GC-Java-25",
+      "fastest_avg_duration_ms": 4265.402358291666,
+      "is_fastest_environment": true
+    },
+    {
+      "benchmark": "finagle-http",
+      "environment": "ZGC-Java-21",
+      "measurement_file": "..\\experiment\\ZGC-java21-2026-04-25\\finagle-http\\finagle-http.json",
+      "measurement_count": 65,
+      "total_duration_ms": 307341.304635,
+      "avg_duration_ms": 4728.327763615385,
+      "steady_state_start_s": 300.936072382,
+      "steady_state_end_s": 608.358933049,
+      "steady_state_wall_clock_span_ms": 307422.860667,
+      "fastest_environment": "",
+      "fastest_avg_duration_ms": "",
+      "is_fastest_environment": false
+    },
+    {
+      "benchmark": "finagle-http",
+      "environment": "ZGC-Java-25",
+      "measurement_file": "..\\experiment\\ZGC-java25-2026-04-24\\finagle-http\\finagle-http.json",
+      "measurement_count": 66,
+      "total_duration_ms": 304806.734642,
+      "avg_duration_ms": 4618.283858212121,
+      "steady_state_start_s": 302.606372601,
+      "steady_state_end_s": 607.496396759,
+      "steady_state_wall_clock_span_ms": 304890.024158,
+      "fastest_environment": "",
+      "fastest_avg_duration_ms": "",
+      "is_fastest_environment": false
+    },
+    {
+      "benchmark": "fj-kmeans",
+      "environment": "G1GC-Java-21",
+      "measurement_file": "..\\experiment\\G1GC-java21-2026-04-25\\fj-kmeans\\fj-kmeans.json",
+      "measurement_count": 79,
+      "total_duration_ms": 303377.199518,
+      "avg_duration_ms": 3840.2177154177216,
+      "steady_state_start_s": 303.546137829,
+      "steady_state_end_s": 606.975821134,
+      "steady_state_wall_clock_span_ms": 303429.683305,
+      "fastest_environment": "",
+      "fastest_avg_duration_ms": "",
+      "is_fastest_environment": false
+    },
+    {
+      "benchmark": "fj-kmeans",
+      "environment": "G1GC-Java-25",
+      "measurement_file": "..\\experiment\\G1GC-java25-2026-04-24\\fj-kmeans\\fj-kmeans.json",
+      "measurement_count": 85,
+      "total_duration_ms": 302566.342187,
+      "avg_duration_ms": 3559.6040257294117,
+      "steady_state_start_s": 302.504911143,
+      "steady_state_end_s": 605.120376376,
+      "steady_state_wall_clock_span_ms": 302615.465233,
+      "fastest_environment": "G1GC-Java-25",
+      "fastest_avg_duration_ms": 3559.6040257294117,
+      "is_fastest_environment": true
+    },
+    {
+      "benchmark": "fj-kmeans",
+      "environment": "ZGC-Java-21",
+      "measurement_file": "..\\experiment\\ZGC-java21-2026-04-25\\fj-kmeans\\fj-kmeans.json",
+      "measurement_count": 60,
+      "total_duration_ms": 308490.49553,
+      "avg_duration_ms": 5141.5082588333335,
+      "steady_state_start_s": 302.173852823,
+      "steady_state_end_s": 610.717397784,
+      "steady_state_wall_clock_span_ms": 308543.544961,
+      "fastest_environment": "",
+      "fastest_avg_duration_ms": "",
+      "is_fastest_environment": false
+    },
+    {
+      "benchmark": "fj-kmeans",
+      "environment": "ZGC-Java-25",
+      "measurement_file": "..\\experiment\\ZGC-java25-2026-04-24\\fj-kmeans\\fj-kmeans.json",
+      "measurement_count": 72,
+      "total_duration_ms": 304928.446676,
+      "avg_duration_ms": 4235.117314944445,
+      "steady_state_start_s": 300.966996181,
+      "steady_state_end_s": 605.954563547,
+      "steady_state_wall_clock_span_ms": 304987.567366,
+      "fastest_environment": "",
+      "fastest_avg_duration_ms": "",
+      "is_fastest_environment": false
+    },
+    {
+      "benchmark": "future-genetic",
+      "environment": "G1GC-Java-21",
+      "measurement_file": "..\\experiment\\G1GC-java21-2026-04-25\\future-genetic\\future-genetic.json",
+      "measurement_count": 140,
+      "total_duration_ms": 302201.654961,
+      "avg_duration_ms": 2158.5832497214283,
+      "steady_state_start_s": 301.548807589,
+      "steady_state_end_s": 603.782540551,
+      "steady_state_wall_clock_span_ms": 302233.732962,
+      "fastest_environment": "",
+      "fastest_avg_duration_ms": "",
+      "is_fastest_environment": false
+    },
+    {
+      "benchmark": "future-genetic",
+      "environment": "G1GC-Java-25",
+      "measurement_file": "..\\experiment\\G1GC-java25-2026-04-24\\future-genetic\\future-genetic.json",
+      "measurement_count": 146,
+      "total_duration_ms": 302722.942087,
+      "avg_duration_ms": 2073.4448088150684,
+      "steady_state_start_s": 301.146535869,
+      "steady_state_end_s": 603.904405988,
+      "steady_state_wall_clock_span_ms": 302757.870119,
+      "fastest_environment": "",
+      "fastest_avg_duration_ms": "",
+      "is_fastest_environment": false
+    },
+    {
+      "benchmark": "future-genetic",
+      "environment": "ZGC-Java-21",
+      "measurement_file": "..\\experiment\\ZGC-java21-2026-04-25\\future-genetic\\future-genetic.json",
+      "measurement_count": 140,
+      "total_duration_ms": 302672.347853,
+      "avg_duration_ms": 2161.9453418071425,
+      "steady_state_start_s": 300.582921608,
+      "steady_state_end_s": 603.288370563,
+      "steady_state_wall_clock_span_ms": 302705.448955,
+      "fastest_environment": "",
+      "fastest_avg_duration_ms": "",
+      "is_fastest_environment": false
+    },
+    {
+      "benchmark": "future-genetic",
+      "environment": "ZGC-Java-25",
+      "measurement_file": "..\\experiment\\ZGC-java25-2026-04-24\\future-genetic\\future-genetic.json",
+      "measurement_count": 147,
+      "total_duration_ms": 303187.012092,
+      "avg_duration_ms": 2062.4966808979593,
+      "steady_state_start_s": 301.334181884,
+      "steady_state_end_s": 604.55905401,
+      "steady_state_wall_clock_span_ms": 303224.872126,
+      "fastest_environment": "ZGC-Java-25",
+      "fastest_avg_duration_ms": 2062.4966808979593,
+      "is_fastest_environment": true
+    },
+    {
+      "benchmark": "gauss-mix",
+      "environment": "G1GC-Java-21",
+      "measurement_file": "..\\experiment\\G1GC-java21-2026-04-25\\gauss-mix\\gauss-mix.json",
+      "measurement_count": 45,
+      "total_duration_ms": 312756.952662,
+      "avg_duration_ms": 6950.154503600001,
+      "steady_state_start_s": 306.007760643,
+      "steady_state_end_s": 618.769904082,
+      "steady_state_wall_clock_span_ms": 312762.143439,
+      "fastest_environment": "G1GC-Java-21",
+      "fastest_avg_duration_ms": 6950.154503600001,
+      "is_fastest_environment": true
+    },
+    {
+      "benchmark": "gauss-mix",
+      "environment": "G1GC-Java-25",
+      "measurement_file": "..\\experiment\\G1GC-java25-2026-04-24\\gauss-mix\\gauss-mix.json",
+      "measurement_count": 45,
+      "total_duration_ms": 317999.334231,
+      "avg_duration_ms": 7066.6518718,
+      "steady_state_start_s": 302.066296842,
+      "steady_state_end_s": 620.070547195,
+      "steady_state_wall_clock_span_ms": 318004.250353,
+      "fastest_environment": "",
+      "fastest_avg_duration_ms": "",
+      "is_fastest_environment": false
+    },
+    {
+      "benchmark": "gauss-mix",
+      "environment": "ZGC-Java-21",
+      "measurement_file": "..\\experiment\\ZGC-java21-2026-04-25\\gauss-mix\\gauss-mix.json",
+      "measurement_count": 34,
+      "total_duration_ms": 309867.299731,
+      "avg_duration_ms": 9113.744109735295,
+      "steady_state_start_s": 304.546412355,
+      "steady_state_end_s": 614.419423787,
+      "steady_state_wall_clock_span_ms": 309873.011432,
+      "fastest_environment": "",
+      "fastest_avg_duration_ms": "",
+      "is_fastest_environment": false
+    },
+    {
+      "benchmark": "gauss-mix",
+      "environment": "ZGC-Java-25",
+      "measurement_file": "..\\experiment\\ZGC-java25-2026-04-24\\gauss-mix\\gauss-mix.json",
+      "measurement_count": 35,
+      "total_duration_ms": 318063.340811,
+      "avg_duration_ms": 9087.524023171429,
+      "steady_state_start_s": 303.790362191,
+      "steady_state_end_s": 621.859148898,
+      "steady_state_wall_clock_span_ms": 318068.786707,
+      "fastest_environment": "",
+      "fastest_avg_duration_ms": "",
+      "is_fastest_environment": false
+    },
+    {
+      "benchmark": "log-regression",
+      "environment": "G1GC-Java-21",
+      "measurement_file": "..\\experiment\\G1GC-java21-2026-04-25\\log-regression\\log-regression.json",
+      "measurement_count": 333,
+      "total_duration_ms": 309275.307419,
+      "avg_duration_ms": 928.754676933934,
+      "steady_state_start_s": 300.910145638,
+      "steady_state_end_s": 610.236853724,
+      "steady_state_wall_clock_span_ms": 309326.708086,
+      "fastest_environment": "",
+      "fastest_avg_duration_ms": "",
+      "is_fastest_environment": false
+    },
+    {
+      "benchmark": "log-regression",
+      "environment": "G1GC-Java-25",
+      "measurement_file": "..\\experiment\\G1GC-java25-2026-04-24\\log-regression\\log-regression.json",
+      "measurement_count": 361,
+      "total_duration_ms": 309365.570305,
+      "avg_duration_ms": 856.9683387950139,
+      "steady_state_start_s": 300.105002979,
+      "steady_state_end_s": 609.525296542,
+      "steady_state_wall_clock_span_ms": 309420.293563,
+      "fastest_environment": "G1GC-Java-25",
+      "fastest_avg_duration_ms": 856.9683387950139,
+      "is_fastest_environment": true
+    },
+    {
+      "benchmark": "log-regression",
+      "environment": "ZGC-Java-21",
+      "measurement_file": "..\\experiment\\ZGC-java21-2026-04-25\\log-regression\\log-regression.json",
+      "measurement_count": 270,
+      "total_duration_ms": 308902.636342,
+      "avg_duration_ms": 1144.0838383037037,
+      "steady_state_start_s": 301.000200094,
+      "steady_state_end_s": 609.960981788,
+      "steady_state_wall_clock_span_ms": 308960.781694,
+      "fastest_environment": "",
+      "fastest_avg_duration_ms": "",
+      "is_fastest_environment": false
+    },
+    {
+      "benchmark": "log-regression",
+      "environment": "ZGC-Java-25",
+      "measurement_file": "..\\experiment\\ZGC-java25-2026-04-24\\log-regression\\log-regression.json",
+      "measurement_count": 290,
+      "total_duration_ms": 315442.555796,
+      "avg_duration_ms": 1087.7329510206898,
+      "steady_state_start_s": 300.602179786,
+      "steady_state_end_s": 616.108106553,
+      "steady_state_wall_clock_span_ms": 315505.926767,
+      "fastest_environment": "",
+      "fastest_avg_duration_ms": "",
+      "is_fastest_environment": false
+    },
+    {
+      "benchmark": "mnemonics",
+      "environment": "G1GC-Java-21",
+      "measurement_file": "..\\experiment\\G1GC-java21-2026-04-25\\mnemonics\\mnemonics.json",
+      "measurement_count": 89,
+      "total_duration_ms": 281866.182456,
+      "avg_duration_ms": 3167.035757932584,
+      "steady_state_start_s": 301.439634087,
+      "steady_state_end_s": 607.079574981,
+      "steady_state_wall_clock_span_ms": 305639.940894,
+      "fastest_environment": "",
+      "fastest_avg_duration_ms": "",
+      "is_fastest_environment": false
+    },
+    {
+      "benchmark": "mnemonics",
+      "environment": "G1GC-Java-25",
+      "measurement_file": "..\\experiment\\G1GC-java25-2026-04-24\\mnemonics\\mnemonics.json",
+      "measurement_count": 94,
+      "total_duration_ms": 280359.374939,
+      "avg_duration_ms": 2982.5465419042553,
+      "steady_state_start_s": 303.151955817,
+      "steady_state_end_s": 607.082513236,
+      "steady_state_wall_clock_span_ms": 303930.557419,
+      "fastest_environment": "G1GC-Java-25",
+      "fastest_avg_duration_ms": 2982.5465419042553,
+      "is_fastest_environment": true
+    },
+    {
+      "benchmark": "mnemonics",
+      "environment": "ZGC-Java-21",
+      "measurement_file": "..\\experiment\\ZGC-java21-2026-04-25\\mnemonics\\mnemonics.json",
+      "measurement_count": 81,
+      "total_duration_ms": 281279.555078,
+      "avg_duration_ms": 3472.587099728395,
+      "steady_state_start_s": 301.06144175,
+      "steady_state_end_s": 605.639656314,
+      "steady_state_wall_clock_span_ms": 304578.214564,
+      "fastest_environment": "",
+      "fastest_avg_duration_ms": "",
+      "is_fastest_environment": false
+    },
+    {
+      "benchmark": "mnemonics",
+      "environment": "ZGC-Java-25",
+      "measurement_file": "..\\experiment\\ZGC-java25-2026-04-24\\mnemonics\\mnemonics.json",
+      "measurement_count": 82,
+      "total_duration_ms": 283634.446491,
+      "avg_duration_ms": 3458.9566645243904,
+      "steady_state_start_s": 302.21798446,
+      "steady_state_end_s": 607.875487203,
+      "steady_state_wall_clock_span_ms": 305657.502743,
+      "fastest_environment": "",
+      "fastest_avg_duration_ms": "",
+      "is_fastest_environment": false
+    },
+    {
+      "benchmark": "movie-lens",
+      "environment": "G1GC-Java-21",
+      "measurement_file": "..\\experiment\\G1GC-java21-2026-04-25\\movie-lens\\movie-lens.json",
+      "measurement_count": 30,
+      "total_duration_ms": 331154.431194,
+      "avg_duration_ms": 11038.481039799999,
+      "steady_state_start_s": 301.015596173,
+      "steady_state_end_s": 632.173537173,
+      "steady_state_wall_clock_span_ms": 331157.941,
+      "fastest_environment": "",
+      "fastest_avg_duration_ms": "",
+      "is_fastest_environment": false
+    },
+    {
+      "benchmark": "movie-lens",
+      "environment": "G1GC-Java-25",
+      "measurement_file": "..\\experiment\\G1GC-java25-2026-04-24\\movie-lens\\movie-lens.json",
+      "measurement_count": 30,
+      "total_duration_ms": 327060.543483,
+      "avg_duration_ms": 10902.0181161,
+      "steady_state_start_s": 307.214733501,
+      "steady_state_end_s": 634.27867502,
+      "steady_state_wall_clock_span_ms": 327063.941519,
+      "fastest_environment": "G1GC-Java-25",
+      "fastest_avg_duration_ms": 10902.0181161,
+      "is_fastest_environment": true
+    },
+    {
+      "benchmark": "movie-lens",
+      "environment": "ZGC-Java-21",
+      "measurement_file": "..\\experiment\\ZGC-java21-2026-04-25\\movie-lens\\movie-lens.json",
+      "measurement_count": 25,
+      "total_duration_ms": 322641.801244,
+      "avg_duration_ms": 12905.67204976,
+      "steady_state_start_s": 307.06810458,
+      "steady_state_end_s": 629.712931286,
+      "steady_state_wall_clock_span_ms": 322644.826706,
+      "fastest_environment": "",
+      "fastest_avg_duration_ms": "",
+      "is_fastest_environment": false
+    },
+    {
+      "benchmark": "movie-lens",
+      "environment": "ZGC-Java-25",
+      "measurement_file": "..\\experiment\\ZGC-java25-2026-04-24\\movie-lens\\movie-lens.json",
+      "measurement_count": 25,
+      "total_duration_ms": 328857.24352,
+      "avg_duration_ms": 13154.289740799999,
+      "steady_state_start_s": 303.032534035,
+      "steady_state_end_s": 631.893022724,
+      "steady_state_wall_clock_span_ms": 328860.488689,
+      "fastest_environment": "",
+      "fastest_avg_duration_ms": "",
+      "is_fastest_environment": false
+    },
+    {
+      "benchmark": "naive-bayes",
+      "environment": "G1GC-Java-21",
+      "measurement_file": "..\\experiment\\G1GC-java21-2026-04-25\\naive-bayes\\naive-bayes.json",
+      "measurement_count": 235,
+      "total_duration_ms": 310866.269024,
+      "avg_duration_ms": 1322.8351873361703,
+      "steady_state_start_s": 300.297198218,
+      "steady_state_end_s": 611.246172107,
+      "steady_state_wall_clock_span_ms": 310948.973889,
+      "fastest_environment": "",
+      "fastest_avg_duration_ms": "",
+      "is_fastest_environment": false
+    },
+    {
+      "benchmark": "naive-bayes",
+      "environment": "G1GC-Java-25",
+      "measurement_file": "..\\experiment\\G1GC-java25-2026-04-24\\naive-bayes\\naive-bayes.json",
+      "measurement_count": 301,
+      "total_duration_ms": 309686.658774,
+      "avg_duration_ms": 1028.859331475083,
+      "steady_state_start_s": 300.555693293,
+      "steady_state_end_s": 610.264873485,
+      "steady_state_wall_clock_span_ms": 309709.180192,
+      "fastest_environment": "G1GC-Java-25",
+      "fastest_avg_duration_ms": 1028.859331475083,
+      "is_fastest_environment": true
+    },
+    {
+      "benchmark": "naive-bayes",
+      "environment": "ZGC-Java-21",
+      "measurement_file": "..\\experiment\\ZGC-java21-2026-04-25\\naive-bayes\\naive-bayes.json",
+      "measurement_count": 186,
+      "total_duration_ms": 310851.777473,
+      "avg_duration_ms": 1671.2461154462367,
+      "steady_state_start_s": 301.376099381,
+      "steady_state_end_s": 612.251783367,
+      "steady_state_wall_clock_span_ms": 310875.683986,
+      "fastest_environment": "",
+      "fastest_avg_duration_ms": "",
+      "is_fastest_environment": false
+    },
+    {
+      "benchmark": "naive-bayes",
+      "environment": "ZGC-Java-25",
+      "measurement_file": "..\\experiment\\ZGC-java25-2026-04-24\\naive-bayes\\naive-bayes.json",
+      "measurement_count": 224,
+      "total_duration_ms": 309585.353309,
+      "avg_duration_ms": 1382.0774701294645,
+      "steady_state_start_s": 301.082716854,
+      "steady_state_end_s": 610.695337186,
+      "steady_state_wall_clock_span_ms": 309612.620332,
+      "fastest_environment": "",
+      "fastest_avg_duration_ms": "",
+      "is_fastest_environment": false
+    },
+    {
+      "benchmark": "neo4j-analytics",
+      "environment": "G1GC-Java-21",
+      "measurement_file": "..\\experiment\\G1GC-java21-2026-04-25\\neo4j-analytics\\neo4j-analytics.json",
+      "measurement_count": 189,
+      "total_duration_ms": 325857.139465,
+      "avg_duration_ms": 1724.1118490211638,
+      "steady_state_start_s": 301.686144939,
+      "steady_state_end_s": 627.576515312,
+      "steady_state_wall_clock_span_ms": 325890.370373,
+      "fastest_environment": "",
+      "fastest_avg_duration_ms": "",
+      "is_fastest_environment": false
+    },
+    {
+      "benchmark": "neo4j-analytics",
+      "environment": "G1GC-Java-25",
+      "measurement_file": "..\\experiment\\G1GC-java25-2026-04-24\\neo4j-analytics\\neo4j-analytics.json",
+      "measurement_count": 201,
+      "total_duration_ms": 332728.414162,
+      "avg_duration_ms": 1655.3652445870648,
+      "steady_state_start_s": 300.897543895,
+      "steady_state_end_s": 633.659275205,
+      "steady_state_wall_clock_span_ms": 332761.73131,
+      "fastest_environment": "G1GC-Java-25",
+      "fastest_avg_duration_ms": 1655.3652445870648,
+      "is_fastest_environment": true
+    },
+    {
+      "benchmark": "neo4j-analytics",
+      "environment": "ZGC-Java-21",
+      "measurement_file": "..\\experiment\\ZGC-java21-2026-04-25\\neo4j-analytics\\neo4j-analytics.json",
+      "measurement_count": 176,
+      "total_duration_ms": 332255.886441,
+      "avg_duration_ms": 1887.817536596591,
+      "steady_state_start_s": 301.19076044,
+      "steady_state_end_s": 633.478272942,
+      "steady_state_wall_clock_span_ms": 332287.512502,
+      "fastest_environment": "",
+      "fastest_avg_duration_ms": "",
+      "is_fastest_environment": false
+    },
+    {
+      "benchmark": "neo4j-analytics",
+      "environment": "ZGC-Java-25",
+      "measurement_file": "..\\experiment\\ZGC-java25-2026-04-24\\neo4j-analytics\\neo4j-analytics.json",
+      "measurement_count": 184,
+      "total_duration_ms": 332824.64711,
+      "avg_duration_ms": 1808.8296038586957,
+      "steady_state_start_s": 300.082952917,
+      "steady_state_end_s": 632.940842088,
+      "steady_state_wall_clock_span_ms": 332857.889171,
+      "fastest_environment": "",
+      "fastest_avg_duration_ms": "",
+      "is_fastest_environment": false
+    },
+    {
+      "benchmark": "page-rank",
+      "environment": "G1GC-Java-21",
+      "measurement_file": "..\\experiment\\G1GC-java21-2026-04-25\\page-rank\\page-rank.json",
+      "measurement_count": 47,
+      "total_duration_ms": 209097.548463,
+      "avg_duration_ms": 4448.884009851064,
+      "steady_state_start_s": 303.065694259,
+      "steady_state_end_s": 619.274111678,
+      "steady_state_wall_clock_span_ms": 316208.417419,
+      "fastest_environment": "",
+      "fastest_avg_duration_ms": "",
+      "is_fastest_environment": false
+    },
+    {
+      "benchmark": "page-rank",
+      "environment": "G1GC-Java-25",
+      "measurement_file": "..\\experiment\\G1GC-java25-2026-04-24\\page-rank\\page-rank.json",
+      "measurement_count": 48,
+      "total_duration_ms": 208142.365048,
+      "avg_duration_ms": 4336.299271833333,
+      "steady_state_start_s": 301.876130186,
+      "steady_state_end_s": 618.986142511,
+      "steady_state_wall_clock_span_ms": 317110.012325,
+      "fastest_environment": "",
+      "fastest_avg_duration_ms": "",
+      "is_fastest_environment": false
+    },
+    {
+      "benchmark": "page-rank",
+      "environment": "ZGC-Java-21",
+      "measurement_file": "..\\experiment\\ZGC-java21-2026-04-25\\page-rank\\page-rank.json",
+      "measurement_count": 48,
+      "total_duration_ms": 207527.707115,
+      "avg_duration_ms": 4323.493898229167,
+      "steady_state_start_s": 302.502214034,
+      "steady_state_end_s": 616.137266813,
+      "steady_state_wall_clock_span_ms": 313635.052779,
+      "fastest_environment": "",
+      "fastest_avg_duration_ms": "",
+      "is_fastest_environment": false
+    },
+    {
+      "benchmark": "page-rank",
+      "environment": "ZGC-Java-25",
+      "measurement_file": "..\\experiment\\ZGC-java25-2026-04-24\\page-rank\\page-rank.json",
+      "measurement_count": 49,
+      "total_duration_ms": 205638.593174,
+      "avg_duration_ms": 4196.705983142857,
+      "steady_state_start_s": 303.001803938,
+      "steady_state_end_s": 615.420790076,
+      "steady_state_wall_clock_span_ms": 312418.986138,
+      "fastest_environment": "ZGC-Java-25",
+      "fastest_avg_duration_ms": 4196.705983142857,
+      "is_fastest_environment": true
+    },
+    {
+      "benchmark": "par-mnemonics",
+      "environment": "G1GC-Java-21",
+      "measurement_file": "..\\experiment\\G1GC-java21-2026-04-25\\par-mnemonics\\par-mnemonics.json",
+      "measurement_count": 108,
+      "total_duration_ms": 274735.849635,
+      "avg_duration_ms": 2543.8504595833333,
+      "steady_state_start_s": 302.582717631,
+      "steady_state_end_s": 603.590462542,
+      "steady_state_wall_clock_span_ms": 301007.744911,
+      "fastest_environment": "",
+      "fastest_avg_duration_ms": "",
+      "is_fastest_environment": false
+    },
+    {
+      "benchmark": "par-mnemonics",
+      "environment": "G1GC-Java-25",
+      "measurement_file": "..\\experiment\\G1GC-java25-2026-04-24\\par-mnemonics\\par-mnemonics.json",
+      "measurement_count": 117,
+      "total_duration_ms": 274029.185748,
+      "avg_duration_ms": 2342.129792717949,
+      "steady_state_start_s": 300.260474448,
+      "steady_state_end_s": 603.776848867,
+      "steady_state_wall_clock_span_ms": 303516.374419,
+      "fastest_environment": "G1GC-Java-25",
+      "fastest_avg_duration_ms": 2342.129792717949,
+      "is_fastest_environment": true
+    },
+    {
+      "benchmark": "par-mnemonics",
+      "environment": "ZGC-Java-21",
+      "measurement_file": "..\\experiment\\ZGC-java21-2026-04-25\\par-mnemonics\\par-mnemonics.json",
+      "measurement_count": 100,
+      "total_duration_ms": 276683.938603,
+      "avg_duration_ms": 2766.8393860300002,
+      "steady_state_start_s": 302.885010667,
+      "steady_state_end_s": 605.010997666,
+      "steady_state_wall_clock_span_ms": 302125.986999,
+      "fastest_environment": "",
+      "fastest_avg_duration_ms": "",
+      "is_fastest_environment": false
+    },
+    {
+      "benchmark": "par-mnemonics",
+      "environment": "ZGC-Java-25",
+      "measurement_file": "..\\experiment\\ZGC-java25-2026-04-24\\par-mnemonics\\par-mnemonics.json",
+      "measurement_count": 100,
+      "total_duration_ms": 279159.686877,
+      "avg_duration_ms": 2791.59686877,
+      "steady_state_start_s": 301.404653276,
+      "steady_state_end_s": 605.026878214,
+      "steady_state_wall_clock_span_ms": 303622.224938,
+      "fastest_environment": "",
+      "fastest_avg_duration_ms": "",
+      "is_fastest_environment": false
+    },
+    {
+      "benchmark": "philosophers",
+      "environment": "G1GC-Java-21",
+      "measurement_file": "..\\experiment\\G1GC-java21-2026-04-25\\philosophers\\philosophers.json",
+      "measurement_count": 178,
+      "total_duration_ms": 302891.500068,
+      "avg_duration_ms": 1701.6376408314607,
+      "steady_state_start_s": 300.722298426,
+      "steady_state_end_s": 603.634245091,
+      "steady_state_wall_clock_span_ms": 302911.946665,
+      "fastest_environment": "",
+      "fastest_avg_duration_ms": "",
+      "is_fastest_environment": false
+    },
+    {
+      "benchmark": "philosophers",
+      "environment": "G1GC-Java-25",
+      "measurement_file": "..\\experiment\\G1GC-java25-2026-04-24\\philosophers\\philosophers.json",
+      "measurement_count": 154,
+      "total_duration_ms": 303259.770302,
+      "avg_duration_ms": 1969.2192876753247,
+      "steady_state_start_s": 300.195204382,
+      "steady_state_end_s": 603.474462061,
+      "steady_state_wall_clock_span_ms": 303279.257679,
+      "fastest_environment": "",
+      "fastest_avg_duration_ms": "",
+      "is_fastest_environment": false
+    },
+    {
+      "benchmark": "philosophers",
+      "environment": "ZGC-Java-21",
+      "measurement_file": "..\\experiment\\ZGC-java21-2026-04-25\\philosophers\\philosophers.json",
+      "measurement_count": 181,
+      "total_duration_ms": 302720.089057,
+      "avg_duration_ms": 1672.486679872928,
+      "steady_state_start_s": 301.033179939,
+      "steady_state_end_s": 603.776809208,
+      "steady_state_wall_clock_span_ms": 302743.629269,
+      "fastest_environment": "ZGC-Java-21",
+      "fastest_avg_duration_ms": 1672.486679872928,
+      "is_fastest_environment": true
+    },
+    {
+      "benchmark": "philosophers",
+      "environment": "ZGC-Java-25",
+      "measurement_file": "..\\experiment\\ZGC-java25-2026-04-24\\philosophers\\philosophers.json",
+      "measurement_count": 155,
+      "total_duration_ms": 302031.21666,
+      "avg_duration_ms": 1948.5884945806451,
+      "steady_state_start_s": 301.071964192,
+      "steady_state_end_s": 603.127964767,
+      "steady_state_wall_clock_span_ms": 302056.000575,
+      "fastest_environment": "",
+      "fastest_avg_duration_ms": "",
+      "is_fastest_environment": false
+    },
+    {
+      "benchmark": "reactors",
+      "environment": "G1GC-Java-21",
+      "measurement_file": "..\\experiment\\G1GC-java21-2026-04-25\\reactors\\reactors.json",
+      "measurement_count": 34,
+      "total_duration_ms": 309935.741956,
+      "avg_duration_ms": 9115.757116352941,
+      "steady_state_start_s": 308.778048202,
+      "steady_state_end_s": 618.722140111,
+      "steady_state_wall_clock_span_ms": 309944.091909,
+      "fastest_environment": "G1GC-Java-21",
+      "fastest_avg_duration_ms": 9115.757116352941,
+      "is_fastest_environment": true
+    },
+    {
+      "benchmark": "reactors",
+      "environment": "G1GC-Java-25",
+      "measurement_file": "..\\experiment\\G1GC-java25-2026-04-24\\reactors\\reactors.json",
+      "measurement_count": 30,
+      "total_duration_ms": 316834.755749,
+      "avg_duration_ms": 10561.158524966668,
+      "steady_state_start_s": 300.076894678,
+      "steady_state_end_s": 616.917915008,
+      "steady_state_wall_clock_span_ms": 316841.02033,
+      "fastest_environment": "",
+      "fastest_avg_duration_ms": "",
+      "is_fastest_environment": false
+    },
+    {
+      "benchmark": "reactors",
+      "environment": "ZGC-Java-21",
+      "measurement_file": "..\\experiment\\ZGC-java21-2026-04-25\\reactors\\reactors.json",
+      "measurement_count": 33,
+      "total_duration_ms": 307071.130744,
+      "avg_duration_ms": 9305.185780121212,
+      "steady_state_start_s": 308.451209518,
+      "steady_state_end_s": 615.532472983,
+      "steady_state_wall_clock_span_ms": 307081.263465,
+      "fastest_environment": "",
+      "fastest_avg_duration_ms": "",
+      "is_fastest_environment": false
+    },
+    {
+      "benchmark": "reactors",
+      "environment": "ZGC-Java-25",
+      "measurement_file": "..\\experiment\\ZGC-java25-2026-04-24\\reactors\\reactors.json",
+      "measurement_count": 29,
+      "total_duration_ms": 309204.784006,
+      "avg_duration_ms": 10662.233931241379,
+      "steady_state_start_s": 303.197503736,
+      "steady_state_end_s": 612.410882474,
+      "steady_state_wall_clock_span_ms": 309213.378738,
+      "fastest_environment": "",
+      "fastest_avg_duration_ms": "",
+      "is_fastest_environment": false
+    },
+    {
+      "benchmark": "rx-scrabble",
+      "environment": "G1GC-Java-21",
+      "measurement_file": "..\\experiment\\G1GC-java21-2026-04-25\\rx-scrabble\\rx-scrabble.json",
+      "measurement_count": 2718,
+      "total_duration_ms": 291058.090868,
+      "avg_duration_ms": 107.08539031199412,
+      "steady_state_start_s": 300.097093924,
+      "steady_state_end_s": 601.780611976,
+      "steady_state_wall_clock_span_ms": 301683.518052,
+      "fastest_environment": "",
+      "fastest_avg_duration_ms": "",
+      "is_fastest_environment": false
+    },
+    {
+      "benchmark": "rx-scrabble",
+      "environment": "G1GC-Java-25",
+      "measurement_file": "..\\experiment\\G1GC-java25-2026-04-24\\rx-scrabble\\rx-scrabble.json",
+      "measurement_count": 2789,
+      "total_duration_ms": 290894.894777,
+      "avg_duration_ms": 104.30078694048045,
+      "steady_state_start_s": 300.007635275,
+      "steady_state_end_s": 601.740519494,
+      "steady_state_wall_clock_span_ms": 301732.884219,
+      "fastest_environment": "G1GC-Java-25",
+      "fastest_avg_duration_ms": 104.30078694048045,
+      "is_fastest_environment": true
+    },
+    {
+      "benchmark": "rx-scrabble",
+      "environment": "ZGC-Java-21",
+      "measurement_file": "..\\experiment\\ZGC-java21-2026-04-25\\rx-scrabble\\rx-scrabble.json",
+      "measurement_count": 2319,
+      "total_duration_ms": 288710.834085,
+      "avg_duration_ms": 124.49798796248382,
+      "steady_state_start_s": 300.061729088,
+      "steady_state_end_s": 601.945983018,
+      "steady_state_wall_clock_span_ms": 301884.25393,
+      "fastest_environment": "",
+      "fastest_avg_duration_ms": "",
+      "is_fastest_environment": false
+    },
+    {
+      "benchmark": "rx-scrabble",
+      "environment": "ZGC-Java-25",
+      "measurement_file": "..\\experiment\\ZGC-java25-2026-04-24\\rx-scrabble\\rx-scrabble.json",
+      "measurement_count": 2350,
+      "total_duration_ms": 288663.107972,
+      "avg_duration_ms": 122.83536509446809,
+      "steady_state_start_s": 300.045273009,
+      "steady_state_end_s": 602.049545462,
+      "steady_state_wall_clock_span_ms": 302004.272453,
+      "fastest_environment": "",
+      "fastest_avg_duration_ms": "",
+      "is_fastest_environment": false
+    },
+    {
+      "benchmark": "scala-doku",
+      "environment": "G1GC-Java-21",
+      "measurement_file": "..\\experiment\\G1GC-java21-2026-04-25\\scala-doku\\scala-doku.json",
+      "measurement_count": 116,
+      "total_duration_ms": 301628.46827,
+      "avg_duration_ms": 2600.2454161206897,
+      "steady_state_start_s": 302.243126029,
+      "steady_state_end_s": 603.892591303,
+      "steady_state_wall_clock_span_ms": 301649.465274,
+      "fastest_environment": "",
+      "fastest_avg_duration_ms": "",
+      "is_fastest_environment": false
+    },
+    {
+      "benchmark": "scala-doku",
+      "environment": "G1GC-Java-25",
+      "measurement_file": "..\\experiment\\G1GC-java25-2026-04-24\\scala-doku\\scala-doku.json",
+      "measurement_count": 135,
+      "total_duration_ms": 303900.431548,
+      "avg_duration_ms": 2251.1143077629627,
+      "steady_state_start_s": 300.433946264,
+      "steady_state_end_s": 604.356703445,
+      "steady_state_wall_clock_span_ms": 303922.757181,
+      "fastest_environment": "G1GC-Java-25",
+      "fastest_avg_duration_ms": 2251.1143077629627,
+      "is_fastest_environment": true
+    },
+    {
+      "benchmark": "scala-doku",
+      "environment": "ZGC-Java-21",
+      "measurement_file": "..\\experiment\\ZGC-java21-2026-04-25\\scala-doku\\scala-doku.json",
+      "measurement_count": 102,
+      "total_duration_ms": 304359.887714,
+      "avg_duration_ms": 2983.9204677843136,
+      "steady_state_start_s": 302.472542913,
+      "steady_state_end_s": 606.855860307,
+      "steady_state_wall_clock_span_ms": 304383.317394,
+      "fastest_environment": "",
+      "fastest_avg_duration_ms": "",
+      "is_fastest_environment": false
+    },
+    {
+      "benchmark": "scala-doku",
+      "environment": "ZGC-Java-25",
+      "measurement_file": "..\\experiment\\ZGC-java25-2026-04-24\\scala-doku\\scala-doku.json",
+      "measurement_count": 128,
+      "total_duration_ms": 302050.840054,
+      "avg_duration_ms": 2359.772187921875,
+      "steady_state_start_s": 302.11812374,
+      "steady_state_end_s": 604.194377944,
+      "steady_state_wall_clock_span_ms": 302076.254204,
+      "fastest_environment": "",
+      "fastest_avg_duration_ms": "",
+      "is_fastest_environment": false
+    },
+    {
+      "benchmark": "scala-kmeans",
+      "environment": "G1GC-Java-21",
+      "measurement_file": "..\\experiment\\G1GC-java21-2026-04-25\\scala-kmeans\\scala-kmeans.json",
+      "measurement_count": 1496,
+      "total_duration_ms": 301052.043197,
+      "avg_duration_ms": 201.2379967894385,
+      "steady_state_start_s": 300.075460272,
+      "steady_state_end_s": 601.23612754,
+      "steady_state_wall_clock_span_ms": 301160.667268,
+      "fastest_environment": "G1GC-Java-21",
+      "fastest_avg_duration_ms": 201.2379967894385,
+      "is_fastest_environment": true
+    },
+    {
+      "benchmark": "scala-kmeans",
+      "environment": "G1GC-Java-25",
+      "measurement_file": "..\\experiment\\G1GC-java25-2026-04-24\\scala-kmeans\\scala-kmeans.json",
+      "measurement_count": 1487,
+      "total_duration_ms": 301234.064917,
+      "avg_duration_ms": 202.5783893187626,
+      "steady_state_start_s": 300.089019812,
+      "steady_state_end_s": 601.424848074,
+      "steady_state_wall_clock_span_ms": 301335.828262,
+      "fastest_environment": "",
+      "fastest_avg_duration_ms": "",
+      "is_fastest_environment": false
+    },
+    {
+      "benchmark": "scala-kmeans",
+      "environment": "ZGC-Java-21",
+      "measurement_file": "..\\experiment\\ZGC-java21-2026-04-25\\scala-kmeans\\scala-kmeans.json",
+      "measurement_count": 1264,
+      "total_duration_ms": 301104.518384,
+      "avg_duration_ms": 238.21559998734176,
+      "steady_state_start_s": 300.181264814,
+      "steady_state_end_s": 601.39106405,
+      "steady_state_wall_clock_span_ms": 301209.799236,
+      "fastest_environment": "",
+      "fastest_avg_duration_ms": "",
+      "is_fastest_environment": false
+    },
+    {
+      "benchmark": "scala-kmeans",
+      "environment": "ZGC-Java-25",
+      "measurement_file": "..\\experiment\\ZGC-java25-2026-04-24\\scala-kmeans\\scala-kmeans.json",
+      "measurement_count": 1440,
+      "total_duration_ms": 301242.528523,
+      "avg_duration_ms": 209.19620036319444,
+      "steady_state_start_s": 300.182442459,
+      "steady_state_end_s": 601.534430282,
+      "steady_state_wall_clock_span_ms": 301351.987823,
+      "fastest_environment": "",
+      "fastest_avg_duration_ms": "",
+      "is_fastest_environment": false
+    },
+    {
+      "benchmark": "scala-stm-bench7",
+      "environment": "G1GC-Java-21",
+      "measurement_file": "..\\experiment\\G1GC-java21-2026-04-25\\scala-stm-bench7\\scala-stm-bench7.json",
+      "measurement_count": 257,
+      "total_duration_ms": 301938.152174,
+      "avg_duration_ms": 1174.8566232451362,
+      "steady_state_start_s": 300.124147552,
+      "steady_state_end_s": 602.08003648,
+      "steady_state_wall_clock_span_ms": 301955.888928,
+      "fastest_environment": "",
+      "fastest_avg_duration_ms": "",
+      "is_fastest_environment": false
+    },
+    {
+      "benchmark": "scala-stm-bench7",
+      "environment": "G1GC-Java-25",
+      "measurement_file": "..\\experiment\\G1GC-java25-2026-04-24\\scala-stm-bench7\\scala-stm-bench7.json",
+      "measurement_count": 262,
+      "total_duration_ms": 301813.396593,
+      "avg_duration_ms": 1151.959528980916,
+      "steady_state_start_s": 300.608185748,
+      "steady_state_end_s": 602.439629105,
+      "steady_state_wall_clock_span_ms": 301831.443357,
+      "fastest_environment": "G1GC-Java-25",
+      "fastest_avg_duration_ms": 1151.959528980916,
+      "is_fastest_environment": true
+    },
+    {
+      "benchmark": "scala-stm-bench7",
+      "environment": "ZGC-Java-21",
+      "measurement_file": "..\\experiment\\ZGC-java21-2026-04-25\\scala-stm-bench7\\scala-stm-bench7.json",
+      "measurement_count": 198,
+      "total_duration_ms": 301714.187977,
+      "avg_duration_ms": 1523.8090301868688,
+      "steady_state_start_s": 301.2425239,
+      "steady_state_end_s": 602.977711297,
+      "steady_state_wall_clock_span_ms": 301735.187397,
+      "fastest_environment": "",
+      "fastest_avg_duration_ms": "",
+      "is_fastest_environment": false
+    },
+    {
+      "benchmark": "scala-stm-bench7",
+      "environment": "ZGC-Java-25",
+      "measurement_file": "..\\experiment\\ZGC-java25-2026-04-24\\scala-stm-bench7\\scala-stm-bench7.json",
+      "measurement_count": 192,
+      "total_duration_ms": 302343.652112,
+      "avg_duration_ms": 1574.7065214166666,
+      "steady_state_start_s": 300.572599417,
+      "steady_state_end_s": 602.936319845,
+      "steady_state_wall_clock_span_ms": 302363.720428,
+      "fastest_environment": "",
+      "fastest_avg_duration_ms": "",
+      "is_fastest_environment": false
+    },
+    {
+      "benchmark": "scrabble",
+      "environment": "G1GC-Java-21",
+      "measurement_file": "..\\experiment\\G1GC-java21-2026-04-25\\scrabble\\scrabble.json",
+      "measurement_count": 996,
+      "total_duration_ms": 301872.08685,
+      "avg_duration_ms": 303.08442454819277,
+      "steady_state_start_s": 300.002768201,
+      "steady_state_end_s": 601.978785961,
+      "steady_state_wall_clock_span_ms": 301976.01776,
+      "fastest_environment": "",
+      "fastest_avg_duration_ms": "",
+      "is_fastest_environment": false
+    },
+    {
+      "benchmark": "scrabble",
+      "environment": "G1GC-Java-25",
+      "measurement_file": "..\\experiment\\G1GC-java25-2026-04-24\\scrabble\\scrabble.json",
+      "measurement_count": 1038,
+      "total_duration_ms": 301892.117287,
+      "avg_duration_ms": 290.8401900645472,
+      "steady_state_start_s": 300.177421453,
+      "steady_state_end_s": 602.175846369,
+      "steady_state_wall_clock_span_ms": 301998.424916,
+      "fastest_environment": "G1GC-Java-25",
+      "fastest_avg_duration_ms": 290.8401900645472,
+      "is_fastest_environment": true
+    },
+    {
+      "benchmark": "scrabble",
+      "environment": "ZGC-Java-21",
+      "measurement_file": "..\\experiment\\ZGC-java21-2026-04-25\\scrabble\\scrabble.json",
+      "measurement_count": 758,
+      "total_duration_ms": 302037.553584,
+      "avg_duration_ms": 398.466429530343,
+      "steady_state_start_s": 300.218853983,
+      "steady_state_end_s": 602.40924014,
+      "steady_state_wall_clock_span_ms": 302190.386157,
+      "fastest_environment": "",
+      "fastest_avg_duration_ms": "",
+      "is_fastest_environment": false
+    },
+    {
+      "benchmark": "scrabble",
+      "environment": "ZGC-Java-25",
+      "measurement_file": "..\\experiment\\ZGC-java25-2026-04-24\\scrabble\\scrabble.json",
+      "measurement_count": 777,
+      "total_duration_ms": 302287.834743,
+      "avg_duration_ms": 389.0448323590733,
+      "steady_state_start_s": 300.146104701,
+      "steady_state_end_s": 602.572242847,
+      "steady_state_wall_clock_span_ms": 302426.138146,
+      "fastest_environment": "",
+      "fastest_avg_duration_ms": "",
+      "is_fastest_environment": false
+    }
+  ],
+  "stw_pause_summary": [
+    {
+      "benchmark": "akka-uct",
+      "environment": "G1GC-Java-21",
+      "processed_gc_log_file_count": 6,
+      "processed_gc_log_files": [
+        "..\\experiment\\G1GC-java21-2026-04-25\\akka-uct\\akka-uct.gc.log",
+        "..\\experiment\\G1GC-java21-2026-04-25\\akka-uct\\akka-uct.gc.log.0",
+        "..\\experiment\\G1GC-java21-2026-04-25\\akka-uct\\akka-uct.gc.log.1",
+        "..\\experiment\\G1GC-java21-2026-04-25\\akka-uct\\akka-uct.gc.log.2",
+        "..\\experiment\\G1GC-java21-2026-04-25\\akka-uct\\akka-uct.gc.log.3",
+        "..\\experiment\\G1GC-java21-2026-04-25\\akka-uct\\akka-uct.gc.log.4"
+      ],
+      "missing_gc_log_files": [],
+      "stw_pause_count": 41,
+      "total_stw_ms": 5177.575,
+      "stw_overhead_percent": 1.6687149483628367,
+      "pause_breakdown": {
+        "Pause Young": {
+          "count": 41,
+          "total_ms": 5177.575
+        }
+      },
+      "steady_state_start_s": 306.106214745,
+      "steady_state_end_s": 616.388414419,
+      "steady_state_wall_clock_span_ms": 310282.199674,
+      "iteration_total_duration_ms": 310273.18387,
+      "min_gc_uptime_s_in_steady_state_window": 446.166,
+      "max_gc_uptime_s_in_steady_state_window": 615.61
+    },
+    {
+      "benchmark": "akka-uct",
+      "environment": "G1GC-Java-25",
+      "processed_gc_log_file_count": 6,
+      "processed_gc_log_files": [
+        "..\\experiment\\G1GC-java25-2026-04-24\\akka-uct\\akka-uct.gc.log",
+        "..\\experiment\\G1GC-java25-2026-04-24\\akka-uct\\akka-uct.gc.log.0",
+        "..\\experiment\\G1GC-java25-2026-04-24\\akka-uct\\akka-uct.gc.log.1",
+        "..\\experiment\\G1GC-java25-2026-04-24\\akka-uct\\akka-uct.gc.log.2",
+        "..\\experiment\\G1GC-java25-2026-04-24\\akka-uct\\akka-uct.gc.log.3",
+        "..\\experiment\\G1GC-java25-2026-04-24\\akka-uct\\akka-uct.gc.log.4"
+      ],
+      "missing_gc_log_files": [],
+      "stw_pause_count": 40,
+      "total_stw_ms": 5124.295,
+      "stw_overhead_percent": 1.6883502934287369,
+      "pause_breakdown": {
+        "Pause Young": {
+          "count": 40,
+          "total_ms": 5124.295
+        }
+      },
+      "steady_state_start_s": 308.104605599,
+      "steady_state_end_s": 611.621932775,
+      "steady_state_wall_clock_span_ms": 303517.327176,
+      "iteration_total_duration_ms": 303508.994546,
+      "min_gc_uptime_s_in_steady_state_window": 433.857,
+      "max_gc_uptime_s_in_steady_state_window": 609.585
+    },
+    {
+      "benchmark": "akka-uct",
+      "environment": "ZGC-Java-21",
+      "processed_gc_log_file_count": 6,
+      "processed_gc_log_files": [
+        "..\\experiment\\ZGC-java21-2026-04-25\\akka-uct\\akka-uct.gc.log",
+        "..\\experiment\\ZGC-java21-2026-04-25\\akka-uct\\akka-uct.gc.log.0",
+        "..\\experiment\\ZGC-java21-2026-04-25\\akka-uct\\akka-uct.gc.log.1",
+        "..\\experiment\\ZGC-java21-2026-04-25\\akka-uct\\akka-uct.gc.log.2",
+        "..\\experiment\\ZGC-java21-2026-04-25\\akka-uct\\akka-uct.gc.log.3",
+        "..\\experiment\\ZGC-java21-2026-04-25\\akka-uct\\akka-uct.gc.log.4"
+      ],
+      "missing_gc_log_files": [],
+      "stw_pause_count": 27,
+      "total_stw_ms": 0.774,
+      "stw_overhead_percent": 0.00024740930037979225,
+      "pause_breakdown": {
+        "Pause Mark End": {
+          "count": 9,
+          "total_ms": 0.171
+        },
+        "Pause Mark Start": {
+          "count": 9,
+          "total_ms": 0.343
+        },
+        "Pause Relocate Start": {
+          "count": 9,
+          "total_ms": 0.26
+        }
+      },
+      "steady_state_start_s": 308.227544107,
+      "steady_state_end_s": 621.079524821,
+      "steady_state_wall_clock_span_ms": 312851.980714,
+      "iteration_total_duration_ms": 312841.91775,
+      "min_gc_uptime_s_in_steady_state_window": 603.409,
+      "max_gc_uptime_s_in_steady_state_window": 621.059
+    },
+    {
+      "benchmark": "akka-uct",
+      "environment": "ZGC-Java-25",
+      "processed_gc_log_file_count": 6,
+      "processed_gc_log_files": [
+        "..\\experiment\\ZGC-java25-2026-04-24\\akka-uct\\akka-uct.gc.log",
+        "..\\experiment\\ZGC-java25-2026-04-24\\akka-uct\\akka-uct.gc.log.0",
+        "..\\experiment\\ZGC-java25-2026-04-24\\akka-uct\\akka-uct.gc.log.1",
+        "..\\experiment\\ZGC-java25-2026-04-24\\akka-uct\\akka-uct.gc.log.2",
+        "..\\experiment\\ZGC-java25-2026-04-24\\akka-uct\\akka-uct.gc.log.3",
+        "..\\experiment\\ZGC-java25-2026-04-24\\akka-uct\\akka-uct.gc.log.4"
+      ],
+      "missing_gc_log_files": [],
+      "stw_pause_count": 32,
+      "total_stw_ms": 1.01,
+      "stw_overhead_percent": 0.000318661184765283,
+      "pause_breakdown": {
+        "Pause Mark End": {
+          "count": 11,
+          "total_ms": 0.229
+        },
+        "Pause Mark Start": {
+          "count": 10,
+          "total_ms": 0.493
+        },
+        "Pause Relocate Start": {
+          "count": 11,
+          "total_ms": 0.288
+        }
+      },
+      "steady_state_start_s": 302.050611513,
+      "steady_state_end_s": 619.011908583,
+      "steady_state_wall_clock_span_ms": 316961.29707,
+      "iteration_total_duration_ms": 316951.059083,
+      "min_gc_uptime_s_in_steady_state_window": 597.713,
+      "max_gc_uptime_s_in_steady_state_window": 618.722
+    },
+    {
+      "benchmark": "als",
+      "environment": "G1GC-Java-21",
+      "processed_gc_log_file_count": 6,
+      "processed_gc_log_files": [
+        "..\\experiment\\G1GC-java21-2026-04-25\\als\\als.gc.log",
+        "..\\experiment\\G1GC-java21-2026-04-25\\als\\als.gc.log.0",
+        "..\\experiment\\G1GC-java21-2026-04-25\\als\\als.gc.log.1",
+        "..\\experiment\\G1GC-java21-2026-04-25\\als\\als.gc.log.2",
+        "..\\experiment\\G1GC-java21-2026-04-25\\als\\als.gc.log.3",
+        "..\\experiment\\G1GC-java21-2026-04-25\\als\\als.gc.log.4"
+      ],
+      "missing_gc_log_files": [],
+      "stw_pause_count": 41,
+      "total_stw_ms": 2263.569,
+      "stw_overhead_percent": 0.735929559305362,
+      "pause_breakdown": {
+        "Pause Young": {
+          "count": 41,
+          "total_ms": 2263.569
+        }
+      },
+      "steady_state_start_s": 300.377130798,
+      "steady_state_end_s": 615.113712353,
+      "steady_state_wall_clock_span_ms": 314736.581555,
+      "iteration_total_duration_ms": 307579.573531,
+      "min_gc_uptime_s_in_steady_state_window": 385.069,
+      "max_gc_uptime_s_in_steady_state_window": 613.1
+    },
+    {
+      "benchmark": "als",
+      "environment": "G1GC-Java-25",
+      "processed_gc_log_file_count": 6,
+      "processed_gc_log_files": [
+        "..\\experiment\\G1GC-java25-2026-04-24\\als\\als.gc.log",
+        "..\\experiment\\G1GC-java25-2026-04-24\\als\\als.gc.log.0",
+        "..\\experiment\\G1GC-java25-2026-04-24\\als\\als.gc.log.1",
+        "..\\experiment\\G1GC-java25-2026-04-24\\als\\als.gc.log.2",
+        "..\\experiment\\G1GC-java25-2026-04-24\\als\\als.gc.log.3",
+        "..\\experiment\\G1GC-java25-2026-04-24\\als\\als.gc.log.4"
+      ],
+      "missing_gc_log_files": [],
+      "stw_pause_count": 26,
+      "total_stw_ms": 2280.829,
+      "stw_overhead_percent": 0.740025589673995,
+      "pause_breakdown": {
+        "Pause Young": {
+          "count": 26,
+          "total_ms": 2280.829
+        }
+      },
+      "steady_state_start_s": 301.057457455,
+      "steady_state_end_s": 615.674668689,
+      "steady_state_wall_clock_span_ms": 314617.211234,
+      "iteration_total_duration_ms": 308209.477054,
+      "min_gc_uptime_s_in_steady_state_window": 310.28,
+      "max_gc_uptime_s_in_steady_state_window": 611.06
+    },
+    {
+      "benchmark": "als",
+      "environment": "ZGC-Java-21",
+      "processed_gc_log_file_count": 6,
+      "processed_gc_log_files": [
+        "..\\experiment\\ZGC-java21-2026-04-25\\als\\als.gc.log",
+        "..\\experiment\\ZGC-java21-2026-04-25\\als\\als.gc.log.0",
+        "..\\experiment\\ZGC-java21-2026-04-25\\als\\als.gc.log.1",
+        "..\\experiment\\ZGC-java21-2026-04-25\\als\\als.gc.log.2",
+        "..\\experiment\\ZGC-java21-2026-04-25\\als\\als.gc.log.3",
+        "..\\experiment\\ZGC-java21-2026-04-25\\als\\als.gc.log.4"
+      ],
+      "missing_gc_log_files": [],
+      "stw_pause_count": 14,
+      "total_stw_ms": 0.328,
+      "stw_overhead_percent": 0.00010737053810713758,
+      "pause_breakdown": {
+        "Pause Mark End": {
+          "count": 5,
+          "total_ms": 0.081
+        },
+        "Pause Mark Start": {
+          "count": 4,
+          "total_ms": 0.14
+        },
+        "Pause Relocate Start": {
+          "count": 5,
+          "total_ms": 0.107
+        }
+      },
+      "steady_state_start_s": 301.470738672,
+      "steady_state_end_s": 614.259142266,
+      "steady_state_wall_clock_span_ms": 312788.403594,
+      "iteration_total_duration_ms": 305484.172644,
+      "min_gc_uptime_s_in_steady_state_window": 574.007,
+      "max_gc_uptime_s_in_steady_state_window": 607.712
+    },
+    {
+      "benchmark": "als",
+      "environment": "ZGC-Java-25",
+      "processed_gc_log_file_count": 6,
+      "processed_gc_log_files": [
+        "..\\experiment\\ZGC-java25-2026-04-24\\als\\als.gc.log",
+        "..\\experiment\\ZGC-java25-2026-04-24\\als\\als.gc.log.0",
+        "..\\experiment\\ZGC-java25-2026-04-24\\als\\als.gc.log.1",
+        "..\\experiment\\ZGC-java25-2026-04-24\\als\\als.gc.log.2",
+        "..\\experiment\\ZGC-java25-2026-04-24\\als\\als.gc.log.3",
+        "..\\experiment\\ZGC-java25-2026-04-24\\als\\als.gc.log.4"
+      ],
+      "missing_gc_log_files": [],
+      "stw_pause_count": 20,
+      "total_stw_ms": 0.52,
+      "stw_overhead_percent": 0.00017076890068512188,
+      "pause_breakdown": {
+        "Pause Mark End": {
+          "count": 7,
+          "total_ms": 0.11
+        },
+        "Pause Mark Start": {
+          "count": 6,
+          "total_ms": 0.257
+        },
+        "Pause Relocate Start": {
+          "count": 7,
+          "total_ms": 0.153
+        }
+      },
+      "steady_state_start_s": 302.225777029,
+      "steady_state_end_s": 614.104670806,
+      "steady_state_wall_clock_span_ms": 311878.893777,
+      "iteration_total_duration_ms": 304505.09309,
+      "min_gc_uptime_s_in_steady_state_window": 562.455,
+      "max_gc_uptime_s_in_steady_state_window": 613.779
+    },
+    {
+      "benchmark": "chi-square",
+      "environment": "G1GC-Java-21",
+      "processed_gc_log_file_count": 6,
+      "processed_gc_log_files": [
+        "..\\experiment\\G1GC-java21-2026-04-25\\chi-square\\chi-square.gc.log",
+        "..\\experiment\\G1GC-java21-2026-04-25\\chi-square\\chi-square.gc.log.0",
+        "..\\experiment\\G1GC-java21-2026-04-25\\chi-square\\chi-square.gc.log.1",
+        "..\\experiment\\G1GC-java21-2026-04-25\\chi-square\\chi-square.gc.log.2",
+        "..\\experiment\\G1GC-java21-2026-04-25\\chi-square\\chi-square.gc.log.3",
+        "..\\experiment\\G1GC-java21-2026-04-25\\chi-square\\chi-square.gc.log.4"
+      ],
+      "missing_gc_log_files": [],
+      "stw_pause_count": 39,
+      "total_stw_ms": 1906.774,
+      "stw_overhead_percent": 0.6172978869993047,
+      "pause_breakdown": {
+        "Pause Cleanup": {
+          "count": 1,
+          "total_ms": 10.307
+        },
+        "Pause Remark": {
+          "count": 1,
+          "total_ms": 54.351
+        },
+        "Pause Young": {
+          "count": 37,
+          "total_ms": 1842.116
+        }
+      },
+      "steady_state_start_s": 300.117566014,
+      "steady_state_end_s": 609.038367657,
+      "steady_state_wall_clock_span_ms": 308920.801643,
+      "iteration_total_duration_ms": 308890.4142,
+      "min_gc_uptime_s_in_steady_state_window": 492.47,
+      "max_gc_uptime_s_in_steady_state_window": 608.963
+    },
+    {
+      "benchmark": "chi-square",
+      "environment": "G1GC-Java-25",
+      "processed_gc_log_file_count": 6,
+      "processed_gc_log_files": [
+        "..\\experiment\\G1GC-java25-2026-04-24\\chi-square\\chi-square.gc.log",
+        "..\\experiment\\G1GC-java25-2026-04-24\\chi-square\\chi-square.gc.log.0",
+        "..\\experiment\\G1GC-java25-2026-04-24\\chi-square\\chi-square.gc.log.1",
+        "..\\experiment\\G1GC-java25-2026-04-24\\chi-square\\chi-square.gc.log.2",
+        "..\\experiment\\G1GC-java25-2026-04-24\\chi-square\\chi-square.gc.log.3",
+        "..\\experiment\\G1GC-java25-2026-04-24\\chi-square\\chi-square.gc.log.4"
+      ],
+      "missing_gc_log_files": [],
+      "stw_pause_count": 34,
+      "total_stw_ms": 1800.417,
+      "stw_overhead_percent": 0.582800635097621,
+      "pause_breakdown": {
+        "Pause Young": {
+          "count": 34,
+          "total_ms": 1800.417
+        }
+      },
+      "steady_state_start_s": 300.445439306,
+      "steady_state_end_s": 609.398896678,
+      "steady_state_wall_clock_span_ms": 308953.457372,
+      "iteration_total_duration_ms": 308925.023683,
+      "min_gc_uptime_s_in_steady_state_window": 528.116,
+      "max_gc_uptime_s_in_steady_state_window": 607.123
+    },
+    {
+      "benchmark": "chi-square",
+      "environment": "ZGC-Java-21",
+      "processed_gc_log_file_count": 6,
+      "processed_gc_log_files": [
+        "..\\experiment\\ZGC-java21-2026-04-25\\chi-square\\chi-square.gc.log",
+        "..\\experiment\\ZGC-java21-2026-04-25\\chi-square\\chi-square.gc.log.0",
+        "..\\experiment\\ZGC-java21-2026-04-25\\chi-square\\chi-square.gc.log.1",
+        "..\\experiment\\ZGC-java21-2026-04-25\\chi-square\\chi-square.gc.log.2",
+        "..\\experiment\\ZGC-java21-2026-04-25\\chi-square\\chi-square.gc.log.3",
+        "..\\experiment\\ZGC-java21-2026-04-25\\chi-square\\chi-square.gc.log.4"
+      ],
+      "missing_gc_log_files": [],
+      "stw_pause_count": 9,
+      "total_stw_ms": 0.177,
+      "stw_overhead_percent": 5.7273220729778096e-05,
+      "pause_breakdown": {
+        "Pause Mark End": {
+          "count": 3,
+          "total_ms": 0.055
+        },
+        "Pause Mark Start": {
+          "count": 3,
+          "total_ms": 0.062
+        },
+        "Pause Relocate Start": {
+          "count": 3,
+          "total_ms": 0.06
+        }
+      },
+      "steady_state_start_s": 300.238715415,
+      "steady_state_end_s": 609.316301361,
+      "steady_state_wall_clock_span_ms": 309077.585946,
+      "iteration_total_duration_ms": 309044.956342,
+      "min_gc_uptime_s_in_steady_state_window": 596.724,
+      "max_gc_uptime_s_in_steady_state_window": 605.763
+    },
+    {
+      "benchmark": "chi-square",
+      "environment": "ZGC-Java-25",
+      "processed_gc_log_file_count": 6,
+      "processed_gc_log_files": [
+        "..\\experiment\\ZGC-java25-2026-04-24\\chi-square\\chi-square.gc.log",
+        "..\\experiment\\ZGC-java25-2026-04-24\\chi-square\\chi-square.gc.log.0",
+        "..\\experiment\\ZGC-java25-2026-04-24\\chi-square\\chi-square.gc.log.1",
+        "..\\experiment\\ZGC-java25-2026-04-24\\chi-square\\chi-square.gc.log.2",
+        "..\\experiment\\ZGC-java25-2026-04-24\\chi-square\\chi-square.gc.log.3",
+        "..\\experiment\\ZGC-java25-2026-04-24\\chi-square\\chi-square.gc.log.4"
+      ],
+      "missing_gc_log_files": [],
+      "stw_pause_count": 9,
+      "total_stw_ms": 0.217,
+      "stw_overhead_percent": 7.026424357491675e-05,
+      "pause_breakdown": {
+        "Pause Mark End": {
+          "count": 3,
+          "total_ms": 0.05
+        },
+        "Pause Mark Start": {
+          "count": 3,
+          "total_ms": 0.106
+        },
+        "Pause Relocate Start": {
+          "count": 3,
+          "total_ms": 0.061
+        }
+      },
+      "steady_state_start_s": 300.439542693,
+      "steady_state_end_s": 609.304961724,
+      "steady_state_wall_clock_span_ms": 308865.419031,
+      "iteration_total_duration_ms": 308834.17932,
+      "min_gc_uptime_s_in_steady_state_window": 602.371,
+      "max_gc_uptime_s_in_steady_state_window": 609.262
+    },
+    {
+      "benchmark": "db-shootout",
+      "environment": "G1GC-Java-21",
+      "processed_gc_log_file_count": 6,
+      "processed_gc_log_files": [
+        "..\\experiment\\G1GC-java21-2026-04-25\\db-shootout\\db-shootout.gc.log",
+        "..\\experiment\\G1GC-java21-2026-04-25\\db-shootout\\db-shootout.gc.log.0",
+        "..\\experiment\\G1GC-java21-2026-04-25\\db-shootout\\db-shootout.gc.log.1",
+        "..\\experiment\\G1GC-java21-2026-04-25\\db-shootout\\db-shootout.gc.log.2",
+        "..\\experiment\\G1GC-java21-2026-04-25\\db-shootout\\db-shootout.gc.log.3",
+        "..\\experiment\\G1GC-java21-2026-04-25\\db-shootout\\db-shootout.gc.log.4"
+      ],
+      "missing_gc_log_files": [],
+      "stw_pause_count": 39,
+      "total_stw_ms": 1958.46,
+      "stw_overhead_percent": 0.609648439447005,
+      "pause_breakdown": {
+        "Pause Young": {
+          "count": 39,
+          "total_ms": 1958.46
+        }
+      },
+      "steady_state_start_s": 300.530673151,
+      "steady_state_end_s": 621.791756466,
+      "steady_state_wall_clock_span_ms": 321261.083315,
+      "iteration_total_duration_ms": 321244.158646,
+      "min_gc_uptime_s_in_steady_state_window": 483.344,
+      "max_gc_uptime_s_in_steady_state_window": 617.722
+    },
+    {
+      "benchmark": "db-shootout",
+      "environment": "G1GC-Java-25",
+      "processed_gc_log_file_count": 6,
+      "processed_gc_log_files": [
+        "..\\experiment\\G1GC-java25-2026-04-24\\db-shootout\\db-shootout.gc.log",
+        "..\\experiment\\G1GC-java25-2026-04-24\\db-shootout\\db-shootout.gc.log.0",
+        "..\\experiment\\G1GC-java25-2026-04-24\\db-shootout\\db-shootout.gc.log.1",
+        "..\\experiment\\G1GC-java25-2026-04-24\\db-shootout\\db-shootout.gc.log.2",
+        "..\\experiment\\G1GC-java25-2026-04-24\\db-shootout\\db-shootout.gc.log.3",
+        "..\\experiment\\G1GC-java25-2026-04-24\\db-shootout\\db-shootout.gc.log.4"
+      ],
+      "missing_gc_log_files": [],
+      "stw_pause_count": 37,
+      "total_stw_ms": 1860.941,
+      "stw_overhead_percent": 0.5912737235516903,
+      "pause_breakdown": {
+        "Pause Young": {
+          "count": 37,
+          "total_ms": 1860.941
+        }
+      },
+      "steady_state_start_s": 304.164494423,
+      "steady_state_end_s": 618.914972107,
+      "steady_state_wall_clock_span_ms": 314750.477684,
+      "iteration_total_duration_ms": 314734.263654,
+      "min_gc_uptime_s_in_steady_state_window": 500.831,
+      "max_gc_uptime_s_in_steady_state_window": 618.726
+    },
+    {
+      "benchmark": "db-shootout",
+      "environment": "ZGC-Java-21",
+      "processed_gc_log_file_count": 6,
+      "processed_gc_log_files": [
+        "..\\experiment\\ZGC-java21-2026-04-25\\db-shootout\\db-shootout.gc.log",
+        "..\\experiment\\ZGC-java21-2026-04-25\\db-shootout\\db-shootout.gc.log.0",
+        "..\\experiment\\ZGC-java21-2026-04-25\\db-shootout\\db-shootout.gc.log.1",
+        "..\\experiment\\ZGC-java21-2026-04-25\\db-shootout\\db-shootout.gc.log.2",
+        "..\\experiment\\ZGC-java21-2026-04-25\\db-shootout\\db-shootout.gc.log.3",
+        "..\\experiment\\ZGC-java21-2026-04-25\\db-shootout\\db-shootout.gc.log.4"
+      ],
+      "missing_gc_log_files": [],
+      "stw_pause_count": 24,
+      "total_stw_ms": 0.646,
+      "stw_overhead_percent": 0.0002019673726824396,
+      "pause_breakdown": {
+        "Pause Mark End": {
+          "count": 8,
+          "total_ms": 0.139
+        },
+        "Pause Mark Start": {
+          "count": 8,
+          "total_ms": 0.292
+        },
+        "Pause Relocate Start": {
+          "count": 8,
+          "total_ms": 0.215
+        }
+      },
+      "steady_state_start_s": 300.523845974,
+      "steady_state_end_s": 620.398869939,
+      "steady_state_wall_clock_span_ms": 319875.023965,
+      "iteration_total_duration_ms": 319853.643398,
+      "min_gc_uptime_s_in_steady_state_window": 608.128,
+      "max_gc_uptime_s_in_steady_state_window": 620.052
+    },
+    {
+      "benchmark": "db-shootout",
+      "environment": "ZGC-Java-25",
+      "processed_gc_log_file_count": 6,
+      "processed_gc_log_files": [
+        "..\\experiment\\ZGC-java25-2026-04-24\\db-shootout\\db-shootout.gc.log",
+        "..\\experiment\\ZGC-java25-2026-04-24\\db-shootout\\db-shootout.gc.log.0",
+        "..\\experiment\\ZGC-java25-2026-04-24\\db-shootout\\db-shootout.gc.log.1",
+        "..\\experiment\\ZGC-java25-2026-04-24\\db-shootout\\db-shootout.gc.log.2",
+        "..\\experiment\\ZGC-java25-2026-04-24\\db-shootout\\db-shootout.gc.log.3",
+        "..\\experiment\\ZGC-java25-2026-04-24\\db-shootout\\db-shootout.gc.log.4"
+      ],
+      "missing_gc_log_files": [],
+      "stw_pause_count": 17,
+      "total_stw_ms": 0.618,
+      "stw_overhead_percent": 0.00019641862979730007,
+      "pause_breakdown": {
+        "Pause Mark End": {
+          "count": 6,
+          "total_ms": 0.123
+        },
+        "Pause Mark Start": {
+          "count": 5,
+          "total_ms": 0.289
+        },
+        "Pause Relocate Start": {
+          "count": 6,
+          "total_ms": 0.206
+        }
+      },
+      "steady_state_start_s": 304.534270286,
+      "steady_state_end_s": 619.191595162,
+      "steady_state_wall_clock_span_ms": 314657.324876,
+      "iteration_total_duration_ms": 314634.106061,
+      "min_gc_uptime_s_in_steady_state_window": 611.18,
+      "max_gc_uptime_s_in_steady_state_window": 618.921
+    },
+    {
+      "benchmark": "dec-tree",
+      "environment": "G1GC-Java-21",
+      "processed_gc_log_file_count": 6,
+      "processed_gc_log_files": [
+        "..\\experiment\\G1GC-java21-2026-04-25\\dec-tree\\dec-tree.gc.log",
+        "..\\experiment\\G1GC-java21-2026-04-25\\dec-tree\\dec-tree.gc.log.0",
+        "..\\experiment\\G1GC-java21-2026-04-25\\dec-tree\\dec-tree.gc.log.1",
+        "..\\experiment\\G1GC-java21-2026-04-25\\dec-tree\\dec-tree.gc.log.2",
+        "..\\experiment\\G1GC-java21-2026-04-25\\dec-tree\\dec-tree.gc.log.3",
+        "..\\experiment\\G1GC-java21-2026-04-25\\dec-tree\\dec-tree.gc.log.4"
+      ],
+      "missing_gc_log_files": [],
+      "stw_pause_count": 32,
+      "total_stw_ms": 2010.939,
+      "stw_overhead_percent": 0.6499638599464407,
+      "pause_breakdown": {
+        "Pause Young": {
+          "count": 32,
+          "total_ms": 2010.939
+        }
+      },
+      "steady_state_start_s": 300.389921111,
+      "steady_state_end_s": 609.817004266,
+      "steady_state_wall_clock_span_ms": 309427.083155,
+      "iteration_total_duration_ms": 309392.433014,
+      "min_gc_uptime_s_in_steady_state_window": 457.735,
+      "max_gc_uptime_s_in_steady_state_window": 607.407
+    },
+    {
+      "benchmark": "dec-tree",
+      "environment": "G1GC-Java-25",
+      "processed_gc_log_file_count": 6,
+      "processed_gc_log_files": [
+        "..\\experiment\\G1GC-java25-2026-04-24\\dec-tree\\dec-tree.gc.log",
+        "..\\experiment\\G1GC-java25-2026-04-24\\dec-tree\\dec-tree.gc.log.0",
+        "..\\experiment\\G1GC-java25-2026-04-24\\dec-tree\\dec-tree.gc.log.1",
+        "..\\experiment\\G1GC-java25-2026-04-24\\dec-tree\\dec-tree.gc.log.2",
+        "..\\experiment\\G1GC-java25-2026-04-24\\dec-tree\\dec-tree.gc.log.3",
+        "..\\experiment\\G1GC-java25-2026-04-24\\dec-tree\\dec-tree.gc.log.4"
+      ],
+      "missing_gc_log_files": [],
+      "stw_pause_count": 32,
+      "total_stw_ms": 2064.135,
+      "stw_overhead_percent": 0.6692983956557469,
+      "pause_breakdown": {
+        "Pause Young": {
+          "count": 32,
+          "total_ms": 2064.135
+        }
+      },
+      "steady_state_start_s": 300.603550841,
+      "steady_state_end_s": 609.04008125,
+      "steady_state_wall_clock_span_ms": 308436.530409,
+      "iteration_total_duration_ms": 308402.801112,
+      "min_gc_uptime_s_in_steady_state_window": 419.011,
+      "max_gc_uptime_s_in_steady_state_window": 604.149
+    },
+    {
+      "benchmark": "dec-tree",
+      "environment": "ZGC-Java-21",
+      "processed_gc_log_file_count": 6,
+      "processed_gc_log_files": [
+        "..\\experiment\\ZGC-java21-2026-04-25\\dec-tree\\dec-tree.gc.log",
+        "..\\experiment\\ZGC-java21-2026-04-25\\dec-tree\\dec-tree.gc.log.0",
+        "..\\experiment\\ZGC-java21-2026-04-25\\dec-tree\\dec-tree.gc.log.1",
+        "..\\experiment\\ZGC-java21-2026-04-25\\dec-tree\\dec-tree.gc.log.2",
+        "..\\experiment\\ZGC-java21-2026-04-25\\dec-tree\\dec-tree.gc.log.3",
+        "..\\experiment\\ZGC-java21-2026-04-25\\dec-tree\\dec-tree.gc.log.4"
+      ],
+      "missing_gc_log_files": [],
+      "stw_pause_count": 11,
+      "total_stw_ms": 0.232,
+      "stw_overhead_percent": 7.518005683253156e-05,
+      "pause_breakdown": {
+        "Pause Mark End": {
+          "count": 4,
+          "total_ms": 0.067
+        },
+        "Pause Mark Start": {
+          "count": 3,
+          "total_ms": 0.083
+        },
+        "Pause Relocate Start": {
+          "count": 4,
+          "total_ms": 0.082
+        }
+      },
+      "steady_state_start_s": 300.508308716,
+      "steady_state_end_s": 609.137405248,
+      "steady_state_wall_clock_span_ms": 308629.096532,
+      "iteration_total_duration_ms": 308592.477546,
+      "min_gc_uptime_s_in_steady_state_window": 591.55,
+      "max_gc_uptime_s_in_steady_state_window": 606.59
+    },
+    {
+      "benchmark": "dec-tree",
+      "environment": "ZGC-Java-25",
+      "processed_gc_log_file_count": 6,
+      "processed_gc_log_files": [
+        "..\\experiment\\ZGC-java25-2026-04-24\\dec-tree\\dec-tree.gc.log",
+        "..\\experiment\\ZGC-java25-2026-04-24\\dec-tree\\dec-tree.gc.log.0",
+        "..\\experiment\\ZGC-java25-2026-04-24\\dec-tree\\dec-tree.gc.log.1",
+        "..\\experiment\\ZGC-java25-2026-04-24\\dec-tree\\dec-tree.gc.log.2",
+        "..\\experiment\\ZGC-java25-2026-04-24\\dec-tree\\dec-tree.gc.log.3",
+        "..\\experiment\\ZGC-java25-2026-04-24\\dec-tree\\dec-tree.gc.log.4"
+      ],
+      "missing_gc_log_files": [],
+      "stw_pause_count": 8,
+      "total_stw_ms": 0.167,
+      "stw_overhead_percent": 5.3932288173729926e-05,
+      "pause_breakdown": {
+        "Pause Mark End": {
+          "count": 3,
+          "total_ms": 0.055
+        },
+        "Pause Mark Start": {
+          "count": 2,
+          "total_ms": 0.059
+        },
+        "Pause Relocate Start": {
+          "count": 3,
+          "total_ms": 0.053
+        }
+      },
+      "steady_state_start_s": 300.034294607,
+      "steady_state_end_s": 609.717332094,
+      "steady_state_wall_clock_span_ms": 309683.037487,
+      "iteration_total_duration_ms": 309647.533333,
+      "min_gc_uptime_s_in_steady_state_window": 594.708,
+      "max_gc_uptime_s_in_steady_state_window": 606.639
+    },
+    {
+      "benchmark": "dotty",
+      "environment": "G1GC-Java-21",
+      "processed_gc_log_file_count": 6,
+      "processed_gc_log_files": [
+        "..\\experiment\\G1GC-java21-2026-04-25\\dotty\\dotty.gc.log",
+        "..\\experiment\\G1GC-java21-2026-04-25\\dotty\\dotty.gc.log.0",
+        "..\\experiment\\G1GC-java21-2026-04-25\\dotty\\dotty.gc.log.1",
+        "..\\experiment\\G1GC-java21-2026-04-25\\dotty\\dotty.gc.log.2",
+        "..\\experiment\\G1GC-java21-2026-04-25\\dotty\\dotty.gc.log.3",
+        "..\\experiment\\G1GC-java21-2026-04-25\\dotty\\dotty.gc.log.4"
+      ],
+      "missing_gc_log_files": [],
+      "stw_pause_count": 4,
+      "total_stw_ms": 989.352,
+      "stw_overhead_percent": 0.6020120359357892,
+      "pause_breakdown": {
+        "Pause Young": {
+          "count": 4,
+          "total_ms": 989.352
+        }
+      },
+      "steady_state_start_s": 300.916152105,
+      "steady_state_end_s": 603.436587719,
+      "steady_state_wall_clock_span_ms": 302520.435614,
+      "iteration_total_duration_ms": 164340.900338,
+      "min_gc_uptime_s_in_steady_state_window": 319.955,
+      "max_gc_uptime_s_in_steady_state_window": 543.339
+    },
+    {
+      "benchmark": "dotty",
+      "environment": "G1GC-Java-25",
+      "processed_gc_log_file_count": 6,
+      "processed_gc_log_files": [
+        "..\\experiment\\G1GC-java25-2026-04-24\\dotty\\dotty.gc.log",
+        "..\\experiment\\G1GC-java25-2026-04-24\\dotty\\dotty.gc.log.0",
+        "..\\experiment\\G1GC-java25-2026-04-24\\dotty\\dotty.gc.log.1",
+        "..\\experiment\\G1GC-java25-2026-04-24\\dotty\\dotty.gc.log.2",
+        "..\\experiment\\G1GC-java25-2026-04-24\\dotty\\dotty.gc.log.3",
+        "..\\experiment\\G1GC-java25-2026-04-24\\dotty\\dotty.gc.log.4"
+      ],
+      "missing_gc_log_files": [],
+      "stw_pause_count": 4,
+      "total_stw_ms": 3087.956,
+      "stw_overhead_percent": 1.8891131599083086,
+      "pause_breakdown": {
+        "Pause Young": {
+          "count": 4,
+          "total_ms": 3087.956
+        }
+      },
+      "steady_state_start_s": 300.242422945,
+      "steady_state_end_s": 604.206419299,
+      "steady_state_wall_clock_span_ms": 303963.996354,
+      "iteration_total_duration_ms": 163460.61557,
+      "min_gc_uptime_s_in_steady_state_window": 330.102,
+      "max_gc_uptime_s_in_steady_state_window": 555.107
+    },
+    {
+      "benchmark": "dotty",
+      "environment": "ZGC-Java-21",
+      "processed_gc_log_file_count": 6,
+      "processed_gc_log_files": [
+        "..\\experiment\\ZGC-java21-2026-04-25\\dotty\\dotty.gc.log",
+        "..\\experiment\\ZGC-java21-2026-04-25\\dotty\\dotty.gc.log.0",
+        "..\\experiment\\ZGC-java21-2026-04-25\\dotty\\dotty.gc.log.1",
+        "..\\experiment\\ZGC-java21-2026-04-25\\dotty\\dotty.gc.log.2",
+        "..\\experiment\\ZGC-java21-2026-04-25\\dotty\\dotty.gc.log.3",
+        "..\\experiment\\ZGC-java21-2026-04-25\\dotty\\dotty.gc.log.4"
+      ],
+      "missing_gc_log_files": [],
+      "stw_pause_count": 19,
+      "total_stw_ms": 0.472,
+      "stw_overhead_percent": 0.00027386323496405467,
+      "pause_breakdown": {
+        "Pause Mark End": {
+          "count": 8,
+          "total_ms": 0.138
+        },
+        "Pause Mark Start": {
+          "count": 3,
+          "total_ms": 0.124
+        },
+        "Pause Relocate Start": {
+          "count": 8,
+          "total_ms": 0.21
+        }
+      },
+      "steady_state_start_s": 301.428206669,
+      "steady_state_end_s": 603.555271,
+      "steady_state_wall_clock_span_ms": 302127.064331,
+      "iteration_total_duration_ms": 172348.800328,
+      "min_gc_uptime_s_in_steady_state_window": 419.563,
+      "max_gc_uptime_s_in_steady_state_window": 577.053
+    },
+    {
+      "benchmark": "dotty",
+      "environment": "ZGC-Java-25",
+      "processed_gc_log_file_count": 6,
+      "processed_gc_log_files": [
+        "..\\experiment\\ZGC-java25-2026-04-24\\dotty\\dotty.gc.log",
+        "..\\experiment\\ZGC-java25-2026-04-24\\dotty\\dotty.gc.log.0",
+        "..\\experiment\\ZGC-java25-2026-04-24\\dotty\\dotty.gc.log.1",
+        "..\\experiment\\ZGC-java25-2026-04-24\\dotty\\dotty.gc.log.2",
+        "..\\experiment\\ZGC-java25-2026-04-24\\dotty\\dotty.gc.log.3",
+        "..\\experiment\\ZGC-java25-2026-04-24\\dotty\\dotty.gc.log.4"
+      ],
+      "missing_gc_log_files": [],
+      "stw_pause_count": 15,
+      "total_stw_ms": 0.437,
+      "stw_overhead_percent": 0.0002540182265367108,
+      "pause_breakdown": {
+        "Pause Mark End": {
+          "count": 6,
+          "total_ms": 0.101
+        },
+        "Pause Mark Start": {
+          "count": 3,
+          "total_ms": 0.145
+        },
+        "Pause Relocate Start": {
+          "count": 6,
+          "total_ms": 0.191
+        }
+      },
+      "steady_state_start_s": 300.101605805,
+      "steady_state_end_s": 603.703876467,
+      "steady_state_wall_clock_span_ms": 303602.270662,
+      "iteration_total_duration_ms": 172034.899211,
+      "min_gc_uptime_s_in_steady_state_window": 466.125,
+      "max_gc_uptime_s_in_steady_state_window": 590.626
+    },
+    {
+      "benchmark": "finagle-chirper",
+      "environment": "G1GC-Java-21",
+      "processed_gc_log_file_count": 6,
+      "processed_gc_log_files": [
+        "..\\experiment\\G1GC-java21-2026-04-25\\finagle-chirper\\finagle-chirper.gc.log",
+        "..\\experiment\\G1GC-java21-2026-04-25\\finagle-chirper\\finagle-chirper.gc.log.0",
+        "..\\experiment\\G1GC-java21-2026-04-25\\finagle-chirper\\finagle-chirper.gc.log.1",
+        "..\\experiment\\G1GC-java21-2026-04-25\\finagle-chirper\\finagle-chirper.gc.log.2",
+        "..\\experiment\\G1GC-java21-2026-04-25\\finagle-chirper\\finagle-chirper.gc.log.3",
+        "..\\experiment\\G1GC-java21-2026-04-25\\finagle-chirper\\finagle-chirper.gc.log.4"
+      ],
+      "missing_gc_log_files": [],
+      "stw_pause_count": 21,
+      "total_stw_ms": 1175.529,
+      "stw_overhead_percent": 0.38618317124019164,
+      "pause_breakdown": {
+        "Pause Young": {
+          "count": 21,
+          "total_ms": 1175.529
+        }
+      },
+      "steady_state_start_s": 301.435089549,
+      "steady_state_end_s": 606.428649575,
+      "steady_state_wall_clock_span_ms": 304993.560026,
+      "iteration_total_duration_ms": 304396.744225,
+      "min_gc_uptime_s_in_steady_state_window": 371.612,
+      "max_gc_uptime_s_in_steady_state_window": 605.895
+    },
+    {
+      "benchmark": "finagle-chirper",
+      "environment": "G1GC-Java-25",
+      "processed_gc_log_file_count": 6,
+      "processed_gc_log_files": [
+        "..\\experiment\\G1GC-java25-2026-04-24\\finagle-chirper\\finagle-chirper.gc.log",
+        "..\\experiment\\G1GC-java25-2026-04-24\\finagle-chirper\\finagle-chirper.gc.log.0",
+        "..\\experiment\\G1GC-java25-2026-04-24\\finagle-chirper\\finagle-chirper.gc.log.1",
+        "..\\experiment\\G1GC-java25-2026-04-24\\finagle-chirper\\finagle-chirper.gc.log.2",
+        "..\\experiment\\G1GC-java25-2026-04-24\\finagle-chirper\\finagle-chirper.gc.log.3",
+        "..\\experiment\\G1GC-java25-2026-04-24\\finagle-chirper\\finagle-chirper.gc.log.4"
+      ],
+      "missing_gc_log_files": [],
+      "stw_pause_count": 18,
+      "total_stw_ms": 1021.972,
+      "stw_overhead_percent": 0.3340307823685153,
+      "pause_breakdown": {
+        "Pause Cleanup": {
+          "count": 1,
+          "total_ms": 8.732
+        },
+        "Pause Remark": {
+          "count": 1,
+          "total_ms": 17.755
+        },
+        "Pause Young": {
+          "count": 16,
+          "total_ms": 995.485
+        }
+      },
+      "steady_state_start_s": 300.917958192,
+      "steady_state_end_s": 607.603180136,
+      "steady_state_wall_clock_span_ms": 306685.221944,
+      "iteration_total_duration_ms": 305951.443383,
+      "min_gc_uptime_s_in_steady_state_window": 430.041,
+      "max_gc_uptime_s_in_steady_state_window": 597.016
+    },
+    {
+      "benchmark": "finagle-chirper",
+      "environment": "ZGC-Java-21",
+      "processed_gc_log_file_count": 6,
+      "processed_gc_log_files": [
+        "..\\experiment\\ZGC-java21-2026-04-25\\finagle-chirper\\finagle-chirper.gc.log",
+        "..\\experiment\\ZGC-java21-2026-04-25\\finagle-chirper\\finagle-chirper.gc.log.0",
+        "..\\experiment\\ZGC-java21-2026-04-25\\finagle-chirper\\finagle-chirper.gc.log.1",
+        "..\\experiment\\ZGC-java21-2026-04-25\\finagle-chirper\\finagle-chirper.gc.log.2",
+        "..\\experiment\\ZGC-java21-2026-04-25\\finagle-chirper\\finagle-chirper.gc.log.3",
+        "..\\experiment\\ZGC-java21-2026-04-25\\finagle-chirper\\finagle-chirper.gc.log.4"
+      ],
+      "missing_gc_log_files": [],
+      "stw_pause_count": 11,
+      "total_stw_ms": 0.318,
+      "stw_overhead_percent": 0.00010358293905101942,
+      "pause_breakdown": {
+        "Pause Mark End": {
+          "count": 4,
+          "total_ms": 0.103
+        },
+        "Pause Mark Start": {
+          "count": 3,
+          "total_ms": 0.12
+        },
+        "Pause Relocate Start": {
+          "count": 4,
+          "total_ms": 0.095
+        }
+      },
+      "steady_state_start_s": 300.346836857,
+      "steady_state_end_s": 607.933492606,
+      "steady_state_wall_clock_span_ms": 307586.655749,
+      "iteration_total_duration_ms": 307000.364069,
+      "min_gc_uptime_s_in_steady_state_window": 564.147,
+      "max_gc_uptime_s_in_steady_state_window": 601.645
+    },
+    {
+      "benchmark": "finagle-chirper",
+      "environment": "ZGC-Java-25",
+      "processed_gc_log_file_count": 6,
+      "processed_gc_log_files": [
+        "..\\experiment\\ZGC-java25-2026-04-24\\finagle-chirper\\finagle-chirper.gc.log",
+        "..\\experiment\\ZGC-java25-2026-04-24\\finagle-chirper\\finagle-chirper.gc.log.0",
+        "..\\experiment\\ZGC-java25-2026-04-24\\finagle-chirper\\finagle-chirper.gc.log.1",
+        "..\\experiment\\ZGC-java25-2026-04-24\\finagle-chirper\\finagle-chirper.gc.log.2",
+        "..\\experiment\\ZGC-java25-2026-04-24\\finagle-chirper\\finagle-chirper.gc.log.3",
+        "..\\experiment\\ZGC-java25-2026-04-24\\finagle-chirper\\finagle-chirper.gc.log.4"
+      ],
+      "missing_gc_log_files": [],
+      "stw_pause_count": 11,
+      "total_stw_ms": 0.346,
+      "stw_overhead_percent": 0.00011291751820214506,
+      "pause_breakdown": {
+        "Pause Mark End": {
+          "count": 4,
+          "total_ms": 0.096
+        },
+        "Pause Mark Start": {
+          "count": 3,
+          "total_ms": 0.136
+        },
+        "Pause Relocate Start": {
+          "count": 4,
+          "total_ms": 0.114
+        }
+      },
+      "steady_state_start_s": 301.372661837,
+      "steady_state_end_s": 608.419520407,
+      "steady_state_wall_clock_span_ms": 307046.85857,
+      "iteration_total_duration_ms": 306418.353422,
+      "min_gc_uptime_s_in_steady_state_window": 563.156,
+      "max_gc_uptime_s_in_steady_state_window": 601.142
+    },
+    {
+      "benchmark": "finagle-http",
+      "environment": "G1GC-Java-21",
+      "processed_gc_log_file_count": 6,
+      "processed_gc_log_files": [
+        "..\\experiment\\G1GC-java21-2026-04-25\\finagle-http\\finagle-http.gc.log",
+        "..\\experiment\\G1GC-java21-2026-04-25\\finagle-http\\finagle-http.gc.log.0",
+        "..\\experiment\\G1GC-java21-2026-04-25\\finagle-http\\finagle-http.gc.log.1",
+        "..\\experiment\\G1GC-java21-2026-04-25\\finagle-http\\finagle-http.gc.log.2",
+        "..\\experiment\\G1GC-java21-2026-04-25\\finagle-http\\finagle-http.gc.log.3",
+        "..\\experiment\\G1GC-java21-2026-04-25\\finagle-http\\finagle-http.gc.log.4"
+      ],
+      "missing_gc_log_files": [],
+      "stw_pause_count": 29,
+      "total_stw_ms": 1480.207,
+      "stw_overhead_percent": 0.4786707230064014,
+      "pause_breakdown": {
+        "Pause Cleanup": {
+          "count": 1,
+          "total_ms": 10.452
+        },
+        "Pause Remark": {
+          "count": 1,
+          "total_ms": 54.202
+        },
+        "Pause Young": {
+          "count": 27,
+          "total_ms": 1415.553
+        }
+      },
+      "steady_state_start_s": 301.735259336,
+      "steady_state_end_s": 611.078555121,
+      "steady_state_wall_clock_span_ms": 309343.295785,
+      "iteration_total_duration_ms": 309232.825167,
+      "min_gc_uptime_s_in_steady_state_window": 308.44,
+      "max_gc_uptime_s_in_steady_state_window": 602.169
+    },
+    {
+      "benchmark": "finagle-http",
+      "environment": "G1GC-Java-25",
+      "processed_gc_log_file_count": 6,
+      "processed_gc_log_files": [
+        "..\\experiment\\G1GC-java25-2026-04-24\\finagle-http\\finagle-http.gc.log",
+        "..\\experiment\\G1GC-java25-2026-04-24\\finagle-http\\finagle-http.gc.log.0",
+        "..\\experiment\\G1GC-java25-2026-04-24\\finagle-http\\finagle-http.gc.log.1",
+        "..\\experiment\\G1GC-java25-2026-04-24\\finagle-http\\finagle-http.gc.log.2",
+        "..\\experiment\\G1GC-java25-2026-04-24\\finagle-http\\finagle-http.gc.log.3",
+        "..\\experiment\\G1GC-java25-2026-04-24\\finagle-http\\finagle-http.gc.log.4"
+      ],
+      "missing_gc_log_files": [],
+      "stw_pause_count": 26,
+      "total_stw_ms": 1314.734,
+      "stw_overhead_percent": 0.4281001629060341,
+      "pause_breakdown": {
+        "Pause Young": {
+          "count": 26,
+          "total_ms": 1314.734
+        }
+      },
+      "steady_state_start_s": 300.360248972,
+      "steady_state_end_s": 607.557304499,
+      "steady_state_wall_clock_span_ms": 307197.055527,
+      "iteration_total_duration_ms": 307108.969797,
+      "min_gc_uptime_s_in_steady_state_window": 308.17,
+      "max_gc_uptime_s_in_steady_state_window": 596.97
+    },
+    {
+      "benchmark": "finagle-http",
+      "environment": "ZGC-Java-21",
+      "processed_gc_log_file_count": 6,
+      "processed_gc_log_files": [
+        "..\\experiment\\ZGC-java21-2026-04-25\\finagle-http\\finagle-http.gc.log",
+        "..\\experiment\\ZGC-java21-2026-04-25\\finagle-http\\finagle-http.gc.log.0",
+        "..\\experiment\\ZGC-java21-2026-04-25\\finagle-http\\finagle-http.gc.log.1",
+        "..\\experiment\\ZGC-java21-2026-04-25\\finagle-http\\finagle-http.gc.log.2",
+        "..\\experiment\\ZGC-java21-2026-04-25\\finagle-http\\finagle-http.gc.log.3",
+        "..\\experiment\\ZGC-java21-2026-04-25\\finagle-http\\finagle-http.gc.log.4"
+      ],
+      "missing_gc_log_files": [],
+      "stw_pause_count": 17,
+      "total_stw_ms": 0.496,
+      "stw_overhead_percent": 0.00016138410051621665,
+      "pause_breakdown": {
+        "Pause Mark End": {
+          "count": 6,
+          "total_ms": 0.115
+        },
+        "Pause Mark Start": {
+          "count": 5,
+          "total_ms": 0.219
+        },
+        "Pause Relocate Start": {
+          "count": 6,
+          "total_ms": 0.162
+        }
+      },
+      "steady_state_start_s": 300.936072382,
+      "steady_state_end_s": 608.358933049,
+      "steady_state_wall_clock_span_ms": 307422.860667,
+      "iteration_total_duration_ms": 307341.304635,
+      "min_gc_uptime_s_in_steady_state_window": 557.038,
+      "max_gc_uptime_s_in_steady_state_window": 602.497
+    },
+    {
+      "benchmark": "finagle-http",
+      "environment": "ZGC-Java-25",
+      "processed_gc_log_file_count": 6,
+      "processed_gc_log_files": [
+        "..\\experiment\\ZGC-java25-2026-04-24\\finagle-http\\finagle-http.gc.log",
+        "..\\experiment\\ZGC-java25-2026-04-24\\finagle-http\\finagle-http.gc.log.0",
+        "..\\experiment\\ZGC-java25-2026-04-24\\finagle-http\\finagle-http.gc.log.1",
+        "..\\experiment\\ZGC-java25-2026-04-24\\finagle-http\\finagle-http.gc.log.2",
+        "..\\experiment\\ZGC-java25-2026-04-24\\finagle-http\\finagle-http.gc.log.3",
+        "..\\experiment\\ZGC-java25-2026-04-24\\finagle-http\\finagle-http.gc.log.4"
+      ],
+      "missing_gc_log_files": [],
+      "stw_pause_count": 11,
+      "total_stw_ms": 0.4,
+      "stw_overhead_percent": 0.0001312306962212649,
+      "pause_breakdown": {
+        "Pause Mark End": {
+          "count": 4,
+          "total_ms": 0.085
+        },
+        "Pause Mark Start": {
+          "count": 3,
+          "total_ms": 0.174
+        },
+        "Pause Relocate Start": {
+          "count": 4,
+          "total_ms": 0.141
+        }
+      },
+      "steady_state_start_s": 302.606372601,
+      "steady_state_end_s": 607.496396759,
+      "steady_state_wall_clock_span_ms": 304890.024158,
+      "iteration_total_duration_ms": 304806.734642,
+      "min_gc_uptime_s_in_steady_state_window": 570.734,
+      "max_gc_uptime_s_in_steady_state_window": 598.58
+    },
+    {
+      "benchmark": "fj-kmeans",
+      "environment": "G1GC-Java-21",
+      "processed_gc_log_file_count": 6,
+      "processed_gc_log_files": [
+        "..\\experiment\\G1GC-java21-2026-04-25\\fj-kmeans\\fj-kmeans.gc.log",
+        "..\\experiment\\G1GC-java21-2026-04-25\\fj-kmeans\\fj-kmeans.gc.log.0",
+        "..\\experiment\\G1GC-java21-2026-04-25\\fj-kmeans\\fj-kmeans.gc.log.1",
+        "..\\experiment\\G1GC-java21-2026-04-25\\fj-kmeans\\fj-kmeans.gc.log.2",
+        "..\\experiment\\G1GC-java21-2026-04-25\\fj-kmeans\\fj-kmeans.gc.log.3",
+        "..\\experiment\\G1GC-java21-2026-04-25\\fj-kmeans\\fj-kmeans.gc.log.4"
+      ],
+      "missing_gc_log_files": [],
+      "stw_pause_count": 41,
+      "total_stw_ms": 2041.998,
+      "stw_overhead_percent": 0.6730888159177051,
+      "pause_breakdown": {
+        "Pause Young": {
+          "count": 41,
+          "total_ms": 2041.998
+        }
+      },
+      "steady_state_start_s": 303.546137829,
+      "steady_state_end_s": 606.975821134,
+      "steady_state_wall_clock_span_ms": 303429.683305,
+      "iteration_total_duration_ms": 303377.199518,
+      "min_gc_uptime_s_in_steady_state_window": 450.113,
+      "max_gc_uptime_s_in_steady_state_window": 604.668
+    },
+    {
+      "benchmark": "fj-kmeans",
+      "environment": "G1GC-Java-25",
+      "processed_gc_log_file_count": 6,
+      "processed_gc_log_files": [
+        "..\\experiment\\G1GC-java25-2026-04-24\\fj-kmeans\\fj-kmeans.gc.log",
+        "..\\experiment\\G1GC-java25-2026-04-24\\fj-kmeans\\fj-kmeans.gc.log.0",
+        "..\\experiment\\G1GC-java25-2026-04-24\\fj-kmeans\\fj-kmeans.gc.log.1",
+        "..\\experiment\\G1GC-java25-2026-04-24\\fj-kmeans\\fj-kmeans.gc.log.2",
+        "..\\experiment\\G1GC-java25-2026-04-24\\fj-kmeans\\fj-kmeans.gc.log.3",
+        "..\\experiment\\G1GC-java25-2026-04-24\\fj-kmeans\\fj-kmeans.gc.log.4"
+      ],
+      "missing_gc_log_files": [],
+      "stw_pause_count": 38,
+      "total_stw_ms": 1896.21,
+      "stw_overhead_percent": 0.6267088355875533,
+      "pause_breakdown": {
+        "Pause Young": {
+          "count": 38,
+          "total_ms": 1896.21
+        }
+      },
+      "steady_state_start_s": 302.504911143,
+      "steady_state_end_s": 605.120376376,
+      "steady_state_wall_clock_span_ms": 302615.465233,
+      "iteration_total_duration_ms": 302566.342187,
+      "min_gc_uptime_s_in_steady_state_window": 470.384,
+      "max_gc_uptime_s_in_steady_state_window": 602.934
+    },
+    {
+      "benchmark": "fj-kmeans",
+      "environment": "ZGC-Java-21",
+      "processed_gc_log_file_count": 6,
+      "processed_gc_log_files": [
+        "..\\experiment\\ZGC-java21-2026-04-25\\fj-kmeans\\fj-kmeans.gc.log",
+        "..\\experiment\\ZGC-java21-2026-04-25\\fj-kmeans\\fj-kmeans.gc.log.0",
+        "..\\experiment\\ZGC-java21-2026-04-25\\fj-kmeans\\fj-kmeans.gc.log.1",
+        "..\\experiment\\ZGC-java21-2026-04-25\\fj-kmeans\\fj-kmeans.gc.log.2",
+        "..\\experiment\\ZGC-java21-2026-04-25\\fj-kmeans\\fj-kmeans.gc.log.3",
+        "..\\experiment\\ZGC-java21-2026-04-25\\fj-kmeans\\fj-kmeans.gc.log.4"
+      ],
+      "missing_gc_log_files": [],
+      "stw_pause_count": 15,
+      "total_stw_ms": 0.419,
+      "stw_overhead_percent": 0.00013582266101266424,
+      "pause_breakdown": {
+        "Pause Mark End": {
+          "count": 5,
+          "total_ms": 0.099
+        },
+        "Pause Mark Start": {
+          "count": 5,
+          "total_ms": 0.202
+        },
+        "Pause Relocate Start": {
+          "count": 5,
+          "total_ms": 0.118
+        }
+      },
+      "steady_state_start_s": 302.173852823,
+      "steady_state_end_s": 610.717397784,
+      "steady_state_wall_clock_span_ms": 308543.544961,
+      "iteration_total_duration_ms": 308490.49553,
+      "min_gc_uptime_s_in_steady_state_window": 593.559,
+      "max_gc_uptime_s_in_steady_state_window": 609.407
+    },
+    {
+      "benchmark": "fj-kmeans",
+      "environment": "ZGC-Java-25",
+      "processed_gc_log_file_count": 6,
+      "processed_gc_log_files": [
+        "..\\experiment\\ZGC-java25-2026-04-24\\fj-kmeans\\fj-kmeans.gc.log",
+        "..\\experiment\\ZGC-java25-2026-04-24\\fj-kmeans\\fj-kmeans.gc.log.0",
+        "..\\experiment\\ZGC-java25-2026-04-24\\fj-kmeans\\fj-kmeans.gc.log.1",
+        "..\\experiment\\ZGC-java25-2026-04-24\\fj-kmeans\\fj-kmeans.gc.log.2",
+        "..\\experiment\\ZGC-java25-2026-04-24\\fj-kmeans\\fj-kmeans.gc.log.3",
+        "..\\experiment\\ZGC-java25-2026-04-24\\fj-kmeans\\fj-kmeans.gc.log.4"
+      ],
+      "missing_gc_log_files": [],
+      "stw_pause_count": 18,
+      "total_stw_ms": 0.549,
+      "stw_overhead_percent": 0.00018004223810031631,
+      "pause_breakdown": {
+        "Pause Mark End": {
+          "count": 6,
+          "total_ms": 0.115
+        },
+        "Pause Mark Start": {
+          "count": 6,
+          "total_ms": 0.272
+        },
+        "Pause Relocate Start": {
+          "count": 6,
+          "total_ms": 0.162
+        }
+      },
+      "steady_state_start_s": 300.966996181,
+      "steady_state_end_s": 605.954563547,
+      "steady_state_wall_clock_span_ms": 304987.567366,
+      "iteration_total_duration_ms": 304928.446676,
+      "min_gc_uptime_s_in_steady_state_window": 589.038,
+      "max_gc_uptime_s_in_steady_state_window": 605.087
+    },
+    {
+      "benchmark": "future-genetic",
+      "environment": "G1GC-Java-21",
+      "processed_gc_log_file_count": 6,
+      "processed_gc_log_files": [
+        "..\\experiment\\G1GC-java21-2026-04-25\\future-genetic\\future-genetic.gc.log",
+        "..\\experiment\\G1GC-java21-2026-04-25\\future-genetic\\future-genetic.gc.log.0",
+        "..\\experiment\\G1GC-java21-2026-04-25\\future-genetic\\future-genetic.gc.log.1",
+        "..\\experiment\\G1GC-java21-2026-04-25\\future-genetic\\future-genetic.gc.log.2",
+        "..\\experiment\\G1GC-java21-2026-04-25\\future-genetic\\future-genetic.gc.log.3",
+        "..\\experiment\\G1GC-java21-2026-04-25\\future-genetic\\future-genetic.gc.log.4"
+      ],
+      "missing_gc_log_files": [],
+      "stw_pause_count": 22,
+      "total_stw_ms": 807.108,
+      "stw_overhead_percent": 0.26707596955554713,
+      "pause_breakdown": {
+        "Pause Young": {
+          "count": 22,
+          "total_ms": 807.108
+        }
+      },
+      "steady_state_start_s": 301.548807589,
+      "steady_state_end_s": 603.782540551,
+      "steady_state_wall_clock_span_ms": 302233.732962,
+      "iteration_total_duration_ms": 302201.654961,
+      "min_gc_uptime_s_in_steady_state_window": 307.558,
+      "max_gc_uptime_s_in_steady_state_window": 594.78
+    },
+    {
+      "benchmark": "future-genetic",
+      "environment": "G1GC-Java-25",
+      "processed_gc_log_file_count": 6,
+      "processed_gc_log_files": [
+        "..\\experiment\\G1GC-java25-2026-04-24\\future-genetic\\future-genetic.gc.log",
+        "..\\experiment\\G1GC-java25-2026-04-24\\future-genetic\\future-genetic.gc.log.0",
+        "..\\experiment\\G1GC-java25-2026-04-24\\future-genetic\\future-genetic.gc.log.1",
+        "..\\experiment\\G1GC-java25-2026-04-24\\future-genetic\\future-genetic.gc.log.2",
+        "..\\experiment\\G1GC-java25-2026-04-24\\future-genetic\\future-genetic.gc.log.3",
+        "..\\experiment\\G1GC-java25-2026-04-24\\future-genetic\\future-genetic.gc.log.4"
+      ],
+      "missing_gc_log_files": [],
+      "stw_pause_count": 23,
+      "total_stw_ms": 932.401,
+      "stw_overhead_percent": 0.3080047364669295,
+      "pause_breakdown": {
+        "Pause Young": {
+          "count": 23,
+          "total_ms": 932.401
+        }
+      },
+      "steady_state_start_s": 301.146535869,
+      "steady_state_end_s": 603.904405988,
+      "steady_state_wall_clock_span_ms": 302757.870119,
+      "iteration_total_duration_ms": 302722.942087,
+      "min_gc_uptime_s_in_steady_state_window": 306.22,
+      "max_gc_uptime_s_in_steady_state_window": 594.733
+    },
+    {
+      "benchmark": "future-genetic",
+      "environment": "ZGC-Java-21",
+      "processed_gc_log_file_count": 6,
+      "processed_gc_log_files": [
+        "..\\experiment\\ZGC-java21-2026-04-25\\future-genetic\\future-genetic.gc.log",
+        "..\\experiment\\ZGC-java21-2026-04-25\\future-genetic\\future-genetic.gc.log.0",
+        "..\\experiment\\ZGC-java21-2026-04-25\\future-genetic\\future-genetic.gc.log.1",
+        "..\\experiment\\ZGC-java21-2026-04-25\\future-genetic\\future-genetic.gc.log.2",
+        "..\\experiment\\ZGC-java21-2026-04-25\\future-genetic\\future-genetic.gc.log.3",
+        "..\\experiment\\ZGC-java21-2026-04-25\\future-genetic\\future-genetic.gc.log.4"
+      ],
+      "missing_gc_log_files": [],
+      "stw_pause_count": 30,
+      "total_stw_ms": 0.855,
+      "stw_overhead_percent": 0.00028248368444125295,
+      "pause_breakdown": {
+        "Pause Mark End": {
+          "count": 12,
+          "total_ms": 0.205
+        },
+        "Pause Mark Start": {
+          "count": 6,
+          "total_ms": 0.28
+        },
+        "Pause Relocate Start": {
+          "count": 12,
+          "total_ms": 0.37
+        }
+      },
+      "steady_state_start_s": 300.582921608,
+      "steady_state_end_s": 603.288370563,
+      "steady_state_wall_clock_span_ms": 302705.448955,
+      "iteration_total_duration_ms": 302672.347853,
+      "min_gc_uptime_s_in_steady_state_window": 552.116,
+      "max_gc_uptime_s_in_steady_state_window": 599.869
+    },
+    {
+      "benchmark": "future-genetic",
+      "environment": "ZGC-Java-25",
+      "processed_gc_log_file_count": 6,
+      "processed_gc_log_files": [
+        "..\\experiment\\ZGC-java25-2026-04-24\\future-genetic\\future-genetic.gc.log",
+        "..\\experiment\\ZGC-java25-2026-04-24\\future-genetic\\future-genetic.gc.log.0",
+        "..\\experiment\\ZGC-java25-2026-04-24\\future-genetic\\future-genetic.gc.log.1",
+        "..\\experiment\\ZGC-java25-2026-04-24\\future-genetic\\future-genetic.gc.log.2",
+        "..\\experiment\\ZGC-java25-2026-04-24\\future-genetic\\future-genetic.gc.log.3",
+        "..\\experiment\\ZGC-java25-2026-04-24\\future-genetic\\future-genetic.gc.log.4"
+      ],
+      "missing_gc_log_files": [],
+      "stw_pause_count": 30,
+      "total_stw_ms": 0.829,
+      "stw_overhead_percent": 0.0002734285991605886,
+      "pause_breakdown": {
+        "Pause Mark End": {
+          "count": 12,
+          "total_ms": 0.2
+        },
+        "Pause Mark Start": {
+          "count": 6,
+          "total_ms": 0.249
+        },
+        "Pause Relocate Start": {
+          "count": 12,
+          "total_ms": 0.38
+        }
+      },
+      "steady_state_start_s": 301.334181884,
+      "steady_state_end_s": 604.55905401,
+      "steady_state_wall_clock_span_ms": 303224.872126,
+      "iteration_total_duration_ms": 303187.012092,
+      "min_gc_uptime_s_in_steady_state_window": 556.644,
+      "max_gc_uptime_s_in_steady_state_window": 603.692
+    },
+    {
+      "benchmark": "gauss-mix",
+      "environment": "G1GC-Java-21",
+      "processed_gc_log_file_count": 6,
+      "processed_gc_log_files": [
+        "..\\experiment\\G1GC-java21-2026-04-25\\gauss-mix\\gauss-mix.gc.log",
+        "..\\experiment\\G1GC-java21-2026-04-25\\gauss-mix\\gauss-mix.gc.log.0",
+        "..\\experiment\\G1GC-java21-2026-04-25\\gauss-mix\\gauss-mix.gc.log.1",
+        "..\\experiment\\G1GC-java21-2026-04-25\\gauss-mix\\gauss-mix.gc.log.2",
+        "..\\experiment\\G1GC-java21-2026-04-25\\gauss-mix\\gauss-mix.gc.log.3",
+        "..\\experiment\\G1GC-java21-2026-04-25\\gauss-mix\\gauss-mix.gc.log.4"
+      ],
+      "missing_gc_log_files": [],
+      "stw_pause_count": 26,
+      "total_stw_ms": 1773.022,
+      "stw_overhead_percent": 0.5669009065694937,
+      "pause_breakdown": {
+        "Pause Young": {
+          "count": 26,
+          "total_ms": 1773.022
+        }
+      },
+      "steady_state_start_s": 306.007760643,
+      "steady_state_end_s": 618.769904082,
+      "steady_state_wall_clock_span_ms": 312762.143439,
+      "iteration_total_duration_ms": 312756.952662,
+      "min_gc_uptime_s_in_steady_state_window": 494.165,
+      "max_gc_uptime_s_in_steady_state_window": 618.3
+    },
+    {
+      "benchmark": "gauss-mix",
+      "environment": "G1GC-Java-25",
+      "processed_gc_log_file_count": 6,
+      "processed_gc_log_files": [
+        "..\\experiment\\G1GC-java25-2026-04-24\\gauss-mix\\gauss-mix.gc.log",
+        "..\\experiment\\G1GC-java25-2026-04-24\\gauss-mix\\gauss-mix.gc.log.0",
+        "..\\experiment\\G1GC-java25-2026-04-24\\gauss-mix\\gauss-mix.gc.log.1",
+        "..\\experiment\\G1GC-java25-2026-04-24\\gauss-mix\\gauss-mix.gc.log.2",
+        "..\\experiment\\G1GC-java25-2026-04-24\\gauss-mix\\gauss-mix.gc.log.3",
+        "..\\experiment\\G1GC-java25-2026-04-24\\gauss-mix\\gauss-mix.gc.log.4"
+      ],
+      "missing_gc_log_files": [],
+      "stw_pause_count": 23,
+      "total_stw_ms": 1547.218,
+      "stw_overhead_percent": 0.4865475595228998,
+      "pause_breakdown": {
+        "Pause Young": {
+          "count": 23,
+          "total_ms": 1547.218
+        }
+      },
+      "steady_state_start_s": 302.066296842,
+      "steady_state_end_s": 620.070547195,
+      "steady_state_wall_clock_span_ms": 318004.250353,
+      "iteration_total_duration_ms": 317999.334231,
+      "min_gc_uptime_s_in_steady_state_window": 504.274,
+      "max_gc_uptime_s_in_steady_state_window": 616.369
+    },
+    {
+      "benchmark": "gauss-mix",
+      "environment": "ZGC-Java-21",
+      "processed_gc_log_file_count": 6,
+      "processed_gc_log_files": [
+        "..\\experiment\\ZGC-java21-2026-04-25\\gauss-mix\\gauss-mix.gc.log",
+        "..\\experiment\\ZGC-java21-2026-04-25\\gauss-mix\\gauss-mix.gc.log.0",
+        "..\\experiment\\ZGC-java21-2026-04-25\\gauss-mix\\gauss-mix.gc.log.1",
+        "..\\experiment\\ZGC-java21-2026-04-25\\gauss-mix\\gauss-mix.gc.log.2",
+        "..\\experiment\\ZGC-java21-2026-04-25\\gauss-mix\\gauss-mix.gc.log.3",
+        "..\\experiment\\ZGC-java21-2026-04-25\\gauss-mix\\gauss-mix.gc.log.4"
+      ],
+      "missing_gc_log_files": [],
+      "stw_pause_count": 8,
+      "total_stw_ms": 0.134,
+      "stw_overhead_percent": 4.324431784713237e-05,
+      "pause_breakdown": {
+        "Pause Mark End": {
+          "count": 3,
+          "total_ms": 0.04
+        },
+        "Pause Mark Start": {
+          "count": 2,
+          "total_ms": 0.05
+        },
+        "Pause Relocate Start": {
+          "count": 3,
+          "total_ms": 0.044
+        }
+      },
+      "steady_state_start_s": 304.546412355,
+      "steady_state_end_s": 614.419423787,
+      "steady_state_wall_clock_span_ms": 309873.011432,
+      "iteration_total_duration_ms": 309867.299731,
+      "min_gc_uptime_s_in_steady_state_window": 601.611,
+      "max_gc_uptime_s_in_steady_state_window": 611.16
+    },
+    {
+      "benchmark": "gauss-mix",
+      "environment": "ZGC-Java-25",
+      "processed_gc_log_file_count": 6,
+      "processed_gc_log_files": [
+        "..\\experiment\\ZGC-java25-2026-04-24\\gauss-mix\\gauss-mix.gc.log",
+        "..\\experiment\\ZGC-java25-2026-04-24\\gauss-mix\\gauss-mix.gc.log.0",
+        "..\\experiment\\ZGC-java25-2026-04-24\\gauss-mix\\gauss-mix.gc.log.1",
+        "..\\experiment\\ZGC-java25-2026-04-24\\gauss-mix\\gauss-mix.gc.log.2",
+        "..\\experiment\\ZGC-java25-2026-04-24\\gauss-mix\\gauss-mix.gc.log.3",
+        "..\\experiment\\ZGC-java25-2026-04-24\\gauss-mix\\gauss-mix.gc.log.4"
+      ],
+      "missing_gc_log_files": [],
+      "stw_pause_count": 8,
+      "total_stw_ms": 0.175,
+      "stw_overhead_percent": 5.502048728840735e-05,
+      "pause_breakdown": {
+        "Pause Mark End": {
+          "count": 3,
+          "total_ms": 0.048
+        },
+        "Pause Mark Start": {
+          "count": 2,
+          "total_ms": 0.07
+        },
+        "Pause Relocate Start": {
+          "count": 3,
+          "total_ms": 0.057
+        }
+      },
+      "steady_state_start_s": 303.790362191,
+      "steady_state_end_s": 621.859148898,
+      "steady_state_wall_clock_span_ms": 318068.786707,
+      "iteration_total_duration_ms": 318063.340811,
+      "min_gc_uptime_s_in_steady_state_window": 610.027,
+      "max_gc_uptime_s_in_steady_state_window": 618.747
+    },
+    {
+      "benchmark": "log-regression",
+      "environment": "G1GC-Java-21",
+      "processed_gc_log_file_count": 6,
+      "processed_gc_log_files": [
+        "..\\experiment\\G1GC-java21-2026-04-25\\log-regression\\log-regression.gc.log",
+        "..\\experiment\\G1GC-java21-2026-04-25\\log-regression\\log-regression.gc.log.0",
+        "..\\experiment\\G1GC-java21-2026-04-25\\log-regression\\log-regression.gc.log.1",
+        "..\\experiment\\G1GC-java21-2026-04-25\\log-regression\\log-regression.gc.log.2",
+        "..\\experiment\\G1GC-java21-2026-04-25\\log-regression\\log-regression.gc.log.3",
+        "..\\experiment\\G1GC-java21-2026-04-25\\log-regression\\log-regression.gc.log.4"
+      ],
+      "missing_gc_log_files": [],
+      "stw_pause_count": 28,
+      "total_stw_ms": 2127.932,
+      "stw_overhead_percent": 0.6880381165112287,
+      "pause_breakdown": {
+        "Pause Cleanup": {
+          "count": 1,
+          "total_ms": 10.551
+        },
+        "Pause Remark": {
+          "count": 1,
+          "total_ms": 60.301
+        },
+        "Pause Young": {
+          "count": 26,
+          "total_ms": 2057.08
+        }
+      },
+      "steady_state_start_s": 300.910145638,
+      "steady_state_end_s": 610.236853724,
+      "steady_state_wall_clock_span_ms": 309326.708086,
+      "iteration_total_duration_ms": 309275.307419,
+      "min_gc_uptime_s_in_steady_state_window": 513.46,
+      "max_gc_uptime_s_in_steady_state_window": 609.023
+    },
+    {
+      "benchmark": "log-regression",
+      "environment": "G1GC-Java-25",
+      "processed_gc_log_file_count": 6,
+      "processed_gc_log_files": [
+        "..\\experiment\\G1GC-java25-2026-04-24\\log-regression\\log-regression.gc.log",
+        "..\\experiment\\G1GC-java25-2026-04-24\\log-regression\\log-regression.gc.log.0",
+        "..\\experiment\\G1GC-java25-2026-04-24\\log-regression\\log-regression.gc.log.1",
+        "..\\experiment\\G1GC-java25-2026-04-24\\log-regression\\log-regression.gc.log.2",
+        "..\\experiment\\G1GC-java25-2026-04-24\\log-regression\\log-regression.gc.log.3",
+        "..\\experiment\\G1GC-java25-2026-04-24\\log-regression\\log-regression.gc.log.4"
+      ],
+      "missing_gc_log_files": [],
+      "stw_pause_count": 20,
+      "total_stw_ms": 1608.544,
+      "stw_overhead_percent": 0.5199492621024876,
+      "pause_breakdown": {
+        "Pause Young": {
+          "count": 20,
+          "total_ms": 1608.544
+        }
+      },
+      "steady_state_start_s": 300.105002979,
+      "steady_state_end_s": 609.525296542,
+      "steady_state_wall_clock_span_ms": 309420.293563,
+      "iteration_total_duration_ms": 309365.570305,
+      "min_gc_uptime_s_in_steady_state_window": 513.213,
+      "max_gc_uptime_s_in_steady_state_window": 606.39
+    },
+    {
+      "benchmark": "log-regression",
+      "environment": "ZGC-Java-21",
+      "processed_gc_log_file_count": 6,
+      "processed_gc_log_files": [
+        "..\\experiment\\ZGC-java21-2026-04-25\\log-regression\\log-regression.gc.log",
+        "..\\experiment\\ZGC-java21-2026-04-25\\log-regression\\log-regression.gc.log.0",
+        "..\\experiment\\ZGC-java21-2026-04-25\\log-regression\\log-regression.gc.log.1",
+        "..\\experiment\\ZGC-java21-2026-04-25\\log-regression\\log-regression.gc.log.2",
+        "..\\experiment\\ZGC-java21-2026-04-25\\log-regression\\log-regression.gc.log.3",
+        "..\\experiment\\ZGC-java21-2026-04-25\\log-regression\\log-regression.gc.log.4"
+      ],
+      "missing_gc_log_files": [],
+      "stw_pause_count": 15,
+      "total_stw_ms": 0.341,
+      "stw_overhead_percent": 0.00011039077038580648,
+      "pause_breakdown": {
+        "Pause Mark End": {
+          "count": 5,
+          "total_ms": 0.075
+        },
+        "Pause Mark Start": {
+          "count": 5,
+          "total_ms": 0.171
+        },
+        "Pause Relocate Start": {
+          "count": 5,
+          "total_ms": 0.095
+        }
+      },
+      "steady_state_start_s": 301.000200094,
+      "steady_state_end_s": 609.960981788,
+      "steady_state_wall_clock_span_ms": 308960.781694,
+      "iteration_total_duration_ms": 308902.636342,
+      "min_gc_uptime_s_in_steady_state_window": 597.953,
+      "max_gc_uptime_s_in_steady_state_window": 608.472
+    },
+    {
+      "benchmark": "log-regression",
+      "environment": "ZGC-Java-25",
+      "processed_gc_log_file_count": 6,
+      "processed_gc_log_files": [
+        "..\\experiment\\ZGC-java25-2026-04-24\\log-regression\\log-regression.gc.log",
+        "..\\experiment\\ZGC-java25-2026-04-24\\log-regression\\log-regression.gc.log.0",
+        "..\\experiment\\ZGC-java25-2026-04-24\\log-regression\\log-regression.gc.log.1",
+        "..\\experiment\\ZGC-java25-2026-04-24\\log-regression\\log-regression.gc.log.2",
+        "..\\experiment\\ZGC-java25-2026-04-24\\log-regression\\log-regression.gc.log.3",
+        "..\\experiment\\ZGC-java25-2026-04-24\\log-regression\\log-regression.gc.log.4"
+      ],
+      "missing_gc_log_files": [],
+      "stw_pause_count": 0,
+      "total_stw_ms": 0.0,
+      "stw_overhead_percent": 0.0,
+      "pause_breakdown": {},
+      "steady_state_start_s": 300.602179786,
+      "steady_state_end_s": 616.108106553,
+      "steady_state_wall_clock_span_ms": 315505.926767,
+      "iteration_total_duration_ms": 315442.555796,
+      "min_gc_uptime_s_in_steady_state_window": null,
+      "max_gc_uptime_s_in_steady_state_window": null
+    },
+    {
+      "benchmark": "mnemonics",
+      "environment": "G1GC-Java-21",
+      "processed_gc_log_file_count": 6,
+      "processed_gc_log_files": [
+        "..\\experiment\\G1GC-java21-2026-04-25\\mnemonics\\mnemonics.gc.log",
+        "..\\experiment\\G1GC-java21-2026-04-25\\mnemonics\\mnemonics.gc.log.0",
+        "..\\experiment\\G1GC-java21-2026-04-25\\mnemonics\\mnemonics.gc.log.1",
+        "..\\experiment\\G1GC-java21-2026-04-25\\mnemonics\\mnemonics.gc.log.2",
+        "..\\experiment\\G1GC-java21-2026-04-25\\mnemonics\\mnemonics.gc.log.3",
+        "..\\experiment\\G1GC-java21-2026-04-25\\mnemonics\\mnemonics.gc.log.4"
+      ],
+      "missing_gc_log_files": [],
+      "stw_pause_count": 44,
+      "total_stw_ms": 1777.231,
+      "stw_overhead_percent": 0.6305229611138009,
+      "pause_breakdown": {
+        "Pause Young": {
+          "count": 44,
+          "total_ms": 1777.231
+        }
+      },
+      "steady_state_start_s": 301.439634087,
+      "steady_state_end_s": 607.079574981,
+      "steady_state_wall_clock_span_ms": 305639.940894,
+      "iteration_total_duration_ms": 281866.182456,
+      "min_gc_uptime_s_in_steady_state_window": 399.838,
+      "max_gc_uptime_s_in_steady_state_window": 603.388
+    },
+    {
+      "benchmark": "mnemonics",
+      "environment": "G1GC-Java-25",
+      "processed_gc_log_file_count": 6,
+      "processed_gc_log_files": [
+        "..\\experiment\\G1GC-java25-2026-04-24\\mnemonics\\mnemonics.gc.log",
+        "..\\experiment\\G1GC-java25-2026-04-24\\mnemonics\\mnemonics.gc.log.0",
+        "..\\experiment\\G1GC-java25-2026-04-24\\mnemonics\\mnemonics.gc.log.1",
+        "..\\experiment\\G1GC-java25-2026-04-24\\mnemonics\\mnemonics.gc.log.2",
+        "..\\experiment\\G1GC-java25-2026-04-24\\mnemonics\\mnemonics.gc.log.3",
+        "..\\experiment\\G1GC-java25-2026-04-24\\mnemonics\\mnemonics.gc.log.4"
+      ],
+      "missing_gc_log_files": [],
+      "stw_pause_count": 44,
+      "total_stw_ms": 1767.904,
+      "stw_overhead_percent": 0.6305849413398987,
+      "pause_breakdown": {
+        "Pause Young": {
+          "count": 44,
+          "total_ms": 1767.904
+        }
+      },
+      "steady_state_start_s": 303.151955817,
+      "steady_state_end_s": 607.082513236,
+      "steady_state_wall_clock_span_ms": 303930.557419,
+      "iteration_total_duration_ms": 280359.374939,
+      "min_gc_uptime_s_in_steady_state_window": 389.595,
+      "max_gc_uptime_s_in_steady_state_window": 606.438
+    },
+    {
+      "benchmark": "mnemonics",
+      "environment": "ZGC-Java-21",
+      "processed_gc_log_file_count": 6,
+      "processed_gc_log_files": [
+        "..\\experiment\\ZGC-java21-2026-04-25\\mnemonics\\mnemonics.gc.log",
+        "..\\experiment\\ZGC-java21-2026-04-25\\mnemonics\\mnemonics.gc.log.0",
+        "..\\experiment\\ZGC-java21-2026-04-25\\mnemonics\\mnemonics.gc.log.1",
+        "..\\experiment\\ZGC-java21-2026-04-25\\mnemonics\\mnemonics.gc.log.2",
+        "..\\experiment\\ZGC-java21-2026-04-25\\mnemonics\\mnemonics.gc.log.3",
+        "..\\experiment\\ZGC-java21-2026-04-25\\mnemonics\\mnemonics.gc.log.4"
+      ],
+      "missing_gc_log_files": [],
+      "stw_pause_count": 19,
+      "total_stw_ms": 0.481,
+      "stw_overhead_percent": 0.00017100425228794774,
+      "pause_breakdown": {
+        "Pause Mark End": {
+          "count": 7,
+          "total_ms": 0.104
+        },
+        "Pause Mark Start": {
+          "count": 5,
+          "total_ms": 0.178
+        },
+        "Pause Relocate Start": {
+          "count": 7,
+          "total_ms": 0.199
+        }
+      },
+      "steady_state_start_s": 301.06144175,
+      "steady_state_end_s": 605.639656314,
+      "steady_state_wall_clock_span_ms": 304578.214564,
+      "iteration_total_duration_ms": 281279.555078,
+      "min_gc_uptime_s_in_steady_state_window": 583.898,
+      "max_gc_uptime_s_in_steady_state_window": 600.629
+    },
+    {
+      "benchmark": "mnemonics",
+      "environment": "ZGC-Java-25",
+      "processed_gc_log_file_count": 6,
+      "processed_gc_log_files": [
+        "..\\experiment\\ZGC-java25-2026-04-24\\mnemonics\\mnemonics.gc.log",
+        "..\\experiment\\ZGC-java25-2026-04-24\\mnemonics\\mnemonics.gc.log.0",
+        "..\\experiment\\ZGC-java25-2026-04-24\\mnemonics\\mnemonics.gc.log.1",
+        "..\\experiment\\ZGC-java25-2026-04-24\\mnemonics\\mnemonics.gc.log.2",
+        "..\\experiment\\ZGC-java25-2026-04-24\\mnemonics\\mnemonics.gc.log.3",
+        "..\\experiment\\ZGC-java25-2026-04-24\\mnemonics\\mnemonics.gc.log.4"
+      ],
+      "missing_gc_log_files": [],
+      "stw_pause_count": 24,
+      "total_stw_ms": 0.567,
+      "stw_overhead_percent": 0.0001999051973463285,
+      "pause_breakdown": {
+        "Pause Mark End": {
+          "count": 9,
+          "total_ms": 0.137
+        },
+        "Pause Mark Start": {
+          "count": 6,
+          "total_ms": 0.2
+        },
+        "Pause Relocate Start": {
+          "count": 9,
+          "total_ms": 0.23
+        }
+      },
+      "steady_state_start_s": 302.21798446,
+      "steady_state_end_s": 607.875487203,
+      "steady_state_wall_clock_span_ms": 305657.502743,
+      "iteration_total_duration_ms": 283634.446491,
+      "min_gc_uptime_s_in_steady_state_window": 586.054,
+      "max_gc_uptime_s_in_steady_state_window": 607.476
+    },
+    {
+      "benchmark": "movie-lens",
+      "environment": "G1GC-Java-21",
+      "processed_gc_log_file_count": 6,
+      "processed_gc_log_files": [
+        "..\\experiment\\G1GC-java21-2026-04-25\\movie-lens\\movie-lens.gc.log",
+        "..\\experiment\\G1GC-java21-2026-04-25\\movie-lens\\movie-lens.gc.log.0",
+        "..\\experiment\\G1GC-java21-2026-04-25\\movie-lens\\movie-lens.gc.log.1",
+        "..\\experiment\\G1GC-java21-2026-04-25\\movie-lens\\movie-lens.gc.log.2",
+        "..\\experiment\\G1GC-java21-2026-04-25\\movie-lens\\movie-lens.gc.log.3",
+        "..\\experiment\\G1GC-java21-2026-04-25\\movie-lens\\movie-lens.gc.log.4"
+      ],
+      "missing_gc_log_files": [],
+      "stw_pause_count": 34,
+      "total_stw_ms": 1963.426,
+      "stw_overhead_percent": 0.5929034356933509,
+      "pause_breakdown": {
+        "Pause Young": {
+          "count": 34,
+          "total_ms": 1963.426
+        }
+      },
+      "steady_state_start_s": 301.015596173,
+      "steady_state_end_s": 632.173537173,
+      "steady_state_wall_clock_span_ms": 331157.941,
+      "iteration_total_duration_ms": 331154.431194,
+      "min_gc_uptime_s_in_steady_state_window": 515.312,
+      "max_gc_uptime_s_in_steady_state_window": 630.0
+    },
+    {
+      "benchmark": "movie-lens",
+      "environment": "G1GC-Java-25",
+      "processed_gc_log_file_count": 6,
+      "processed_gc_log_files": [
+        "..\\experiment\\G1GC-java25-2026-04-24\\movie-lens\\movie-lens.gc.log",
+        "..\\experiment\\G1GC-java25-2026-04-24\\movie-lens\\movie-lens.gc.log.0",
+        "..\\experiment\\G1GC-java25-2026-04-24\\movie-lens\\movie-lens.gc.log.1",
+        "..\\experiment\\G1GC-java25-2026-04-24\\movie-lens\\movie-lens.gc.log.2",
+        "..\\experiment\\G1GC-java25-2026-04-24\\movie-lens\\movie-lens.gc.log.3",
+        "..\\experiment\\G1GC-java25-2026-04-24\\movie-lens\\movie-lens.gc.log.4"
+      ],
+      "missing_gc_log_files": [],
+      "stw_pause_count": 32,
+      "total_stw_ms": 1650.026,
+      "stw_overhead_percent": 0.50450169941877,
+      "pause_breakdown": {
+        "Pause Young": {
+          "count": 32,
+          "total_ms": 1650.026
+        }
+      },
+      "steady_state_start_s": 307.214733501,
+      "steady_state_end_s": 634.27867502,
+      "steady_state_wall_clock_span_ms": 327063.941519,
+      "iteration_total_duration_ms": 327060.543483,
+      "min_gc_uptime_s_in_steady_state_window": 544.1,
+      "max_gc_uptime_s_in_steady_state_window": 632.194
+    },
+    {
+      "benchmark": "movie-lens",
+      "environment": "ZGC-Java-21",
+      "processed_gc_log_file_count": 6,
+      "processed_gc_log_files": [
+        "..\\experiment\\ZGC-java21-2026-04-25\\movie-lens\\movie-lens.gc.log",
+        "..\\experiment\\ZGC-java21-2026-04-25\\movie-lens\\movie-lens.gc.log.0",
+        "..\\experiment\\ZGC-java21-2026-04-25\\movie-lens\\movie-lens.gc.log.1",
+        "..\\experiment\\ZGC-java21-2026-04-25\\movie-lens\\movie-lens.gc.log.2",
+        "..\\experiment\\ZGC-java21-2026-04-25\\movie-lens\\movie-lens.gc.log.3",
+        "..\\experiment\\ZGC-java21-2026-04-25\\movie-lens\\movie-lens.gc.log.4"
+      ],
+      "missing_gc_log_files": [],
+      "stw_pause_count": 20,
+      "total_stw_ms": 0.424,
+      "stw_overhead_percent": 0.00013141508582124086,
+      "pause_breakdown": {
+        "Pause Mark End": {
+          "count": 7,
+          "total_ms": 0.114
+        },
+        "Pause Mark Start": {
+          "count": 6,
+          "total_ms": 0.18
+        },
+        "Pause Relocate Start": {
+          "count": 7,
+          "total_ms": 0.13
+        }
+      },
+      "steady_state_start_s": 307.06810458,
+      "steady_state_end_s": 629.712931286,
+      "steady_state_wall_clock_span_ms": 322644.826706,
+      "iteration_total_duration_ms": 322641.801244,
+      "min_gc_uptime_s_in_steady_state_window": 610.369,
+      "max_gc_uptime_s_in_steady_state_window": 628.975
+    },
+    {
+      "benchmark": "movie-lens",
+      "environment": "ZGC-Java-25",
+      "processed_gc_log_file_count": 6,
+      "processed_gc_log_files": [
+        "..\\experiment\\ZGC-java25-2026-04-24\\movie-lens\\movie-lens.gc.log",
+        "..\\experiment\\ZGC-java25-2026-04-24\\movie-lens\\movie-lens.gc.log.0",
+        "..\\experiment\\ZGC-java25-2026-04-24\\movie-lens\\movie-lens.gc.log.1",
+        "..\\experiment\\ZGC-java25-2026-04-24\\movie-lens\\movie-lens.gc.log.2",
+        "..\\experiment\\ZGC-java25-2026-04-24\\movie-lens\\movie-lens.gc.log.3",
+        "..\\experiment\\ZGC-java25-2026-04-24\\movie-lens\\movie-lens.gc.log.4"
+      ],
+      "missing_gc_log_files": [],
+      "stw_pause_count": 17,
+      "total_stw_ms": 0.482,
+      "stw_overhead_percent": 0.00014656815669948482,
+      "pause_breakdown": {
+        "Pause Mark End": {
+          "count": 6,
+          "total_ms": 0.114
+        },
+        "Pause Mark Start": {
+          "count": 5,
+          "total_ms": 0.224
+        },
+        "Pause Relocate Start": {
+          "count": 6,
+          "total_ms": 0.144
+        }
+      },
+      "steady_state_start_s": 303.032534035,
+      "steady_state_end_s": 631.893022724,
+      "steady_state_wall_clock_span_ms": 328860.488689,
+      "iteration_total_duration_ms": 328857.24352,
+      "min_gc_uptime_s_in_steady_state_window": 616.172,
+      "max_gc_uptime_s_in_steady_state_window": 631.67
+    },
+    {
+      "benchmark": "naive-bayes",
+      "environment": "G1GC-Java-21",
+      "processed_gc_log_file_count": 6,
+      "processed_gc_log_files": [
+        "..\\experiment\\G1GC-java21-2026-04-25\\naive-bayes\\naive-bayes.gc.log",
+        "..\\experiment\\G1GC-java21-2026-04-25\\naive-bayes\\naive-bayes.gc.log.0",
+        "..\\experiment\\G1GC-java21-2026-04-25\\naive-bayes\\naive-bayes.gc.log.1",
+        "..\\experiment\\G1GC-java21-2026-04-25\\naive-bayes\\naive-bayes.gc.log.2",
+        "..\\experiment\\G1GC-java21-2026-04-25\\naive-bayes\\naive-bayes.gc.log.3",
+        "..\\experiment\\G1GC-java21-2026-04-25\\naive-bayes\\naive-bayes.gc.log.4"
+      ],
+      "missing_gc_log_files": [],
+      "stw_pause_count": 37,
+      "total_stw_ms": 2475.14,
+      "stw_overhead_percent": 0.7962073234162663,
+      "pause_breakdown": {
+        "Pause Young": {
+          "count": 37,
+          "total_ms": 2475.14
+        }
+      },
+      "steady_state_start_s": 300.297198218,
+      "steady_state_end_s": 611.246172107,
+      "steady_state_wall_clock_span_ms": 310948.973889,
+      "iteration_total_duration_ms": 310866.269024,
+      "min_gc_uptime_s_in_steady_state_window": 574.056,
+      "max_gc_uptime_s_in_steady_state_window": 611.237
+    },
+    {
+      "benchmark": "naive-bayes",
+      "environment": "G1GC-Java-25",
+      "processed_gc_log_file_count": 6,
+      "processed_gc_log_files": [
+        "..\\experiment\\G1GC-java25-2026-04-24\\naive-bayes\\naive-bayes.gc.log",
+        "..\\experiment\\G1GC-java25-2026-04-24\\naive-bayes\\naive-bayes.gc.log.0",
+        "..\\experiment\\G1GC-java25-2026-04-24\\naive-bayes\\naive-bayes.gc.log.1",
+        "..\\experiment\\G1GC-java25-2026-04-24\\naive-bayes\\naive-bayes.gc.log.2",
+        "..\\experiment\\G1GC-java25-2026-04-24\\naive-bayes\\naive-bayes.gc.log.3",
+        "..\\experiment\\G1GC-java25-2026-04-24\\naive-bayes\\naive-bayes.gc.log.4"
+      ],
+      "missing_gc_log_files": [],
+      "stw_pause_count": 37,
+      "total_stw_ms": 2518.474,
+      "stw_overhead_percent": 0.8132329658533681,
+      "pause_breakdown": {
+        "Pause Young": {
+          "count": 37,
+          "total_ms": 2518.474
+        }
+      },
+      "steady_state_start_s": 300.555693293,
+      "steady_state_end_s": 610.264873485,
+      "steady_state_wall_clock_span_ms": 309709.180192,
+      "iteration_total_duration_ms": 309686.658774,
+      "min_gc_uptime_s_in_steady_state_window": 568.976,
+      "max_gc_uptime_s_in_steady_state_window": 609.833
+    },
+    {
+      "benchmark": "naive-bayes",
+      "environment": "ZGC-Java-21",
+      "processed_gc_log_file_count": 6,
+      "processed_gc_log_files": [
+        "..\\experiment\\ZGC-java21-2026-04-25\\naive-bayes\\naive-bayes.gc.log",
+        "..\\experiment\\ZGC-java21-2026-04-25\\naive-bayes\\naive-bayes.gc.log.0",
+        "..\\experiment\\ZGC-java21-2026-04-25\\naive-bayes\\naive-bayes.gc.log.1",
+        "..\\experiment\\ZGC-java21-2026-04-25\\naive-bayes\\naive-bayes.gc.log.2",
+        "..\\experiment\\ZGC-java21-2026-04-25\\naive-bayes\\naive-bayes.gc.log.3",
+        "..\\experiment\\ZGC-java21-2026-04-25\\naive-bayes\\naive-bayes.gc.log.4"
+      ],
+      "missing_gc_log_files": [],
+      "stw_pause_count": 20,
+      "total_stw_ms": 0.573,
+      "stw_overhead_percent": 0.00018433222568584788,
+      "pause_breakdown": {
+        "Pause Mark End": {
+          "count": 7,
+          "total_ms": 0.126
+        },
+        "Pause Mark Start": {
+          "count": 6,
+          "total_ms": 0.266
+        },
+        "Pause Relocate Start": {
+          "count": 7,
+          "total_ms": 0.181
+        }
+      },
+      "steady_state_start_s": 301.376099381,
+      "steady_state_end_s": 612.251783367,
+      "steady_state_wall_clock_span_ms": 310875.683986,
+      "iteration_total_duration_ms": 310851.777473,
+      "min_gc_uptime_s_in_steady_state_window": 607.111,
+      "max_gc_uptime_s_in_steady_state_window": 612.213
+    },
+    {
+      "benchmark": "naive-bayes",
+      "environment": "ZGC-Java-25",
+      "processed_gc_log_file_count": 6,
+      "processed_gc_log_files": [
+        "..\\experiment\\ZGC-java25-2026-04-24\\naive-bayes\\naive-bayes.gc.log",
+        "..\\experiment\\ZGC-java25-2026-04-24\\naive-bayes\\naive-bayes.gc.log.0",
+        "..\\experiment\\ZGC-java25-2026-04-24\\naive-bayes\\naive-bayes.gc.log.1",
+        "..\\experiment\\ZGC-java25-2026-04-24\\naive-bayes\\naive-bayes.gc.log.2",
+        "..\\experiment\\ZGC-java25-2026-04-24\\naive-bayes\\naive-bayes.gc.log.3",
+        "..\\experiment\\ZGC-java25-2026-04-24\\naive-bayes\\naive-bayes.gc.log.4"
+      ],
+      "missing_gc_log_files": [],
+      "stw_pause_count": 14,
+      "total_stw_ms": 0.524,
+      "stw_overhead_percent": 0.00016925865335657233,
+      "pause_breakdown": {
+        "Pause Mark End": {
+          "count": 5,
+          "total_ms": 0.113
+        },
+        "Pause Mark Start": {
+          "count": 4,
+          "total_ms": 0.258
+        },
+        "Pause Relocate Start": {
+          "count": 5,
+          "total_ms": 0.153
+        }
+      },
+      "steady_state_start_s": 301.082716854,
+      "steady_state_end_s": 610.695337186,
+      "steady_state_wall_clock_span_ms": 309612.620332,
+      "iteration_total_duration_ms": 309585.353309,
+      "min_gc_uptime_s_in_steady_state_window": 605.453,
+      "max_gc_uptime_s_in_steady_state_window": 610.068
+    },
+    {
+      "benchmark": "neo4j-analytics",
+      "environment": "G1GC-Java-21",
+      "processed_gc_log_file_count": 6,
+      "processed_gc_log_files": [
+        "..\\experiment\\G1GC-java21-2026-04-25\\neo4j-analytics\\neo4j-analytics.gc.log",
+        "..\\experiment\\G1GC-java21-2026-04-25\\neo4j-analytics\\neo4j-analytics.gc.log.0",
+        "..\\experiment\\G1GC-java21-2026-04-25\\neo4j-analytics\\neo4j-analytics.gc.log.1",
+        "..\\experiment\\G1GC-java21-2026-04-25\\neo4j-analytics\\neo4j-analytics.gc.log.2",
+        "..\\experiment\\G1GC-java21-2026-04-25\\neo4j-analytics\\neo4j-analytics.gc.log.3",
+        "..\\experiment\\G1GC-java21-2026-04-25\\neo4j-analytics\\neo4j-analytics.gc.log.4"
+      ],
+      "missing_gc_log_files": [],
+      "stw_pause_count": 41,
+      "total_stw_ms": 1885.946,
+      "stw_overhead_percent": 0.5787646706456673,
+      "pause_breakdown": {
+        "Pause Cleanup": {
+          "count": 1,
+          "total_ms": 11.306
+        },
+        "Pause Remark": {
+          "count": 1,
+          "total_ms": 52.497
+        },
+        "Pause Young": {
+          "count": 39,
+          "total_ms": 1822.143
+        }
+      },
+      "steady_state_start_s": 301.686144939,
+      "steady_state_end_s": 627.576515312,
+      "steady_state_wall_clock_span_ms": 325890.370373,
+      "iteration_total_duration_ms": 325857.139465,
+      "min_gc_uptime_s_in_steady_state_window": 303.443,
+      "max_gc_uptime_s_in_steady_state_window": 619.213
+    },
+    {
+      "benchmark": "neo4j-analytics",
+      "environment": "G1GC-Java-25",
+      "processed_gc_log_file_count": 6,
+      "processed_gc_log_files": [
+        "..\\experiment\\G1GC-java25-2026-04-24\\neo4j-analytics\\neo4j-analytics.gc.log",
+        "..\\experiment\\G1GC-java25-2026-04-24\\neo4j-analytics\\neo4j-analytics.gc.log.0",
+        "..\\experiment\\G1GC-java25-2026-04-24\\neo4j-analytics\\neo4j-analytics.gc.log.1",
+        "..\\experiment\\G1GC-java25-2026-04-24\\neo4j-analytics\\neo4j-analytics.gc.log.2",
+        "..\\experiment\\G1GC-java25-2026-04-24\\neo4j-analytics\\neo4j-analytics.gc.log.3",
+        "..\\experiment\\G1GC-java25-2026-04-24\\neo4j-analytics\\neo4j-analytics.gc.log.4"
+      ],
+      "missing_gc_log_files": [],
+      "stw_pause_count": 39,
+      "total_stw_ms": 1834.662,
+      "stw_overhead_percent": 0.5513992559429365,
+      "pause_breakdown": {
+        "Pause Young": {
+          "count": 39,
+          "total_ms": 1834.662
+        }
+      },
+      "steady_state_start_s": 300.897543895,
+      "steady_state_end_s": 633.659275205,
+      "steady_state_wall_clock_span_ms": 332761.73131,
+      "iteration_total_duration_ms": 332728.414162,
+      "min_gc_uptime_s_in_steady_state_window": 317.324,
+      "max_gc_uptime_s_in_steady_state_window": 627.366
+    },
+    {
+      "benchmark": "neo4j-analytics",
+      "environment": "ZGC-Java-21",
+      "processed_gc_log_file_count": 6,
+      "processed_gc_log_files": [
+        "..\\experiment\\ZGC-java21-2026-04-25\\neo4j-analytics\\neo4j-analytics.gc.log",
+        "..\\experiment\\ZGC-java21-2026-04-25\\neo4j-analytics\\neo4j-analytics.gc.log.0",
+        "..\\experiment\\ZGC-java21-2026-04-25\\neo4j-analytics\\neo4j-analytics.gc.log.1",
+        "..\\experiment\\ZGC-java21-2026-04-25\\neo4j-analytics\\neo4j-analytics.gc.log.2",
+        "..\\experiment\\ZGC-java21-2026-04-25\\neo4j-analytics\\neo4j-analytics.gc.log.3",
+        "..\\experiment\\ZGC-java21-2026-04-25\\neo4j-analytics\\neo4j-analytics.gc.log.4"
+      ],
+      "missing_gc_log_files": [],
+      "stw_pause_count": 14,
+      "total_stw_ms": 0.357,
+      "stw_overhead_percent": 0.00010744730629878365,
+      "pause_breakdown": {
+        "Pause Mark End": {
+          "count": 5,
+          "total_ms": 0.097
+        },
+        "Pause Mark Start": {
+          "count": 4,
+          "total_ms": 0.124
+        },
+        "Pause Relocate Start": {
+          "count": 5,
+          "total_ms": 0.136
+        }
+      },
+      "steady_state_start_s": 301.19076044,
+      "steady_state_end_s": 633.478272942,
+      "steady_state_wall_clock_span_ms": 332287.512502,
+      "iteration_total_duration_ms": 332255.886441,
+      "min_gc_uptime_s_in_steady_state_window": 598.537,
+      "max_gc_uptime_s_in_steady_state_window": 624.488
+    },
+    {
+      "benchmark": "neo4j-analytics",
+      "environment": "ZGC-Java-25",
+      "processed_gc_log_file_count": 6,
+      "processed_gc_log_files": [
+        "..\\experiment\\ZGC-java25-2026-04-24\\neo4j-analytics\\neo4j-analytics.gc.log",
+        "..\\experiment\\ZGC-java25-2026-04-24\\neo4j-analytics\\neo4j-analytics.gc.log.0",
+        "..\\experiment\\ZGC-java25-2026-04-24\\neo4j-analytics\\neo4j-analytics.gc.log.1",
+        "..\\experiment\\ZGC-java25-2026-04-24\\neo4j-analytics\\neo4j-analytics.gc.log.2",
+        "..\\experiment\\ZGC-java25-2026-04-24\\neo4j-analytics\\neo4j-analytics.gc.log.3",
+        "..\\experiment\\ZGC-java25-2026-04-24\\neo4j-analytics\\neo4j-analytics.gc.log.4"
+      ],
+      "missing_gc_log_files": [],
+      "stw_pause_count": 15,
+      "total_stw_ms": 0.364,
+      "stw_overhead_percent": 0.00010936690030642363,
+      "pause_breakdown": {
+        "Pause Mark End": {
+          "count": 5,
+          "total_ms": 0.083
+        },
+        "Pause Mark Start": {
+          "count": 4,
+          "total_ms": 0.148
+        },
+        "Pause Relocate Start": {
+          "count": 6,
+          "total_ms": 0.133
+        }
+      },
+      "steady_state_start_s": 300.082952917,
+      "steady_state_end_s": 632.940842088,
+      "steady_state_wall_clock_span_ms": 332857.889171,
+      "iteration_total_duration_ms": 332824.64711,
+      "min_gc_uptime_s_in_steady_state_window": 594.984,
+      "max_gc_uptime_s_in_steady_state_window": 630.869
+    },
+    {
+      "benchmark": "page-rank",
+      "environment": "G1GC-Java-21",
+      "processed_gc_log_file_count": 6,
+      "processed_gc_log_files": [
+        "..\\experiment\\G1GC-java21-2026-04-25\\page-rank\\page-rank.gc.log",
+        "..\\experiment\\G1GC-java21-2026-04-25\\page-rank\\page-rank.gc.log.0",
+        "..\\experiment\\G1GC-java21-2026-04-25\\page-rank\\page-rank.gc.log.1",
+        "..\\experiment\\G1GC-java21-2026-04-25\\page-rank\\page-rank.gc.log.2",
+        "..\\experiment\\G1GC-java21-2026-04-25\\page-rank\\page-rank.gc.log.3",
+        "..\\experiment\\G1GC-java21-2026-04-25\\page-rank\\page-rank.gc.log.4"
+      ],
+      "missing_gc_log_files": [],
+      "stw_pause_count": 68,
+      "total_stw_ms": 12558.241,
+      "stw_overhead_percent": 6.00592455163203,
+      "pause_breakdown": {
+        "Pause Cleanup": {
+          "count": 1,
+          "total_ms": 13.33
+        },
+        "Pause Remark": {
+          "count": 1,
+          "total_ms": 88.091
+        },
+        "Pause Young": {
+          "count": 66,
+          "total_ms": 12456.82
+        }
+      },
+      "steady_state_start_s": 303.065694259,
+      "steady_state_end_s": 619.274111678,
+      "steady_state_wall_clock_span_ms": 316208.417419,
+      "iteration_total_duration_ms": 209097.548463,
+      "min_gc_uptime_s_in_steady_state_window": 533.703,
+      "max_gc_uptime_s_in_steady_state_window": 618.001
+    },
+    {
+      "benchmark": "page-rank",
+      "environment": "G1GC-Java-25",
+      "processed_gc_log_file_count": 6,
+      "processed_gc_log_files": [
+        "..\\experiment\\G1GC-java25-2026-04-24\\page-rank\\page-rank.gc.log",
+        "..\\experiment\\G1GC-java25-2026-04-24\\page-rank\\page-rank.gc.log.0",
+        "..\\experiment\\G1GC-java25-2026-04-24\\page-rank\\page-rank.gc.log.1",
+        "..\\experiment\\G1GC-java25-2026-04-24\\page-rank\\page-rank.gc.log.2",
+        "..\\experiment\\G1GC-java25-2026-04-24\\page-rank\\page-rank.gc.log.3",
+        "..\\experiment\\G1GC-java25-2026-04-24\\page-rank\\page-rank.gc.log.4"
+      ],
+      "missing_gc_log_files": [],
+      "stw_pause_count": 68,
+      "total_stw_ms": 13186.6,
+      "stw_overhead_percent": 6.335375307645331,
+      "pause_breakdown": {
+        "Pause Cleanup": {
+          "count": 1,
+          "total_ms": 12.477
+        },
+        "Pause Remark": {
+          "count": 1,
+          "total_ms": 31.381
+        },
+        "Pause Young": {
+          "count": 66,
+          "total_ms": 13142.742
+        }
+      },
+      "steady_state_start_s": 301.876130186,
+      "steady_state_end_s": 618.986142511,
+      "steady_state_wall_clock_span_ms": 317110.012325,
+      "iteration_total_duration_ms": 208142.365048,
+      "min_gc_uptime_s_in_steady_state_window": 534.197,
+      "max_gc_uptime_s_in_steady_state_window": 618.027
+    },
+    {
+      "benchmark": "page-rank",
+      "environment": "ZGC-Java-21",
+      "processed_gc_log_file_count": 6,
+      "processed_gc_log_files": [
+        "..\\experiment\\ZGC-java21-2026-04-25\\page-rank\\page-rank.gc.log",
+        "..\\experiment\\ZGC-java21-2026-04-25\\page-rank\\page-rank.gc.log.0",
+        "..\\experiment\\ZGC-java21-2026-04-25\\page-rank\\page-rank.gc.log.1",
+        "..\\experiment\\ZGC-java21-2026-04-25\\page-rank\\page-rank.gc.log.2",
+        "..\\experiment\\ZGC-java21-2026-04-25\\page-rank\\page-rank.gc.log.3",
+        "..\\experiment\\ZGC-java21-2026-04-25\\page-rank\\page-rank.gc.log.4"
+      ],
+      "missing_gc_log_files": [],
+      "stw_pause_count": 17,
+      "total_stw_ms": 0.455,
+      "stw_overhead_percent": 0.00021924783265102283,
+      "pause_breakdown": {
+        "Pause Mark End": {
+          "count": 6,
+          "total_ms": 0.115
+        },
+        "Pause Mark Start": {
+          "count": 5,
+          "total_ms": 0.198
+        },
+        "Pause Relocate Start": {
+          "count": 6,
+          "total_ms": 0.142
+        }
+      },
+      "steady_state_start_s": 302.502214034,
+      "steady_state_end_s": 616.137266813,
+      "steady_state_wall_clock_span_ms": 313635.052779,
+      "iteration_total_duration_ms": 207527.707115,
+      "min_gc_uptime_s_in_steady_state_window": 579.942,
+      "max_gc_uptime_s_in_steady_state_window": 609.43
+    },
+    {
+      "benchmark": "page-rank",
+      "environment": "ZGC-Java-25",
+      "processed_gc_log_file_count": 6,
+      "processed_gc_log_files": [
+        "..\\experiment\\ZGC-java25-2026-04-24\\page-rank\\page-rank.gc.log",
+        "..\\experiment\\ZGC-java25-2026-04-24\\page-rank\\page-rank.gc.log.0",
+        "..\\experiment\\ZGC-java25-2026-04-24\\page-rank\\page-rank.gc.log.1",
+        "..\\experiment\\ZGC-java25-2026-04-24\\page-rank\\page-rank.gc.log.2",
+        "..\\experiment\\ZGC-java25-2026-04-24\\page-rank\\page-rank.gc.log.3",
+        "..\\experiment\\ZGC-java25-2026-04-24\\page-rank\\page-rank.gc.log.4"
+      ],
+      "missing_gc_log_files": [],
+      "stw_pause_count": 13,
+      "total_stw_ms": 0.409,
+      "stw_overhead_percent": 0.00019889262695642294,
+      "pause_breakdown": {
+        "Pause Mark End": {
+          "count": 4,
+          "total_ms": 0.091
+        },
+        "Pause Mark Start": {
+          "count": 4,
+          "total_ms": 0.165
+        },
+        "Pause Relocate Start": {
+          "count": 5,
+          "total_ms": 0.153
+        }
+      },
+      "steady_state_start_s": 303.001803938,
+      "steady_state_end_s": 615.420790076,
+      "steady_state_wall_clock_span_ms": 312418.986138,
+      "iteration_total_duration_ms": 205638.593174,
+      "min_gc_uptime_s_in_steady_state_window": 567.917,
+      "max_gc_uptime_s_in_steady_state_window": 609.742
+    },
+    {
+      "benchmark": "par-mnemonics",
+      "environment": "G1GC-Java-21",
+      "processed_gc_log_file_count": 6,
+      "processed_gc_log_files": [
+        "..\\experiment\\G1GC-java21-2026-04-25\\par-mnemonics\\par-mnemonics.gc.log",
+        "..\\experiment\\G1GC-java21-2026-04-25\\par-mnemonics\\par-mnemonics.gc.log.0",
+        "..\\experiment\\G1GC-java21-2026-04-25\\par-mnemonics\\par-mnemonics.gc.log.1",
+        "..\\experiment\\G1GC-java21-2026-04-25\\par-mnemonics\\par-mnemonics.gc.log.2",
+        "..\\experiment\\G1GC-java21-2026-04-25\\par-mnemonics\\par-mnemonics.gc.log.3",
+        "..\\experiment\\G1GC-java21-2026-04-25\\par-mnemonics\\par-mnemonics.gc.log.4"
+      ],
+      "missing_gc_log_files": [],
+      "stw_pause_count": 49,
+      "total_stw_ms": 2000.966,
+      "stw_overhead_percent": 0.7283235888794204,
+      "pause_breakdown": {
+        "Pause Young": {
+          "count": 49,
+          "total_ms": 2000.966
+        }
+      },
+      "steady_state_start_s": 302.582717631,
+      "steady_state_end_s": 603.590462542,
+      "steady_state_wall_clock_span_ms": 301007.744911,
+      "iteration_total_duration_ms": 274735.849635,
+      "min_gc_uptime_s_in_steady_state_window": 417.772,
+      "max_gc_uptime_s_in_steady_state_window": 601.951
+    },
+    {
+      "benchmark": "par-mnemonics",
+      "environment": "G1GC-Java-25",
+      "processed_gc_log_file_count": 6,
+      "processed_gc_log_files": [
+        "..\\experiment\\G1GC-java25-2026-04-24\\par-mnemonics\\par-mnemonics.gc.log",
+        "..\\experiment\\G1GC-java25-2026-04-24\\par-mnemonics\\par-mnemonics.gc.log.0",
+        "..\\experiment\\G1GC-java25-2026-04-24\\par-mnemonics\\par-mnemonics.gc.log.1",
+        "..\\experiment\\G1GC-java25-2026-04-24\\par-mnemonics\\par-mnemonics.gc.log.2",
+        "..\\experiment\\G1GC-java25-2026-04-24\\par-mnemonics\\par-mnemonics.gc.log.3",
+        "..\\experiment\\G1GC-java25-2026-04-24\\par-mnemonics\\par-mnemonics.gc.log.4"
+      ],
+      "missing_gc_log_files": [],
+      "stw_pause_count": 41,
+      "total_stw_ms": 1688.761,
+      "stw_overhead_percent": 0.616270487900877,
+      "pause_breakdown": {
+        "Pause Young": {
+          "count": 41,
+          "total_ms": 1688.761
+        }
+      },
+      "steady_state_start_s": 300.260474448,
+      "steady_state_end_s": 603.776848867,
+      "steady_state_wall_clock_span_ms": 303516.374419,
+      "iteration_total_duration_ms": 274029.185748,
+      "min_gc_uptime_s_in_steady_state_window": 439.621,
+      "max_gc_uptime_s_in_steady_state_window": 601.639
+    },
+    {
+      "benchmark": "par-mnemonics",
+      "environment": "ZGC-Java-21",
+      "processed_gc_log_file_count": 6,
+      "processed_gc_log_files": [
+        "..\\experiment\\ZGC-java21-2026-04-25\\par-mnemonics\\par-mnemonics.gc.log",
+        "..\\experiment\\ZGC-java21-2026-04-25\\par-mnemonics\\par-mnemonics.gc.log.0",
+        "..\\experiment\\ZGC-java21-2026-04-25\\par-mnemonics\\par-mnemonics.gc.log.1",
+        "..\\experiment\\ZGC-java21-2026-04-25\\par-mnemonics\\par-mnemonics.gc.log.2",
+        "..\\experiment\\ZGC-java21-2026-04-25\\par-mnemonics\\par-mnemonics.gc.log.3",
+        "..\\experiment\\ZGC-java21-2026-04-25\\par-mnemonics\\par-mnemonics.gc.log.4"
+      ],
+      "missing_gc_log_files": [],
+      "stw_pause_count": 14,
+      "total_stw_ms": 0.298,
+      "stw_overhead_percent": 0.0001077041195468832,
+      "pause_breakdown": {
+        "Pause Mark End": {
+          "count": 5,
+          "total_ms": 0.077
+        },
+        "Pause Mark Start": {
+          "count": 4,
+          "total_ms": 0.108
+        },
+        "Pause Relocate Start": {
+          "count": 5,
+          "total_ms": 0.113
+        }
+      },
+      "steady_state_start_s": 302.885010667,
+      "steady_state_end_s": 605.010997666,
+      "steady_state_wall_clock_span_ms": 302125.986999,
+      "iteration_total_duration_ms": 276683.938603,
+      "min_gc_uptime_s_in_steady_state_window": 586.042,
+      "max_gc_uptime_s_in_steady_state_window": 601.094
+    },
+    {
+      "benchmark": "par-mnemonics",
+      "environment": "ZGC-Java-25",
+      "processed_gc_log_file_count": 6,
+      "processed_gc_log_files": [
+        "..\\experiment\\ZGC-java25-2026-04-24\\par-mnemonics\\par-mnemonics.gc.log",
+        "..\\experiment\\ZGC-java25-2026-04-24\\par-mnemonics\\par-mnemonics.gc.log.0",
+        "..\\experiment\\ZGC-java25-2026-04-24\\par-mnemonics\\par-mnemonics.gc.log.1",
+        "..\\experiment\\ZGC-java25-2026-04-24\\par-mnemonics\\par-mnemonics.gc.log.2",
+        "..\\experiment\\ZGC-java25-2026-04-24\\par-mnemonics\\par-mnemonics.gc.log.3",
+        "..\\experiment\\ZGC-java25-2026-04-24\\par-mnemonics\\par-mnemonics.gc.log.4"
+      ],
+      "missing_gc_log_files": [],
+      "stw_pause_count": 14,
+      "total_stw_ms": 0.366,
+      "stw_overhead_percent": 0.0001311077555984158,
+      "pause_breakdown": {
+        "Pause Mark End": {
+          "count": 5,
+          "total_ms": 0.084
+        },
+        "Pause Mark Start": {
+          "count": 4,
+          "total_ms": 0.136
+        },
+        "Pause Relocate Start": {
+          "count": 5,
+          "total_ms": 0.146
+        }
+      },
+      "steady_state_start_s": 301.404653276,
+      "steady_state_end_s": 605.026878214,
+      "steady_state_wall_clock_span_ms": 303622.224938,
+      "iteration_total_duration_ms": 279159.686877,
+      "min_gc_uptime_s_in_steady_state_window": 589.877,
+      "max_gc_uptime_s_in_steady_state_window": 601.128
+    },
+    {
+      "benchmark": "philosophers",
+      "environment": "G1GC-Java-21",
+      "processed_gc_log_file_count": 6,
+      "processed_gc_log_files": [
+        "..\\experiment\\G1GC-java21-2026-04-25\\philosophers\\philosophers.gc.log",
+        "..\\experiment\\G1GC-java21-2026-04-25\\philosophers\\philosophers.gc.log.0",
+        "..\\experiment\\G1GC-java21-2026-04-25\\philosophers\\philosophers.gc.log.1",
+        "..\\experiment\\G1GC-java21-2026-04-25\\philosophers\\philosophers.gc.log.2",
+        "..\\experiment\\G1GC-java21-2026-04-25\\philosophers\\philosophers.gc.log.3",
+        "..\\experiment\\G1GC-java21-2026-04-25\\philosophers\\philosophers.gc.log.4"
+      ],
+      "missing_gc_log_files": [],
+      "stw_pause_count": 40,
+      "total_stw_ms": 1726.443,
+      "stw_overhead_percent": 0.5699872725422829,
+      "pause_breakdown": {
+        "Pause Young": {
+          "count": 40,
+          "total_ms": 1726.443
+        }
+      },
+      "steady_state_start_s": 300.722298426,
+      "steady_state_end_s": 603.634245091,
+      "steady_state_wall_clock_span_ms": 302911.946665,
+      "iteration_total_duration_ms": 302891.500068,
+      "min_gc_uptime_s_in_steady_state_window": 385.689,
+      "max_gc_uptime_s_in_steady_state_window": 601.751
+    },
+    {
+      "benchmark": "philosophers",
+      "environment": "G1GC-Java-25",
+      "processed_gc_log_file_count": 6,
+      "processed_gc_log_files": [
+        "..\\experiment\\G1GC-java25-2026-04-24\\philosophers\\philosophers.gc.log",
+        "..\\experiment\\G1GC-java25-2026-04-24\\philosophers\\philosophers.gc.log.0",
+        "..\\experiment\\G1GC-java25-2026-04-24\\philosophers\\philosophers.gc.log.1",
+        "..\\experiment\\G1GC-java25-2026-04-24\\philosophers\\philosophers.gc.log.2",
+        "..\\experiment\\G1GC-java25-2026-04-24\\philosophers\\philosophers.gc.log.3",
+        "..\\experiment\\G1GC-java25-2026-04-24\\philosophers\\philosophers.gc.log.4"
+      ],
+      "missing_gc_log_files": [],
+      "stw_pause_count": 43,
+      "total_stw_ms": 1923.903,
+      "stw_overhead_percent": 0.6344075899299433,
+      "pause_breakdown": {
+        "Pause Young": {
+          "count": 43,
+          "total_ms": 1923.903
+        }
+      },
+      "steady_state_start_s": 300.195204382,
+      "steady_state_end_s": 603.474462061,
+      "steady_state_wall_clock_span_ms": 303279.257679,
+      "iteration_total_duration_ms": 303259.770302,
+      "min_gc_uptime_s_in_steady_state_window": 347.576,
+      "max_gc_uptime_s_in_steady_state_window": 601.093
+    },
+    {
+      "benchmark": "philosophers",
+      "environment": "ZGC-Java-21",
+      "processed_gc_log_file_count": 6,
+      "processed_gc_log_files": [
+        "..\\experiment\\ZGC-java21-2026-04-25\\philosophers\\philosophers.gc.log",
+        "..\\experiment\\ZGC-java21-2026-04-25\\philosophers\\philosophers.gc.log.0",
+        "..\\experiment\\ZGC-java21-2026-04-25\\philosophers\\philosophers.gc.log.1",
+        "..\\experiment\\ZGC-java21-2026-04-25\\philosophers\\philosophers.gc.log.2",
+        "..\\experiment\\ZGC-java21-2026-04-25\\philosophers\\philosophers.gc.log.3",
+        "..\\experiment\\ZGC-java21-2026-04-25\\philosophers\\philosophers.gc.log.4"
+      ],
+      "missing_gc_log_files": [],
+      "stw_pause_count": 14,
+      "total_stw_ms": 0.425,
+      "stw_overhead_percent": 0.00014039372191119288,
+      "pause_breakdown": {
+        "Pause Mark End": {
+          "count": 5,
+          "total_ms": 0.085
+        },
+        "Pause Mark Start": {
+          "count": 4,
+          "total_ms": 0.188
+        },
+        "Pause Relocate Start": {
+          "count": 5,
+          "total_ms": 0.152
+        }
+      },
+      "steady_state_start_s": 301.033179939,
+      "steady_state_end_s": 603.776809208,
+      "steady_state_wall_clock_span_ms": 302743.629269,
+      "iteration_total_duration_ms": 302720.089057,
+      "min_gc_uptime_s_in_steady_state_window": 583.21,
+      "max_gc_uptime_s_in_steady_state_window": 599.418
+    },
+    {
+      "benchmark": "philosophers",
+      "environment": "ZGC-Java-25",
+      "processed_gc_log_file_count": 6,
+      "processed_gc_log_files": [
+        "..\\experiment\\ZGC-java25-2026-04-24\\philosophers\\philosophers.gc.log",
+        "..\\experiment\\ZGC-java25-2026-04-24\\philosophers\\philosophers.gc.log.0",
+        "..\\experiment\\ZGC-java25-2026-04-24\\philosophers\\philosophers.gc.log.1",
+        "..\\experiment\\ZGC-java25-2026-04-24\\philosophers\\philosophers.gc.log.2",
+        "..\\experiment\\ZGC-java25-2026-04-24\\philosophers\\philosophers.gc.log.3",
+        "..\\experiment\\ZGC-java25-2026-04-24\\philosophers\\philosophers.gc.log.4"
+      ],
+      "missing_gc_log_files": [],
+      "stw_pause_count": 12,
+      "total_stw_ms": 0.375,
+      "stw_overhead_percent": 0.0001241593515223103,
+      "pause_breakdown": {
+        "Pause Mark End": {
+          "count": 4,
+          "total_ms": 0.085
+        },
+        "Pause Mark Start": {
+          "count": 3,
+          "total_ms": 0.135
+        },
+        "Pause Relocate Start": {
+          "count": 5,
+          "total_ms": 0.155
+        }
+      },
+      "steady_state_start_s": 301.071964192,
+      "steady_state_end_s": 603.127964767,
+      "steady_state_wall_clock_span_ms": 302056.000575,
+      "iteration_total_duration_ms": 302031.21666,
+      "min_gc_uptime_s_in_steady_state_window": 579.524,
+      "max_gc_uptime_s_in_steady_state_window": 598.26
+    },
+    {
+      "benchmark": "reactors",
+      "environment": "G1GC-Java-21",
+      "processed_gc_log_file_count": 6,
+      "processed_gc_log_files": [
+        "..\\experiment\\G1GC-java21-2026-04-25\\reactors\\reactors.gc.log",
+        "..\\experiment\\G1GC-java21-2026-04-25\\reactors\\reactors.gc.log.0",
+        "..\\experiment\\G1GC-java21-2026-04-25\\reactors\\reactors.gc.log.1",
+        "..\\experiment\\G1GC-java21-2026-04-25\\reactors\\reactors.gc.log.2",
+        "..\\experiment\\G1GC-java21-2026-04-25\\reactors\\reactors.gc.log.3",
+        "..\\experiment\\G1GC-java21-2026-04-25\\reactors\\reactors.gc.log.4"
+      ],
+      "missing_gc_log_files": [],
+      "stw_pause_count": 19,
+      "total_stw_ms": 1381.02,
+      "stw_overhead_percent": 0.4455826847476198,
+      "pause_breakdown": {
+        "Pause Young": {
+          "count": 19,
+          "total_ms": 1381.02
+        }
+      },
+      "steady_state_start_s": 308.778048202,
+      "steady_state_end_s": 618.722140111,
+      "steady_state_wall_clock_span_ms": 309944.091909,
+      "iteration_total_duration_ms": 309935.741956,
+      "min_gc_uptime_s_in_steady_state_window": 310.961,
+      "max_gc_uptime_s_in_steady_state_window": 612.159
+    },
+    {
+      "benchmark": "reactors",
+      "environment": "G1GC-Java-25",
+      "processed_gc_log_file_count": 6,
+      "processed_gc_log_files": [
+        "..\\experiment\\G1GC-java25-2026-04-24\\reactors\\reactors.gc.log",
+        "..\\experiment\\G1GC-java25-2026-04-24\\reactors\\reactors.gc.log.0",
+        "..\\experiment\\G1GC-java25-2026-04-24\\reactors\\reactors.gc.log.1",
+        "..\\experiment\\G1GC-java25-2026-04-24\\reactors\\reactors.gc.log.2",
+        "..\\experiment\\G1GC-java25-2026-04-24\\reactors\\reactors.gc.log.3",
+        "..\\experiment\\G1GC-java25-2026-04-24\\reactors\\reactors.gc.log.4"
+      ],
+      "missing_gc_log_files": [],
+      "stw_pause_count": 16,
+      "total_stw_ms": 1389.169,
+      "stw_overhead_percent": 0.43845221358875003,
+      "pause_breakdown": {
+        "Pause Young": {
+          "count": 16,
+          "total_ms": 1389.169
+        }
+      },
+      "steady_state_start_s": 300.076894678,
+      "steady_state_end_s": 616.917915008,
+      "steady_state_wall_clock_span_ms": 316841.02033,
+      "iteration_total_duration_ms": 316834.755749,
+      "min_gc_uptime_s_in_steady_state_window": 308.911,
+      "max_gc_uptime_s_in_steady_state_window": 597.786
+    },
+    {
+      "benchmark": "reactors",
+      "environment": "ZGC-Java-21",
+      "processed_gc_log_file_count": 6,
+      "processed_gc_log_files": [
+        "..\\experiment\\ZGC-java21-2026-04-25\\reactors\\reactors.gc.log",
+        "..\\experiment\\ZGC-java21-2026-04-25\\reactors\\reactors.gc.log.0",
+        "..\\experiment\\ZGC-java21-2026-04-25\\reactors\\reactors.gc.log.1",
+        "..\\experiment\\ZGC-java21-2026-04-25\\reactors\\reactors.gc.log.2",
+        "..\\experiment\\ZGC-java21-2026-04-25\\reactors\\reactors.gc.log.3",
+        "..\\experiment\\ZGC-java21-2026-04-25\\reactors\\reactors.gc.log.4"
+      ],
+      "missing_gc_log_files": [],
+      "stw_pause_count": 23,
+      "total_stw_ms": 0.583,
+      "stw_overhead_percent": 0.0001898582906792489,
+      "pause_breakdown": {
+        "Pause Mark End": {
+          "count": 8,
+          "total_ms": 0.133
+        },
+        "Pause Mark Start": {
+          "count": 7,
+          "total_ms": 0.287
+        },
+        "Pause Relocate Start": {
+          "count": 8,
+          "total_ms": 0.163
+        }
+      },
+      "steady_state_start_s": 308.451209518,
+      "steady_state_end_s": 615.532472983,
+      "steady_state_wall_clock_span_ms": 307081.263465,
+      "iteration_total_duration_ms": 307071.130744,
+      "min_gc_uptime_s_in_steady_state_window": 542.25,
+      "max_gc_uptime_s_in_steady_state_window": 603.227
+    },
+    {
+      "benchmark": "reactors",
+      "environment": "ZGC-Java-25",
+      "processed_gc_log_file_count": 6,
+      "processed_gc_log_files": [
+        "..\\experiment\\ZGC-java25-2026-04-24\\reactors\\reactors.gc.log",
+        "..\\experiment\\ZGC-java25-2026-04-24\\reactors\\reactors.gc.log.0",
+        "..\\experiment\\ZGC-java25-2026-04-24\\reactors\\reactors.gc.log.1",
+        "..\\experiment\\ZGC-java25-2026-04-24\\reactors\\reactors.gc.log.2",
+        "..\\experiment\\ZGC-java25-2026-04-24\\reactors\\reactors.gc.log.3",
+        "..\\experiment\\ZGC-java25-2026-04-24\\reactors\\reactors.gc.log.4"
+      ],
+      "missing_gc_log_files": [],
+      "stw_pause_count": 23,
+      "total_stw_ms": 0.646,
+      "stw_overhead_percent": 0.00020892302881945856,
+      "pause_breakdown": {
+        "Pause Mark End": {
+          "count": 8,
+          "total_ms": 0.143
+        },
+        "Pause Mark Start": {
+          "count": 7,
+          "total_ms": 0.308
+        },
+        "Pause Relocate Start": {
+          "count": 8,
+          "total_ms": 0.195
+        }
+      },
+      "steady_state_start_s": 303.197503736,
+      "steady_state_end_s": 612.410882474,
+      "steady_state_wall_clock_span_ms": 309213.378738,
+      "iteration_total_duration_ms": 309204.784006,
+      "min_gc_uptime_s_in_steady_state_window": 534.622,
+      "max_gc_uptime_s_in_steady_state_window": 602.203
+    },
+    {
+      "benchmark": "rx-scrabble",
+      "environment": "G1GC-Java-21",
+      "processed_gc_log_file_count": 6,
+      "processed_gc_log_files": [
+        "..\\experiment\\G1GC-java21-2026-04-25\\rx-scrabble\\rx-scrabble.gc.log",
+        "..\\experiment\\G1GC-java21-2026-04-25\\rx-scrabble\\rx-scrabble.gc.log.0",
+        "..\\experiment\\G1GC-java21-2026-04-25\\rx-scrabble\\rx-scrabble.gc.log.1",
+        "..\\experiment\\G1GC-java21-2026-04-25\\rx-scrabble\\rx-scrabble.gc.log.2",
+        "..\\experiment\\G1GC-java21-2026-04-25\\rx-scrabble\\rx-scrabble.gc.log.3",
+        "..\\experiment\\G1GC-java21-2026-04-25\\rx-scrabble\\rx-scrabble.gc.log.4"
+      ],
+      "missing_gc_log_files": [],
+      "stw_pause_count": 39,
+      "total_stw_ms": 1381.654,
+      "stw_overhead_percent": 0.474700426942127,
+      "pause_breakdown": {
+        "Pause Young": {
+          "count": 39,
+          "total_ms": 1381.654
+        }
+      },
+      "steady_state_start_s": 300.097093924,
+      "steady_state_end_s": 601.780611976,
+      "steady_state_wall_clock_span_ms": 301683.518052,
+      "iteration_total_duration_ms": 291058.090868,
+      "min_gc_uptime_s_in_steady_state_window": 304.924,
+      "max_gc_uptime_s_in_steady_state_window": 598.465
+    },
+    {
+      "benchmark": "rx-scrabble",
+      "environment": "G1GC-Java-25",
+      "processed_gc_log_file_count": 6,
+      "processed_gc_log_files": [
+        "..\\experiment\\G1GC-java25-2026-04-24\\rx-scrabble\\rx-scrabble.gc.log",
+        "..\\experiment\\G1GC-java25-2026-04-24\\rx-scrabble\\rx-scrabble.gc.log.0",
+        "..\\experiment\\G1GC-java25-2026-04-24\\rx-scrabble\\rx-scrabble.gc.log.1",
+        "..\\experiment\\G1GC-java25-2026-04-24\\rx-scrabble\\rx-scrabble.gc.log.2",
+        "..\\experiment\\G1GC-java25-2026-04-24\\rx-scrabble\\rx-scrabble.gc.log.3",
+        "..\\experiment\\G1GC-java25-2026-04-24\\rx-scrabble\\rx-scrabble.gc.log.4"
+      ],
+      "missing_gc_log_files": [],
+      "stw_pause_count": 41,
+      "total_stw_ms": 1504.657,
+      "stw_overhead_percent": 0.5172510851912577,
+      "pause_breakdown": {
+        "Pause Young": {
+          "count": 41,
+          "total_ms": 1504.657
+        }
+      },
+      "steady_state_start_s": 300.007635275,
+      "steady_state_end_s": 601.740519494,
+      "steady_state_wall_clock_span_ms": 301732.884219,
+      "iteration_total_duration_ms": 290894.894777,
+      "min_gc_uptime_s_in_steady_state_window": 300.838,
+      "max_gc_uptime_s_in_steady_state_window": 599.98
+    },
+    {
+      "benchmark": "rx-scrabble",
+      "environment": "ZGC-Java-21",
+      "processed_gc_log_file_count": 6,
+      "processed_gc_log_files": [
+        "..\\experiment\\ZGC-java21-2026-04-25\\rx-scrabble\\rx-scrabble.gc.log",
+        "..\\experiment\\ZGC-java21-2026-04-25\\rx-scrabble\\rx-scrabble.gc.log.0",
+        "..\\experiment\\ZGC-java21-2026-04-25\\rx-scrabble\\rx-scrabble.gc.log.1",
+        "..\\experiment\\ZGC-java21-2026-04-25\\rx-scrabble\\rx-scrabble.gc.log.2",
+        "..\\experiment\\ZGC-java21-2026-04-25\\rx-scrabble\\rx-scrabble.gc.log.3",
+        "..\\experiment\\ZGC-java21-2026-04-25\\rx-scrabble\\rx-scrabble.gc.log.4"
+      ],
+      "missing_gc_log_files": [],
+      "stw_pause_count": 17,
+      "total_stw_ms": 0.341,
+      "stw_overhead_percent": 0.00011811125865114069,
+      "pause_breakdown": {
+        "Pause Mark End": {
+          "count": 6,
+          "total_ms": 0.079
+        },
+        "Pause Mark Start": {
+          "count": 5,
+          "total_ms": 0.146
+        },
+        "Pause Relocate Start": {
+          "count": 6,
+          "total_ms": 0.116
+        }
+      },
+      "steady_state_start_s": 300.061729088,
+      "steady_state_end_s": 601.945983018,
+      "steady_state_wall_clock_span_ms": 301884.25393,
+      "iteration_total_duration_ms": 288710.834085,
+      "min_gc_uptime_s_in_steady_state_window": 569.843,
+      "max_gc_uptime_s_in_steady_state_window": 601.865
+    },
+    {
+      "benchmark": "rx-scrabble",
+      "environment": "ZGC-Java-25",
+      "processed_gc_log_file_count": 6,
+      "processed_gc_log_files": [
+        "..\\experiment\\ZGC-java25-2026-04-24\\rx-scrabble\\rx-scrabble.gc.log",
+        "..\\experiment\\ZGC-java25-2026-04-24\\rx-scrabble\\rx-scrabble.gc.log.0",
+        "..\\experiment\\ZGC-java25-2026-04-24\\rx-scrabble\\rx-scrabble.gc.log.1",
+        "..\\experiment\\ZGC-java25-2026-04-24\\rx-scrabble\\rx-scrabble.gc.log.2",
+        "..\\experiment\\ZGC-java25-2026-04-24\\rx-scrabble\\rx-scrabble.gc.log.3",
+        "..\\experiment\\ZGC-java25-2026-04-24\\rx-scrabble\\rx-scrabble.gc.log.4"
+      ],
+      "missing_gc_log_files": [],
+      "stw_pause_count": 17,
+      "total_stw_ms": 0.392,
+      "stw_overhead_percent": 0.00013579844087247323,
+      "pause_breakdown": {
+        "Pause Mark End": {
+          "count": 6,
+          "total_ms": 0.091
+        },
+        "Pause Mark Start": {
+          "count": 4,
+          "total_ms": 0.141
+        },
+        "Pause Relocate Start": {
+          "count": 7,
+          "total_ms": 0.16
+        }
+      },
+      "steady_state_start_s": 300.045273009,
+      "steady_state_end_s": 602.049545462,
+      "steady_state_wall_clock_span_ms": 302004.272453,
+      "iteration_total_duration_ms": 288663.107972,
+      "min_gc_uptime_s_in_steady_state_window": 566.653,
+      "max_gc_uptime_s_in_steady_state_window": 599.828
+    },
+    {
+      "benchmark": "scala-doku",
+      "environment": "G1GC-Java-21",
+      "processed_gc_log_file_count": 1,
+      "processed_gc_log_files": [
+        "..\\experiment\\G1GC-java21-2026-04-25\\scala-doku\\scala-doku.gc.log"
+      ],
+      "missing_gc_log_files": [
+        "..\\experiment\\G1GC-java21-2026-04-25\\scala-doku\\scala-doku.gc.log.0",
+        "..\\experiment\\G1GC-java21-2026-04-25\\scala-doku\\scala-doku.gc.log.1",
+        "..\\experiment\\G1GC-java21-2026-04-25\\scala-doku\\scala-doku.gc.log.2",
+        "..\\experiment\\G1GC-java21-2026-04-25\\scala-doku\\scala-doku.gc.log.3",
+        "..\\experiment\\G1GC-java21-2026-04-25\\scala-doku\\scala-doku.gc.log.4"
+      ],
+      "stw_pause_count": 2,
+      "total_stw_ms": 191.258,
+      "stw_overhead_percent": 0.06340847105611964,
+      "pause_breakdown": {
+        "Pause Young": {
+          "count": 2,
+          "total_ms": 191.258
+        }
+      },
+      "steady_state_start_s": 302.243126029,
+      "steady_state_end_s": 603.892591303,
+      "steady_state_wall_clock_span_ms": 301649.465274,
+      "iteration_total_duration_ms": 301628.46827,
+      "min_gc_uptime_s_in_steady_state_window": 346.748,
+      "max_gc_uptime_s_in_steady_state_window": 500.063
+    },
+    {
+      "benchmark": "scala-doku",
+      "environment": "G1GC-Java-25",
+      "processed_gc_log_file_count": 2,
+      "processed_gc_log_files": [
+        "..\\experiment\\G1GC-java25-2026-04-24\\scala-doku\\scala-doku.gc.log",
+        "..\\experiment\\G1GC-java25-2026-04-24\\scala-doku\\scala-doku.gc.log.0"
+      ],
+      "missing_gc_log_files": [
+        "..\\experiment\\G1GC-java25-2026-04-24\\scala-doku\\scala-doku.gc.log.1",
+        "..\\experiment\\G1GC-java25-2026-04-24\\scala-doku\\scala-doku.gc.log.2",
+        "..\\experiment\\G1GC-java25-2026-04-24\\scala-doku\\scala-doku.gc.log.3",
+        "..\\experiment\\G1GC-java25-2026-04-24\\scala-doku\\scala-doku.gc.log.4"
+      ],
+      "stw_pause_count": 3,
+      "total_stw_ms": 288.337,
+      "stw_overhead_percent": 0.09487877280439405,
+      "pause_breakdown": {
+        "Pause Young": {
+          "count": 3,
+          "total_ms": 288.337
+        }
+      },
+      "steady_state_start_s": 300.433946264,
+      "steady_state_end_s": 604.356703445,
+      "steady_state_wall_clock_span_ms": 303922.757181,
+      "iteration_total_duration_ms": 303900.431548,
+      "min_gc_uptime_s_in_steady_state_window": 316.382,
+      "max_gc_uptime_s_in_steady_state_window": 591.023
+    },
+    {
+      "benchmark": "scala-doku",
+      "environment": "ZGC-Java-21",
+      "processed_gc_log_file_count": 6,
+      "processed_gc_log_files": [
+        "..\\experiment\\ZGC-java21-2026-04-25\\scala-doku\\scala-doku.gc.log",
+        "..\\experiment\\ZGC-java21-2026-04-25\\scala-doku\\scala-doku.gc.log.0",
+        "..\\experiment\\ZGC-java21-2026-04-25\\scala-doku\\scala-doku.gc.log.1",
+        "..\\experiment\\ZGC-java21-2026-04-25\\scala-doku\\scala-doku.gc.log.2",
+        "..\\experiment\\ZGC-java21-2026-04-25\\scala-doku\\scala-doku.gc.log.3",
+        "..\\experiment\\ZGC-java21-2026-04-25\\scala-doku\\scala-doku.gc.log.4"
+      ],
+      "missing_gc_log_files": [],
+      "stw_pause_count": 60,
+      "total_stw_ms": 1.926,
+      "stw_overhead_percent": 0.000632803492755201,
+      "pause_breakdown": {
+        "Pause Mark End": {
+          "count": 24,
+          "total_ms": 0.466
+        },
+        "Pause Mark Start": {
+          "count": 12,
+          "total_ms": 0.775
+        },
+        "Pause Relocate Start": {
+          "count": 24,
+          "total_ms": 0.685
+        }
+      },
+      "steady_state_start_s": 302.472542913,
+      "steady_state_end_s": 606.855860307,
+      "steady_state_wall_clock_span_ms": 304383.317394,
+      "iteration_total_duration_ms": 304359.887714,
+      "min_gc_uptime_s_in_steady_state_window": 322.332,
+      "max_gc_uptime_s_in_steady_state_window": 587.097
+    },
+    {
+      "benchmark": "scala-doku",
+      "environment": "ZGC-Java-25",
+      "processed_gc_log_file_count": 6,
+      "processed_gc_log_files": [
+        "..\\experiment\\ZGC-java25-2026-04-24\\scala-doku\\scala-doku.gc.log",
+        "..\\experiment\\ZGC-java25-2026-04-24\\scala-doku\\scala-doku.gc.log.0",
+        "..\\experiment\\ZGC-java25-2026-04-24\\scala-doku\\scala-doku.gc.log.1",
+        "..\\experiment\\ZGC-java25-2026-04-24\\scala-doku\\scala-doku.gc.log.2",
+        "..\\experiment\\ZGC-java25-2026-04-24\\scala-doku\\scala-doku.gc.log.3",
+        "..\\experiment\\ZGC-java25-2026-04-24\\scala-doku\\scala-doku.gc.log.4"
+      ],
+      "missing_gc_log_files": [],
+      "stw_pause_count": 80,
+      "total_stw_ms": 2.788,
+      "stw_overhead_percent": 0.000923023421984712,
+      "pause_breakdown": {
+        "Pause Mark End": {
+          "count": 32,
+          "total_ms": 0.692
+        },
+        "Pause Mark Start": {
+          "count": 16,
+          "total_ms": 1.071
+        },
+        "Pause Relocate Start": {
+          "count": 32,
+          "total_ms": 1.025
+        }
+      },
+      "steady_state_start_s": 302.11812374,
+      "steady_state_end_s": 604.194377944,
+      "steady_state_wall_clock_span_ms": 302076.254204,
+      "iteration_total_duration_ms": 302050.840054,
+      "min_gc_uptime_s_in_steady_state_window": 304.529,
+      "max_gc_uptime_s_in_steady_state_window": 587.894
+    },
+    {
+      "benchmark": "scala-kmeans",
+      "environment": "G1GC-Java-21",
+      "processed_gc_log_file_count": 2,
+      "processed_gc_log_files": [
+        "..\\experiment\\G1GC-java21-2026-04-25\\scala-kmeans\\scala-kmeans.gc.log",
+        "..\\experiment\\G1GC-java21-2026-04-25\\scala-kmeans\\scala-kmeans.gc.log.0"
+      ],
+      "missing_gc_log_files": [
+        "..\\experiment\\G1GC-java21-2026-04-25\\scala-kmeans\\scala-kmeans.gc.log.1",
+        "..\\experiment\\G1GC-java21-2026-04-25\\scala-kmeans\\scala-kmeans.gc.log.2",
+        "..\\experiment\\G1GC-java21-2026-04-25\\scala-kmeans\\scala-kmeans.gc.log.3",
+        "..\\experiment\\G1GC-java21-2026-04-25\\scala-kmeans\\scala-kmeans.gc.log.4"
+      ],
+      "stw_pause_count": 5,
+      "total_stw_ms": 333.332,
+      "stw_overhead_percent": 0.11072238422971835,
+      "pause_breakdown": {
+        "Pause Young": {
+          "count": 5,
+          "total_ms": 333.332
+        }
+      },
+      "steady_state_start_s": 300.075460272,
+      "steady_state_end_s": 601.23612754,
+      "steady_state_wall_clock_span_ms": 301160.667268,
+      "iteration_total_duration_ms": 301052.043197,
+      "min_gc_uptime_s_in_steady_state_window": 305.052,
+      "max_gc_uptime_s_in_steady_state_window": 570.959
+    },
+    {
+      "benchmark": "scala-kmeans",
+      "environment": "G1GC-Java-25",
+      "processed_gc_log_file_count": 2,
+      "processed_gc_log_files": [
+        "..\\experiment\\G1GC-java25-2026-04-24\\scala-kmeans\\scala-kmeans.gc.log",
+        "..\\experiment\\G1GC-java25-2026-04-24\\scala-kmeans\\scala-kmeans.gc.log.0"
+      ],
+      "missing_gc_log_files": [
+        "..\\experiment\\G1GC-java25-2026-04-24\\scala-kmeans\\scala-kmeans.gc.log.1",
+        "..\\experiment\\G1GC-java25-2026-04-24\\scala-kmeans\\scala-kmeans.gc.log.2",
+        "..\\experiment\\G1GC-java25-2026-04-24\\scala-kmeans\\scala-kmeans.gc.log.3",
+        "..\\experiment\\G1GC-java25-2026-04-24\\scala-kmeans\\scala-kmeans.gc.log.4"
+      ],
+      "stw_pause_count": 4,
+      "total_stw_ms": 257.941,
+      "stw_overhead_percent": 0.08562809789492809,
+      "pause_breakdown": {
+        "Pause Young": {
+          "count": 4,
+          "total_ms": 257.941
+        }
+      },
+      "steady_state_start_s": 300.089019812,
+      "steady_state_end_s": 601.424848074,
+      "steady_state_wall_clock_span_ms": 301335.828262,
+      "iteration_total_duration_ms": 301234.064917,
+      "min_gc_uptime_s_in_steady_state_window": 363.704,
+      "max_gc_uptime_s_in_steady_state_window": 563.878
+    },
+    {
+      "benchmark": "scala-kmeans",
+      "environment": "ZGC-Java-21",
+      "processed_gc_log_file_count": 6,
+      "processed_gc_log_files": [
+        "..\\experiment\\ZGC-java21-2026-04-25\\scala-kmeans\\scala-kmeans.gc.log",
+        "..\\experiment\\ZGC-java21-2026-04-25\\scala-kmeans\\scala-kmeans.gc.log.0",
+        "..\\experiment\\ZGC-java21-2026-04-25\\scala-kmeans\\scala-kmeans.gc.log.1",
+        "..\\experiment\\ZGC-java21-2026-04-25\\scala-kmeans\\scala-kmeans.gc.log.2",
+        "..\\experiment\\ZGC-java21-2026-04-25\\scala-kmeans\\scala-kmeans.gc.log.3",
+        "..\\experiment\\ZGC-java21-2026-04-25\\scala-kmeans\\scala-kmeans.gc.log.4"
+      ],
+      "missing_gc_log_files": [],
+      "stw_pause_count": 30,
+      "total_stw_ms": 0.879,
+      "stw_overhead_percent": 0.0002919252107930865,
+      "pause_breakdown": {
+        "Pause Mark End": {
+          "count": 12,
+          "total_ms": 0.198
+        },
+        "Pause Mark Start": {
+          "count": 6,
+          "total_ms": 0.241
+        },
+        "Pause Relocate Start": {
+          "count": 12,
+          "total_ms": 0.44
+        }
+      },
+      "steady_state_start_s": 300.181264814,
+      "steady_state_end_s": 601.39106405,
+      "steady_state_wall_clock_span_ms": 301209.799236,
+      "iteration_total_duration_ms": 301104.518384,
+      "min_gc_uptime_s_in_steady_state_window": 528.89,
+      "max_gc_uptime_s_in_steady_state_window": 595.064
+    },
+    {
+      "benchmark": "scala-kmeans",
+      "environment": "ZGC-Java-25",
+      "processed_gc_log_file_count": 6,
+      "processed_gc_log_files": [
+        "..\\experiment\\ZGC-java25-2026-04-24\\scala-kmeans\\scala-kmeans.gc.log",
+        "..\\experiment\\ZGC-java25-2026-04-24\\scala-kmeans\\scala-kmeans.gc.log.0",
+        "..\\experiment\\ZGC-java25-2026-04-24\\scala-kmeans\\scala-kmeans.gc.log.1",
+        "..\\experiment\\ZGC-java25-2026-04-24\\scala-kmeans\\scala-kmeans.gc.log.2",
+        "..\\experiment\\ZGC-java25-2026-04-24\\scala-kmeans\\scala-kmeans.gc.log.3",
+        "..\\experiment\\ZGC-java25-2026-04-24\\scala-kmeans\\scala-kmeans.gc.log.4"
+      ],
+      "missing_gc_log_files": [],
+      "stw_pause_count": 115,
+      "total_stw_ms": 3.273,
+      "stw_overhead_percent": 0.0010864999759654138,
+      "pause_breakdown": {
+        "Pause Mark End": {
+          "count": 46,
+          "total_ms": 0.807
+        },
+        "Pause Mark Start": {
+          "count": 23,
+          "total_ms": 1.119
+        },
+        "Pause Relocate Start": {
+          "count": 46,
+          "total_ms": 1.347
+        }
+      },
+      "steady_state_start_s": 300.182442459,
+      "steady_state_end_s": 601.534430282,
+      "steady_state_wall_clock_span_ms": 301351.987823,
+      "iteration_total_duration_ms": 301242.528523,
+      "min_gc_uptime_s_in_steady_state_window": 391.605,
+      "max_gc_uptime_s_in_steady_state_window": 596.577
+    },
+    {
+      "benchmark": "scala-stm-bench7",
+      "environment": "G1GC-Java-21",
+      "processed_gc_log_file_count": 6,
+      "processed_gc_log_files": [
+        "..\\experiment\\G1GC-java21-2026-04-25\\scala-stm-bench7\\scala-stm-bench7.gc.log",
+        "..\\experiment\\G1GC-java21-2026-04-25\\scala-stm-bench7\\scala-stm-bench7.gc.log.0",
+        "..\\experiment\\G1GC-java21-2026-04-25\\scala-stm-bench7\\scala-stm-bench7.gc.log.1",
+        "..\\experiment\\G1GC-java21-2026-04-25\\scala-stm-bench7\\scala-stm-bench7.gc.log.2",
+        "..\\experiment\\G1GC-java21-2026-04-25\\scala-stm-bench7\\scala-stm-bench7.gc.log.3",
+        "..\\experiment\\G1GC-java21-2026-04-25\\scala-stm-bench7\\scala-stm-bench7.gc.log.4"
+      ],
+      "missing_gc_log_files": [],
+      "stw_pause_count": 94,
+      "total_stw_ms": 17841.158,
+      "stw_overhead_percent": 5.9088783154897735,
+      "pause_breakdown": {
+        "Pause Cleanup": {
+          "count": 1,
+          "total_ms": 11.118
+        },
+        "Pause Remark": {
+          "count": 1,
+          "total_ms": 91.567
+        },
+        "Pause Young": {
+          "count": 92,
+          "total_ms": 17738.473
+        }
+      },
+      "steady_state_start_s": 300.124147552,
+      "steady_state_end_s": 602.08003648,
+      "steady_state_wall_clock_span_ms": 301955.888928,
+      "iteration_total_duration_ms": 301938.152174,
+      "min_gc_uptime_s_in_steady_state_window": 495.452,
+      "max_gc_uptime_s_in_steady_state_window": 601.929
+    },
+    {
+      "benchmark": "scala-stm-bench7",
+      "environment": "G1GC-Java-25",
+      "processed_gc_log_file_count": 6,
+      "processed_gc_log_files": [
+        "..\\experiment\\G1GC-java25-2026-04-24\\scala-stm-bench7\\scala-stm-bench7.gc.log",
+        "..\\experiment\\G1GC-java25-2026-04-24\\scala-stm-bench7\\scala-stm-bench7.gc.log.0",
+        "..\\experiment\\G1GC-java25-2026-04-24\\scala-stm-bench7\\scala-stm-bench7.gc.log.1",
+        "..\\experiment\\G1GC-java25-2026-04-24\\scala-stm-bench7\\scala-stm-bench7.gc.log.2",
+        "..\\experiment\\G1GC-java25-2026-04-24\\scala-stm-bench7\\scala-stm-bench7.gc.log.3",
+        "..\\experiment\\G1GC-java25-2026-04-24\\scala-stm-bench7\\scala-stm-bench7.gc.log.4"
+      ],
+      "missing_gc_log_files": [],
+      "stw_pause_count": 87,
+      "total_stw_ms": 15542.042,
+      "stw_overhead_percent": 5.149553391415121,
+      "pause_breakdown": {
+        "Pause Cleanup": {
+          "count": 2,
+          "total_ms": 16.994
+        },
+        "Pause Remark": {
+          "count": 2,
+          "total_ms": 50.429
+        },
+        "Pause Young": {
+          "count": 83,
+          "total_ms": 15474.619
+        }
+      },
+      "steady_state_start_s": 300.608185748,
+      "steady_state_end_s": 602.439629105,
+      "steady_state_wall_clock_span_ms": 301831.443357,
+      "iteration_total_duration_ms": 301813.396593,
+      "min_gc_uptime_s_in_steady_state_window": 515.562,
+      "max_gc_uptime_s_in_steady_state_window": 602.171
+    },
+    {
+      "benchmark": "scala-stm-bench7",
+      "environment": "ZGC-Java-21",
+      "processed_gc_log_file_count": 6,
+      "processed_gc_log_files": [
+        "..\\experiment\\ZGC-java21-2026-04-25\\scala-stm-bench7\\scala-stm-bench7.gc.log",
+        "..\\experiment\\ZGC-java21-2026-04-25\\scala-stm-bench7\\scala-stm-bench7.gc.log.0",
+        "..\\experiment\\ZGC-java21-2026-04-25\\scala-stm-bench7\\scala-stm-bench7.gc.log.1",
+        "..\\experiment\\ZGC-java21-2026-04-25\\scala-stm-bench7\\scala-stm-bench7.gc.log.2",
+        "..\\experiment\\ZGC-java21-2026-04-25\\scala-stm-bench7\\scala-stm-bench7.gc.log.3",
+        "..\\experiment\\ZGC-java21-2026-04-25\\scala-stm-bench7\\scala-stm-bench7.gc.log.4"
+      ],
+      "missing_gc_log_files": [],
+      "stw_pause_count": 39,
+      "total_stw_ms": 1.089,
+      "stw_overhead_percent": 0.00036093761692208376,
+      "pause_breakdown": {
+        "Pause Mark End": {
+          "count": 14,
+          "total_ms": 0.282
+        },
+        "Pause Mark Start": {
+          "count": 11,
+          "total_ms": 0.422
+        },
+        "Pause Relocate Start": {
+          "count": 14,
+          "total_ms": 0.385
+        }
+      },
+      "steady_state_start_s": 301.2425239,
+      "steady_state_end_s": 602.977711297,
+      "steady_state_wall_clock_span_ms": 301735.187397,
+      "iteration_total_duration_ms": 301714.187977,
+      "min_gc_uptime_s_in_steady_state_window": 517.71,
+      "max_gc_uptime_s_in_steady_state_window": 597.697
+    },
+    {
+      "benchmark": "scala-stm-bench7",
+      "environment": "ZGC-Java-25",
+      "processed_gc_log_file_count": 6,
+      "processed_gc_log_files": [
+        "..\\experiment\\ZGC-java25-2026-04-24\\scala-stm-bench7\\scala-stm-bench7.gc.log",
+        "..\\experiment\\ZGC-java25-2026-04-24\\scala-stm-bench7\\scala-stm-bench7.gc.log.0",
+        "..\\experiment\\ZGC-java25-2026-04-24\\scala-stm-bench7\\scala-stm-bench7.gc.log.1",
+        "..\\experiment\\ZGC-java25-2026-04-24\\scala-stm-bench7\\scala-stm-bench7.gc.log.2",
+        "..\\experiment\\ZGC-java25-2026-04-24\\scala-stm-bench7\\scala-stm-bench7.gc.log.3",
+        "..\\experiment\\ZGC-java25-2026-04-24\\scala-stm-bench7\\scala-stm-bench7.gc.log.4"
+      ],
+      "missing_gc_log_files": [],
+      "stw_pause_count": 44,
+      "total_stw_ms": 1.414,
+      "stw_overhead_percent": 0.0004676797379811363,
+      "pause_breakdown": {
+        "Pause Mark End": {
+          "count": 16,
+          "total_ms": 0.343
+        },
+        "Pause Mark Start": {
+          "count": 12,
+          "total_ms": 0.582
+        },
+        "Pause Relocate Start": {
+          "count": 16,
+          "total_ms": 0.489
+        }
+      },
+      "steady_state_start_s": 300.572599417,
+      "steady_state_end_s": 602.936319845,
+      "steady_state_wall_clock_span_ms": 302363.720428,
+      "iteration_total_duration_ms": 302343.652112,
+      "min_gc_uptime_s_in_steady_state_window": 525.347,
+      "max_gc_uptime_s_in_steady_state_window": 602.92
+    },
+    {
+      "benchmark": "scrabble",
+      "environment": "G1GC-Java-21",
+      "processed_gc_log_file_count": 6,
+      "processed_gc_log_files": [
+        "..\\experiment\\G1GC-java21-2026-04-25\\scrabble\\scrabble.gc.log",
+        "..\\experiment\\G1GC-java21-2026-04-25\\scrabble\\scrabble.gc.log.0",
+        "..\\experiment\\G1GC-java21-2026-04-25\\scrabble\\scrabble.gc.log.1",
+        "..\\experiment\\G1GC-java21-2026-04-25\\scrabble\\scrabble.gc.log.2",
+        "..\\experiment\\G1GC-java21-2026-04-25\\scrabble\\scrabble.gc.log.3",
+        "..\\experiment\\G1GC-java21-2026-04-25\\scrabble\\scrabble.gc.log.4"
+      ],
+      "missing_gc_log_files": [],
+      "stw_pause_count": 46,
+      "total_stw_ms": 2336.901,
+      "stw_overhead_percent": 0.7741361662104268,
+      "pause_breakdown": {
+        "Pause Young": {
+          "count": 46,
+          "total_ms": 2336.901
+        }
+      },
+      "steady_state_start_s": 300.002768201,
+      "steady_state_end_s": 601.978785961,
+      "steady_state_wall_clock_span_ms": 301976.01776,
+      "iteration_total_duration_ms": 301872.08685,
+      "min_gc_uptime_s_in_steady_state_window": 528.713,
+      "max_gc_uptime_s_in_steady_state_window": 600.566
+    },
+    {
+      "benchmark": "scrabble",
+      "environment": "G1GC-Java-25",
+      "processed_gc_log_file_count": 6,
+      "processed_gc_log_files": [
+        "..\\experiment\\G1GC-java25-2026-04-24\\scrabble\\scrabble.gc.log",
+        "..\\experiment\\G1GC-java25-2026-04-24\\scrabble\\scrabble.gc.log.0",
+        "..\\experiment\\G1GC-java25-2026-04-24\\scrabble\\scrabble.gc.log.1",
+        "..\\experiment\\G1GC-java25-2026-04-24\\scrabble\\scrabble.gc.log.2",
+        "..\\experiment\\G1GC-java25-2026-04-24\\scrabble\\scrabble.gc.log.3",
+        "..\\experiment\\G1GC-java25-2026-04-24\\scrabble\\scrabble.gc.log.4"
+      ],
+      "missing_gc_log_files": [],
+      "stw_pause_count": 45,
+      "total_stw_ms": 2525.422,
+      "stw_overhead_percent": 0.8365312823319448,
+      "pause_breakdown": {
+        "Pause Young": {
+          "count": 45,
+          "total_ms": 2525.422
+        }
+      },
+      "steady_state_start_s": 300.177421453,
+      "steady_state_end_s": 602.175846369,
+      "steady_state_wall_clock_span_ms": 301998.424916,
+      "iteration_total_duration_ms": 301892.117287,
+      "min_gc_uptime_s_in_steady_state_window": 532.611,
+      "max_gc_uptime_s_in_steady_state_window": 601.975
+    },
+    {
+      "benchmark": "scrabble",
+      "environment": "ZGC-Java-21",
+      "processed_gc_log_file_count": 6,
+      "processed_gc_log_files": [
+        "..\\experiment\\ZGC-java21-2026-04-25\\scrabble\\scrabble.gc.log",
+        "..\\experiment\\ZGC-java21-2026-04-25\\scrabble\\scrabble.gc.log.0",
+        "..\\experiment\\ZGC-java21-2026-04-25\\scrabble\\scrabble.gc.log.1",
+        "..\\experiment\\ZGC-java21-2026-04-25\\scrabble\\scrabble.gc.log.2",
+        "..\\experiment\\ZGC-java21-2026-04-25\\scrabble\\scrabble.gc.log.3",
+        "..\\experiment\\ZGC-java21-2026-04-25\\scrabble\\scrabble.gc.log.4"
+      ],
+      "missing_gc_log_files": [],
+      "stw_pause_count": 18,
+      "total_stw_ms": 0.51,
+      "stw_overhead_percent": 0.00016885317535793223,
+      "pause_breakdown": {
+        "Pause Mark End": {
+          "count": 6,
+          "total_ms": 0.119
+        },
+        "Pause Mark Start": {
+          "count": 6,
+          "total_ms": 0.26
+        },
+        "Pause Relocate Start": {
+          "count": 6,
+          "total_ms": 0.131
+        }
+      },
+      "steady_state_start_s": 300.218853983,
+      "steady_state_end_s": 602.40924014,
+      "steady_state_wall_clock_span_ms": 302190.386157,
+      "iteration_total_duration_ms": 302037.553584,
+      "min_gc_uptime_s_in_steady_state_window": 596.339,
+      "max_gc_uptime_s_in_steady_state_window": 602.081
+    },
+    {
+      "benchmark": "scrabble",
+      "environment": "ZGC-Java-25",
+      "processed_gc_log_file_count": 6,
+      "processed_gc_log_files": [
+        "..\\experiment\\ZGC-java25-2026-04-24\\scrabble\\scrabble.gc.log",
+        "..\\experiment\\ZGC-java25-2026-04-24\\scrabble\\scrabble.gc.log.0",
+        "..\\experiment\\ZGC-java25-2026-04-24\\scrabble\\scrabble.gc.log.1",
+        "..\\experiment\\ZGC-java25-2026-04-24\\scrabble\\scrabble.gc.log.2",
+        "..\\experiment\\ZGC-java25-2026-04-24\\scrabble\\scrabble.gc.log.3",
+        "..\\experiment\\ZGC-java25-2026-04-24\\scrabble\\scrabble.gc.log.4"
+      ],
+      "missing_gc_log_files": [],
+      "stw_pause_count": 24,
+      "total_stw_ms": 0.811,
+      "stw_overhead_percent": 0.00026828734298536973,
+      "pause_breakdown": {
+        "Pause Mark End": {
+          "count": 8,
+          "total_ms": 0.18
+        },
+        "Pause Mark Start": {
+          "count": 8,
+          "total_ms": 0.435
+        },
+        "Pause Relocate Start": {
+          "count": 8,
+          "total_ms": 0.196
+        }
+      },
+      "steady_state_start_s": 300.146104701,
+      "steady_state_end_s": 602.572242847,
+      "steady_state_wall_clock_span_ms": 302426.138146,
+      "iteration_total_duration_ms": 302287.834743,
+      "min_gc_uptime_s_in_steady_state_window": 595.084,
+      "max_gc_uptime_s_in_steady_state_window": 602.532
+    }
+  ],
+  "validation": {
+    "environment_count": 4,
+    "benchmark_count": 25,
+    "expected_benchmark_environment_rows": 100,
+    "throughput_rows_written": 100,
+    "stw_rows_written": 100,
+    "processed_gc_log_files": 583,
+    "missing_gc_log_groups": 0,
+    "rows_with_missing_rotated_gc_files": 4,
+    "total_strict_stw_pause_events_in_iteration_window": 2798,
+    "total_stw_ms_in_iteration_window": 142213.943,
+    "errors": []
+  }
+}
