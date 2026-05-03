@@ -6,18 +6,37 @@ import numpy as np
 # Input
 # ============================================================
 
-INPUT_FILE = "stw_pause_summary_after_warmup.csv"
+THROUGHPUT_INPUT_FILE = "throughput_summary_after_warmup.csv"
+STW_INPUT_FILE = "stw_pause_summary_after_warmup.csv"
 
-df = pd.read_csv(INPUT_FILE, sep=";")
+throughput_df = pd.read_csv(THROUGHPUT_INPUT_FILE, sep=";")
+stw_df = pd.read_csv(STW_INPUT_FILE, sep=";")
 
-# Keep only the columns required for this analysis
-df = df[[
+throughput_df.columns = throughput_df.columns.str.strip()
+stw_df.columns = stw_df.columns.str.strip()
+
+# Keep only the throughput columns required for this analysis
+throughput_df = throughput_df[[
     "benchmark",
     "environment",
-    "total_duration_ms",
+    "total_duration_ms"
+]].copy()
+
+# Keep only the STW columns required for this analysis
+stw_df = stw_df[[
+    "benchmark",
+    "environment",
     "total_stw_ms",
     "stw_overhead_percent"
 ]].copy()
+
+# Combine throughput and STW data by benchmark and environment
+df = pd.merge(
+    throughput_df,
+    stw_df,
+    on=["benchmark", "environment"],
+    how="inner"
+)
 
 
 # ============================================================
@@ -127,17 +146,19 @@ bar_height = 0.38
 fig, ax = plt.subplots(figsize=(11, 10))
 
 ax.barh(
-    y - bar_height / 2,
-    g1["duration_change_percent_java25_vs_java21"],
-    height=bar_height,
-    label="G1GC"
-)
-
-ax.barh(
     y + bar_height / 2,
     zgc["duration_change_percent_java25_vs_java21"],
     height=bar_height,
-    label="ZGC"
+    label="ZGC",
+    color="tab:orange"
+)
+
+ax.barh(
+    y - bar_height / 2,
+    g1["duration_change_percent_java25_vs_java21"],
+    height=bar_height,
+    label="G1GC",
+    color="tab:blue"
 )
 
 # Add a vertical reference line at 0%.
@@ -146,7 +167,7 @@ ax.axvline(0, linewidth=1.2)
 ax.set_yticks(y)
 ax.set_yticklabels(order)
 
-ax.set_xlabel("Change in throughput from Java 21 to Java 25 [%]")
+ax.set_xlabel("Änderung des Durchsatzes von Java 21 zu Java 25 [%]")
 ax.set_ylabel("Benchmark")
 
 ax.legend(title="Garbage Collector")
@@ -215,7 +236,7 @@ ax.axvline(0, linewidth=1.2)
 ax.set_yticks(y)
 ax.set_yticklabels(order_stw)
 
-ax.set_xlabel("Change in G1GC-STW overhead from Java 21 to Java 25 [%]")
+ax.set_xlabel("Änderung des Durchsatzes von Java 21 zu Java 25 [%]")
 ax.set_ylabel("Benchmark")
 
 ax.legend(title="Garbage Collector")

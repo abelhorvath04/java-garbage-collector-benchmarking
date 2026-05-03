@@ -29,22 +29,22 @@ def plot_collector(collector: str):
     pivot = pivot.sort_index()
 
     benchmarks = pivot.index.tolist()
-    x = np.arange(len(benchmarks))
+    y = np.arange(len(benchmarks))
     width = 0.38
 
-    fig, ax = plt.subplots(figsize=(16, 6))
+    fig, ax = plt.subplots(figsize=(8, 12))
 
-    ax.bar(x - width / 2, pivot.get("Java 21", 0), width, label="Java 21", color="#8ecae6")
-    ax.bar(x + width / 2, pivot.get("Java 25", 0), width, label="Java 25", color="#ffb703")
+    ax.barh(y + width / 2, pivot.get("Java 25", 0), width, label="Java 25", color="#ffb703")
+    ax.barh(y - width / 2, pivot.get("Java 21", 0), width, label="Java 21", color="#8ecae6")
+    
+    ax.set_yticks(y)
+    ax.set_yticklabels(benchmarks, fontsize=8)
 
-    ax.set_xticks(x)
-    ax.set_xticklabels(benchmarks, rotation=90, fontsize=8)
-
-    ax.set_ylabel("STW overhead [%]")
+    ax.set_xlabel("STW overhead [%]")
     ax.set_title(f"{collector} STW overhead")
     ax.legend(frameon=False)
 
-    ax.grid(axis="y", linestyle=":", linewidth=0.6)
+    ax.grid(axis="x", linestyle=":", linewidth=0.6)
     ax.spines["top"].set_visible(False)
     ax.spines["right"].set_visible(False)
 

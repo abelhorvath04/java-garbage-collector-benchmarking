@@ -10,11 +10,11 @@ INPUT_FILE = "stw_pause_summary_after_warmup.csv"
 
 df = pd.read_csv(INPUT_FILE, sep=";")
 
-# Keep only the columns required for this analysis
 df = df[[
     "benchmark",
     "environment",
-    "stw_pause_count"
+    "stw_pause_count",
+    "stw_overhead_percent"
 ]].copy()
 
 
@@ -30,7 +30,6 @@ df = df[[
 df["gc"] = df["environment"].str.extract(r"^(G1GC|ZGC)")
 df["java_version"] = df["environment"].str.extract(r"Java-(21|25)$")
 
-# Keep only the relevant combinations
 df = df[
     df["gc"].isin(["G1GC", "ZGC"]) &
     df["java_version"].isin(["21", "25"])
@@ -43,6 +42,13 @@ df["configuration"] = df["gc"] + " Java " + df["java_version"]
 # Pivot data for plotting
 # ============================================================
 
+columns = [
+    "G1GC Java 21",
+    "G1GC Java 25",
+    "ZGC Java 21",
+    "ZGC Java 25"
+]
+
 pause_df = (
     df
     .pivot_table(
@@ -51,17 +57,19 @@ pause_df = (
         values="stw_pause_count",
         aggfunc="first"
     )
+    .reindex(columns=columns)
 )
 
-# Fixed column order for readability
-columns = [
-    "G1GC Java 21",
-    "G1GC Java 25",
-    "ZGC Java 21",
-    "ZGC Java 25"
-]
-
-pause_df = pause_df.reindex(columns=columns)
+overhead_df = (
+    df
+    .pivot_table(
+        index="benchmark",
+        columns="configuration",
+        values="stw_overhead_percent",
+        aggfunc="first"
+    )
+    .reindex(columns=columns)
+)
 
 
 # ============================================================
@@ -78,19 +86,22 @@ order = (
 )
 
 pause_df = pause_df.reindex(order)
+overhead_df = overhead_df.reindex(order)
 
 
 # ============================================================
 # Plot: STW pause count comparison
 # ============================================================
 
-y = np.arange(len(order))
-bar_height = 0.20
+group_spacing = 1.45
+y = np.arange(len(order)) * group_spacing
 
-fig, ax = plt.subplots(figsize=(12, 10))
+bar_height = 0.24
+
+fig, ax = plt.subplots(figsize=(13, 16))
 
 ax.barh(
-    y - 1.5 * bar_height,
+    y - 1.8 * bar_height,
     pause_df["G1GC Java 21"],
     height=bar_height,
     label="G1GC Java 21",
@@ -98,7 +109,7 @@ ax.barh(
 )
 
 ax.barh(
-    y - 0.5 * bar_height,
+    y - 0.6 * bar_height,
     pause_df["G1GC Java 25"],
     height=bar_height,
     label="G1GC Java 25",
@@ -106,7 +117,7 @@ ax.barh(
 )
 
 ax.barh(
-    y + 0.5 * bar_height,
+    y + 0.6 * bar_height,
     pause_df["ZGC Java 21"],
     height=bar_height,
     label="ZGC Java 21",
@@ -115,7 +126,7 @@ ax.barh(
 )
 
 ax.barh(
-    y + 1.5 * bar_height,
+    y + 1.8 * bar_height,
     pause_df["ZGC Java 25"],
     height=bar_height,
     label="ZGC Java 25",
@@ -125,33 +136,42 @@ ax.barh(
 
 
 # ============================================================
-# Add labels to bars
+# Add overhead labels to bars
+# The bar length still shows STW pause count.
+# The label shows STW overhead in percent.
 # ============================================================
 
 for i, benchmark in enumerate(order):
-    values = [
+    pause_values = [
         pause_df.loc[benchmark, "G1GC Java 21"],
         pause_df.loc[benchmark, "G1GC Java 25"],
         pause_df.loc[benchmark, "ZGC Java 21"],
         pause_df.loc[benchmark, "ZGC Java 25"]
     ]
 
-    positions = [
-        y[i] - 1.5 * bar_height,
-        y[i] - 0.5 * bar_height,
-        y[i] + 0.5 * bar_height,
-        y[i] + 1.5 * bar_height
+    overhead_values = [
+        overhead_df.loc[benchmark, "G1GC Java 21"],
+        overhead_df.loc[benchmark, "G1GC Java 25"],
+        overhead_df.loc[benchmark, "ZGC Java 21"],
+        overhead_df.loc[benchmark, "ZGC Java 25"]
     ]
 
-    for value, ypos in zip(values, positions):
-        if pd.notna(value):
+    positions = [
+        y[i] - 1.8 * bar_height,
+        y[i] - 0.6 * bar_height,
+        y[i] + 0.6 * bar_height,
+        y[i] + 1.8 * bar_height
+    ]
+
+    for pause_value, overhead_value, ypos in zip(pause_values, overhead_values, positions):
+        if pd.notna(pause_value) and pd.notna(overhead_value):
             ax.text(
-                value,
+                pause_value,
                 ypos,
-                f"  {int(value)}",
+                f"  n = {overhead_value:.6f} %",
                 va="center",
                 ha="left",
-                fontsize=8
+                fontsize=9
             )
 
 
@@ -162,16 +182,17 @@ for i, benchmark in enumerate(order):
 ax.set_yticks(y)
 ax.set_yticklabels(order)
 
-ax.set_xlabel("Number of STW pause events")
+ax.set_xlabel("Anzahl der STW-Ereignisse")
 ax.set_ylabel("Benchmark")
-ax.set_title("STW pause count comparison: G1GC vs ZGC, Java 21 vs Java 25")
 
-ax.legend(title="Configuration")
+ax.legend(title="Konfiguration")
 ax.grid(axis="x", linestyle="--", linewidth=0.6, alpha=0.6)
 
 max_x = pause_df.max().max()
-padding = max(max_x * 0.15, 1)
+padding = max(max_x * 0.35, 15)
 ax.set_xlim(0, max_x + padding)
+
+ax.invert_yaxis()
 
 plt.tight_layout()
 
@@ -180,14 +201,19 @@ plt.tight_layout()
 # Save outputs
 # ============================================================
 
-plt.savefig("stw_pause_count_g1gc_zgc_java21_java25.png", dpi=300, bbox_inches="tight")
-
-# ============================================================
-# Export processed data
-# ============================================================
+plt.savefig(
+    "stw_pause_count_g1gc_zgc_java21_java25.png",
+    dpi=300,
+    bbox_inches="tight"
+)
 
 pause_df.to_csv(
     "stw_pause_count_g1gc_zgc_java21_java25_for_plot.csv",
+    sep=";"
+)
+
+overhead_df.to_csv(
+    "stw_overhead_g1gc_zgc_java21_java25_for_plot.csv",
     sep=";"
 )
 
@@ -203,9 +229,22 @@ print(
     .round(2)
 )
 
+print("\nAverage STW overhead by configuration:")
+print(
+    overhead_df
+    .mean()
+    .round(6)
+)
+
 print("\nDetailed STW pause count comparison:")
 print(
     pause_df
     .round(0)
     .astype("Int64")
+)
+
+print("\nDetailed STW overhead comparison:")
+print(
+    overhead_df
+    .round(6)
 )
